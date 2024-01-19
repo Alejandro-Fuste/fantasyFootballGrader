@@ -1,0 +1,14 @@
+{
+  "name": "fantasyfootballgrader",
+  "version": "1.0.0",
+  "description": "Get fantasy football player data and create grades",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alejandro Fuste",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
