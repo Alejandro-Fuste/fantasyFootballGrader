@@ -1,6 +1,6 @@
 const percentage = require("../../utils/calculations/percentage");
 
-describe("percentile file tests", () => {
+describe("percentage file tests", () => {
   // ***** negative tests *****
   test("function returns false non number input", () => {
     expect(percentage(10, undefined)).toBe(
