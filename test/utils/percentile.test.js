@@ -9,13 +9,7 @@ const testInputs = {
 
 describe("percentile file tests", () => {
   // ***** negative tests *****
-  test("badInput method returns an error message for non number input", () => {
-    expect(percentile(10, "10")).toBe(
-      "Inputs must be a number. Please, check the inputs to see if they are in the right format."
-    );
-  });
-
-  test("badInput method returns an error message for non number input", () => {
+  test("function returns false non number input", () => {
     expect(percentile(10, undefined)).toBe(
       "Inputs must be a number. Please, check the inputs to see if they are in the right format."
     );

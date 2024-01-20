@@ -1,16 +1,9 @@
-function isANumber(input1, input2) {
-  if (typeof input1 !== "number" || typeof input2 !== "number") {
-    return false;
-  } else {
-    return true;
-  }
-}
+const isANumber = require("./isANumber");
 
 function percentile(total, rank) {
   let percentile;
 
   if (isANumber(total, rank)) {
-    console.log(isANumber(total, rank));
     percentile = ((total - rank) / total) * 100;
     return Math.round(percentile);
   } else {
