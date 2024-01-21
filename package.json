@@ -4,7 +4,8 @@
   "description": "Get fantasy football player data and create grades",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "cyo": "cypress open"
   },
   "author": "Alejandro Fuste",
   "license": "ISC",
