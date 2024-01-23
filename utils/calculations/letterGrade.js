@@ -11,7 +11,7 @@ function letterGrade(value) {
     return { letter: "C", description: "Average" };
   } else if (value >= 60 && value <= 69.99) {
     return { letter: "D", description: "Below Average" };
-  } else if (value > 1 && value <= 59.99) {
+  } else if (value <= 59.99) {
     return { letter: "F", description: "Not Good Enough" };
   } else {
     return {
