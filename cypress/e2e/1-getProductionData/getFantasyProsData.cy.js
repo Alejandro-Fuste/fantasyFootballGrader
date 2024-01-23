@@ -219,14 +219,11 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
     });
   });
 
-  //   it("write data to JSON file", () => {
-  //     let results = Object.fromEntries(resultsMap);
-  //     let jsonString = JSON.stringify(results, null, " ");
-  //     console.log(jsonString);
+  it("write data to JSON file", () => {
+    let results = Object.fromEntries(resultsMap);
+    let jsonString = JSON.stringify(results, null, " ");
+    console.log(jsonString);
 
-  //     cy.writeFile(
-  //       "./data/2023/stats/fantasyPros/pprPoints2022.json",
-  //       jsonString
-  //     );
-  //   });
+    cy.writeFile("./data/production/productionData.json", jsonString);
+  });
 });
