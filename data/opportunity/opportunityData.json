@@ -1,0 +1,8430 @@
+{
+ "Sam Howell": {
+  "name": "Sam Howell",
+  "opportunity": {
+   "snapPercentage": 100,
+   "completions": 388,
+   "attempts": 612,
+   "attemptsRank": 1,
+   "attemptsPercentile": 99,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "rushingAttempts": 21
+  }
+ },
+ "Jared Goff": {
+  "name": "Jared Goff",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 407,
+   "attempts": 605,
+   "attemptsRank": 2,
+   "attemptsPercentile": 97,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "rushingAttempts": 12
+  }
+ },
+ "Patrick Mahomes II": {
+  "name": "Patrick Mahomes II",
+  "opportunity": {
+   "snapPercentage": 98,
+   "completions": 401,
+   "attempts": 597,
+   "attemptsRank": 3,
+   "attemptsPercentile": 96,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "rushingAttempts": 14
+  }
+ },
+ "Dak Prescott": {
+  "name": "Dak Prescott",
+  "opportunity": {
+   "snapPercentage": 100,
+   "completions": 410,
+   "attempts": 590,
+   "attemptsRank": 4,
+   "attemptsPercentile": 95,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Josh Allen": {
+  "name": "Josh Allen",
+  "opportunity": {
+   "snapPercentage": 104,
+   "completions": 385,
+   "attempts": 579,
+   "attemptsRank": 5,
+   "attemptsPercentile": 93,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "rushingAttempts": 18
+  }
+ },
+ "Jordan Love": {
+  "name": "Jordan Love",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 372,
+   "attempts": 579,
+   "attemptsRank": 6,
+   "attemptsPercentile": 92,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "rushingAttempts": 11
+  }
+ },
+ "Baker Mayfield": {
+  "name": "Baker Mayfield",
+  "opportunity": {
+   "snapPercentage": 106,
+   "completions": 364,
+   "attempts": 566,
+   "attemptsRank": 7,
+   "attemptsPercentile": 91,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "rushingAttempts": 10
+  }
+ },
+ "Trevor Lawrence": {
+  "name": "Trevor Lawrence",
+  "opportunity": {
+   "snapPercentage": 101,
+   "completions": 370,
+   "attempts": 564,
+   "attemptsRank": 8,
+   "attemptsPercentile": 89,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "rushingAttempts": 14
+  }
+ },
+ "Tua Tagovailoa": {
+  "name": "Tua Tagovailoa",
+  "opportunity": {
+   "snapPercentage": 100,
+   "completions": 388,
+   "attempts": 560,
+   "attemptsRank": 9,
+   "attemptsPercentile": 88,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "rushingAttempts": 14
+  }
+ },
+ "Derek Carr": {
+  "name": "Derek Carr",
+  "opportunity": {
+   "snapPercentage": 90,
+   "completions": 375,
+   "attempts": 548,
+   "attemptsRank": 10,
+   "attemptsPercentile": 87,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "rushingAttempts": 8
+  }
+ },
+ "Jalen Hurts": {
+  "name": "Jalen Hurts",
+  "opportunity": {
+   "snapPercentage": 102,
+   "completions": 352,
+   "attempts": 538,
+   "attemptsRank": 11,
+   "attemptsPercentile": 86,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "rushingAttempts": 15
+  }
+ },
+ "Bryce Young": {
+  "name": "Bryce Young",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 315,
+   "attempts": 527,
+   "attemptsRank": 12,
+   "attemptsPercentile": 84,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "rushingAttempts": 10
+  }
+ },
+ "Matthew Stafford": {
+  "name": "Matthew Stafford",
+  "opportunity": {
+   "snapPercentage": 98,
+   "completions": 326,
+   "attempts": 521,
+   "attemptsRank": 13,
+   "attemptsPercentile": 83,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "rushingAttempts": 11
+  }
+ },
+ "C.J. Stroud": {
+  "name": "C.J. Stroud",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 319,
+   "attempts": 499,
+   "attemptsRank": 14,
+   "attemptsPercentile": 82,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "rushingAttempts": 5
+  }
+ },
+ "Geno Smith": {
+  "name": "Geno Smith",
+  "opportunity": {
+   "snapPercentage": 103,
+   "completions": 323,
+   "attempts": 499,
+   "attemptsRank": 15,
+   "attemptsPercentile": 80,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Gardner Minshew II": {
+  "name": "Gardner Minshew II",
+  "opportunity": {
+   "snapPercentage": 95,
+   "completions": 305,
+   "attempts": 490,
+   "attemptsRank": 16,
+   "attemptsPercentile": 79,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Lamar Jackson": {
+  "name": "Lamar Jackson",
+  "opportunity": {
+   "snapPercentage": 97,
+   "completions": 307,
+   "attempts": 457,
+   "attemptsRank": 17,
+   "attemptsPercentile": 78,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Justin Herbert": {
+  "name": "Justin Herbert",
+  "opportunity": {
+   "snapPercentage": 96,
+   "completions": 297,
+   "attempts": 456,
+   "attemptsRank": 18,
+   "attemptsPercentile": 76,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Russell Wilson": {
+  "name": "Russell Wilson",
+  "opportunity": {
+   "snapPercentage": 100,
+   "completions": 297,
+   "attempts": 447,
+   "attemptsRank": 19,
+   "attemptsPercentile": 75,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 8
+  }
+ },
+ "Brock Purdy": {
+  "name": "Brock Purdy",
+  "opportunity": {
+   "snapPercentage": 93,
+   "completions": 308,
+   "attempts": 444,
+   "attemptsRank": 20,
+   "attemptsPercentile": 74,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 11
+  }
+ },
+ "Joshua Dobbs": {
+  "name": "Joshua Dobbs",
+  "opportunity": {
+   "snapPercentage": 97,
+   "completions": 262,
+   "attempts": 417,
+   "attemptsRank": 21,
+   "attemptsPercentile": 72,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 10
+  }
+ },
+ "Desmond Ridder": {
+  "name": "Desmond Ridder",
+  "opportunity": {
+   "snapPercentage": 91,
+   "completions": 249,
+   "attempts": 388,
+   "attemptsRank": 22,
+   "attemptsPercentile": 71,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 12
+  }
+ },
+ "Justin Fields": {
+  "name": "Justin Fields",
+  "opportunity": {
+   "snapPercentage": 102,
+   "completions": 227,
+   "attempts": 370,
+   "attemptsRank": 23,
+   "attemptsPercentile": 70,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Zach Wilson": {
+  "name": "Zach Wilson",
+  "opportunity": {
+   "snapPercentage": 92,
+   "completions": 221,
+   "attempts": 368,
+   "attemptsRank": 24,
+   "attemptsPercentile": 68,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Joe Burrow": {
+  "name": "Joe Burrow",
+  "opportunity": {
+   "snapPercentage": 94,
+   "completions": 244,
+   "attempts": 365,
+   "attemptsRank": 25,
+   "attemptsPercentile": 67,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 6
+  }
+ },
+ "Mac Jones": {
+  "name": "Mac Jones",
+  "opportunity": {
+   "snapPercentage": 90,
+   "completions": 224,
+   "attempts": 345,
+   "attemptsRank": 26,
+   "attemptsPercentile": 66,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 12
+  }
+ },
+ "Aidan O'Connell": {
+  "name": "Aidan O'Connell",
+  "opportunity": {
+   "snapPercentage": 102,
+   "completions": 213,
+   "attempts": 343,
+   "attemptsRank": 27,
+   "attemptsPercentile": 64,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Kenny Pickett": {
+  "name": "Kenny Pickett",
+  "opportunity": {
+   "snapPercentage": 89,
+   "completions": 201,
+   "attempts": 324,
+   "attemptsRank": 28,
+   "attemptsPercentile": 63,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Kirk Cousins": {
+  "name": "Kirk Cousins",
+  "opportunity": {
+   "snapPercentage": 98,
+   "completions": 216,
+   "attempts": 311,
+   "attemptsRank": 29,
+   "attemptsPercentile": 62,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 5
+  }
+ },
+ "Kyler Murray": {
+  "name": "Kyler Murray",
+  "opportunity": {
+   "snapPercentage": 113,
+   "completions": 176,
+   "attempts": 268,
+   "attemptsRank": 30,
+   "attemptsPercentile": 61,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "rushingAttempts": 5
+  }
+ },
+ "Will Levis": {
+  "name": "Will Levis",
+  "opportunity": {
+   "snapPercentage": 92,
+   "completions": 149,
+   "attempts": 255,
+   "attemptsRank": 31,
+   "attemptsPercentile": 59,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Jake Browning": {
+  "name": "Jake Browning",
+  "opportunity": {
+   "snapPercentage": 94,
+   "completions": 171,
+   "attempts": 243,
+   "attemptsRank": 32,
+   "attemptsPercentile": 58,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Ryan Tannehill": {
+  "name": "Ryan Tannehill",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 149,
+   "attempts": 230,
+   "attemptsRank": 33,
+   "attemptsPercentile": 57,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 7
+  }
+ },
+ "Bailey Zappe": {
+  "name": "Bailey Zappe",
+  "opportunity": {
+   "snapPercentage": 78,
+   "completions": 127,
+   "attempts": 212,
+   "attemptsRank": 34,
+   "attemptsPercentile": 55,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Joe Flacco": {
+  "name": "Joe Flacco",
+  "opportunity": {
+   "snapPercentage": 97,
+   "completions": 123,
+   "attempts": 204,
+   "attemptsRank": 35,
+   "attemptsPercentile": 54,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 8
+  }
+ },
+ "Tyrod Taylor": {
+  "name": "Tyrod Taylor",
+  "opportunity": {
+   "snapPercentage": 54,
+   "completions": 116,
+   "attempts": 180,
+   "attemptsRank": 36,
+   "attemptsPercentile": 53,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Tommy DeVito": {
+  "name": "Tommy DeVito",
+  "opportunity": {
+   "snapPercentage": 84,
+   "completions": 114,
+   "attempts": 178,
+   "attemptsRank": 37,
+   "attemptsPercentile": 51,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Easton Stick": {
+  "name": "Easton Stick",
+  "opportunity": {
+   "snapPercentage": 119,
+   "completions": 111,
+   "attempts": 174,
+   "attemptsRank": 38,
+   "attemptsPercentile": 50,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Deshaun Watson": {
+  "name": "Deshaun Watson",
+  "opportunity": {
+   "snapPercentage": 84,
+   "completions": 105,
+   "attempts": 171,
+   "attemptsRank": 39,
+   "attemptsPercentile": 49,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Jimmy Garoppolo": {
+  "name": "Jimmy Garoppolo",
+  "opportunity": {
+   "snapPercentage": 93,
+   "completions": 110,
+   "attempts": 169,
+   "attemptsRank": 40,
+   "attemptsPercentile": 47,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 9
+  }
+ },
+ "Daniel Jones": {
+  "name": "Daniel Jones",
+  "opportunity": {
+   "snapPercentage": 82,
+   "completions": 108,
+   "attempts": 160,
+   "attemptsRank": 41,
+   "attemptsPercentile": 46,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 6
+  }
+ },
+ "Trevor Siemian": {
+  "name": "Trevor Siemian",
+  "opportunity": {
+   "snapPercentage": 99,
+   "completions": 86,
+   "attempts": 153,
+   "attemptsRank": 42,
+   "attemptsPercentile": 45,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Nick Mullens": {
+  "name": "Nick Mullens",
+  "opportunity": {
+   "snapPercentage": 98,
+   "completions": 100,
+   "attempts": 148,
+   "attemptsRank": 43,
+   "attemptsPercentile": 43,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 8
+  }
+ },
+ "Tyson Bagent": {
+  "name": "Tyson Bagent",
+  "opportunity": {
+   "snapPercentage": 89,
+   "completions": 94,
+   "attempts": 143,
+   "attemptsRank": 44,
+   "attemptsPercentile": 42,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 6
+  }
+ },
+ "Taylor Heinicke": {
+  "name": "Taylor Heinicke",
+  "opportunity": {
+   "snapPercentage": 82,
+   "completions": 74,
+   "attempts": 136,
+   "attemptsRank": 45,
+   "attemptsPercentile": 41,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Dorian Thompson-Robinson": {
+  "name": "Dorian Thompson-Robinson",
+  "opportunity": {
+   "snapPercentage": 36,
+   "completions": 60,
+   "attempts": 112,
+   "attemptsRank": 46,
+   "attemptsPercentile": 39,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "P.J. Walker": {
+  "name": "P.J. Walker",
+  "opportunity": {
+   "snapPercentage": 54,
+   "completions": 54,
+   "attempts": 111,
+   "attemptsRank": 47,
+   "attemptsPercentile": 38,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 5
+  }
+ },
+ "Mitch Trubisky": {
+  "name": "Mitch Trubisky",
+  "opportunity": {
+   "snapPercentage": 64,
+   "completions": 67,
+   "attempts": 107,
+   "attemptsRank": 48,
+   "attemptsPercentile": 37,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 5
+  }
+ },
+ "Anthony Richardson": {
+  "name": "Anthony Richardson",
+  "opportunity": {
+   "snapPercentage": 67,
+   "completions": 50,
+   "attempts": 84,
+   "attemptsRank": 49,
+   "attemptsPercentile": 36,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Tim Boyle": {
+  "name": "Tim Boyle",
+  "opportunity": {
+   "snapPercentage": 67,
+   "completions": 48,
+   "attempts": 77,
+   "attemptsRank": 50,
+   "attemptsPercentile": 34,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 4
+  }
+ },
+ "Drew Lock": {
+  "name": "Drew Lock",
+  "opportunity": {
+   "snapPercentage": 60,
+   "completions": 48,
+   "attempts": 76,
+   "attemptsRank": 51,
+   "attemptsPercentile": 33,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Mason Rudolph": {
+  "name": "Mason Rudolph",
+  "opportunity": {
+   "snapPercentage": 105,
+   "completions": 55,
+   "attempts": 74,
+   "attemptsRank": 52,
+   "attemptsPercentile": 32,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Jarrett Stidham": {
+  "name": "Jarrett Stidham",
+  "opportunity": {
+   "snapPercentage": 101,
+   "completions": 40,
+   "attempts": 66,
+   "attemptsRank": 53,
+   "attemptsPercentile": 30,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Andy Dalton": {
+  "name": "Andy Dalton",
+  "opportunity": {
+   "snapPercentage": 39,
+   "completions": 34,
+   "attempts": 58,
+   "attemptsRank": 54,
+   "attemptsPercentile": 29,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "C.J. Beathard": {
+  "name": "C.J. Beathard",
+  "opportunity": {
+   "snapPercentage": 24,
+   "completions": 40,
+   "attempts": 53,
+   "attemptsRank": 55,
+   "attemptsPercentile": 28,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Case Keenum": {
+  "name": "Case Keenum",
+  "opportunity": {
+   "snapPercentage": 74,
+   "completions": 34,
+   "attempts": 53,
+   "attemptsRank": 56,
+   "attemptsPercentile": 26,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Jameis Winston": {
+  "name": "Jameis Winston",
+  "opportunity": {
+   "snapPercentage": 20,
+   "completions": 25,
+   "attempts": 47,
+   "attemptsRank": 57,
+   "attemptsPercentile": 25,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Sam Darnold": {
+  "name": "Sam Darnold",
+  "opportunity": {
+   "snapPercentage": 22,
+   "completions": 28,
+   "attempts": 46,
+   "attemptsRank": 58,
+   "attemptsPercentile": 24,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Brian Hoyer": {
+  "name": "Brian Hoyer",
+  "opportunity": {
+   "snapPercentage": 41,
+   "completions": 23,
+   "attempts": 42,
+   "attemptsRank": 59,
+   "attemptsPercentile": 22,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 2
+  }
+ },
+ "Davis Mills": {
+  "name": "Davis Mills",
+  "opportunity": {
+   "snapPercentage": 13,
+   "completions": 18,
+   "attempts": 39,
+   "attemptsRank": 60,
+   "attemptsPercentile": 21,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Brett Rypien": {
+  "name": "Brett Rypien",
+  "opportunity": {
+   "snapPercentage": 65,
+   "completions": 18,
+   "attempts": 38,
+   "attemptsRank": 61,
+   "attemptsPercentile": 20,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Tyler Huntley": {
+  "name": "Tyler Huntley",
+  "opportunity": {
+   "snapPercentage": 34,
+   "completions": 21,
+   "attempts": 37,
+   "attemptsRank": 62,
+   "attemptsPercentile": 18,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Blaine Gabbert": {
+  "name": "Blaine Gabbert",
+  "opportunity": {
+   "snapPercentage": 103,
+   "completions": 18,
+   "attempts": 35,
+   "attemptsRank": 63,
+   "attemptsPercentile": 17,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 3
+  }
+ },
+ "Jeff Driskel": {
+  "name": "Jeff Driskel",
+  "opportunity": {
+   "snapPercentage": null,
+   "completions": 13,
+   "attempts": 26,
+   "attemptsRank": 64,
+   "attemptsPercentile": 16,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 2
+  }
+ },
+ "Carson Wentz": {
+  "name": "Carson Wentz",
+  "opportunity": {
+   "snapPercentage": 104,
+   "completions": 17,
+   "attempts": 24,
+   "attemptsRank": 65,
+   "attemptsPercentile": 14,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Cooper Rush": {
+  "name": "Cooper Rush",
+  "opportunity": {
+   "snapPercentage": 18,
+   "completions": 18,
+   "attempts": 24,
+   "attemptsRank": 66,
+   "attemptsPercentile": 13,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Jacoby Brissett": {
+  "name": "Jacoby Brissett",
+  "opportunity": {
+   "snapPercentage": 26,
+   "completions": 18,
+   "attempts": 23,
+   "attemptsRank": 67,
+   "attemptsPercentile": 12,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Marcus Mariota": {
+  "name": "Marcus Mariota",
+  "opportunity": {
+   "snapPercentage": 35,
+   "completions": 15,
+   "attempts": 23,
+   "attemptsRank": 68,
+   "attemptsPercentile": 11,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Clayton Tune": {
+  "name": "Clayton Tune",
+  "opportunity": {
+   "snapPercentage": 18,
+   "completions": 12,
+   "attempts": 21,
+   "attemptsRank": 69,
+   "attemptsPercentile": 9,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 2
+  }
+ },
+ "Jaren Hall": {
+  "name": "Jaren Hall",
+  "opportunity": {
+   "snapPercentage": 23,
+   "completions": 13,
+   "attempts": 20,
+   "attemptsRank": 70,
+   "attemptsPercentile": 8,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Mike White": {
+  "name": "Mike White",
+  "opportunity": {
+   "snapPercentage": 13,
+   "completions": 5,
+   "attempts": 6,
+   "attemptsRank": 71,
+   "attemptsPercentile": 7,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Malik Willis": {
+  "name": "Malik Willis",
+  "opportunity": {
+   "snapPercentage": 13,
+   "completions": 4,
+   "attempts": 5,
+   "attemptsRank": 72,
+   "attemptsPercentile": 5,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "AJ McCarron": {
+  "name": "AJ McCarron",
+  "opportunity": {
+   "snapPercentage": 28,
+   "completions": 4,
+   "attempts": 5,
+   "attemptsRank": 73,
+   "attemptsPercentile": 4,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Logan Woodside": {
+  "name": "Logan Woodside",
+  "opportunity": {
+   "snapPercentage": null,
+   "completions": 3,
+   "attempts": 4,
+   "attemptsRank": 74,
+   "attemptsPercentile": 3,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 1
+  }
+ },
+ "Sean Clifford": {
+  "name": "Sean Clifford",
+  "opportunity": {
+   "snapPercentage": 10,
+   "completions": 1,
+   "attempts": 1,
+   "attemptsRank": 75,
+   "attemptsPercentile": 1,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Aaron Rodgers": {
+  "name": "Aaron Rodgers",
+  "opportunity": {
+   "snapPercentage": 7,
+   "completions": 0,
+   "attempts": 1,
+   "attemptsRank": 76,
+   "attemptsPercentile": 0,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Kyle Trask": {
+  "name": "Kyle Trask",
+  "opportunity": {
+   "snapPercentage": 2,
+   "completions": 0,
+   "attempts": 1,
+   "attemptsRank": 77,
+   "attemptsPercentile": -1,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "rushingAttempts": 0
+  }
+ },
+ "Derrick Henry": {
+  "name": "Derrick Henry",
+  "opportunity": {
+   "snapPercentage": 56,
+   "attempts": 280,
+   "attemptsRank": 1,
+   "attemptsPercentile": 99,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 28,
+   "targets": 36,
+   "targetsRank": 39,
+   "targetsPercentile": 72,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Christian McCaffrey": {
+  "name": "Christian McCaffrey",
+  "opportunity": {
+   "snapPercentage": 81,
+   "attempts": 272,
+   "attemptsRank": 2,
+   "attemptsPercentile": 99,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 67,
+   "targets": 83,
+   "targetsRank": 4,
+   "targetsPercentile": 97,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Rachaad White": {
+  "name": "Rachaad White",
+  "opportunity": {
+   "snapPercentage": 83,
+   "attempts": 272,
+   "attemptsRank": 3,
+   "attemptsPercentile": 98,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 64,
+   "targets": 70,
+   "targetsRank": 9,
+   "targetsPercentile": 94,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Travis Etienne Jr.": {
+  "name": "Travis Etienne Jr.",
+  "opportunity": {
+   "snapPercentage": 78,
+   "attempts": 267,
+   "attemptsRank": 4,
+   "attemptsPercentile": 97,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 58,
+   "targets": 73,
+   "targetsRank": 7,
+   "targetsPercentile": 95,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Joe Mixon": {
+  "name": "Joe Mixon",
+  "opportunity": {
+   "snapPercentage": 73,
+   "attempts": 257,
+   "attemptsRank": 5,
+   "attemptsPercentile": 96,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 52,
+   "targets": 64,
+   "targetsRank": 13,
+   "targetsPercentile": 91,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Najee Harris": {
+  "name": "Najee Harris",
+  "opportunity": {
+   "snapPercentage": 56,
+   "attempts": 255,
+   "attemptsRank": 6,
+   "attemptsPercentile": 96,
+   "attemptsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   },
+   "receptions": 29,
+   "targets": 38,
+   "targetsRank": 33,
+   "targetsPercentile": 76,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Tony Pollard": {
+  "name": "Tony Pollard",
+  "opportunity": {
+   "snapPercentage": 75,
+   "attempts": 252,
+   "attemptsRank": 7,
+   "attemptsPercentile": 95,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 55,
+   "targets": 67,
+   "targetsRank": 11,
+   "targetsPercentile": 92,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Saquon Barkley": {
+  "name": "Saquon Barkley",
+  "opportunity": {
+   "snapPercentage": 85,
+   "attempts": 247,
+   "attemptsRank": 8,
+   "attemptsPercentile": 94,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 41,
+   "targets": 60,
+   "targetsRank": 15,
+   "targetsPercentile": 89,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Chuba Hubbard": {
+  "name": "Chuba Hubbard",
+  "opportunity": {
+   "snapPercentage": 62,
+   "attempts": 238,
+   "attemptsRank": 9,
+   "attemptsPercentile": 94,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 39,
+   "targets": 44,
+   "targetsRank": 25,
+   "targetsPercentile": 82,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "James Cook": {
+  "name": "James Cook",
+  "opportunity": {
+   "snapPercentage": 58,
+   "attempts": 237,
+   "attemptsRank": 10,
+   "attemptsPercentile": 93,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 44,
+   "targets": 54,
+   "targetsRank": 19,
+   "targetsPercentile": 86,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Josh Jacobs": {
+  "name": "Josh Jacobs",
+  "opportunity": {
+   "snapPercentage": 76,
+   "attempts": 233,
+   "attemptsRank": 11,
+   "attemptsPercentile": 92,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 37,
+   "targets": 54,
+   "targetsRank": 20,
+   "targetsPercentile": 86,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "D'Andre Swift": {
+  "name": "D'Andre Swift",
+  "opportunity": {
+   "snapPercentage": 58,
+   "attempts": 229,
+   "attemptsRank": 12,
+   "attemptsPercentile": 91,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 39,
+   "targets": 49,
+   "targetsRank": 23,
+   "targetsPercentile": 83,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Kyren Williams": {
+  "name": "Kyren Williams",
+  "opportunity": {
+   "snapPercentage": 82,
+   "attempts": 228,
+   "attemptsRank": 13,
+   "attemptsPercentile": 91,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 32,
+   "targets": 48,
+   "targetsRank": 24,
+   "targetsPercentile": 83,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Breece Hall": {
+  "name": "Breece Hall",
+  "opportunity": {
+   "snapPercentage": 64,
+   "attempts": 223,
+   "attemptsRank": 14,
+   "attemptsPercentile": 90,
+   "attemptsGrade": {
+    "letter": "A",
+    "description": "Great"
+   },
+   "receptions": 76,
+   "targets": 95,
+   "targetsRank": 1,
+   "targetsPercentile": 99,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "David Montgomery": {
+  "name": "David Montgomery",
+  "opportunity": {
+   "snapPercentage": 51,
+   "attempts": 219,
+   "attemptsRank": 15,
+   "attemptsPercentile": 89,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 16,
+   "targets": 24,
+   "targetsRank": 49,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Kenneth Walker III": {
+  "name": "Kenneth Walker III",
+  "opportunity": {
+   "snapPercentage": 58,
+   "attempts": 219,
+   "attemptsRank": 16,
+   "attemptsPercentile": 88,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 29,
+   "targets": 37,
+   "targetsRank": 35,
+   "targetsPercentile": 75,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Javonte Williams": {
+  "name": "Javonte Williams",
+  "opportunity": {
+   "snapPercentage": 52,
+   "attempts": 217,
+   "attemptsRank": 17,
+   "attemptsPercentile": 88,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 47,
+   "targets": 58,
+   "targetsRank": 17,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Devin Singletary": {
+  "name": "Devin Singletary",
+  "opportunity": {
+   "snapPercentage": 58,
+   "attempts": 216,
+   "attemptsRank": 18,
+   "attemptsPercentile": 87,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 30,
+   "targets": 38,
+   "targetsRank": 34,
+   "targetsPercentile": 76,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Bijan Robinson": {
+  "name": "Bijan Robinson",
+  "opportunity": {
+   "snapPercentage": 72,
+   "attempts": 214,
+   "attemptsRank": 19,
+   "attemptsPercentile": 86,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 58,
+   "targets": 86,
+   "targetsRank": 2,
+   "targetsPercentile": 99,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Raheem Mostert": {
+  "name": "Raheem Mostert",
+  "opportunity": {
+   "snapPercentage": 57,
+   "attempts": 209,
+   "attemptsRank": 20,
+   "attemptsPercentile": 86,
+   "attemptsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   },
+   "receptions": 25,
+   "targets": 32,
+   "targetsRank": 42,
+   "targetsPercentile": 70,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "James Conner": {
+  "name": "James Conner",
+  "opportunity": {
+   "snapPercentage": 67,
+   "attempts": 208,
+   "attemptsRank": 21,
+   "attemptsPercentile": 85,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 27,
+   "targets": 33,
+   "targetsRank": 41,
+   "targetsPercentile": 71,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Isiah Pacheco": {
+  "name": "Isiah Pacheco",
+  "opportunity": {
+   "snapPercentage": 60,
+   "attempts": 205,
+   "attemptsRank": 22,
+   "attemptsPercentile": 84,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 44,
+   "targets": 49,
+   "targetsRank": 22,
+   "targetsPercentile": 84,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jerome Ford": {
+  "name": "Jerome Ford",
+  "opportunity": {
+   "snapPercentage": 53,
+   "attempts": 204,
+   "attemptsRank": 23,
+   "attemptsPercentile": 83,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 44,
+   "targets": 63,
+   "targetsRank": 14,
+   "targetsPercentile": 90,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Gus Edwards": {
+  "name": "Gus Edwards",
+  "opportunity": {
+   "snapPercentage": 44,
+   "attempts": 198,
+   "attemptsRank": 24,
+   "attemptsPercentile": 83,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 12,
+   "targets": 13,
+   "targetsRank": 71,
+   "targetsPercentile": 49,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyler Allgeier": {
+  "name": "Tyler Allgeier",
+  "opportunity": {
+   "snapPercentage": 34,
+   "attempts": 186,
+   "attemptsRank": 25,
+   "attemptsPercentile": 82,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 18,
+   "targets": 23,
+   "targetsRank": 52,
+   "targetsPercentile": 63,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Ezekiel Elliott": {
+  "name": "Ezekiel Elliott",
+  "opportunity": {
+   "snapPercentage": 54,
+   "attempts": 184,
+   "attemptsRank": 26,
+   "attemptsPercentile": 81,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 51,
+   "targets": 65,
+   "targetsRank": 12,
+   "targetsPercentile": 91,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Zack Moss": {
+  "name": "Zack Moss",
+  "opportunity": {
+   "snapPercentage": 60,
+   "attempts": 183,
+   "attemptsRank": 27,
+   "attemptsPercentile": 81,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 27,
+   "targets": 37,
+   "targetsRank": 37,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Jahmyr Gibbs": {
+  "name": "Jahmyr Gibbs",
+  "opportunity": {
+   "snapPercentage": 60,
+   "attempts": 182,
+   "attemptsRank": 28,
+   "attemptsPercentile": 80,
+   "attemptsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   },
+   "receptions": 52,
+   "targets": 71,
+   "targetsRank": 8,
+   "targetsPercentile": 94,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Alvin Kamara": {
+  "name": "Alvin Kamara",
+  "opportunity": {
+   "snapPercentage": 63,
+   "attempts": 180,
+   "attemptsRank": 29,
+   "attemptsPercentile": 79,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 75,
+   "targets": 86,
+   "targetsRank": 3,
+   "targetsPercentile": 98,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Alexander Mattison": {
+  "name": "Alexander Mattison",
+  "opportunity": {
+   "snapPercentage": 59,
+   "attempts": 180,
+   "attemptsRank": 30,
+   "attemptsPercentile": 78,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 30,
+   "targets": 44,
+   "targetsRank": 26,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Austin Ekeler": {
+  "name": "Austin Ekeler",
+  "opportunity": {
+   "snapPercentage": 72,
+   "attempts": 179,
+   "attemptsRank": 31,
+   "attemptsPercentile": 78,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 51,
+   "targets": 74,
+   "targetsRank": 6,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Brian Robinson Jr.": {
+  "name": "Brian Robinson Jr.",
+  "opportunity": {
+   "snapPercentage": 53,
+   "attempts": 178,
+   "attemptsRank": 32,
+   "attemptsPercentile": 77,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 36,
+   "targets": 43,
+   "targetsRank": 27,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "AJ Dillon": {
+  "name": "AJ Dillon",
+  "opportunity": {
+   "snapPercentage": 51,
+   "attempts": 178,
+   "attemptsRank": 33,
+   "attemptsPercentile": 76,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 22,
+   "targets": 28,
+   "targetsRank": 47,
+   "targetsPercentile": 66,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Jonathan Taylor": {
+  "name": "Jonathan Taylor",
+  "opportunity": {
+   "snapPercentage": 64,
+   "attempts": 169,
+   "attemptsRank": 34,
+   "attemptsPercentile": 76,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 19,
+   "targets": 23,
+   "targetsRank": 51,
+   "targetsPercentile": 63,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Rhamondre Stevenson": {
+  "name": "Rhamondre Stevenson",
+  "opportunity": {
+   "snapPercentage": 63,
+   "attempts": 156,
+   "attemptsRank": 35,
+   "attemptsPercentile": 75,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 38,
+   "targets": 51,
+   "targetsRank": 21,
+   "targetsPercentile": 85,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jaylen Warren": {
+  "name": "Jaylen Warren",
+  "opportunity": {
+   "snapPercentage": 51,
+   "attempts": 149,
+   "attemptsRank": 36,
+   "attemptsPercentile": 74,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 61,
+   "targets": 74,
+   "targetsRank": 5,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Dameon Pierce": {
+  "name": "Dameon Pierce",
+  "opportunity": {
+   "snapPercentage": 34,
+   "attempts": 145,
+   "attemptsRank": 37,
+   "attemptsPercentile": 73,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 13,
+   "targets": 17,
+   "targetsRank": 62,
+   "targetsPercentile": 55,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Aaron Jones": {
+  "name": "Aaron Jones",
+  "opportunity": {
+   "snapPercentage": 54,
+   "attempts": 142,
+   "attemptsRank": 38,
+   "attemptsPercentile": 73,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 30,
+   "targets": 43,
+   "targetsRank": 28,
+   "targetsPercentile": 80,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Kareem Hunt": {
+  "name": "Kareem Hunt",
+  "opportunity": {
+   "snapPercentage": 33,
+   "attempts": 135,
+   "attemptsRank": 39,
+   "attemptsPercentile": 72,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 15,
+   "targets": 21,
+   "targetsRank": 57,
+   "targetsPercentile": 59,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Khalil Herbert": {
+  "name": "Khalil Herbert",
+  "opportunity": {
+   "snapPercentage": 48,
+   "attempts": 132,
+   "attemptsRank": 40,
+   "attemptsPercentile": 71,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 20,
+   "targets": 31,
+   "targetsRank": 44,
+   "targetsPercentile": 68,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Miles Sanders": {
+  "name": "Miles Sanders",
+  "opportunity": {
+   "snapPercentage": 39,
+   "attempts": 129,
+   "attemptsRank": 41,
+   "attemptsPercentile": 71,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 27,
+   "targets": 41,
+   "targetsRank": 29,
+   "targetsPercentile": 79,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "D'Onta Foreman": {
+  "name": "D'Onta Foreman",
+  "opportunity": {
+   "snapPercentage": 42,
+   "attempts": 109,
+   "attemptsRank": 42,
+   "attemptsPercentile": 70,
+   "attemptsGrade": {
+    "letter": "C",
+    "description": "Average"
+   },
+   "receptions": 11,
+   "targets": 16,
+   "targetsRank": 67,
+   "targetsPercentile": 52,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Zach Charbonnet": {
+  "name": "Zach Charbonnet",
+  "opportunity": {
+   "snapPercentage": 51,
+   "attempts": 108,
+   "attemptsRank": 43,
+   "attemptsPercentile": 69,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 33,
+   "targets": 40,
+   "targetsRank": 30,
+   "targetsPercentile": 78,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Joshua Kelley": {
+  "name": "Joshua Kelley",
+  "opportunity": {
+   "snapPercentage": 36,
+   "attempts": 107,
+   "attemptsRank": 44,
+   "attemptsPercentile": 68,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 8,
+   "targets": 12,
+   "targetsRank": 73,
+   "targetsPercentile": 47,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jamaal Williams": {
+  "name": "Jamaal Williams",
+  "opportunity": {
+   "snapPercentage": 40,
+   "attempts": 106,
+   "attemptsRank": 45,
+   "attemptsPercentile": 68,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 18,
+   "targets": 20,
+   "targetsRank": 59,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Zamir White": {
+  "name": "Zamir White",
+  "opportunity": {
+   "snapPercentage": 27,
+   "attempts": 104,
+   "attemptsRank": 46,
+   "attemptsPercentile": 67,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 15,
+   "targets": 19,
+   "targetsRank": 61,
+   "targetsPercentile": 56,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "De'Von Achane": {
+  "name": "De'Von Achane",
+  "opportunity": {
+   "snapPercentage": 46,
+   "attempts": 103,
+   "attemptsRank": 47,
+   "attemptsPercentile": 66,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 27,
+   "targets": 37,
+   "targetsRank": 36,
+   "targetsPercentile": 74,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Ty Chandler": {
+  "name": "Ty Chandler",
+  "opportunity": {
+   "snapPercentage": 39,
+   "attempts": 102,
+   "attemptsRank": 48,
+   "attemptsPercentile": 65,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 21,
+   "targets": 25,
+   "targetsRank": 48,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Tyjae Spears": {
+  "name": "Tyjae Spears",
+  "opportunity": {
+   "snapPercentage": 56,
+   "attempts": 100,
+   "attemptsRank": 49,
+   "attemptsPercentile": 65,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 52,
+   "targets": 70,
+   "targetsRank": 10,
+   "targetsPercentile": 93,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Rico Dowdle": {
+  "name": "Rico Dowdle",
+  "opportunity": {
+   "snapPercentage": 24,
+   "attempts": 89,
+   "attemptsRank": 50,
+   "attemptsPercentile": 64,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 17,
+   "targets": 22,
+   "targetsRank": 54,
+   "targetsPercentile": 61,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Justice Hill": {
+  "name": "Justice Hill",
+  "opportunity": {
+   "snapPercentage": 44,
+   "attempts": 84,
+   "attemptsRank": 51,
+   "attemptsPercentile": 63,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 28,
+   "targets": 39,
+   "targetsRank": 32,
+   "targetsPercentile": 77,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Kenneth Gainwell": {
+  "name": "Kenneth Gainwell",
+  "opportunity": {
+   "snapPercentage": 44,
+   "attempts": 84,
+   "attemptsRank": 52,
+   "attemptsPercentile": 63,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 30,
+   "targets": 37,
+   "targetsRank": 38,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Roschon Johnson": {
+  "name": "Roschon Johnson",
+  "opportunity": {
+   "snapPercentage": 41,
+   "attempts": 81,
+   "attemptsRank": 53,
+   "attemptsPercentile": 62,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 34,
+   "targets": 40,
+   "targetsRank": 31,
+   "targetsPercentile": 78,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Latavius Murray": {
+  "name": "Latavius Murray",
+  "opportunity": {
+   "snapPercentage": 32,
+   "attempts": 79,
+   "attemptsRank": 54,
+   "attemptsPercentile": 61,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 17,
+   "targets": 22,
+   "targetsRank": 55,
+   "targetsPercentile": 60,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Royce Freeman": {
+  "name": "Royce Freeman",
+  "opportunity": {
+   "snapPercentage": 38,
+   "attempts": 77,
+   "attemptsRank": 55,
+   "attemptsPercentile": 60,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 122,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jaleel McLaughlin": {
+  "name": "Jaleel McLaughlin",
+  "opportunity": {
+   "snapPercentage": 19,
+   "attempts": 76,
+   "attemptsRank": 56,
+   "attemptsPercentile": 60,
+   "attemptsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   },
+   "receptions": 31,
+   "targets": 36,
+   "targetsRank": 40,
+   "targetsPercentile": 71,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Elijah Mitchell": {
+  "name": "Elijah Mitchell",
+  "opportunity": {
+   "snapPercentage": 25,
+   "attempts": 75,
+   "attemptsRank": 57,
+   "attemptsPercentile": 59,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 8,
+   "targetsRank": 88,
+   "targetsPercentile": 37,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Clyde Edwards-Helaire": {
+  "name": "Clyde Edwards-Helaire",
+  "opportunity": {
+   "snapPercentage": 24,
+   "attempts": 70,
+   "attemptsRank": 58,
+   "attemptsPercentile": 58,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 17,
+   "targets": 22,
+   "targetsRank": 56,
+   "targetsPercentile": 60,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Dalvin Cook": {
+  "name": "Dalvin Cook",
+  "opportunity": {
+   "snapPercentage": 21,
+   "attempts": 67,
+   "attemptsRank": 59,
+   "attemptsPercentile": 58,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 15,
+   "targets": 20,
+   "targetsRank": 60,
+   "targetsPercentile": 57,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Antonio Gibson": {
+  "name": "Antonio Gibson",
+  "opportunity": {
+   "snapPercentage": 48,
+   "attempts": 65,
+   "attemptsRank": 60,
+   "attemptsPercentile": 57,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 48,
+   "targets": 59,
+   "targetsRank": 16,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Pierre Strong Jr.": {
+  "name": "Pierre Strong Jr.",
+  "opportunity": {
+   "snapPercentage": 16,
+   "attempts": 63,
+   "attemptsRank": 61,
+   "attemptsPercentile": 56,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 5,
+   "targets": 8,
+   "targetsRank": 89,
+   "targetsPercentile": 36,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cam Akers": {
+  "name": "Cam Akers",
+  "opportunity": {
+   "snapPercentage": 29,
+   "attempts": 60,
+   "attemptsRank": 62,
+   "attemptsPercentile": 55,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 11,
+   "targets": 12,
+   "targetsRank": 74,
+   "targetsPercentile": 47,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Emari Demercado": {
+  "name": "Emari Demercado",
+  "opportunity": {
+   "snapPercentage": 33,
+   "attempts": 58,
+   "attemptsRank": 63,
+   "attemptsPercentile": 55,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 21,
+   "targets": 30,
+   "targetsRank": 46,
+   "targetsPercentile": 67,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Matt Breida": {
+  "name": "Matt Breida",
+  "opportunity": {
+   "snapPercentage": 28,
+   "attempts": 55,
+   "attemptsRank": 64,
+   "attemptsPercentile": 54,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 17,
+   "targets": 21,
+   "targetsRank": 58,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Samaje Perine": {
+  "name": "Samaje Perine",
+  "opportunity": {
+   "snapPercentage": 36,
+   "attempts": 53,
+   "attemptsRank": 65,
+   "attemptsPercentile": 53,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 50,
+   "targets": 56,
+   "targetsRank": 18,
+   "targetsPercentile": 87,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Chris Rodriguez Jr.": {
+  "name": "Chris Rodriguez Jr.",
+  "opportunity": {
+   "snapPercentage": 15,
+   "attempts": 51,
+   "attemptsRank": 66,
+   "attemptsPercentile": 53,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 123,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cordarrelle Patterson": {
+  "name": "Cordarrelle Patterson",
+  "opportunity": {
+   "snapPercentage": 20,
+   "attempts": 50,
+   "attemptsRank": 67,
+   "attemptsPercentile": 52,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 9,
+   "targets": 12,
+   "targetsRank": 75,
+   "targetsPercentile": 46,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tank Bigsby": {
+  "name": "Tank Bigsby",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 50,
+   "attemptsRank": 68,
+   "attemptsPercentile": 51,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 4,
+   "targetsRank": 109,
+   "targetsPercentile": 22,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chase Edmonds": {
+  "name": "Chase Edmonds",
+  "opportunity": {
+   "snapPercentage": 20,
+   "attempts": 49,
+   "attemptsRank": 69,
+   "attemptsPercentile": 50,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 14,
+   "targets": 17,
+   "targetsRank": 64,
+   "targetsPercentile": 54,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Keaton Mitchell": {
+  "name": "Keaton Mitchell",
+  "opportunity": {
+   "snapPercentage": 29,
+   "attempts": 47,
+   "attemptsRank": 70,
+   "attemptsPercentile": 50,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 9,
+   "targets": 11,
+   "targetsRank": 79,
+   "targetsPercentile": 43,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Darrell Henderson Jr.": {
+  "name": "Darrell Henderson Jr.",
+  "opportunity": {
+   "snapPercentage": 49,
+   "attempts": 46,
+   "attemptsRank": 71,
+   "attemptsPercentile": 49,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 10,
+   "targets": 14,
+   "targetsRank": 70,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chase Brown": {
+  "name": "Chase Brown",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 44,
+   "attemptsRank": 72,
+   "attemptsPercentile": 48,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 14,
+   "targets": 15,
+   "targetsRank": 69,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kendre Miller": {
+  "name": "Kendre Miller",
+  "opportunity": {
+   "snapPercentage": 22,
+   "attempts": 41,
+   "attemptsRank": 73,
+   "attemptsPercentile": 47,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 10,
+   "targets": 11,
+   "targetsRank": 80,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jeff Wilson Jr.": {
+  "name": "Jeff Wilson Jr.",
+  "opportunity": {
+   "snapPercentage": 25,
+   "attempts": 41,
+   "attemptsRank": 74,
+   "attemptsPercentile": 47,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 14,
+   "targets": 17,
+   "targetsRank": 63,
+   "targetsPercentile": 55,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "D'Ernest Johnson": {
+  "name": "D'Ernest Johnson",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 41,
+   "attemptsRank": 75,
+   "attemptsPercentile": 46,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 10,
+   "targets": 12,
+   "targetsRank": 76,
+   "targetsPercentile": 45,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Craig Reynolds": {
+  "name": "Craig Reynolds",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 41,
+   "attemptsRank": 76,
+   "attemptsPercentile": 45,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 5,
+   "targets": 5,
+   "targetsRank": 102,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jordan Mason": {
+  "name": "Jordan Mason",
+  "opportunity": {
+   "snapPercentage": 16,
+   "attempts": 40,
+   "attemptsRank": 77,
+   "attemptsPercentile": 45,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 4,
+   "targetsRank": 107,
+   "targetsPercentile": 23,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Isaiah Spiller": {
+  "name": "Isaiah Spiller",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 37,
+   "attemptsRank": 78,
+   "attemptsPercentile": 44,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 6,
+   "targetsRank": 98,
+   "targetsPercentile": 29,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Trey Sermon": {
+  "name": "Trey Sermon",
+  "opportunity": {
+   "snapPercentage": 13,
+   "attempts": 35,
+   "attemptsRank": 79,
+   "attemptsPercentile": 43,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 6,
+   "targetsRank": 97,
+   "targetsPercentile": 30,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Keaontay Ingram": {
+  "name": "Keaontay Ingram",
+  "opportunity": {
+   "snapPercentage": 26,
+   "attempts": 35,
+   "attemptsRank": 80,
+   "attemptsPercentile": 42,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 4,
+   "targets": 4,
+   "targetsRank": 110,
+   "targetsPercentile": 21,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Patrick Taylor Jr.": {
+  "name": "Patrick Taylor Jr.",
+  "opportunity": {
+   "snapPercentage": 36,
+   "attempts": 32,
+   "attemptsRank": 81,
+   "attemptsPercentile": 42,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 11,
+   "targets": 17,
+   "targetsRank": 66,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Darrynton Evans": {
+  "name": "Darrynton Evans",
+  "opportunity": {
+   "snapPercentage": 23,
+   "attempts": 32,
+   "attemptsRank": 82,
+   "attemptsPercentile": 41,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 12,
+   "targetsRank": 77,
+   "targetsPercentile": 45,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ronnie Rivers": {
+  "name": "Ronnie Rivers",
+  "opportunity": {
+   "snapPercentage": 23,
+   "attempts": 32,
+   "attemptsRank": 83,
+   "attemptsPercentile": 40,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 5,
+   "targets": 5,
+   "targetsRank": 103,
+   "targetsPercentile": 26,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Michael Carter": {
+  "name": "Michael Carter",
+  "opportunity": {
+   "snapPercentage": 25,
+   "attempts": 30,
+   "attemptsRank": 84,
+   "attemptsPercentile": 40,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 24,
+   "targets": 31,
+   "targetsRank": 45,
+   "targetsPercentile": 68,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Ty Johnson": {
+  "name": "Ty Johnson",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 30,
+   "attemptsRank": 85,
+   "attemptsPercentile": 39,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 7,
+   "targetsRank": 90,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nick Chubb": {
+  "name": "Nick Chubb",
+  "opportunity": {
+   "snapPercentage": 34,
+   "attempts": 28,
+   "attemptsRank": 86,
+   "attemptsPercentile": 38,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 4,
+   "targets": 4,
+   "targetsRank": 108,
+   "targetsPercentile": 22,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tony Jones Jr.": {
+  "name": "Tony Jones Jr.",
+  "opportunity": {
+   "snapPercentage": 30,
+   "attempts": 26,
+   "attemptsRank": 87,
+   "attemptsPercentile": 37,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 10,
+   "targetsRank": 82,
+   "targetsPercentile": 41,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Melvin Gordon III": {
+  "name": "Melvin Gordon III",
+  "opportunity": {
+   "snapPercentage": 30,
+   "attempts": 26,
+   "attemptsRank": 88,
+   "attemptsPercentile": 37,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 113,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ke'Shawn Vaughn": {
+  "name": "Ke'Shawn Vaughn",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 24,
+   "attemptsRank": 89,
+   "attemptsPercentile": 36,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 5,
+   "targetsRank": 106,
+   "targetsPercentile": 24,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Damien Harris": {
+  "name": "Damien Harris",
+  "opportunity": {
+   "snapPercentage": 15,
+   "attempts": 23,
+   "attemptsRank": 90,
+   "attemptsPercentile": 35,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 124,
+   "targetsPercentile": 11,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Deuce Vaughn": {
+  "name": "Deuce Vaughn",
+  "opportunity": {
+   "snapPercentage": 15,
+   "attempts": 23,
+   "attemptsRank": 91,
+   "attemptsPercentile": 35,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 7,
+   "targetsRank": 93,
+   "targetsPercentile": 33,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Salvon Ahmed": {
+  "name": "Salvon Ahmed",
+  "opportunity": {
+   "snapPercentage": 26,
+   "attempts": 22,
+   "attemptsRank": 92,
+   "attemptsPercentile": 34,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 16,
+   "targets": 23,
+   "targetsRank": 53,
+   "targetsPercentile": 62,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Israel Abanikanda": {
+  "name": "Israel Abanikanda",
+  "opportunity": {
+   "snapPercentage": 22,
+   "attempts": 22,
+   "attemptsRank": 93,
+   "attemptsPercentile": 33,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 11,
+   "targetsRank": 81,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "La'Mical Perine": {
+  "name": "La'Mical Perine",
+  "opportunity": {
+   "snapPercentage": 24,
+   "attempts": 22,
+   "attemptsRank": 94,
+   "attemptsPercentile": 32,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 5,
+   "targetsRank": 105,
+   "targetsPercentile": 24,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jerick McKinnon": {
+  "name": "Jerick McKinnon",
+  "opportunity": {
+   "snapPercentage": 32,
+   "attempts": 21,
+   "attemptsRank": 95,
+   "attemptsPercentile": 32,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 25,
+   "targets": 32,
+   "targetsRank": 43,
+   "targetsPercentile": 69,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Boston Scott": {
+  "name": "Boston Scott",
+  "opportunity": {
+   "snapPercentage": 10,
+   "attempts": 20,
+   "attemptsRank": 96,
+   "attemptsPercentile": 31,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 4,
+   "targets": 6,
+   "targetsRank": 99,
+   "targetsPercentile": 29,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chris Brooks": {
+  "name": "Chris Brooks",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 19,
+   "attemptsRank": 97,
+   "attemptsPercentile": 30,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 143,
+   "targetsPercentile": -3,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Eric Gray": {
+  "name": "Eric Gray",
+  "opportunity": {
+   "snapPercentage": 17,
+   "attempts": 17,
+   "attemptsRank": 98,
+   "attemptsPercentile": 29,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 7,
+   "targetsRank": 94,
+   "targetsPercentile": 32,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kevin Harris": {
+  "name": "Kevin Harris",
+  "opportunity": {
+   "snapPercentage": 21,
+   "attempts": 16,
+   "attemptsRank": 99,
+   "attemptsPercentile": 29,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 112,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ameer Abdullah": {
+  "name": "Ameer Abdullah",
+  "opportunity": {
+   "snapPercentage": 22,
+   "attempts": 15,
+   "attemptsRank": 100,
+   "attemptsPercentile": 28,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 19,
+   "targets": 24,
+   "targetsRank": 50,
+   "targetsPercentile": 64,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Trayveon Williams": {
+  "name": "Trayveon Williams",
+  "opportunity": {
+   "snapPercentage": 15,
+   "attempts": 15,
+   "attemptsRank": 101,
+   "attemptsPercentile": 27,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 9,
+   "targetsRank": 84,
+   "targetsPercentile": 40,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Sean Tucker": {
+  "name": "Sean Tucker",
+  "opportunity": {
+   "snapPercentage": 13,
+   "attempts": 15,
+   "attemptsRank": 102,
+   "attemptsPercentile": 27,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 126,
+   "targetsPercentile": 9,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Raheem Blackshear": {
+  "name": "Raheem Blackshear",
+  "opportunity": {
+   "snapPercentage": 8,
+   "attempts": 14,
+   "attemptsRank": 103,
+   "attemptsPercentile": 26,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 7,
+   "targetsRank": 91,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Emanuel Wilson": {
+  "name": "Emanuel Wilson",
+  "opportunity": {
+   "snapPercentage": 8,
+   "attempts": 14,
+   "attemptsRank": 104,
+   "attemptsPercentile": 25,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 4,
+   "targets": 5,
+   "targetsRank": 104,
+   "targetsPercentile": 25,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Deon Jackson": {
+  "name": "Deon Jackson",
+  "opportunity": {
+   "snapPercentage": 39,
+   "attempts": 14,
+   "attemptsRank": 105,
+   "attemptsPercentile": 24,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 5,
+   "targets": 6,
+   "targetsRank": 101,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyler Goodson": {
+  "name": "Tyler Goodson",
+  "opportunity": {
+   "snapPercentage": 15,
+   "attempts": 13,
+   "attemptsRank": 106,
+   "attemptsPercentile": 24,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 9,
+   "targetsRank": 83,
+   "targetsPercentile": 40,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Leonard Fournette": {
+  "name": "Leonard Fournette",
+  "opportunity": {
+   "snapPercentage": 47,
+   "attempts": 12,
+   "attemptsRank": 107,
+   "attemptsPercentile": 23,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 144,
+   "targetsPercentile": -4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Damien Williams": {
+  "name": "Damien Williams",
+  "opportunity": {
+   "snapPercentage": 13,
+   "attempts": 11,
+   "attemptsRank": 108,
+   "attemptsPercentile": 22,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 125,
+   "targetsPercentile": 10,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Rashaad Penny": {
+  "name": "Rashaad Penny",
+  "opportunity": {
+   "snapPercentage": 22,
+   "attempts": 11,
+   "attemptsRank": 109,
+   "attemptsPercentile": 22,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 132,
+   "targetsPercentile": 5,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "DeeJay Dallas": {
+  "name": "DeeJay Dallas",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 10,
+   "attemptsRank": 110,
+   "attemptsPercentile": 21,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 6,
+   "targets": 9,
+   "targetsRank": 87,
+   "targetsPercentile": 37,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Gary Brightwell": {
+  "name": "Gary Brightwell",
+  "opportunity": {
+   "snapPercentage": 16,
+   "attempts": 9,
+   "attemptsRank": 111,
+   "attemptsPercentile": 20,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 5,
+   "targets": 7,
+   "targetsRank": 95,
+   "targetsPercentile": 32,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Zach Evans": {
+  "name": "Zach Evans",
+  "opportunity": {
+   "snapPercentage": 8,
+   "attempts": 9,
+   "attemptsRank": 112,
+   "attemptsPercentile": 19,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 147,
+   "targetsPercentile": -6,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "J.K. Dobbins": {
+  "name": "J.K. Dobbins",
+  "opportunity": {
+   "snapPercentage": 47,
+   "attempts": 8,
+   "attemptsRank": 113,
+   "attemptsPercentile": 19,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 114,
+   "targetsPercentile": 18,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Dare Ogunbowale": {
+  "name": "Dare Ogunbowale",
+  "opportunity": {
+   "snapPercentage": 22,
+   "attempts": 8,
+   "attemptsRank": 114,
+   "attemptsPercentile": 18,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 7,
+   "targetsRank": 96,
+   "targetsPercentile": 31,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Khari Blasingame": {
+  "name": "Khari Blasingame",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 8,
+   "attemptsRank": 115,
+   "attemptsPercentile": 17,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 6,
+   "targetsRank": 100,
+   "targetsPercentile": 28,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Michael Burton": {
+  "name": "Michael Burton",
+  "opportunity": {
+   "snapPercentage": 19,
+   "attempts": 7,
+   "attemptsRank": 116,
+   "attemptsPercentile": 17,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 116,
+   "targetsPercentile": 17,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Hunter Luepke": {
+  "name": "Hunter Luepke",
+  "opportunity": {
+   "snapPercentage": 14,
+   "attempts": 6,
+   "attemptsRank": 117,
+   "attemptsPercentile": 16,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 4,
+   "targetsRank": 111,
+   "targetsPercentile": 20,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyrion Davis-Price": {
+  "name": "Tyrion Davis-Price",
+  "opportunity": {
+   "snapPercentage": 10,
+   "attempts": 6,
+   "attemptsRank": 118,
+   "attemptsPercentile": 15,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 146,
+   "targetsPercentile": -5,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kyle Juszczyk": {
+  "name": "Kyle Juszczyk",
+  "opportunity": {
+   "snapPercentage": 49,
+   "attempts": 5,
+   "attemptsRank": 119,
+   "attemptsPercentile": 14,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 14,
+   "targets": 17,
+   "targetsRank": 65,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mike Boone": {
+  "name": "Mike Boone",
+  "opportunity": {
+   "snapPercentage": 17,
+   "attempts": 5,
+   "attemptsRank": 120,
+   "attemptsPercentile": 14,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 9,
+   "targetsRank": 85,
+   "targetsPercentile": 39,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kene Nwangwu": {
+  "name": "Kene Nwangwu",
+  "opportunity": {
+   "snapPercentage": 6,
+   "attempts": 5,
+   "attemptsRank": 121,
+   "attemptsPercentile": 13,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 148,
+   "targetsPercentile": -6,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Andrew Beck": {
+  "name": "Andrew Beck",
+  "opportunity": {
+   "snapPercentage": 34,
+   "receptions": 11,
+   "targets": 13,
+   "targetsRank": 72,
+   "targetsPercentile": 36,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brandon Bolden": {
+  "name": "Brandon Bolden",
+  "opportunity": {
+   "snapPercentage": 3,
+   "attempts": 4,
+   "attemptsRank": 123,
+   "attemptsPercentile": 12,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 142,
+   "targetsPercentile": -2,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Elijah Dotson": {
+  "name": "Elijah Dotson",
+  "opportunity": {
+   "snapPercentage": 6,
+   "attempts": 4,
+   "attemptsRank": 124,
+   "attemptsPercentile": 11,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 127,
+   "targetsPercentile": 9,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ty Montgomery II": {
+  "name": "Ty Montgomery II",
+  "opportunity": {
+   "snapPercentage": 6,
+   "receptions": 5,
+   "targets": 12,
+   "targetsRank": 163,
+   "targetsPercentile": 20,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Zonovan Knight": {
+  "name": "Zonovan Knight",
+  "opportunity": {
+   "snapPercentage": 7,
+   "attempts": 3,
+   "attemptsRank": 126,
+   "attemptsPercentile": 9,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 134,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Derrick Gore": {
+  "name": "Derrick Gore",
+  "opportunity": {
+   "snapPercentage": 8,
+   "attempts": 3,
+   "attemptsRank": 127,
+   "attemptsPercentile": 9,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 145,
+   "targetsPercentile": -4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Devine Ozigbo": {
+  "name": "Devine Ozigbo",
+  "opportunity": {
+   "snapPercentage": 5,
+   "attempts": 3,
+   "attemptsRank": 128,
+   "attemptsPercentile": 8,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 135,
+   "targetsPercentile": 3,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jonathan Ward": {
+  "name": "Jonathan Ward",
+  "opportunity": {
+   "snapPercentage": 5,
+   "attempts": 3,
+   "attemptsRank": 129,
+   "attemptsPercentile": 7,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 0,
+   "targets": 0,
+   "targetsRank": 149,
+   "targetsPercentile": -7,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Alec Ingold": {
+  "name": "Alec Ingold",
+  "opportunity": {
+   "snapPercentage": 39,
+   "attempts": 2,
+   "attemptsRank": 130,
+   "attemptsPercentile": 6,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 13,
+   "targets": 16,
+   "targetsRank": 68,
+   "targetsPercentile": 51,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nick Bawden": {
+  "name": "Nick Bawden",
+  "opportunity": {
+   "snapPercentage": 13,
+   "attempts": 2,
+   "attemptsRank": 131,
+   "attemptsPercentile": 6,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 115,
+   "targetsPercentile": 17,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jake Funk": {
+  "name": "Jake Funk",
+  "opportunity": {
+   "snapPercentage": 18,
+   "attempts": 2,
+   "attemptsRank": 132,
+   "attemptsPercentile": 5,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 133,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kenyan Drake": {
+  "name": "Kenyan Drake",
+  "opportunity": {
+   "snapPercentage": 8,
+   "attempts": 2,
+   "attemptsRank": 133,
+   "attemptsPercentile": 4,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 120,
+   "targetsPercentile": 14,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Adam Prentice": {
+  "name": "Adam Prentice",
+  "opportunity": {
+   "snapPercentage": 16,
+   "attempts": 2,
+   "attemptsRank": 134,
+   "attemptsPercentile": 4,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 121,
+   "targetsPercentile": 13,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chris Evans": {
+  "name": "Chris Evans",
+  "opportunity": {
+   "snapPercentage": 5,
+   "attempts": 2,
+   "attemptsRank": 135,
+   "attemptsPercentile": 3,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 136,
+   "targetsPercentile": 2,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "C.J. Ham": {
+  "name": "C.J. Ham",
+  "opportunity": {
+   "snapPercentage": 21,
+   "attempts": 1,
+   "attemptsRank": 136,
+   "attemptsPercentile": 2,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 7,
+   "targets": 9,
+   "targetsRank": 86,
+   "targetsPercentile": 38,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jashaun Corbin": {
+  "name": "Jashaun Corbin",
+  "opportunity": {
+   "snapPercentage": 26,
+   "attempts": 1,
+   "attemptsRank": 137,
+   "attemptsPercentile": 1,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 119,
+   "targetsPercentile": 14,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Evan Hull": {
+  "name": "Evan Hull",
+  "opportunity": {
+   "snapPercentage": 11,
+   "attempts": 1,
+   "attemptsRank": 138,
+   "attemptsPercentile": 1,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 137,
+   "targetsPercentile": 1,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "James Robinson": {
+  "name": "James Robinson",
+  "opportunity": {
+   "snapPercentage": 6,
+   "attempts": 1,
+   "attemptsRank": 139,
+   "attemptsPercentile": 0,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 139,
+   "targetsPercentile": 0,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "CeeDee Lamb": {
+  "name": "CeeDee Lamb",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 135,
+   "targets": 181,
+   "targetsRank": 1,
+   "targetsPercentile": 100,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Davante Adams": {
+  "name": "Davante Adams",
+  "opportunity": {
+   "snapPercentage": 98,
+   "receptions": 103,
+   "targets": 175,
+   "targetsRank": 2,
+   "targetsPercentile": 99,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Tyreek Hill": {
+  "name": "Tyreek Hill",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 119,
+   "targets": 171,
+   "targetsRank": 3,
+   "targetsPercentile": 99,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Garrett Wilson": {
+  "name": "Garrett Wilson",
+  "opportunity": {
+   "snapPercentage": 97,
+   "receptions": 95,
+   "targets": 168,
+   "targetsRank": 4,
+   "targetsPercentile": 98,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Amon-Ra St. Brown": {
+  "name": "Amon-Ra St. Brown",
+  "opportunity": {
+   "snapPercentage": 95,
+   "receptions": 119,
+   "targets": 164,
+   "targetsRank": 5,
+   "targetsPercentile": 98,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Puka Nacua": {
+  "name": "Puka Nacua",
+  "opportunity": {
+   "snapPercentage": 93,
+   "receptions": 105,
+   "targets": 160,
+   "targetsRank": 6,
+   "targetsPercentile": 97,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Stefon Diggs": {
+  "name": "Stefon Diggs",
+  "opportunity": {
+   "snapPercentage": 87,
+   "receptions": 107,
+   "targets": 160,
+   "targetsRank": 7,
+   "targetsPercentile": 97,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "A.J. Brown": {
+  "name": "A.J. Brown",
+  "opportunity": {
+   "snapPercentage": 94,
+   "receptions": 106,
+   "targets": 158,
+   "targetsRank": 8,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Michael Pittman Jr.": {
+  "name": "Michael Pittman Jr.",
+  "opportunity": {
+   "snapPercentage": 98,
+   "receptions": 109,
+   "targets": 156,
+   "targetsRank": 9,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Keenan Allen": {
+  "name": "Keenan Allen",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 108,
+   "targets": 150,
+   "targetsRank": 10,
+   "targetsPercentile": 95,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Ja'Marr Chase": {
+  "name": "Ja'Marr Chase",
+  "opportunity": {
+   "snapPercentage": 93,
+   "receptions": 100,
+   "targets": 145,
+   "targetsRank": 11,
+   "targetsPercentile": 95,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Chris Olave": {
+  "name": "Chris Olave",
+  "opportunity": {
+   "snapPercentage": 79,
+   "receptions": 87,
+   "targets": 138,
+   "targetsRank": 12,
+   "targetsPercentile": 94,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Adam Thielen": {
+  "name": "Adam Thielen",
+  "opportunity": {
+   "snapPercentage": 95,
+   "receptions": 103,
+   "targets": 137,
+   "targetsRank": 13,
+   "targetsPercentile": 94,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "DeAndre Hopkins": {
+  "name": "DeAndre Hopkins",
+  "opportunity": {
+   "snapPercentage": 76,
+   "receptions": 75,
+   "targets": 137,
+   "targetsRank": 14,
+   "targetsPercentile": 93,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "DJ Moore": {
+  "name": "DJ Moore",
+  "opportunity": {
+   "snapPercentage": 94,
+   "receptions": 96,
+   "targets": 136,
+   "targetsRank": 15,
+   "targetsPercentile": 93,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Mike Evans": {
+  "name": "Mike Evans",
+  "opportunity": {
+   "snapPercentage": 83,
+   "receptions": 79,
+   "targets": 136,
+   "targetsRank": 16,
+   "targetsPercentile": 92,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Calvin Ridley": {
+  "name": "Calvin Ridley",
+  "opportunity": {
+   "snapPercentage": 91,
+   "receptions": 76,
+   "targets": 136,
+   "targetsRank": 17,
+   "targetsPercentile": 92,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Terry McLaurin": {
+  "name": "Terry McLaurin",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 79,
+   "targets": 132,
+   "targetsRank": 18,
+   "targetsPercentile": 91,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Chris Godwin": {
+  "name": "Chris Godwin",
+  "opportunity": {
+   "snapPercentage": 86,
+   "receptions": 83,
+   "targets": 130,
+   "targetsRank": 19,
+   "targetsPercentile": 91,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Amari Cooper": {
+  "name": "Amari Cooper",
+  "opportunity": {
+   "snapPercentage": 78,
+   "receptions": 72,
+   "targets": 128,
+   "targetsRank": 20,
+   "targetsPercentile": 90,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Tyler Lockett": {
+  "name": "Tyler Lockett",
+  "opportunity": {
+   "snapPercentage": 84,
+   "receptions": 79,
+   "targets": 122,
+   "targetsRank": 21,
+   "targetsPercentile": 90,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "DK Metcalf": {
+  "name": "DK Metcalf",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 66,
+   "targets": 119,
+   "targetsRank": 22,
+   "targetsPercentile": 89,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "DeVonta Smith": {
+  "name": "DeVonta Smith",
+  "opportunity": {
+   "snapPercentage": 96,
+   "receptions": 81,
+   "targets": 112,
+   "targetsRank": 23,
+   "targetsPercentile": 89,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Drake London": {
+  "name": "Drake London",
+  "opportunity": {
+   "snapPercentage": 86,
+   "receptions": 69,
+   "targets": 110,
+   "targetsRank": 24,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Nico Collins": {
+  "name": "Nico Collins",
+  "opportunity": {
+   "snapPercentage": 72,
+   "receptions": 80,
+   "targets": 109,
+   "targetsRank": 25,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Jordan Addison": {
+  "name": "Jordan Addison",
+  "opportunity": {
+   "snapPercentage": 88,
+   "receptions": 70,
+   "targets": 108,
+   "targetsRank": 26,
+   "targetsPercentile": 87,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Zay Flowers": {
+  "name": "Zay Flowers",
+  "opportunity": {
+   "snapPercentage": 85,
+   "receptions": 77,
+   "targets": 108,
+   "targetsRank": 27,
+   "targetsPercentile": 87,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Jakobi Meyers": {
+  "name": "Jakobi Meyers",
+  "opportunity": {
+   "snapPercentage": 96,
+   "receptions": 71,
+   "targets": 106,
+   "targetsRank": 28,
+   "targetsPercentile": 86,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "George Pickens": {
+  "name": "George Pickens",
+  "opportunity": {
+   "snapPercentage": 92,
+   "receptions": 63,
+   "targets": 106,
+   "targetsRank": 29,
+   "targetsPercentile": 86,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Brandon Aiyuk": {
+  "name": "Brandon Aiyuk",
+  "opportunity": {
+   "snapPercentage": 87,
+   "receptions": 75,
+   "targets": 105,
+   "targetsRank": 30,
+   "targetsPercentile": 85,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jaylen Waddle": {
+  "name": "Jaylen Waddle",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 72,
+   "targets": 104,
+   "targetsRank": 31,
+   "targetsPercentile": 85,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Elijah Moore": {
+  "name": "Elijah Moore",
+  "opportunity": {
+   "snapPercentage": 76,
+   "receptions": 59,
+   "targets": 104,
+   "targetsRank": 32,
+   "targetsPercentile": 84,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Rashee Rice": {
+  "name": "Rashee Rice",
+  "opportunity": {
+   "snapPercentage": 58,
+   "receptions": 79,
+   "targets": 102,
+   "targetsRank": 33,
+   "targetsPercentile": 84,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Marquise Brown": {
+  "name": "Marquise Brown",
+  "opportunity": {
+   "snapPercentage": 85,
+   "receptions": 51,
+   "targets": 101,
+   "targetsRank": 34,
+   "targetsPercentile": 83,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Justin Jefferson": {
+  "name": "Justin Jefferson",
+  "opportunity": {
+   "snapPercentage": 96,
+   "receptions": 68,
+   "targets": 100,
+   "targetsRank": 35,
+   "targetsPercentile": 83,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Josh Downs": {
+  "name": "Josh Downs",
+  "opportunity": {
+   "snapPercentage": 73,
+   "receptions": 68,
+   "targets": 98,
+   "targetsRank": 36,
+   "targetsPercentile": 82,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Tyler Boyd": {
+  "name": "Tyler Boyd",
+  "opportunity": {
+   "snapPercentage": 80,
+   "receptions": 67,
+   "targets": 98,
+   "targetsRank": 37,
+   "targetsPercentile": 82,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Romeo Doubs": {
+  "name": "Romeo Doubs",
+  "opportunity": {
+   "snapPercentage": 82,
+   "receptions": 59,
+   "targets": 96,
+   "targetsRank": 38,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Cooper Kupp": {
+  "name": "Cooper Kupp",
+  "opportunity": {
+   "snapPercentage": 91,
+   "receptions": 59,
+   "targets": 95,
+   "targetsRank": 39,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jayden Reed": {
+  "name": "Jayden Reed",
+  "opportunity": {
+   "snapPercentage": 60,
+   "receptions": 64,
+   "targets": 94,
+   "targetsRank": 40,
+   "targetsPercentile": 80,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jaxon Smith-Njigba": {
+  "name": "Jaxon Smith-Njigba",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 63,
+   "targets": 93,
+   "targetsRank": 41,
+   "targetsPercentile": 80,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Curtis Samuel": {
+  "name": "Curtis Samuel",
+  "opportunity": {
+   "snapPercentage": 58,
+   "receptions": 62,
+   "targets": 91,
+   "targetsRank": 42,
+   "targetsPercentile": 79,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Courtland Sutton": {
+  "name": "Courtland Sutton",
+  "opportunity": {
+   "snapPercentage": 83,
+   "receptions": 59,
+   "targets": 90,
+   "targetsRank": 43,
+   "targetsPercentile": 79,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Deebo Samuel": {
+  "name": "Deebo Samuel",
+  "opportunity": {
+   "snapPercentage": 79,
+   "receptions": 60,
+   "targets": 89,
+   "targetsRank": 44,
+   "targetsPercentile": 78,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Diontae Johnson": {
+  "name": "Diontae Johnson",
+  "opportunity": {
+   "snapPercentage": 77,
+   "receptions": 51,
+   "targets": 87,
+   "targetsRank": 45,
+   "targetsPercentile": 78,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Jerry Jeudy": {
+  "name": "Jerry Jeudy",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 54,
+   "targets": 87,
+   "targetsRank": 46,
+   "targetsPercentile": 77,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Christian Kirk": {
+  "name": "Christian Kirk",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 57,
+   "targets": 85,
+   "targetsRank": 47,
+   "targetsPercentile": 77,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Jonathan Mingo": {
+  "name": "Jonathan Mingo",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 43,
+   "targets": 85,
+   "targetsRank": 48,
+   "targetsPercentile": 76,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Jahan Dotson": {
+  "name": "Jahan Dotson",
+  "opportunity": {
+   "snapPercentage": 86,
+   "receptions": 49,
+   "targets": 83,
+   "targetsRank": 49,
+   "targetsPercentile": 76,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Brandin Cooks": {
+  "name": "Brandin Cooks",
+  "opportunity": {
+   "snapPercentage": 79,
+   "receptions": 54,
+   "targets": 81,
+   "targetsRank": 50,
+   "targetsPercentile": 75,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Gabe Davis": {
+  "name": "Gabe Davis",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 45,
+   "targets": 81,
+   "targetsRank": 51,
+   "targetsPercentile": 75,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Darius Slayton": {
+  "name": "Darius Slayton",
+  "opportunity": {
+   "snapPercentage": 86,
+   "receptions": 50,
+   "targets": 79,
+   "targetsRank": 52,
+   "targetsPercentile": 74,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Demario Douglas": {
+  "name": "Demario Douglas",
+  "opportunity": {
+   "snapPercentage": 59,
+   "receptions": 49,
+   "targets": 79,
+   "targetsRank": 53,
+   "targetsPercentile": 74,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Wan'Dale Robinson": {
+  "name": "Wan'Dale Robinson",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 60,
+   "targets": 78,
+   "targetsRank": 54,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Tee Higgins": {
+  "name": "Tee Higgins",
+  "opportunity": {
+   "snapPercentage": 74,
+   "receptions": 42,
+   "targets": 76,
+   "targetsRank": 55,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Tank Dell": {
+  "name": "Tank Dell",
+  "opportunity": {
+   "snapPercentage": 66,
+   "receptions": 47,
+   "targets": 75,
+   "targetsRank": 56,
+   "targetsPercentile": 72,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Rashid Shaheed": {
+  "name": "Rashid Shaheed",
+  "opportunity": {
+   "snapPercentage": 62,
+   "receptions": 46,
+   "targets": 75,
+   "targetsRank": 57,
+   "targetsPercentile": 72,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "K.J. Osborn": {
+  "name": "K.J. Osborn",
+  "opportunity": {
+   "snapPercentage": 84,
+   "receptions": 48,
+   "targets": 75,
+   "targetsRank": 58,
+   "targetsPercentile": 71,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Robert Woods": {
+  "name": "Robert Woods",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 40,
+   "targets": 75,
+   "targetsRank": 59,
+   "targetsPercentile": 71,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Trey Palmer": {
+  "name": "Trey Palmer",
+  "opportunity": {
+   "snapPercentage": 69,
+   "receptions": 39,
+   "targets": 68,
+   "targetsRank": 60,
+   "targetsPercentile": 70,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Tutu Atwell": {
+  "name": "Tutu Atwell",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 39,
+   "targets": 67,
+   "targetsRank": 61,
+   "targetsPercentile": 70,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Quentin Johnston": {
+  "name": "Quentin Johnston",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 38,
+   "targets": 67,
+   "targetsRank": 62,
+   "targetsPercentile": 69,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "DJ Chark Jr.": {
+  "name": "DJ Chark Jr.",
+  "opportunity": {
+   "snapPercentage": 80,
+   "receptions": 35,
+   "targets": 66,
+   "targetsRank": 63,
+   "targetsPercentile": 69,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Alec Pierce": {
+  "name": "Alec Pierce",
+  "opportunity": {
+   "snapPercentage": 101,
+   "receptions": 32,
+   "targets": 65,
+   "targetsRank": 64,
+   "targetsPercentile": 68,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Josh Reynolds": {
+  "name": "Josh Reynolds",
+  "opportunity": {
+   "snapPercentage": 74,
+   "receptions": 40,
+   "targets": 64,
+   "targetsRank": 65,
+   "targetsPercentile": 68,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Odell Beckham Jr.": {
+  "name": "Odell Beckham Jr.",
+  "opportunity": {
+   "snapPercentage": 50,
+   "receptions": 35,
+   "targets": 64,
+   "targetsRank": 66,
+   "targetsPercentile": 67,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Michael Thomas": {
+  "name": "Michael Thomas",
+  "opportunity": {
+   "snapPercentage": 69,
+   "receptions": 39,
+   "targets": 64,
+   "targetsRank": 67,
+   "targetsPercentile": 67,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Zay Jones": {
+  "name": "Zay Jones",
+  "opportunity": {
+   "snapPercentage": 82,
+   "receptions": 34,
+   "targets": 64,
+   "targetsRank": 68,
+   "targetsPercentile": 67,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Rondale Moore": {
+  "name": "Rondale Moore",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 40,
+   "targets": 62,
+   "targetsRank": 69,
+   "targetsPercentile": 66,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Joshua Palmer": {
+  "name": "Joshua Palmer",
+  "opportunity": {
+   "snapPercentage": 85,
+   "receptions": 38,
+   "targets": 61,
+   "targetsRank": 70,
+   "targetsPercentile": 66,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Darnell Mooney": {
+  "name": "Darnell Mooney",
+  "opportunity": {
+   "snapPercentage": 75,
+   "receptions": 31,
+   "targets": 61,
+   "targetsRank": 71,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Dontayvion Wicks": {
+  "name": "Dontayvion Wicks",
+  "opportunity": {
+   "snapPercentage": 51,
+   "receptions": 39,
+   "targets": 58,
+   "targetsRank": 72,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Michael Wilson": {
+  "name": "Michael Wilson",
+  "opportunity": {
+   "snapPercentage": 87,
+   "receptions": 38,
+   "targets": 58,
+   "targetsRank": 73,
+   "targetsPercentile": 64,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Michael Gallup": {
+  "name": "Michael Gallup",
+  "opportunity": {
+   "snapPercentage": 55,
+   "receptions": 34,
+   "targets": 57,
+   "targetsRank": 74,
+   "targetsPercentile": 64,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Rashod Bateman": {
+  "name": "Rashod Bateman",
+  "opportunity": {
+   "snapPercentage": 60,
+   "receptions": 32,
+   "targets": 56,
+   "targetsRank": 75,
+   "targetsPercentile": 63,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Noah Brown": {
+  "name": "Noah Brown",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 33,
+   "targets": 55,
+   "targetsRank": 76,
+   "targetsPercentile": 63,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Kendrick Bourne": {
+  "name": "Kendrick Bourne",
+  "opportunity": {
+   "snapPercentage": 73,
+   "receptions": 37,
+   "targets": 55,
+   "targetsRank": 77,
+   "targetsPercentile": 62,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "DeVante Parker": {
+  "name": "DeVante Parker",
+  "opportunity": {
+   "snapPercentage": 80,
+   "receptions": 33,
+   "targets": 55,
+   "targetsRank": 78,
+   "targetsPercentile": 62,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Christian Watson": {
+  "name": "Christian Watson",
+  "opportunity": {
+   "snapPercentage": 77,
+   "receptions": 28,
+   "targets": 53,
+   "targetsRank": 79,
+   "targetsPercentile": 61,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Justin Watson": {
+  "name": "Justin Watson",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 27,
+   "targets": 53,
+   "targetsRank": 80,
+   "targetsPercentile": 61,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Allen Robinson II": {
+  "name": "Allen Robinson II",
+  "opportunity": {
+   "snapPercentage": 76,
+   "receptions": 34,
+   "targets": 49,
+   "targetsRank": 81,
+   "targetsPercentile": 60,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Allen Lazard": {
+  "name": "Allen Lazard",
+  "opportunity": {
+   "snapPercentage": 76,
+   "receptions": 23,
+   "targets": 49,
+   "targetsRank": 82,
+   "targetsPercentile": 60,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "JuJu Smith-Schuster": {
+  "name": "JuJu Smith-Schuster",
+  "opportunity": {
+   "snapPercentage": 65,
+   "receptions": 29,
+   "targets": 47,
+   "targetsRank": 83,
+   "targetsPercentile": 59,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Khalil Shakir": {
+  "name": "Khalil Shakir",
+  "opportunity": {
+   "snapPercentage": 56,
+   "receptions": 39,
+   "targets": 45,
+   "targetsRank": 84,
+   "targetsPercentile": 59,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nelson Agholor": {
+  "name": "Nelson Agholor",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 35,
+   "targets": 45,
+   "targetsRank": 85,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nick Westbrook-Ikhine": {
+  "name": "Nick Westbrook-Ikhine",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 28,
+   "targets": 45,
+   "targetsRank": 86,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kalif Raymond": {
+  "name": "Kalif Raymond",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 35,
+   "targets": 44,
+   "targetsRank": 87,
+   "targetsPercentile": 57,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brandon Powell": {
+  "name": "Brandon Powell",
+  "opportunity": {
+   "snapPercentage": 44,
+   "receptions": 29,
+   "targets": 44,
+   "targetsRank": 88,
+   "targetsPercentile": 57,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cedric Tillman": {
+  "name": "Cedric Tillman",
+  "opportunity": {
+   "snapPercentage": 64,
+   "receptions": 21,
+   "targets": 44,
+   "targetsRank": 89,
+   "targetsPercentile": 56,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Van Jefferson": {
+  "name": "Van Jefferson",
+  "opportunity": {
+   "snapPercentage": 57,
+   "receptions": 20,
+   "targets": 43,
+   "targetsRank": 90,
+   "targetsPercentile": 56,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jameson Williams": {
+  "name": "Jameson Williams",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 24,
+   "targets": 42,
+   "targetsRank": 91,
+   "targetsPercentile": 55,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Marquez Valdes-Scantling": {
+  "name": "Marquez Valdes-Scantling",
+  "opportunity": {
+   "snapPercentage": 58,
+   "receptions": 21,
+   "targets": 42,
+   "targetsRank": 92,
+   "targetsPercentile": 55,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Greg Dortch": {
+  "name": "Greg Dortch",
+  "opportunity": {
+   "snapPercentage": 50,
+   "receptions": 24,
+   "targets": 41,
+   "targetsRank": 93,
+   "targetsPercentile": 54,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalin Hyatt": {
+  "name": "Jalin Hyatt",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 23,
+   "targets": 40,
+   "targetsRank": 94,
+   "targetsPercentile": 54,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Demarcus Robinson": {
+  "name": "Demarcus Robinson",
+  "opportunity": {
+   "snapPercentage": 47,
+   "receptions": 26,
+   "targets": 39,
+   "targetsRank": 95,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cedrick Wilson Jr.": {
+  "name": "Cedrick Wilson Jr.",
+  "opportunity": {
+   "snapPercentage": 59,
+   "receptions": 22,
+   "targets": 38,
+   "targetsRank": 96,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Xavier Gipson": {
+  "name": "Xavier Gipson",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 21,
+   "targets": 38,
+   "targetsRank": 97,
+   "targetsPercentile": 52,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Skyy Moore": {
+  "name": "Skyy Moore",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 21,
+   "targets": 38,
+   "targetsRank": 98,
+   "targetsPercentile": 52,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kadarius Toney": {
+  "name": "Kadarius Toney",
+  "opportunity": {
+   "snapPercentage": 26,
+   "receptions": 27,
+   "targets": 38,
+   "targetsRank": 99,
+   "targetsPercentile": 51,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Hunter Renfrow": {
+  "name": "Hunter Renfrow",
+  "opportunity": {
+   "snapPercentage": 37,
+   "receptions": 25,
+   "targets": 37,
+   "targetsRank": 100,
+   "targetsPercentile": 51,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalen Tolbert": {
+  "name": "Jalen Tolbert",
+  "opportunity": {
+   "snapPercentage": 43,
+   "receptions": 22,
+   "targets": 36,
+   "targetsRank": 101,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chris Moore": {
+  "name": "Chris Moore",
+  "opportunity": {
+   "snapPercentage": 60,
+   "receptions": 22,
+   "targets": 35,
+   "targetsRank": 102,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tre Tucker": {
+  "name": "Tre Tucker",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 19,
+   "targets": 34,
+   "targetsRank": 103,
+   "targetsPercentile": 49,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Marvin Mims Jr.": {
+  "name": "Marvin Mims Jr.",
+  "opportunity": {
+   "snapPercentage": 41,
+   "receptions": 22,
+   "targets": 33,
+   "targetsRank": 104,
+   "targetsPercentile": 49,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Isaiah Hodgins": {
+  "name": "Isaiah Hodgins",
+  "opportunity": {
+   "snapPercentage": 49,
+   "receptions": 21,
+   "targets": 33,
+   "targetsRank": 105,
+   "targetsPercentile": 48,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Braxton Berrios": {
+  "name": "Braxton Berrios",
+  "opportunity": {
+   "snapPercentage": 47,
+   "receptions": 27,
+   "targets": 33,
+   "targetsRank": 106,
+   "targetsPercentile": 48,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jauan Jennings": {
+  "name": "Jauan Jennings",
+  "opportunity": {
+   "snapPercentage": 45,
+   "receptions": 19,
+   "targets": 33,
+   "targetsRank": 107,
+   "targetsPercentile": 47,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Terrace Marshall Jr.": {
+  "name": "Terrace Marshall Jr.",
+  "opportunity": {
+   "snapPercentage": 60,
+   "receptions": 19,
+   "targets": 33,
+   "targetsRank": 108,
+   "targetsPercentile": 47,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Trenton Irwin": {
+  "name": "Trenton Irwin",
+  "opportunity": {
+   "snapPercentage": 45,
+   "receptions": 25,
+   "targets": 32,
+   "targetsRank": 109,
+   "targetsPercentile": 46,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyler Scott": {
+  "name": "Tyler Scott",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 17,
+   "targets": 32,
+   "targetsRank": 110,
+   "targetsPercentile": 46,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brandon Johnson": {
+  "name": "Brandon Johnson",
+  "opportunity": {
+   "snapPercentage": 46,
+   "receptions": 19,
+   "targets": 30,
+   "targetsRank": 111,
+   "targetsPercentile": 45,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Calvin Austin III": {
+  "name": "Calvin Austin III",
+  "opportunity": {
+   "snapPercentage": 37,
+   "receptions": 17,
+   "targets": 30,
+   "targetsRank": 112,
+   "targetsPercentile": 45,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mack Hollins": {
+  "name": "Mack Hollins",
+  "opportunity": {
+   "snapPercentage": 42,
+   "receptions": 18,
+   "targets": 30,
+   "targetsRank": 113,
+   "targetsPercentile": 44,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Treylon Burks": {
+  "name": "Treylon Burks",
+  "opportunity": {
+   "snapPercentage": 67,
+   "receptions": 16,
+   "targets": 30,
+   "targetsRank": 114,
+   "targetsPercentile": 44,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "John Metchie III": {
+  "name": "John Metchie III",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 16,
+   "targets": 30,
+   "targetsRank": 115,
+   "targetsPercentile": 43,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Alex Erickson": {
+  "name": "Alex Erickson",
+  "opportunity": {
+   "snapPercentage": 72,
+   "receptions": 16,
+   "targets": 29,
+   "targetsRank": 116,
+   "targetsPercentile": 43,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Parris Campbell": {
+  "name": "Parris Campbell",
+  "opportunity": {
+   "snapPercentage": 29,
+   "receptions": 20,
+   "targets": 27,
+   "targetsRank": 117,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mike Williams": {
+  "name": "Mike Williams",
+  "opportunity": {
+   "snapPercentage": 78,
+   "receptions": 19,
+   "targets": 26,
+   "targetsRank": 118,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jake Bobo": {
+  "name": "Jake Bobo",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 19,
+   "targets": 25,
+   "targetsRank": 119,
+   "targetsPercentile": 41,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Andrei Iosivas": {
+  "name": "Andrei Iosivas",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 15,
+   "targets": 25,
+   "targetsRank": 120,
+   "targetsPercentile": 41,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Deven Thompkins": {
+  "name": "Deven Thompkins",
+  "opportunity": {
+   "snapPercentage": 24,
+   "receptions": 17,
+   "targets": 25,
+   "targetsRank": 121,
+   "targetsPercentile": 40,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Donovan Peoples-Jones": {
+  "name": "Donovan Peoples-Jones",
+  "opportunity": {
+   "snapPercentage": 50,
+   "receptions": 13,
+   "targets": 25,
+   "targetsRank": 122,
+   "targetsPercentile": 40,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Bo Melton": {
+  "name": "Bo Melton",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 16,
+   "targets": 24,
+   "targetsRank": 123,
+   "targetsPercentile": 39,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Malik Heath": {
+  "name": "Malik Heath",
+  "opportunity": {
+   "snapPercentage": 33,
+   "receptions": 15,
+   "targets": 24,
+   "targetsRank": 124,
+   "targetsPercentile": 39,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mecole Hardman Jr.": {
+  "name": "Mecole Hardman Jr.",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 15,
+   "targets": 24,
+   "targetsRank": 125,
+   "targetsPercentile": 38,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "David Bell": {
+  "name": "David Bell",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 14,
+   "targets": 23,
+   "targetsRank": 126,
+   "targetsPercentile": 38,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "KhaDarel Hodge": {
+  "name": "KhaDarel Hodge",
+  "opportunity": {
+   "snapPercentage": 35,
+   "receptions": 14,
+   "targets": 23,
+   "targetsRank": 127,
+   "targetsPercentile": 37,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Dyami Brown": {
+  "name": "Dyami Brown",
+  "opportunity": {
+   "snapPercentage": 24,
+   "receptions": 12,
+   "targets": 23,
+   "targetsRank": 128,
+   "targetsPercentile": 37,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalen Reagor": {
+  "name": "Jalen Reagor",
+  "opportunity": {
+   "snapPercentage": 52,
+   "receptions": 7,
+   "targets": 23,
+   "targetsRank": 129,
+   "targetsPercentile": 36,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyquan Thornton": {
+  "name": "Tyquan Thornton",
+  "opportunity": {
+   "snapPercentage": 42,
+   "receptions": 13,
+   "targets": 23,
+   "targetsRank": 130,
+   "targetsPercentile": 36,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kyle Philips": {
+  "name": "Kyle Philips",
+  "opportunity": {
+   "snapPercentage": 27,
+   "receptions": 15,
+   "targets": 22,
+   "targetsRank": 131,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Byron Pringle": {
+  "name": "Byron Pringle",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 14,
+   "targets": 22,
+   "targetsRank": 132,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Trent Sherfield": {
+  "name": "Trent Sherfield",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 11,
+   "targets": 22,
+   "targetsRank": 133,
+   "targetsPercentile": 34,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Sterling Shepard": {
+  "name": "Sterling Shepard",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 10,
+   "targets": 22,
+   "targetsRank": 134,
+   "targetsPercentile": 34,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jamal Agnew": {
+  "name": "Jamal Agnew",
+  "opportunity": {
+   "snapPercentage": 27,
+   "receptions": 14,
+   "targets": 21,
+   "targetsRank": 135,
+   "targetsPercentile": 33,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Deonte Harty": {
+  "name": "Deonte Harty",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 15,
+   "targets": 21,
+   "targetsRank": 136,
+   "targetsPercentile": 33,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Parker Washington": {
+  "name": "Parker Washington",
+  "opportunity": {
+   "snapPercentage": 44,
+   "receptions": 16,
+   "targets": 21,
+   "targetsRank": 137,
+   "targetsPercentile": 33,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Quez Watkins": {
+  "name": "Quez Watkins",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 15,
+   "targets": 21,
+   "targetsRank": 138,
+   "targetsPercentile": 32,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalen Guyton": {
+  "name": "Jalen Guyton",
+  "opportunity": {
+   "snapPercentage": 49,
+   "receptions": 10,
+   "targets": 21,
+   "targetsRank": 139,
+   "targetsPercentile": 32,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chase Claypool": {
+  "name": "Chase Claypool",
+  "opportunity": {
+   "snapPercentage": 35,
+   "receptions": 8,
+   "targets": 21,
+   "targetsRank": 140,
+   "targetsPercentile": 31,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Olamide Zaccheaus": {
+  "name": "Olamide Zaccheaus",
+  "opportunity": {
+   "snapPercentage": 44,
+   "receptions": 10,
+   "targets": 20,
+   "targetsRank": 141,
+   "targetsPercentile": 31,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jamison Crowder": {
+  "name": "Jamison Crowder",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 16,
+   "targets": 20,
+   "targetsRank": 142,
+   "targetsPercentile": 30,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Lil'Jordan Humphrey": {
+  "name": "Lil'Jordan Humphrey",
+  "opportunity": {
+   "snapPercentage": 42,
+   "receptions": 13,
+   "targets": 19,
+   "targetsRank": 143,
+   "targetsPercentile": 30,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Julio Jones": {
+  "name": "Julio Jones",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 11,
+   "targets": 19,
+   "targetsRank": 144,
+   "targetsPercentile": 29,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Xavier Hutchinson": {
+  "name": "Xavier Hutchinson",
+  "opportunity": {
+   "snapPercentage": 32,
+   "receptions": 8,
+   "targets": 19,
+   "targetsRank": 145,
+   "targetsPercentile": 29,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "A.T. Perry": {
+  "name": "A.T. Perry",
+  "opportunity": {
+   "snapPercentage": 59,
+   "receptions": 12,
+   "targets": 18,
+   "targetsRank": 146,
+   "targetsPercentile": 28,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "KaVontae Turpin": {
+  "name": "KaVontae Turpin",
+  "opportunity": {
+   "snapPercentage": 14,
+   "receptions": 12,
+   "targets": 18,
+   "targetsRank": 147,
+   "targetsPercentile": 28,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tim Jones": {
+  "name": "Tim Jones",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 11,
+   "targets": 18,
+   "targetsRank": 148,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Samori Toure": {
+  "name": "Samori Toure",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 8,
+   "targets": 18,
+   "targetsRank": 149,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Derius Davis": {
+  "name": "Derius Davis",
+  "opportunity": {
+   "snapPercentage": 15,
+   "receptions": 15,
+   "targets": 17,
+   "targetsRank": 150,
+   "targetsPercentile": 26,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Randall Cobb": {
+  "name": "Randall Cobb",
+  "opportunity": {
+   "snapPercentage": 34,
+   "receptions": 5,
+   "targets": 17,
+   "targetsRank": 151,
+   "targetsPercentile": 26,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Scott Miller": {
+  "name": "Scott Miller",
+  "opportunity": {
+   "snapPercentage": 25,
+   "receptions": 11,
+   "targets": 16,
+   "targetsRank": 152,
+   "targetsPercentile": 25,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Lynn Bowden Jr.": {
+  "name": "Lynn Bowden Jr.",
+  "opportunity": {
+   "snapPercentage": 34,
+   "receptions": 11,
+   "targets": 16,
+   "targetsRank": 153,
+   "targetsPercentile": 25,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ray-Ray McCloud III": {
+  "name": "Ray-Ray McCloud III",
+  "opportunity": {
+   "snapPercentage": 33,
+   "receptions": 12,
+   "targets": 15,
+   "targetsRank": 154,
+   "targetsPercentile": 24,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Zach Pascal": {
+  "name": "Zach Pascal",
+  "opportunity": {
+   "snapPercentage": 23,
+   "receptions": 4,
+   "targets": 15,
+   "targetsRank": 155,
+   "targetsPercentile": 24,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Richie James Jr.": {
+  "name": "Richie James Jr.",
+  "opportunity": {
+   "snapPercentage": 26,
+   "receptions": 10,
+   "targets": 14,
+   "targetsRank": 156,
+   "targetsPercentile": 23,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Isaiah McKenzie": {
+  "name": "Isaiah McKenzie",
+  "opportunity": {
+   "snapPercentage": 13,
+   "receptions": 11,
+   "targets": 14,
+   "targetsRank": 157,
+   "targetsPercentile": 23,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ronnie Bell": {
+  "name": "Ronnie Bell",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 6,
+   "targets": 13,
+   "targetsRank": 158,
+   "targetsPercentile": 22,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Marquise Goodwin": {
+  "name": "Marquise Goodwin",
+  "opportunity": {
+   "snapPercentage": 14,
+   "receptions": 4,
+   "targets": 13,
+   "targetsRank": 159,
+   "targetsPercentile": 22,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Keelan Doss": {
+  "name": "Keelan Doss",
+  "opportunity": {
+   "snapPercentage": 37,
+   "receptions": 6,
+   "targets": 13,
+   "targetsRank": 160,
+   "targetsPercentile": 21,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "River Cracraft": {
+  "name": "River Cracraft",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 9,
+   "targets": 12,
+   "targetsRank": 161,
+   "targetsPercentile": 21,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ben Skowronek": {
+  "name": "Ben Skowronek",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 8,
+   "targets": 12,
+   "targetsRank": 162,
+   "targetsPercentile": 20,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Justyn Ross": {
+  "name": "Justyn Ross",
+  "opportunity": {
+   "snapPercentage": 22,
+   "receptions": 6,
+   "targets": 11,
+   "targetsRank": 164,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ihmir Smith-Marsette": {
+  "name": "Ihmir Smith-Marsette",
+  "opportunity": {
+   "snapPercentage": 15,
+   "receptions": 8,
+   "targets": 10,
+   "targetsRank": 165,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Laviska Shenault Jr.": {
+  "name": "Laviska Shenault Jr.",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 10,
+   "targets": 10,
+   "targetsRank": 166,
+   "targetsPercentile": 18,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Marvin Jones Jr.": {
+  "name": "Marvin Jones Jr.",
+  "opportunity": {
+   "snapPercentage": 43,
+   "receptions": 5,
+   "targets": 10,
+   "targetsRank": 167,
+   "targetsPercentile": 18,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Charlie Jones": {
+  "name": "Charlie Jones",
+  "opportunity": {
+   "snapPercentage": 10,
+   "receptions": 7,
+   "targets": 9,
+   "targetsRank": 168,
+   "targetsPercentile": 17,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Keith Kirkwood": {
+  "name": "Keith Kirkwood",
+  "opportunity": {
+   "snapPercentage": 26,
+   "receptions": 5,
+   "targets": 9,
+   "targetsRank": 169,
+   "targetsPercentile": 17,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Rakim Jarrett": {
+  "name": "Rakim Jarrett",
+  "opportunity": {
+   "snapPercentage": 18,
+   "receptions": 4,
+   "targets": 9,
+   "targetsRank": 170,
+   "targetsPercentile": 16,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Devin Duvernay": {
+  "name": "Devin Duvernay",
+  "opportunity": {
+   "snapPercentage": 18,
+   "receptions": 4,
+   "targets": 9,
+   "targetsRank": 171,
+   "targetsPercentile": 16,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jason Brownlee": {
+  "name": "Jason Brownlee",
+  "opportunity": {
+   "snapPercentage": 76,
+   "receptions": 5,
+   "targets": 8,
+   "targetsRank": 172,
+   "targetsPercentile": 15,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "D.J. Montgomery": {
+  "name": "D.J. Montgomery",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 3,
+   "targets": 8,
+   "targetsRank": 173,
+   "targetsPercentile": 15,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "David Moore": {
+  "name": "David Moore",
+  "opportunity": {
+   "snapPercentage": 27,
+   "receptions": 5,
+   "targets": 7,
+   "targetsRank": 174,
+   "targetsPercentile": 14,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Velus Jones Jr.": {
+  "name": "Velus Jones Jr.",
+  "opportunity": {
+   "snapPercentage": 12,
+   "receptions": 4,
+   "targets": 7,
+   "targetsRank": 175,
+   "targetsPercentile": 14,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "DeAndre Carter": {
+  "name": "DeAndre Carter",
+  "opportunity": {
+   "snapPercentage": 11,
+   "receptions": 4,
+   "targets": 7,
+   "targetsRank": 176,
+   "targetsPercentile": 13,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Austin Trammell": {
+  "name": "Austin Trammell",
+  "opportunity": {
+   "snapPercentage": 9,
+   "receptions": 4,
+   "targets": 7,
+   "targetsRank": 177,
+   "targetsPercentile": 13,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kayshon Boutte": {
+  "name": "Kayshon Boutte",
+  "opportunity": {
+   "snapPercentage": 42,
+   "receptions": 2,
+   "targets": 7,
+   "targetsRank": 178,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Robbie Chosen": {
+  "name": "Robbie Chosen",
+  "opportunity": {
+   "snapPercentage": 26,
+   "receptions": 4,
+   "targets": 6,
+   "targetsRank": 179,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalen Brooks": {
+  "name": "Jalen Brooks",
+  "opportunity": {
+   "snapPercentage": 18,
+   "receptions": 6,
+   "targets": 6,
+   "targetsRank": 180,
+   "targetsPercentile": 11,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Equanimeous St. Brown": {
+  "name": "Equanimeous St. Brown",
+  "opportunity": {
+   "snapPercentage": 50,
+   "receptions": 5,
+   "targets": 6,
+   "targetsRank": 181,
+   "targetsPercentile": 11,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chris Conley": {
+  "name": "Chris Conley",
+  "opportunity": {
+   "snapPercentage": 25,
+   "receptions": 3,
+   "targets": 6,
+   "targetsRank": 182,
+   "targetsPercentile": 10,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Britain Covey": {
+  "name": "Britain Covey",
+  "opportunity": {
+   "snapPercentage": 12,
+   "receptions": 4,
+   "targets": 6,
+   "targetsRank": 183,
+   "targetsPercentile": 10,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jalen Nailor": {
+  "name": "Jalen Nailor",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 3,
+   "targets": 6,
+   "targetsRank": 184,
+   "targetsPercentile": 9,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Lawrence Cager": {
+  "name": "Lawrence Cager",
+  "opportunity": {
+   "snapPercentage": 18,
+   "receptions": 4,
+   "targets": 5,
+   "targetsRank": 94,
+   "targetsPercentile": 17,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "James Proche II": {
+  "name": "James Proche II",
+  "opportunity": {
+   "snapPercentage": 39,
+   "receptions": 0,
+   "targets": 5,
+   "targetsRank": 186,
+   "targetsPercentile": 8,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Elijah Cooks": {
+  "name": "Elijah Cooks",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 3,
+   "targets": 4,
+   "targetsRank": 187,
+   "targetsPercentile": 8,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Trishton Jackson": {
+  "name": "Trishton Jackson",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 2,
+   "targets": 4,
+   "targetsRank": 188,
+   "targetsPercentile": 7,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Miles Boykin": {
+  "name": "Miles Boykin",
+  "opportunity": {
+   "snapPercentage": 13,
+   "receptions": 3,
+   "targets": 4,
+   "targetsRank": 189,
+   "targetsPercentile": 7,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Malik Taylor": {
+  "name": "Malik Taylor",
+  "opportunity": {
+   "snapPercentage": 24,
+   "receptions": 2,
+   "targets": 4,
+   "targetsRank": 190,
+   "targetsPercentile": 6,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tyler Johnson": {
+  "name": "Tyler Johnson",
+  "opportunity": {
+   "snapPercentage": null,
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 191,
+   "targetsPercentile": 6,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Steven Sims Jr.": {
+  "name": "Steven Sims Jr.",
+  "opportunity": {
+   "snapPercentage": 5,
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 192,
+   "targetsPercentile": 5,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mike Strachan": {
+  "name": "Mike Strachan",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 1,
+   "targets": 3,
+   "targetsRank": 193,
+   "targetsPercentile": 5,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Willie Snead IV": {
+  "name": "Willie Snead IV",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 194,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Laquon Treadwell": {
+  "name": "Laquon Treadwell",
+  "opportunity": {
+   "snapPercentage": 57,
+   "receptions": 1,
+   "targets": 3,
+   "targetsRank": 195,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Phillip Dorsett II": {
+  "name": "Phillip Dorsett II",
+  "opportunity": {
+   "snapPercentage": 26,
+   "receptions": 0,
+   "targets": 3,
+   "targetsRank": 196,
+   "targetsPercentile": 3,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tylan Wallace": {
+  "name": "Tylan Wallace",
+  "opportunity": {
+   "snapPercentage": 12,
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 197,
+   "targetsPercentile": 3,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Simi Fehoko": {
+  "name": "Simi Fehoko",
+  "opportunity": {
+   "snapPercentage": 9,
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 198,
+   "targetsPercentile": 2,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Colton Dowell": {
+  "name": "Colton Dowell",
+  "opportunity": {
+   "snapPercentage": 9,
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 199,
+   "targetsPercentile": 2,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Antoine Green": {
+  "name": "Antoine Green",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 200,
+   "targetsPercentile": 1,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Amari Rodgers": {
+  "name": "Amari Rodgers",
+  "opportunity": {
+   "snapPercentage": 12,
+   "receptions": 0,
+   "targets": 2,
+   "targetsRank": 201,
+   "targetsPercentile": 1,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Rodney Williams": {
+  "name": "Rodney Williams",
+  "opportunity": {
+   "snapPercentage": 8,
+   "receptions": 0,
+   "targets": 2,
+   "targetsRank": 109,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Damiere Byrd": {
+  "name": "Damiere Byrd",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 0,
+   "targets": 2,
+   "targetsRank": 203,
+   "targetsPercentile": 0,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Evan Engram": {
+  "name": "Evan Engram",
+  "opportunity": {
+   "snapPercentage": 84,
+   "receptions": 114,
+   "targets": 143,
+   "targetsRank": 1,
+   "targetsPercentile": 99,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "T.J. Hockenson": {
+  "name": "T.J. Hockenson",
+  "opportunity": {
+   "snapPercentage": 79,
+   "receptions": 95,
+   "targets": 127,
+   "targetsRank": 2,
+   "targetsPercentile": 98,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "David Njoku": {
+  "name": "David Njoku",
+  "opportunity": {
+   "snapPercentage": 82,
+   "receptions": 81,
+   "targets": 123,
+   "targetsRank": 3,
+   "targetsPercentile": 97,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Travis Kelce": {
+  "name": "Travis Kelce",
+  "opportunity": {
+   "snapPercentage": 77,
+   "receptions": 93,
+   "targets": 121,
+   "targetsRank": 4,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Sam LaPorta": {
+  "name": "Sam LaPorta",
+  "opportunity": {
+   "snapPercentage": 88,
+   "receptions": 86,
+   "targets": 120,
+   "targetsRank": 5,
+   "targetsPercentile": 96,
+   "targetsGrade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  }
+ },
+ "Trey McBride": {
+  "name": "Trey McBride",
+  "opportunity": {
+   "snapPercentage": 74,
+   "receptions": 81,
+   "targets": 106,
+   "targetsRank": 6,
+   "targetsPercentile": 95,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Jake Ferguson": {
+  "name": "Jake Ferguson",
+  "opportunity": {
+   "snapPercentage": 79,
+   "receptions": 71,
+   "targets": 102,
+   "targetsRank": 7,
+   "targetsPercentile": 94,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Dalton Kincaid": {
+  "name": "Dalton Kincaid",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 73,
+   "targets": 91,
+   "targetsRank": 8,
+   "targetsPercentile": 93,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "George Kittle": {
+  "name": "George Kittle",
+  "opportunity": {
+   "snapPercentage": 89,
+   "receptions": 65,
+   "targets": 90,
+   "targetsRank": 9,
+   "targetsPercentile": 92,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Cole Kmet": {
+  "name": "Cole Kmet",
+  "opportunity": {
+   "snapPercentage": 81,
+   "receptions": 73,
+   "targets": 90,
+   "targetsRank": 10,
+   "targetsPercentile": 91,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Kyle Pitts": {
+  "name": "Kyle Pitts",
+  "opportunity": {
+   "snapPercentage": 68,
+   "receptions": 53,
+   "targets": 90,
+   "targetsRank": 11,
+   "targetsPercentile": 90,
+   "targetsGrade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  }
+ },
+ "Dalton Schultz": {
+  "name": "Dalton Schultz",
+  "opportunity": {
+   "snapPercentage": 77,
+   "receptions": 59,
+   "targets": 88,
+   "targetsRank": 12,
+   "targetsPercentile": 89,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Tyler Conklin": {
+  "name": "Tyler Conklin",
+  "opportunity": {
+   "snapPercentage": 75,
+   "receptions": 61,
+   "targets": 87,
+   "targetsRank": 13,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Dallas Goedert": {
+  "name": "Dallas Goedert",
+  "opportunity": {
+   "snapPercentage": 91,
+   "receptions": 59,
+   "targets": 83,
+   "targetsRank": 14,
+   "targetsPercentile": 88,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Logan Thomas": {
+  "name": "Logan Thomas",
+  "opportunity": {
+   "snapPercentage": 73,
+   "receptions": 55,
+   "targets": 78,
+   "targetsRank": 15,
+   "targetsPercentile": 87,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Chigoziem Okonkwo": {
+  "name": "Chigoziem Okonkwo",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 54,
+   "targets": 77,
+   "targetsRank": 16,
+   "targetsPercentile": 86,
+   "targetsGrade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  }
+ },
+ "Darren Waller": {
+  "name": "Darren Waller",
+  "opportunity": {
+   "snapPercentage": 75,
+   "receptions": 52,
+   "targets": 74,
+   "targetsRank": 17,
+   "targetsPercentile": 85,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Jonnu Smith": {
+  "name": "Jonnu Smith",
+  "opportunity": {
+   "snapPercentage": 61,
+   "receptions": 50,
+   "targets": 70,
+   "targetsRank": 18,
+   "targetsPercentile": 84,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Gerald Everett": {
+  "name": "Gerald Everett",
+  "opportunity": {
+   "snapPercentage": 61,
+   "receptions": 51,
+   "targets": 70,
+   "targetsRank": 19,
+   "targetsPercentile": 83,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Tyler Higbee": {
+  "name": "Tyler Higbee",
+  "opportunity": {
+   "snapPercentage": 86,
+   "receptions": 47,
+   "targets": 70,
+   "targetsRank": 20,
+   "targetsPercentile": 82,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Cade Otton": {
+  "name": "Cade Otton",
+  "opportunity": {
+   "snapPercentage": 103,
+   "receptions": 47,
+   "targets": 67,
+   "targetsRank": 21,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Mark Andrews": {
+  "name": "Mark Andrews",
+  "opportunity": {
+   "snapPercentage": 70,
+   "receptions": 45,
+   "targets": 61,
+   "targetsRank": 22,
+   "targetsPercentile": 81,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Hunter Henry": {
+  "name": "Hunter Henry",
+  "opportunity": {
+   "snapPercentage": 75,
+   "receptions": 42,
+   "targets": 61,
+   "targetsRank": 23,
+   "targetsPercentile": 80,
+   "targetsGrade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  }
+ },
+ "Juwan Johnson": {
+  "name": "Juwan Johnson",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 37,
+   "targets": 59,
+   "targetsRank": 24,
+   "targetsPercentile": 79,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Tanner Hudson": {
+  "name": "Tanner Hudson",
+  "opportunity": {
+   "snapPercentage": 39,
+   "receptions": 39,
+   "targets": 50,
+   "targetsRank": 25,
+   "targetsPercentile": 78,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Kylen Granson": {
+  "name": "Kylen Granson",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 30,
+   "targets": 50,
+   "targetsRank": 26,
+   "targetsPercentile": 77,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Pat Freiermuth": {
+  "name": "Pat Freiermuth",
+  "opportunity": {
+   "snapPercentage": 69,
+   "receptions": 32,
+   "targets": 47,
+   "targetsRank": 27,
+   "targetsPercentile": 76,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Luke Musgrave": {
+  "name": "Luke Musgrave",
+  "opportunity": {
+   "snapPercentage": 72,
+   "receptions": 34,
+   "targets": 46,
+   "targetsRank": 28,
+   "targetsPercentile": 75,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Mike Gesicki": {
+  "name": "Mike Gesicki",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 29,
+   "targets": 45,
+   "targetsRank": 29,
+   "targetsPercentile": 74,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Noah Fant": {
+  "name": "Noah Fant",
+  "opportunity": {
+   "snapPercentage": 58,
+   "receptions": 32,
+   "targets": 43,
+   "targetsRank": 30,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Durham Smythe": {
+  "name": "Durham Smythe",
+  "opportunity": {
+   "snapPercentage": 80,
+   "receptions": 35,
+   "targets": 43,
+   "targetsRank": 31,
+   "targetsPercentile": 73,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Zach Ertz": {
+  "name": "Zach Ertz",
+  "opportunity": {
+   "snapPercentage": 64,
+   "receptions": 27,
+   "targets": 43,
+   "targetsRank": 32,
+   "targetsPercentile": 72,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Donald Parham Jr.": {
+  "name": "Donald Parham Jr.",
+  "opportunity": {
+   "snapPercentage": 53,
+   "receptions": 27,
+   "targets": 41,
+   "targetsRank": 33,
+   "targetsPercentile": 71,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Noah Gray": {
+  "name": "Noah Gray",
+  "opportunity": {
+   "snapPercentage": 55,
+   "receptions": 28,
+   "targets": 41,
+   "targetsRank": 34,
+   "targetsPercentile": 70,
+   "targetsGrade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  }
+ },
+ "Taysom Hill": {
+  "name": "Taysom Hill",
+  "opportunity": {
+   "snapPercentage": 41,
+   "receptions": 33,
+   "targets": 40,
+   "targetsRank": 35,
+   "targetsPercentile": 69,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Isaiah Likely": {
+  "name": "Isaiah Likely",
+  "opportunity": {
+   "snapPercentage": 46,
+   "receptions": 30,
+   "targets": 40,
+   "targetsRank": 36,
+   "targetsPercentile": 68,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Tucker Kraft": {
+  "name": "Tucker Kraft",
+  "opportunity": {
+   "snapPercentage": 60,
+   "receptions": 31,
+   "targets": 40,
+   "targetsRank": 37,
+   "targetsPercentile": 67,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Michael Mayer": {
+  "name": "Michael Mayer",
+  "opportunity": {
+   "snapPercentage": 71,
+   "receptions": 27,
+   "targets": 40,
+   "targetsRank": 38,
+   "targetsPercentile": 66,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Dawson Knox": {
+  "name": "Dawson Knox",
+  "opportunity": {
+   "snapPercentage": 66,
+   "receptions": 22,
+   "targets": 36,
+   "targetsRank": 39,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Adam Trautman": {
+  "name": "Adam Trautman",
+  "opportunity": {
+   "snapPercentage": 75,
+   "receptions": 22,
+   "targets": 35,
+   "targetsRank": 40,
+   "targetsPercentile": 65,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Colby Parkinson": {
+  "name": "Colby Parkinson",
+  "opportunity": {
+   "snapPercentage": 50,
+   "receptions": 25,
+   "targets": 34,
+   "targetsRank": 41,
+   "targetsPercentile": 64,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Connor Heyward": {
+  "name": "Connor Heyward",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 23,
+   "targets": 34,
+   "targetsRank": 42,
+   "targetsPercentile": 63,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Tommy Tremble": {
+  "name": "Tommy Tremble",
+  "opportunity": {
+   "snapPercentage": 54,
+   "receptions": 23,
+   "targets": 32,
+   "targetsRank": 43,
+   "targetsPercentile": 62,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Hayden Hurst": {
+  "name": "Hayden Hurst",
+  "opportunity": {
+   "snapPercentage": 51,
+   "receptions": 18,
+   "targets": 32,
+   "targetsRank": 44,
+   "targetsPercentile": 61,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Austin Hooper": {
+  "name": "Austin Hooper",
+  "opportunity": {
+   "snapPercentage": 57,
+   "receptions": 25,
+   "targets": 31,
+   "targetsRank": 45,
+   "targetsPercentile": 60,
+   "targetsGrade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  }
+ },
+ "Josh Oliver": {
+  "name": "Josh Oliver",
+  "opportunity": {
+   "snapPercentage": 44,
+   "receptions": 22,
+   "targets": 28,
+   "targetsRank": 46,
+   "targetsPercentile": 59,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Daniel Bellinger": {
+  "name": "Daniel Bellinger",
+  "opportunity": {
+   "snapPercentage": 66,
+   "receptions": 25,
+   "targets": 28,
+   "targetsRank": 47,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "John Bates": {
+  "name": "John Bates",
+  "opportunity": {
+   "snapPercentage": 47,
+   "receptions": 19,
+   "targets": 28,
+   "targetsRank": 48,
+   "targetsPercentile": 58,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Drew Sample": {
+  "name": "Drew Sample",
+  "opportunity": {
+   "snapPercentage": 49,
+   "receptions": 22,
+   "targets": 27,
+   "targetsRank": 49,
+   "targetsPercentile": 57,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Will Mallory": {
+  "name": "Will Mallory",
+  "opportunity": {
+   "snapPercentage": 22,
+   "receptions": 18,
+   "targets": 26,
+   "targetsRank": 50,
+   "targetsPercentile": 56,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Irv Smith Jr.": {
+  "name": "Irv Smith Jr.",
+  "opportunity": {
+   "snapPercentage": 44,
+   "receptions": 18,
+   "targets": 26,
+   "targetsRank": 51,
+   "targetsPercentile": 55,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Foster Moreau": {
+  "name": "Foster Moreau",
+  "opportunity": {
+   "snapPercentage": 57,
+   "receptions": 21,
+   "targets": 25,
+   "targetsRank": 52,
+   "targetsPercentile": 54,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Stephen Sullivan": {
+  "name": "Stephen Sullivan",
+  "opportunity": {
+   "snapPercentage": 25,
+   "receptions": 12,
+   "targets": 24,
+   "targetsRank": 53,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Johnny Mundt": {
+  "name": "Johnny Mundt",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 17,
+   "targets": 23,
+   "targetsRank": 54,
+   "targetsPercentile": 52,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jordan Akins": {
+  "name": "Jordan Akins",
+  "opportunity": {
+   "snapPercentage": 19,
+   "receptions": 15,
+   "targets": 23,
+   "targetsRank": 55,
+   "targetsPercentile": 51,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mo Alie-Cox": {
+  "name": "Mo Alie-Cox",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 13,
+   "targets": 22,
+   "targetsRank": 56,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Will Dissly": {
+  "name": "Will Dissly",
+  "opportunity": {
+   "snapPercentage": 41,
+   "receptions": 17,
+   "targets": 22,
+   "targetsRank": 57,
+   "targetsPercentile": 50,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jeremy Ruckert": {
+  "name": "Jeremy Ruckert",
+  "opportunity": {
+   "snapPercentage": 32,
+   "receptions": 16,
+   "targets": 22,
+   "targetsRank": 58,
+   "targetsPercentile": 49,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brevin Jordan": {
+  "name": "Brevin Jordan",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 17,
+   "targets": 21,
+   "targetsRank": 59,
+   "targetsPercentile": 48,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Andrew Ogletree": {
+  "name": "Andrew Ogletree",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 9,
+   "targets": 21,
+   "targetsRank": 60,
+   "targetsPercentile": 47,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Stone Smartt": {
+  "name": "Stone Smartt",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 11,
+   "targets": 21,
+   "targetsRank": 61,
+   "targetsPercentile": 46,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Harrison Bryant": {
+  "name": "Harrison Bryant",
+  "opportunity": {
+   "snapPercentage": 34,
+   "receptions": 13,
+   "targets": 20,
+   "targetsRank": 62,
+   "targetsPercentile": 45,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Elijah Higgins": {
+  "name": "Elijah Higgins",
+  "opportunity": {
+   "snapPercentage": 29,
+   "receptions": 14,
+   "targets": 19,
+   "targetsRank": 63,
+   "targetsPercentile": 44,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Robert Tonyan": {
+  "name": "Robert Tonyan",
+  "opportunity": {
+   "snapPercentage": 30,
+   "receptions": 11,
+   "targets": 17,
+   "targetsRank": 64,
+   "targetsPercentile": 43,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Pharaoh Brown": {
+  "name": "Pharaoh Brown",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 13,
+   "targets": 15,
+   "targetsRank": 65,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Luke Farrell": {
+  "name": "Luke Farrell",
+  "opportunity": {
+   "snapPercentage": 38,
+   "receptions": 13,
+   "targets": 15,
+   "targetsRank": 66,
+   "targetsPercentile": 42,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Luke Schoonmaker": {
+  "name": "Luke Schoonmaker",
+  "opportunity": {
+   "snapPercentage": 33,
+   "receptions": 8,
+   "targets": 15,
+   "targetsRank": 67,
+   "targetsPercentile": 41,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Josh Whyle": {
+  "name": "Josh Whyle",
+  "opportunity": {
+   "snapPercentage": 23,
+   "receptions": 9,
+   "targets": 15,
+   "targetsRank": 68,
+   "targetsPercentile": 40,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cole Turner": {
+  "name": "Cole Turner",
+  "opportunity": {
+   "snapPercentage": 17,
+   "receptions": 11,
+   "targets": 15,
+   "targetsRank": 69,
+   "targetsPercentile": 39,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brock Wright": {
+  "name": "Brock Wright",
+  "opportunity": {
+   "snapPercentage": 43,
+   "receptions": 13,
+   "targets": 14,
+   "targetsRank": 70,
+   "targetsPercentile": 38,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Lucas Krull": {
+  "name": "Lucas Krull",
+  "opportunity": {
+   "snapPercentage": 41,
+   "receptions": 8,
+   "targets": 14,
+   "targetsRank": 71,
+   "targetsPercentile": 37,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "MyCole Pruitt": {
+  "name": "MyCole Pruitt",
+  "opportunity": {
+   "snapPercentage": 38,
+   "receptions": 9,
+   "targets": 12,
+   "targetsRank": 73,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "C.J. Uzomah": {
+  "name": "C.J. Uzomah",
+  "opportunity": {
+   "snapPercentage": 32,
+   "receptions": 8,
+   "targets": 12,
+   "targetsRank": 74,
+   "targetsPercentile": 35,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Mitchell Wilcox": {
+  "name": "Mitchell Wilcox",
+  "opportunity": {
+   "snapPercentage": 22,
+   "receptions": 9,
+   "targets": 12,
+   "targetsRank": 75,
+   "targetsPercentile": 34,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Davis Allen": {
+  "name": "Davis Allen",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 10,
+   "targets": 11,
+   "targetsRank": 76,
+   "targetsPercentile": 33,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Geoff Swaim": {
+  "name": "Geoff Swaim",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 10,
+   "targets": 11,
+   "targetsRank": 77,
+   "targetsPercentile": 32,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Darnell Washington": {
+  "name": "Darnell Washington",
+  "opportunity": {
+   "snapPercentage": 51,
+   "receptions": 7,
+   "targets": 10,
+   "targetsRank": 78,
+   "targetsPercentile": 31,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Charlie Kolar": {
+  "name": "Charlie Kolar",
+  "opportunity": {
+   "snapPercentage": 27,
+   "receptions": 7,
+   "targets": 9,
+   "targetsRank": 79,
+   "targetsPercentile": 30,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brenton Strange": {
+  "name": "Brenton Strange",
+  "opportunity": {
+   "snapPercentage": 35,
+   "receptions": 5,
+   "targets": 9,
+   "targetsRank": 80,
+   "targetsPercentile": 29,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Blake Bell": {
+  "name": "Blake Bell",
+  "opportunity": {
+   "snapPercentage": 23,
+   "receptions": 5,
+   "targets": 9,
+   "targetsRank": 81,
+   "targetsPercentile": 28,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ian Thomas": {
+  "name": "Ian Thomas",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 5,
+   "targets": 9,
+   "targetsRank": 82,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Julian Hill": {
+  "name": "Julian Hill",
+  "opportunity": {
+   "snapPercentage": 37,
+   "receptions": 6,
+   "targets": 9,
+   "targetsRank": 83,
+   "targetsPercentile": 27,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Josiah Deguara": {
+  "name": "Josiah Deguara",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 8,
+   "targets": 8,
+   "targetsRank": 84,
+   "targetsPercentile": 26,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jack Stoll": {
+  "name": "Jack Stoll",
+  "opportunity": {
+   "snapPercentage": 40,
+   "receptions": 5,
+   "targets": 8,
+   "targetsRank": 85,
+   "targetsPercentile": 25,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Jimmy Graham": {
+  "name": "Jimmy Graham",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 6,
+   "targets": 7,
+   "targetsRank": 86,
+   "targetsPercentile": 24,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Brycen Hopkins": {
+  "name": "Brycen Hopkins",
+  "opportunity": {
+   "snapPercentage": 10,
+   "receptions": 5,
+   "targets": 7,
+   "targetsRank": 87,
+   "targetsPercentile": 23,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Payne Durham": {
+  "name": "Payne Durham",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 5,
+   "targets": 7,
+   "targetsRank": 88,
+   "targetsPercentile": 22,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Peyton Hendershot": {
+  "name": "Peyton Hendershot",
+  "opportunity": {
+   "snapPercentage": 32,
+   "receptions": 4,
+   "targets": 7,
+   "targetsRank": 89,
+   "targetsPercentile": 21,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ben Sims": {
+  "name": "Ben Sims",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 4,
+   "targets": 6,
+   "targetsRank": 90,
+   "targetsPercentile": 20,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Marcedes Lewis": {
+  "name": "Marcedes Lewis",
+  "opportunity": {
+   "snapPercentage": 30,
+   "receptions": 4,
+   "targets": 5,
+   "targetsRank": 91,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ko Kieft": {
+  "name": "Ko Kieft",
+  "opportunity": {
+   "snapPercentage": 21,
+   "receptions": 1,
+   "targets": 5,
+   "targetsRank": 92,
+   "targetsPercentile": 19,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nate Adkins": {
+  "name": "Nate Adkins",
+  "opportunity": {
+   "snapPercentage": 11,
+   "receptions": 4,
+   "targets": 5,
+   "targetsRank": 93,
+   "targetsPercentile": 18,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Grant Calcaterra": {
+  "name": "Grant Calcaterra",
+  "opportunity": {
+   "snapPercentage": 14,
+   "receptions": 4,
+   "targets": 4,
+   "targetsRank": 95,
+   "targetsPercentile": 16,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Greg Dulcich": {
+  "name": "Greg Dulcich",
+  "opportunity": {
+   "snapPercentage": 28,
+   "receptions": 3,
+   "targets": 4,
+   "targetsRank": 96,
+   "targetsPercentile": 15,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kenny Yeboah": {
+  "name": "Kenny Yeboah",
+  "opportunity": {
+   "snapPercentage": 43,
+   "receptions": 2,
+   "targets": 4,
+   "targetsRank": 97,
+   "targetsPercentile": 14,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Chris Manhertz": {
+  "name": "Chris Manhertz",
+  "opportunity": {
+   "snapPercentage": 36,
+   "receptions": 2,
+   "targets": 4,
+   "targetsRank": 98,
+   "targetsPercentile": 13,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Quintin Morris": {
+  "name": "Quintin Morris",
+  "opportunity": {
+   "snapPercentage": 20,
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 99,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Charlie Woerner": {
+  "name": "Charlie Woerner",
+  "opportunity": {
+   "snapPercentage": 31,
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 100,
+   "targetsPercentile": 12,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Teagan Quitoriano": {
+  "name": "Teagan Quitoriano",
+  "opportunity": {
+   "snapPercentage": 34,
+   "receptions": 2,
+   "targets": 3,
+   "targetsRank": 101,
+   "targetsPercentile": 11,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Eric Saubert": {
+  "name": "Eric Saubert",
+  "opportunity": {
+   "snapPercentage": 25,
+   "receptions": 3,
+   "targets": 3,
+   "targetsRank": 102,
+   "targetsPercentile": 10,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Trevon Wesco": {
+  "name": "Trevon Wesco",
+  "opportunity": {
+   "snapPercentage": 49,
+   "receptions": 1,
+   "targets": 3,
+   "targetsRank": 103,
+   "targetsPercentile": 9,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Kevin Rader": {
+  "name": "Kevin Rader",
+  "opportunity": {
+   "snapPercentage": 18,
+   "receptions": 1,
+   "targets": 3,
+   "targetsRank": 104,
+   "targetsPercentile": 8,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "James Mitchell": {
+  "name": "James Mitchell",
+  "opportunity": {
+   "snapPercentage": 17,
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 105,
+   "targetsPercentile": 7,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Ross Dwelley": {
+  "name": "Ross Dwelley",
+  "opportunity": {
+   "snapPercentage": 10,
+   "receptions": 1,
+   "targets": 2,
+   "targetsRank": 106,
+   "targetsPercentile": 6,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "David Wells": {
+  "name": "David Wells",
+  "opportunity": {
+   "snapPercentage": 14,
+   "receptions": 2,
+   "targets": 2,
+   "targetsRank": 107,
+   "targetsPercentile": 5,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Sean McKeon": {
+  "name": "Sean McKeon",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 0,
+   "targets": 2,
+   "targetsRank": 108,
+   "targetsPercentile": 4,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Nick Muse": {
+  "name": "Nick Muse",
+  "opportunity": {
+   "snapPercentage": null,
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 110,
+   "targetsPercentile": 3,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "John FitzPatrick": {
+  "name": "John FitzPatrick",
+  "opportunity": {
+   "snapPercentage": 6,
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 111,
+   "targetsPercentile": 2,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Tucker Fisk": {
+  "name": "Tucker Fisk",
+  "opportunity": {
+   "snapPercentage": 23,
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 112,
+   "targetsPercentile": 1,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
+ "Cole Fotheringham": {
+  "name": "Cole Fotheringham",
+  "opportunity": {
+   "snapPercentage": 16,
+   "receptions": 1,
+   "targets": 1,
+   "targetsRank": 113,
+   "targetsPercentile": 0,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ }
+}
