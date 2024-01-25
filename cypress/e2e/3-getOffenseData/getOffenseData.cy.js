@@ -1,5 +1,5 @@
 import percentile from "../../../utils/calculations/percentile";
-import letterGrade from "../../../utils/calculations/letterGrade";
+import teamLetterGrade from "../../../utils/calculations/teamLetterGrade";
 
 describe("get each team's offensive data for the 2023 season and write to json file", () => {
   let resultsMap = new Map();
@@ -39,7 +39,7 @@ describe("get each team's offensive data for the 2023 season and write to json f
       let name = cells[0].innerText.replace(/\s/, "");
       let rank = index + 1;
       let percentileValue = percentile(total, rank);
-      let grade = letterGrade(percentileValue);
+      let grade = teamLetterGrade(rank);
 
       let data = {
         name: name,
