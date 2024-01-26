@@ -1,0 +1,4454 @@
+{
+ "Josh Allen": {
+  "value": 93.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Jalen Hurts": {
+  "value": 90.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Dak Prescott": {
+  "value": 97,
+  "grade": {
+   "letter": "A+",
+   "description": "Elite"
+  }
+ },
+ "Lamar Jackson": {
+  "value": 90,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Jordan Love": {
+  "value": 87,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Brock Purdy": {
+  "value": 89.25,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Jared Goff": {
+  "value": 92.75,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Patrick Mahomes II": {
+  "value": 84.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Tua Tagovailoa": {
+  "value": 92.5,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Baker Mayfield": {
+  "value": 78.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "C.J. Stroud": {
+  "value": 81.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Sam Howell": {
+  "value": 76,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Trevor Lawrence": {
+  "value": 81.75,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Russell Wilson": {
+  "value": 74,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Matthew Stafford": {
+  "value": 84,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Derek Carr": {
+  "value": 84,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Justin Herbert": {
+  "value": 71,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Justin Fields": {
+  "value": 71.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Geno Smith": {
+  "value": 74.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Joshua Dobbs": {
+  "value": 67.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Gardner Minshew II": {
+  "value": 78.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Desmond Ridder": {
+  "value": 63.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Bryce Young": {
+  "value": 60.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Kirk Cousins": {
+  "value": 62,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Joe Burrow": {
+  "value": 67.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Kyler Murray": {
+  "value": 59.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jake Browning": {
+  "value": 64.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Aidan O'Connell": {
+  "value": 59.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zach Wilson": {
+  "value": 54.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mac Jones": {
+  "value": 52,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kenny Pickett": {
+  "value": 53.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Joe Flacco": {
+  "value": 63.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Will Levis": {
+  "value": 50.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tommy DeVito": {
+  "value": 46.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Deshaun Watson": {
+  "value": 60.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tyrod Taylor": {
+  "value": 45.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ryan Tannehill": {
+  "value": 47.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Bailey Zappe": {
+  "value": 44.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nick Mullens": {
+  "value": 47.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Anthony Richardson": {
+  "value": 55.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jimmy Garoppolo": {
+  "value": 47.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Taylor Heinicke": {
+  "value": 43,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Easton Stick": {
+  "value": 48.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Daniel Jones": {
+  "value": 39.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyson Bagent": {
+  "value": 47.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mitch Trubisky": {
+  "value": 38.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mason Rudolph": {
+  "value": 35.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Drew Lock": {
+  "value": 42.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trevor Siemian": {
+  "value": 35.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jarrett Stidham": {
+  "value": 38.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Carson Wentz": {
+  "value": 42.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dorian Thompson-Robinson": {
+  "value": 46.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Huntley": {
+  "value": 46.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "P.J. Walker": {
+  "value": 45.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sam Darnold": {
+  "value": 47.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Andy Dalton": {
+  "value": 26,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jacoby Brissett": {
+  "value": 26.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "C.J. Beathard": {
+  "value": 38.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Davis Mills": {
+  "value": 36.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jeff Driskel": {
+  "value": 36.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jameis Winston": {
+  "value": 40,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tim Boyle": {
+  "value": 38.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marcus Mariota": {
+  "value": 37,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Case Keenum": {
+  "value": 35.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Clayton Tune": {
+  "value": 21.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Blaine Gabbert": {
+  "value": 30.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brian Hoyer": {
+  "value": 24.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brett Rypien": {
+  "value": 18.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cooper Rush": {
+  "value": 38.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jaren Hall": {
+  "value": 19.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Malik Willis": {
+  "value": 13.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mike White": {
+  "value": 34.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sean Clifford": {
+  "value": 24,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "AJ McCarron": {
+  "value": 21,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Logan Woodside": {
+  "value": 12.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Skylar Thompson": {
+  "value": 30.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Max Duggan": {
+  "value": 15.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sam Ehlinger": {
+  "value": 24,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Aaron Rodgers": {
+  "value": 9,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jacob Eason": {
+  "value": 8.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Malik Cunningham": {
+  "value": 28.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Oladokun": {
+  "value": 20,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kyle Trask": {
+  "value": 10.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Teddy Bridgewater": {
+  "value": 22,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Matt Barkley": {
+  "value": 14.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nathan Peterman": {
+  "value": 11.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kyle Allen": {
+  "value": 20.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Christian McCaffrey": {
+  "value": 97.25,
+  "grade": {
+   "letter": "A+",
+   "description": "Elite"
+  }
+ },
+ "Breece Hall": {
+  "value": 74,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Travis Etienne Jr.": {
+  "value": 87,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Rachaad White": {
+  "value": 82.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Raheem Mostert": {
+  "value": 93.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Joe Mixon": {
+  "value": 84.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Kyren Williams": {
+  "value": 89.25,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Derrick Henry": {
+  "value": 75.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Bijan Robinson": {
+  "value": 73.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jahmyr Gibbs": {
+  "value": 88,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Alvin Kamara": {
+  "value": 84.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "James Cook": {
+  "value": 90,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Saquon Barkley": {
+  "value": 71,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tony Pollard": {
+  "value": 93.75,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Isiah Pacheco": {
+  "value": 79.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jerome Ford": {
+  "value": 82.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "David Montgomery": {
+  "value": 88.25,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "James Conner": {
+  "value": 72,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Kenneth Walker III": {
+  "value": 78,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "D'Andre Swift": {
+  "value": 86.5,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Brian Robinson Jr.": {
+  "value": 68.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jaylen Warren": {
+  "value": 66.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Najee Harris": {
+  "value": 71.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "De'Von Achane": {
+  "value": 83.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Gus Edwards": {
+  "value": 86,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Austin Ekeler": {
+  "value": 70.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Chuba Hubbard": {
+  "value": 66,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Josh Jacobs": {
+  "value": 72.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Javonte Williams": {
+  "value": 74.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Ezekiel Elliott": {
+  "value": 63,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Zack Moss": {
+  "value": 79,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Devin Singletary": {
+  "value": 77.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jonathan Taylor": {
+  "value": 77.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tyjae Spears": {
+  "value": 60,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Rhamondre Stevenson": {
+  "value": 59.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Allgeier": {
+  "value": 64.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Aaron Jones": {
+  "value": 72.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Alexander Mattison": {
+  "value": 65.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Antonio Gibson": {
+  "value": 57.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Samaje Perine": {
+  "value": 60.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Kareem Hunt": {
+  "value": 71.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "AJ Dillon": {
+  "value": 71.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Khalil Herbert": {
+  "value": 65,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Justice Hill": {
+  "value": 73.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Zach Charbonnet": {
+  "value": 64.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jaleel McLaughlin": {
+  "value": 60.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Roschon Johnson": {
+  "value": 61.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Ty Chandler": {
+  "value": 58.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kenneth Gainwell": {
+  "value": 69.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Rico Dowdle": {
+  "value": 74,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "D'Onta Foreman": {
+  "value": 62.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Miles Sanders": {
+  "value": 51,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jerick McKinnon": {
+  "value": 54,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Latavius Murray": {
+  "value": 68.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Dameon Pierce": {
+  "value": 65.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Zamir White": {
+  "value": 55.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Emari Demercado": {
+  "value": 51.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Clyde Edwards-Helaire": {
+  "value": 58.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Keaton Mitchell": {
+  "value": 65.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Joshua Kelley": {
+  "value": 55.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jamaal Williams": {
+  "value": 65,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Michael Carter": {
+  "value": 45.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chase Brown": {
+  "value": 53.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Elijah Mitchell": {
+  "value": 65.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Matt Breida": {
+  "value": 43,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cam Akers": {
+  "value": 49.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Royce Freeman": {
+  "value": 61.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jordan Mason": {
+  "value": 61.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Darrell Henderson Jr.": {
+  "value": 39.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kendre Miller": {
+  "value": 56.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Salvon Ahmed": {
+  "value": 58.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Pierre Strong Jr.": {
+  "value": 57,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jeff Wilson Jr.": {
+  "value": 61.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Ameer Abdullah": {
+  "value": 40.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dalvin Cook": {
+  "value": 62.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Chase Edmonds": {
+  "value": 47.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kyle Juszczyk": {
+  "value": 51.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Rodriguez Jr.": {
+  "value": 43.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cordarrelle Patterson": {
+  "value": 42.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "D'Ernest Johnson": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ty Johnson": {
+  "value": 53.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tony Jones Jr.": {
+  "value": 39,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Patrick Taylor Jr.": {
+  "value": 49.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Darrynton Evans": {
+  "value": 56.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Craig Reynolds": {
+  "value": 55,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Alec Ingold": {
+  "value": 46.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nick Chubb": {
+  "value": 47.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tank Bigsby": {
+  "value": 47.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kevin Harris": {
+  "value": 28.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trey Sermon": {
+  "value": 48.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ronnie Rivers": {
+  "value": 48.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Melvin Gordon III": {
+  "value": 51.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Damien Harris": {
+  "value": 48.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Isaiah Spiller": {
+  "value": 39,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Goodson": {
+  "value": 42.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Raheem Blackshear": {
+  "value": 25.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Israel Abanikanda": {
+  "value": 29,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Patrick Ricard": {
+  "value": 40.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Boston Scott": {
+  "value": 45.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Deuce Vaughn": {
+  "value": 51,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trayveon Williams": {
+  "value": 37,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Emanuel Wilson": {
+  "value": 39.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "La'Mical Perine": {
+  "value": 38.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Keaontay Ingram": {
+  "value": 40.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mike Boone": {
+  "value": 20.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Eric Gray": {
+  "value": 25.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Hunter Luepke": {
+  "value": 44.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "J.K. Dobbins": {
+  "value": 42.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Gary Brightwell": {
+  "value": 22.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nick Bawden": {
+  "value": 19.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brandon Bolden": {
+  "value": 25.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Brooks": {
+  "value": 45.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dare Ogunbowale": {
+  "value": 34,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "C.J. Ham": {
+  "value": 22.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ty Montgomery II": {
+  "value": null,
+  "grade": {
+   "letter": "N/A",
+   "description": "Oops, something went wrong..could not calculate grade"
+  }
+ },
+ "DeeJay Dallas": {
+  "value": 30.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Damien Williams": {
+  "value": 19,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Michael Burton": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ke'Shawn Vaughn": {
+  "value": 22.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Keith Smith": {
+  "value": 17.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Khari Blasingame": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sean Tucker": {
+  "value": 28.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Rashaad Penny": {
+  "value": 36.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jashaun Corbin": {
+  "value": 13.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Alex Armah Jr.": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Deon Jackson": {
+  "value": 18.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Leonard Fournette": {
+  "value": 16.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Elijah Dotson": {
+  "value": 21.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jake Funk": {
+  "value": 11.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Anthony McFarland Jr.": {
+  "value": 14,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zonovan Knight": {
+  "value": 33.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kenyan Drake": {
+  "value": 11,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Derrick Gore": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Adam Prentice": {
+  "value": 28.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Devine Ozigbo": {
+  "value": 10.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jakob Johnson": {
+  "value": 15.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Evans": {
+  "value": 21.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyrion Davis-Price": {
+  "value": 35,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zach Evans": {
+  "value": 31.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Evan Hull": {
+  "value": 25.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Reggie Gilliam": {
+  "value": 27.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kene Nwangwu": {
+  "value": 18.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jonathan Ward": {
+  "value": 11.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "James Robinson": {
+  "value": 24.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Henry Pearson": {
+  "value": 22,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Austin Walter": {
+  "value": 13.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jeremy McNichols": {
+  "value": 6.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brittain Brown": {
+  "value": 13.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Corey Clement": {
+  "value": 6.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marlon Mack": {
+  "value": 12.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "SaRodorick Thompson Jr.": {
+  "value": 30.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mohamed Ibrahim": {
+  "value": 27.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Godwin Igwebuike": {
+  "value": 10.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Travis Homer": {
+  "value": 17.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "JaMycal Hasty": {
+  "value": 7,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dwayne Washington": {
+  "value": 16.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Malik Davis": {
+  "value": 30.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Julius Chestnut": {
+  "value": 9.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Bryant Koback": {
+  "value": 18,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Patrick Laird": {
+  "value": 15.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jordan Mims": {
+  "value": 24.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ben Mason": {
+  "value": 28.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jonathan Williams": {
+  "value": 5.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "CeeDee Lamb": {
+  "value": 99.25,
+  "grade": {
+   "letter": "A+",
+   "description": "Elite"
+  }
+ },
+ "Tyreek Hill": {
+  "value": 97.75,
+  "grade": {
+   "letter": "A+",
+   "description": "Elite"
+  }
+ },
+ "Amon-Ra St. Brown": {
+  "value": 95,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Puka Nacua": {
+  "value": 92,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "A.J. Brown": {
+  "value": 92.5,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "DJ Moore": {
+  "value": 83.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Mike Evans": {
+  "value": 81,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Keenan Allen": {
+  "value": 80.75,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Stefon Diggs": {
+  "value": 92.5,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Davante Adams": {
+  "value": 79.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Ja'Marr Chase": {
+  "value": 84,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Nico Collins": {
+  "value": 84.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Michael Pittman Jr.": {
+  "value": 88.75,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Brandon Aiyuk": {
+  "value": 91.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Deebo Samuel": {
+  "value": 89.25,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Chris Olave": {
+  "value": 88,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Adam Thielen": {
+  "value": 70,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Calvin Ridley": {
+  "value": 83.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "DeVonta Smith": {
+  "value": 88,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Amari Cooper": {
+  "value": 85.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "DK Metcalf": {
+  "value": 79.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "DeAndre Hopkins": {
+  "value": 72.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jordan Addison": {
+  "value": 75.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jakobi Meyers": {
+  "value": 73.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jayden Reed": {
+  "value": 81,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Garrett Wilson": {
+  "value": 71.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Rashee Rice": {
+  "value": 79.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Chris Godwin": {
+  "value": 77,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "George Pickens": {
+  "value": 70,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Zay Flowers": {
+  "value": 88.25,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Terry McLaurin": {
+  "value": 72.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tyler Lockett": {
+  "value": 78.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Justin Jefferson": {
+  "value": 72.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jaylen Waddle": {
+  "value": 88.5,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Courtland Sutton": {
+  "value": 73.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Romeo Doubs": {
+  "value": 78.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Drake London": {
+  "value": 69.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Brandin Cooks": {
+  "value": 85.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Tank Dell": {
+  "value": 75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Cooper Kupp": {
+  "value": 81.25,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Gabe Davis": {
+  "value": 81,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Curtis Samuel": {
+  "value": 67,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Josh Downs": {
+  "value": 79.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Rashid Shaheed": {
+  "value": 77.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Diontae Johnson": {
+  "value": 64.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Darius Slayton": {
+  "value": 60.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Christian Kirk": {
+  "value": 73.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jaxon Smith-Njigba": {
+  "value": 72,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tyler Boyd": {
+  "value": 73,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jerry Jeudy": {
+  "value": 69.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tee Higgins": {
+  "value": 70.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Marquise Brown": {
+  "value": 66.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Wan'Dale Robinson": {
+  "value": 58.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Elijah Moore": {
+  "value": 76.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Josh Reynolds": {
+  "value": 76.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jahan Dotson": {
+  "value": 62.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "K.J. Osborn": {
+  "value": 63.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Dontayvion Wicks": {
+  "value": 69.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "DJ Chark Jr.": {
+  "value": 54.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Michael Wilson": {
+  "value": 59,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Khalil Shakir": {
+  "value": 71.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tutu Atwell": {
+  "value": 72.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Odell Beckham Jr.": {
+  "value": 74.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Demario Douglas": {
+  "value": 55.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Joshua Palmer": {
+  "value": 60.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Rondale Moore": {
+  "value": 58.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Noah Brown": {
+  "value": 65.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Christian Watson": {
+  "value": 66,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Kendrick Bourne": {
+  "value": 51,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kalif Raymond": {
+  "value": 69.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Nelson Agholor": {
+  "value": 71,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Trey Palmer": {
+  "value": 61.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Alec Pierce": {
+  "value": 68.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Quentin Johnston": {
+  "value": 59.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Michael Thomas": {
+  "value": 68.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Robert Woods": {
+  "value": 66,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Justin Watson": {
+  "value": 61.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Michael Gallup": {
+  "value": 73.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Demarcus Robinson": {
+  "value": 65.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Nick Westbrook-Ikhine": {
+  "value": 50.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jonathan Mingo": {
+  "value": 51.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jameson Williams": {
+  "value": 67,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Darnell Mooney": {
+  "value": 59.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zay Jones": {
+  "value": 63,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Rashod Bateman": {
+  "value": 69.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Brandon Johnson": {
+  "value": 53,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "DeVante Parker": {
+  "value": 47.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tre Tucker": {
+  "value": 50.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marvin Mims Jr.": {
+  "value": 53.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cedrick Wilson Jr.": {
+  "value": 67.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Chris Moore": {
+  "value": 46.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brandon Powell": {
+  "value": 52.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Greg Dortch": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trenton Irwin": {
+  "value": 53.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Allen Robinson II": {
+  "value": 48.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "JuJu Smith-Schuster": {
+  "value": 45,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "A.T. Perry": {
+  "value": 54.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalin Hyatt": {
+  "value": 44.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Allen Lazard": {
+  "value": 46,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Isaiah Hodgins": {
+  "value": 42.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "KaVontae Turpin": {
+  "value": 60,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jalen Tolbert": {
+  "value": 65.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Xavier Gipson": {
+  "value": 43.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Braxton Berrios": {
+  "value": 63.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jake Bobo": {
+  "value": 50,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marquez Valdes-Scantling": {
+  "value": 55,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Skyy Moore": {
+  "value": 54,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kadarius Toney": {
+  "value": 53.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Calvin Austin III": {
+  "value": 42.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jauan Jennings": {
+  "value": 61.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Andrei Iosivas": {
+  "value": 50,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mike Williams": {
+  "value": 45.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "David Bell": {
+  "value": 52.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Hunter Renfrow": {
+  "value": 46.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Lil'Jordan Humphrey": {
+  "value": 44,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Bo Melton": {
+  "value": 51.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Alex Erickson": {
+  "value": 45,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cedric Tillman": {
+  "value": 56.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mack Hollins": {
+  "value": 41.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Van Jefferson": {
+  "value": 44,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jamal Agnew": {
+  "value": 47.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Deonte Harty": {
+  "value": 53.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Treylon Burks": {
+  "value": 39,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Parker Washington": {
+  "value": 46.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Scott Miller": {
+  "value": 35.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Olamide Zaccheaus": {
+  "value": 51.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "KhaDarel Hodge": {
+  "value": 37.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Julio Jones": {
+  "value": 50.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Scott": {
+  "value": 46,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jamison Crowder": {
+  "value": 36.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Derius Davis": {
+  "value": 38,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Quez Watkins": {
+  "value": 50.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dyami Brown": {
+  "value": 37.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Deven Thompkins": {
+  "value": 42.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Malik Heath": {
+  "value": 48,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Terrace Marshall Jr.": {
+  "value": 34,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ihmir Smith-Marsette": {
+  "value": 27,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "John Metchie III": {
+  "value": 47.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kyle Philips": {
+  "value": 33.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ronnie Bell": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Parris Campbell": {
+  "value": 33.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalen Reagor": {
+  "value": 30.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Donovan Peoples-Jones": {
+  "value": 52,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ray-Ray McCloud III": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Byron Pringle": {
+  "value": 35,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyquan Thornton": {
+  "value": 30,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "River Cracraft": {
+  "value": 49,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mecole Hardman Jr.": {
+  "value": 42.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trent Sherfield": {
+  "value": 48.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalen Guyton": {
+  "value": 36.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Robbie Chosen": {
+  "value": 45.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Lynn Bowden Jr.": {
+  "value": 43.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Xavier Hutchinson": {
+  "value": 40.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chase Claypool": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Laviska Shenault Jr.": {
+  "value": 22.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ben Skowronek": {
+  "value": 42,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Charlie Jones": {
+  "value": 34.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "David Moore": {
+  "value": 30.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sterling Shepard": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Richie James Jr.": {
+  "value": 36.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tim Jones": {
+  "value": 38,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Randall Cobb": {
+  "value": 25.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jason Brownlee": {
+  "value": 22.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Isaiah McKenzie": {
+  "value": 39.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Samori Toure": {
+  "value": 39,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Keith Kirkwood": {
+  "value": 38.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "D.J. Montgomery": {
+  "value": 37,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marquise Goodwin": {
+  "value": 37.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Lawrence Cager": {
+  "value": 21.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalen Brooks": {
+  "value": 42,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Justyn Ross": {
+  "value": 32.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Equanimeous St. Brown": {
+  "value": 28.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Velus Jones Jr.": {
+  "value": 29,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Rakim Jarrett": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Conley": {
+  "value": 39.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "DeAndre Carter": {
+  "value": 24,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Keelan Doss": {
+  "value": 27.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Johnson": {
+  "value": 33.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Britain Covey": {
+  "value": 35.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tylan Wallace": {
+  "value": 35.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Simi Fehoko": {
+  "value": 22,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Devin Duvernay": {
+  "value": 38.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Elijah Cooks": {
+  "value": 28.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marvin Jones Jr.": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalen Nailor": {
+  "value": 22,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zach Pascal": {
+  "value": 24.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Steven Sims Jr.": {
+  "value": 27.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mike Strachan": {
+  "value": 12.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trishton Jackson": {
+  "value": 21,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Austin Trammell": {
+  "value": 33.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Miles Boykin": {
+  "value": 16.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kayshon Boutte": {
+  "value": 14.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Willie Snead IV": {
+  "value": 34.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Malik Taylor": {
+  "value": 13.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Gunner Olszewski": {
+  "value": 11.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Laquon Treadwell": {
+  "value": 32.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Erik Ezukanma": {
+  "value": 32.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Collin Johnson": {
+  "value": 20.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cody Thompson": {
+  "value": 20.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mason Kinsey": {
+  "value": 12,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Colton Dowell": {
+  "value": 12.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kwamie Lassiter II": {
+  "value": 20.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Antoine Green": {
+  "value": 29.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dee Eskridge": {
+  "value": 19.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Phillip Dorsett II": {
+  "value": 18.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Terrell Bynum": {
+  "value": 24.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "N'Keal Harry": {
+  "value": 15.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dax Milne": {
+  "value": 13,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Andy Isabella": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Shedrick Jackson": {
+  "value": 20,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Justin Hardee": {
+  "value": 9.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ryan Miller": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Blair": {
+  "value": 12.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cephus Johnson III": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marquez Callaway": {
+  "value": 11.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dan Chisena": {
+  "value": 29.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ethan Fernea": {
+  "value": 24.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Lucky Jackson": {
+  "value": 15.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chase Cota": {
+  "value": 22.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Michael Bandy": {
+  "value": 17.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tay Martin": {
+  "value": 30.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dareke Young": {
+  "value": 19.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Stanley Morgan Jr.": {
+  "value": 20,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "David Sills": {
+  "value": 17.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Juwann Winfree": {
+  "value": 24.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Isaiah Winstead": {
+  "value": 7.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Irvin Charles": {
+  "value": 9.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dylan Drummond": {
+  "value": 9,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kearis Jackson": {
+  "value": 10.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jaelon Darden": {
+  "value": 24,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kirk Merritt": {
+  "value": 7.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tre'Quan Smith": {
+  "value": 17.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Easop Winston Jr.": {
+  "value": 19.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Andre Baccellia": {
+  "value": 13.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "DJ Turner": {
+  "value": 14.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jalen Virgil": {
+  "value": 17.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Matthew Slater": {
+  "value": 8.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Montrell Washington": {
+  "value": 20.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Damiere Byrd": {
+  "value": 22.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Devon Allen": {
+  "value": 27,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Amari Rodgers": {
+  "value": 7.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Johnny Johnson III": {
+  "value": 22.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "James Proche II": {
+  "value": 18.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trent Taylor": {
+  "value": 11,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sam LaPorta": {
+  "value": 93.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Evan Engram": {
+  "value": 86.75,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Travis Kelce": {
+  "value": 84.75,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "T.J. Hockenson": {
+  "value": 79.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "George Kittle": {
+  "value": 92.25,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "David Njoku": {
+  "value": 87,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Trey McBride": {
+  "value": 75.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Cole Kmet": {
+  "value": 79,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Jake Ferguson": {
+  "value": 92.75,
+  "grade": {
+   "letter": "A",
+   "description": "Great"
+  }
+ },
+ "Dalton Schultz": {
+  "value": 80.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Dalton Kincaid": {
+  "value": 86.75,
+  "grade": {
+   "letter": "B+",
+   "description": "Good"
+  }
+ },
+ "Taysom Hill": {
+  "value": 78.25,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Kyle Pitts": {
+  "value": 69.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Dallas Goedert": {
+  "value": 83.5,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Mark Andrews": {
+  "value": 84,
+  "grade": {
+   "letter": "B",
+   "description": "Above Average"
+  }
+ },
+ "Logan Thomas": {
+  "value": 68.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Jonnu Smith": {
+  "value": 66.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tyler Conklin": {
+  "value": 64.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Hunter Henry": {
+  "value": 61,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Cade Otton": {
+  "value": 69.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Chigoziem Okonkwo": {
+  "value": 64,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Darren Waller": {
+  "value": 61.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Gerald Everett": {
+  "value": 68,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tyler Higbee": {
+  "value": 77.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Isaiah Likely": {
+  "value": 76.5,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Juwan Johnson": {
+  "value": 75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Tanner Hudson": {
+  "value": 68,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Donald Parham Jr.": {
+  "value": 62,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tucker Kraft": {
+  "value": 68.25,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Pat Freiermuth": {
+  "value": 58.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Luke Musgrave": {
+  "value": 69.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Noah Fant": {
+  "value": 64.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Kylen Granson": {
+  "value": 71,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Durham Smythe": {
+  "value": 75.75,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Michael Mayer": {
+  "value": 57.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Noah Gray": {
+  "value": 64.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Mike Gesicki": {
+  "value": 52.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Colby Parkinson": {
+  "value": 60.5,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Tommy Tremble": {
+  "value": 48,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Adam Trautman": {
+  "value": 58.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dawson Knox": {
+  "value": 68,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Josh Oliver": {
+  "value": 53.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zach Ertz": {
+  "value": 70,
+  "grade": {
+   "letter": "C",
+   "description": "Average"
+  }
+ },
+ "Brevin Jordan": {
+  "value": 57.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Daniel Bellinger": {
+  "value": 46.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Drew Sample": {
+  "value": 57,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mo Alie-Cox": {
+  "value": 59.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Austin Hooper": {
+  "value": 51.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Foster Moreau": {
+  "value": 60.75,
+  "grade": {
+   "letter": "D",
+   "description": "Below Average"
+  }
+ },
+ "Hayden Hurst": {
+  "value": 44,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Will Dissly": {
+  "value": 52.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Johnny Mundt": {
+  "value": 49.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Connor Heyward": {
+  "value": 47.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Andrew Beck": {
+  "value": 51.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Will Mallory": {
+  "value": 58.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Harrison Bryant": {
+  "value": 55,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Pharaoh Brown": {
+  "value": 38,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Elijah Higgins": {
+  "value": 43.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Andrew Ogletree": {
+  "value": 55,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "John Bates": {
+  "value": 45.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jimmy Graham": {
+  "value": 49.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Irv Smith Jr.": {
+  "value": 51.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Stone Smartt": {
+  "value": 45.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jeremy Ruckert": {
+  "value": 39.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Luke Farrell": {
+  "value": 48.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jordan Akins": {
+  "value": 53.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brock Wright": {
+  "value": 54.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Luke Schoonmaker": {
+  "value": 57.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "MyCole Pruitt": {
+  "value": 36.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Davis Allen": {
+  "value": 49.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Stephen Sullivan": {
+  "value": 35.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Josh Whyle": {
+  "value": 35.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Lucas Krull": {
+  "value": 41.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cole Turner": {
+  "value": 36.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Robert Tonyan": {
+  "value": 43,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Charlie Kolar": {
+  "value": 50.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "C.J. Uzomah": {
+  "value": 31.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Geoff Swaim": {
+  "value": 34.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Mitchell Wilcox": {
+  "value": 40,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Josiah Deguara": {
+  "value": 41.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brenton Strange": {
+  "value": 40,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Darnell Washington": {
+  "value": 30,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Marcedes Lewis": {
+  "value": 34,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brycen Hopkins": {
+  "value": 42.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ben Sims": {
+  "value": 38.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Blake Bell": {
+  "value": 37.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Payne Durham": {
+  "value": 32,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ian Thomas": {
+  "value": 23.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Quintin Morris": {
+  "value": 40,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jack Stoll": {
+  "value": 41.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Julian Hill": {
+  "value": 46,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Grant Calcaterra": {
+  "value": 38.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Peyton Hendershot": {
+  "value": 44.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ko Kieft": {
+  "value": 29,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nate Adkins": {
+  "value": 29,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Charlie Woerner": {
+  "value": 40,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Greg Dulcich": {
+  "value": 27.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Teagan Quitoriano": {
+  "value": 31,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "James Mitchell": {
+  "value": 35.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kenny Yeboah": {
+  "value": 18.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Eric Saubert": {
+  "value": 29.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Manhertz": {
+  "value": 25.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nick Muse": {
+  "value": 20.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Trevon Wesco": {
+  "value": 17.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "John FitzPatrick": {
+  "value": 16.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Ross Dwelley": {
+  "value": 35.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tucker Fisk": {
+  "value": 15.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Cole Fotheringham": {
+  "value": 17.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Kevin Rader": {
+  "value": 15.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jesper Horsted": {
+  "value": 16.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Nick Vannett": {
+  "value": 18,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Giovanni Ricci": {
+  "value": 9,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "David Wells": {
+  "value": 19.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Leroy Watson IV": {
+  "value": 25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Noah Togiai": {
+  "value": 28,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyree Jackson": {
+  "value": 10,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Hunter Long": {
+  "value": 27.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Hunter Kampmoyer": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Blake Whiteheart": {
+  "value": 14.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zach Gentry": {
+  "value": 15.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Travis Vokolek": {
+  "value": 14.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Josh Pederson": {
+  "value": 22.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Anthony Firkser": {
+  "value": 29.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Stephen Anderson": {
+  "value": 17,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Parker Hesse": {
+  "value": 13.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Jordan Thomas": {
+  "value": 8.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brayden Willis": {
+  "value": 31.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Dalton Keene": {
+  "value": 23.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tre' McKitty": {
+  "value": 28.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Brady Russell": {
+  "value": 20.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "James Winchester": {
+  "value": 21.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Sean McKeon": {
+  "value": 33.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Matt Bushman": {
+  "value": 21.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Darrell Daniels": {
+  "value": 8.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Albert Okwuegbunam": {
+  "value": 28,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Rodney Williams": {
+  "value": 13.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "J.P. Holtz": {
+  "value": 8.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tanner Conner": {
+  "value": 32,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Matt Sokol": {
+  "value": 9.25,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Tyler Kroft": {
+  "value": 32,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Zack Kuntz": {
+  "value": 10.75,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ },
+ "Chris Pierce Jr.": {
+  "value": 8.5,
+  "grade": {
+   "letter": "F",
+   "description": "Not Good Enough"
+  }
+ }
+}
