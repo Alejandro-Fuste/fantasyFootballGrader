@@ -46,9 +46,12 @@ function overallGrade(offense, opportunity, production) {
     let grade = letterGrade(percent);
 
     data = { value: percent, grade };
-    console.log(player, data);
     object.set(player, data);
   });
+
+  let obj = Object.fromEntries(object);
+
+  return obj;
 }
 let data = overallGrade(offenseData, opportunityData, productionData);
-// writeToFile("../../data/combinedData/combinedData.json", data);
+writeToFile("../../data/grade/overallGrade.json", data);
