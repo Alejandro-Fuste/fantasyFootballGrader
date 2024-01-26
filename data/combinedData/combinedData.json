@@ -1,6 +1,13 @@
 {
  "Josh Allen": {
   "name": "Josh Allen",
+  "overallGrade": {
+   "value": 93.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "QB",
   "team": "Buffalo",
   "production": {
@@ -47,6 +54,13 @@
  },
  "Jalen Hurts": {
   "name": "Jalen Hurts",
+  "overallGrade": {
+   "value": 90.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "QB",
   "team": "Philadelphia",
   "production": {
@@ -93,6 +107,13 @@
  },
  "Dak Prescott": {
   "name": "Dak Prescott",
+  "overallGrade": {
+   "value": 97,
+   "grade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  },
   "position": "QB",
   "team": "Dallas",
   "production": {
@@ -139,6 +160,13 @@
  },
  "Lamar Jackson": {
   "name": "Lamar Jackson",
+  "overallGrade": {
+   "value": 90,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "QB",
   "team": "Baltimore",
   "production": {
@@ -185,6 +213,13 @@
  },
  "Jordan Love": {
   "name": "Jordan Love",
+  "overallGrade": {
+   "value": 87,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "QB",
   "team": "Green Bay",
   "production": {
@@ -231,6 +266,13 @@
  },
  "Brock Purdy": {
   "name": "Brock Purdy",
+  "overallGrade": {
+   "value": 89.25,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "QB",
   "team": "San Francisco",
   "production": {
@@ -277,6 +319,13 @@
  },
  "Jared Goff": {
   "name": "Jared Goff",
+  "overallGrade": {
+   "value": 92.75,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "QB",
   "team": "Detroit",
   "production": {
@@ -323,6 +372,13 @@
  },
  "Patrick Mahomes II": {
   "name": "Patrick Mahomes II",
+  "overallGrade": {
+   "value": 84.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "QB",
   "team": "Kansas City",
   "production": {
@@ -369,6 +425,13 @@
  },
  "Tua Tagovailoa": {
   "name": "Tua Tagovailoa",
+  "overallGrade": {
+   "value": 92.5,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "QB",
   "team": "Miami",
   "production": {
@@ -415,6 +478,13 @@
  },
  "Baker Mayfield": {
   "name": "Baker Mayfield",
+  "overallGrade": {
+   "value": 78.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Tampa Bay",
   "production": {
@@ -461,6 +531,13 @@
  },
  "C.J. Stroud": {
   "name": "C.J. Stroud",
+  "overallGrade": {
+   "value": 81.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "QB",
   "team": "Houston",
   "production": {
@@ -507,6 +584,13 @@
  },
  "Sam Howell": {
   "name": "Sam Howell",
+  "overallGrade": {
+   "value": 76,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Washington",
   "production": {
@@ -553,6 +637,13 @@
  },
  "Trevor Lawrence": {
   "name": "Trevor Lawrence",
+  "overallGrade": {
+   "value": 81.75,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "QB",
   "team": "Jacksonville",
   "production": {
@@ -599,6 +690,13 @@
  },
  "Russell Wilson": {
   "name": "Russell Wilson",
+  "overallGrade": {
+   "value": 74,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Denver",
   "production": {
@@ -645,6 +743,13 @@
  },
  "Matthew Stafford": {
   "name": "Matthew Stafford",
+  "overallGrade": {
+   "value": 84,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "QB",
   "team": "L.A. Rams",
   "production": {
@@ -691,6 +796,13 @@
  },
  "Derek Carr": {
   "name": "Derek Carr",
+  "overallGrade": {
+   "value": 84,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "QB",
   "team": "New Orleans",
   "production": {
@@ -737,6 +849,13 @@
  },
  "Justin Herbert": {
   "name": "Justin Herbert",
+  "overallGrade": {
+   "value": 71,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "L.A. Chargers",
   "production": {
@@ -783,6 +902,13 @@
  },
  "Justin Fields": {
   "name": "Justin Fields",
+  "overallGrade": {
+   "value": 71.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Chicago",
   "production": {
@@ -829,6 +955,13 @@
  },
  "Geno Smith": {
   "name": "Geno Smith",
+  "overallGrade": {
+   "value": 74.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Seattle",
   "production": {
@@ -875,6 +1008,13 @@
  },
  "Joshua Dobbs": {
   "name": "Joshua Dobbs",
+  "overallGrade": {
+   "value": 67.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Minnesota",
   "production": {
@@ -921,6 +1061,13 @@
  },
  "Gardner Minshew II": {
   "name": "Gardner Minshew II",
+  "overallGrade": {
+   "value": 78.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "QB",
   "team": "Indianapolis",
   "production": {
@@ -967,6 +1114,13 @@
  },
  "Desmond Ridder": {
   "name": "Desmond Ridder",
+  "overallGrade": {
+   "value": 63.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Atlanta",
   "production": {
@@ -1013,6 +1167,13 @@
  },
  "Bryce Young": {
   "name": "Bryce Young",
+  "overallGrade": {
+   "value": 60.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Carolina",
   "production": {
@@ -1059,6 +1220,13 @@
  },
  "Kirk Cousins": {
   "name": "Kirk Cousins",
+  "overallGrade": {
+   "value": 62,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Minnesota",
   "production": {
@@ -1105,6 +1273,13 @@
  },
  "Joe Burrow": {
   "name": "Joe Burrow",
+  "overallGrade": {
+   "value": 67.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Cincinnati",
   "production": {
@@ -1151,6 +1326,13 @@
  },
  "Kyler Murray": {
   "name": "Kyler Murray",
+  "overallGrade": {
+   "value": 59.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Arizona",
   "production": {
@@ -1197,6 +1379,13 @@
  },
  "Jake Browning": {
   "name": "Jake Browning",
+  "overallGrade": {
+   "value": 64.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Cincinnati",
   "production": {
@@ -1243,6 +1432,13 @@
  },
  "Aidan O'Connell": {
   "name": "Aidan O'Connell",
+  "overallGrade": {
+   "value": 59.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Las Vegas",
   "production": {
@@ -1289,6 +1485,13 @@
  },
  "Zach Wilson": {
   "name": "Zach Wilson",
+  "overallGrade": {
+   "value": 54.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Jets",
   "production": {
@@ -1335,6 +1538,13 @@
  },
  "Mac Jones": {
   "name": "Mac Jones",
+  "overallGrade": {
+   "value": 52,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "New England",
   "production": {
@@ -1381,6 +1591,13 @@
  },
  "Kenny Pickett": {
   "name": "Kenny Pickett",
+  "overallGrade": {
+   "value": 53.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Pittsburgh",
   "production": {
@@ -1427,6 +1644,13 @@
  },
  "Joe Flacco": {
   "name": "Joe Flacco",
+  "overallGrade": {
+   "value": 63.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Cleveland",
   "production": {
@@ -1473,6 +1697,13 @@
  },
  "Will Levis": {
   "name": "Will Levis",
+  "overallGrade": {
+   "value": 50.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Tennessee",
   "production": {
@@ -1519,6 +1750,13 @@
  },
  "Tommy DeVito": {
   "name": "Tommy DeVito",
+  "overallGrade": {
+   "value": 46.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Giants",
   "production": {
@@ -1565,6 +1803,13 @@
  },
  "Deshaun Watson": {
   "name": "Deshaun Watson",
+  "overallGrade": {
+   "value": 60.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "QB",
   "team": "Cleveland",
   "production": {
@@ -1611,6 +1856,13 @@
  },
  "Tyrod Taylor": {
   "name": "Tyrod Taylor",
+  "overallGrade": {
+   "value": 45.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Giants",
   "production": {
@@ -1657,6 +1909,13 @@
  },
  "Ryan Tannehill": {
   "name": "Ryan Tannehill",
+  "overallGrade": {
+   "value": 47.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Tennessee",
   "production": {
@@ -1703,6 +1962,13 @@
  },
  "Bailey Zappe": {
   "name": "Bailey Zappe",
+  "overallGrade": {
+   "value": 44.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "New England",
   "production": {
@@ -1749,6 +2015,13 @@
  },
  "Nick Mullens": {
   "name": "Nick Mullens",
+  "overallGrade": {
+   "value": 47.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Minnesota",
   "production": {
@@ -1795,6 +2068,13 @@
  },
  "Anthony Richardson": {
   "name": "Anthony Richardson",
+  "overallGrade": {
+   "value": 55.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Indianapolis",
   "production": {
@@ -1841,6 +2121,13 @@
  },
  "Jimmy Garoppolo": {
   "name": "Jimmy Garoppolo",
+  "overallGrade": {
+   "value": 47.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Las Vegas",
   "production": {
@@ -1887,6 +2174,13 @@
  },
  "Taylor Heinicke": {
   "name": "Taylor Heinicke",
+  "overallGrade": {
+   "value": 43,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Atlanta",
   "production": {
@@ -1933,6 +2227,13 @@
  },
  "Easton Stick": {
   "name": "Easton Stick",
+  "overallGrade": {
+   "value": 48.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "L.A. Chargers",
   "production": {
@@ -1979,6 +2280,13 @@
  },
  "Daniel Jones": {
   "name": "Daniel Jones",
+  "overallGrade": {
+   "value": 39.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Giants",
   "production": {
@@ -2025,6 +2333,13 @@
  },
  "Tyson Bagent": {
   "name": "Tyson Bagent",
+  "overallGrade": {
+   "value": 47.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Chicago",
   "production": {
@@ -2071,6 +2386,13 @@
  },
  "Mitch Trubisky": {
   "name": "Mitch Trubisky",
+  "overallGrade": {
+   "value": 38.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Pittsburgh",
   "production": {
@@ -2117,6 +2439,13 @@
  },
  "Mason Rudolph": {
   "name": "Mason Rudolph",
+  "overallGrade": {
+   "value": 35.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Pittsburgh",
   "production": {
@@ -2163,6 +2492,13 @@
  },
  "Drew Lock": {
   "name": "Drew Lock",
+  "overallGrade": {
+   "value": 42.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Seattle",
   "production": {
@@ -2209,6 +2545,13 @@
  },
  "Trevor Siemian": {
   "name": "Trevor Siemian",
+  "overallGrade": {
+   "value": 35.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Jets",
   "production": {
@@ -2255,6 +2598,13 @@
  },
  "Jarrett Stidham": {
   "name": "Jarrett Stidham",
+  "overallGrade": {
+   "value": 38.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Denver",
   "production": {
@@ -2301,6 +2651,13 @@
  },
  "Carson Wentz": {
   "name": "Carson Wentz",
+  "overallGrade": {
+   "value": 42.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "L.A. Rams",
   "production": {
@@ -2347,6 +2704,13 @@
  },
  "Dorian Thompson-Robinson": {
   "name": "Dorian Thompson-Robinson",
+  "overallGrade": {
+   "value": 46.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Cleveland",
   "production": {
@@ -2393,6 +2757,13 @@
  },
  "Tyler Huntley": {
   "name": "Tyler Huntley",
+  "overallGrade": {
+   "value": 46.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Baltimore",
   "production": {
@@ -2439,6 +2810,13 @@
  },
  "P.J. Walker": {
   "name": "P.J. Walker",
+  "overallGrade": {
+   "value": 45.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Cleveland",
   "production": {
@@ -2485,6 +2863,13 @@
  },
  "Sam Darnold": {
   "name": "Sam Darnold",
+  "overallGrade": {
+   "value": 47.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "San Francisco",
   "production": {
@@ -2531,6 +2916,13 @@
  },
  "Andy Dalton": {
   "name": "Andy Dalton",
+  "overallGrade": {
+   "value": 26,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Carolina",
   "production": {
@@ -2577,6 +2969,13 @@
  },
  "Jacoby Brissett": {
   "name": "Jacoby Brissett",
+  "overallGrade": {
+   "value": 26.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Washington",
   "production": {
@@ -2623,6 +3022,13 @@
  },
  "C.J. Beathard": {
   "name": "C.J. Beathard",
+  "overallGrade": {
+   "value": 38.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Jacksonville",
   "production": {
@@ -2669,6 +3075,13 @@
  },
  "Davis Mills": {
   "name": "Davis Mills",
+  "overallGrade": {
+   "value": 36.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Houston",
   "production": {
@@ -2715,6 +3128,13 @@
  },
  "Jeff Driskel": {
   "name": "Jeff Driskel",
+  "overallGrade": {
+   "value": 36.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Cleveland",
   "production": {
@@ -2761,6 +3181,13 @@
  },
  "Jameis Winston": {
   "name": "Jameis Winston",
+  "overallGrade": {
+   "value": 40,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "New Orleans",
   "production": {
@@ -2807,6 +3234,13 @@
  },
  "Tim Boyle": {
   "name": "Tim Boyle",
+  "overallGrade": {
+   "value": 38.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Houston",
   "production": {
@@ -2853,6 +3287,13 @@
  },
  "Marcus Mariota": {
   "name": "Marcus Mariota",
+  "overallGrade": {
+   "value": 37,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Philadelphia",
   "production": {
@@ -2899,6 +3340,13 @@
  },
  "Case Keenum": {
   "name": "Case Keenum",
+  "overallGrade": {
+   "value": 35.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Houston",
   "production": {
@@ -2945,6 +3393,13 @@
  },
  "Clayton Tune": {
   "name": "Clayton Tune",
+  "overallGrade": {
+   "value": 21.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Arizona",
   "production": {
@@ -2991,6 +3446,13 @@
  },
  "Blaine Gabbert": {
   "name": "Blaine Gabbert",
+  "overallGrade": {
+   "value": 30.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Kansas City",
   "production": {
@@ -3037,6 +3499,13 @@
  },
  "Brian Hoyer": {
   "name": "Brian Hoyer",
+  "overallGrade": {
+   "value": 24.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Las Vegas",
   "production": {
@@ -3083,6 +3552,13 @@
  },
  "Brett Rypien": {
   "name": "Brett Rypien",
+  "overallGrade": {
+   "value": 18.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Jets",
   "production": {
@@ -3129,6 +3605,13 @@
  },
  "Cooper Rush": {
   "name": "Cooper Rush",
+  "overallGrade": {
+   "value": 38.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Dallas",
   "production": {
@@ -3175,6 +3658,13 @@
  },
  "Jaren Hall": {
   "name": "Jaren Hall",
+  "overallGrade": {
+   "value": 19.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Minnesota",
   "production": {
@@ -3221,6 +3711,13 @@
  },
  "Malik Willis": {
   "name": "Malik Willis",
+  "overallGrade": {
+   "value": 13.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Tennessee",
   "production": {
@@ -3267,6 +3764,13 @@
  },
  "Mike White": {
   "name": "Mike White",
+  "overallGrade": {
+   "value": 34.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Miami",
   "production": {
@@ -3313,6 +3817,13 @@
  },
  "Sean Clifford": {
   "name": "Sean Clifford",
+  "overallGrade": {
+   "value": 24,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Green Bay",
   "production": {
@@ -3359,6 +3870,13 @@
  },
  "AJ McCarron": {
   "name": "AJ McCarron",
+  "overallGrade": {
+   "value": 21,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Cincinnati",
   "production": {
@@ -3405,6 +3923,13 @@
  },
  "Logan Woodside": {
   "name": "Logan Woodside",
+  "overallGrade": {
+   "value": 12.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Atlanta",
   "production": {
@@ -3451,6 +3976,13 @@
  },
  "Skylar Thompson": {
   "name": "Skylar Thompson",
+  "overallGrade": {
+   "value": 30.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Miami",
   "production": {
@@ -3486,6 +4018,13 @@
  },
  "Max Duggan": {
   "name": "Max Duggan",
+  "overallGrade": {
+   "value": 15.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "L.A. Chargers",
   "production": {
@@ -3521,6 +4060,13 @@
  },
  "Sam Ehlinger": {
   "name": "Sam Ehlinger",
+  "overallGrade": {
+   "value": 24,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Indianapolis",
   "production": {
@@ -3556,6 +4102,13 @@
  },
  "Aaron Rodgers": {
   "name": "Aaron Rodgers",
+  "overallGrade": {
+   "value": 9,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Jets",
   "production": {
@@ -3602,6 +4155,13 @@
  },
  "Jacob Eason": {
   "name": "Jacob Eason",
+  "overallGrade": {
+   "value": 8.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "N.Y. Giants",
   "production": {
@@ -3637,6 +4197,13 @@
  },
  "Malik Cunningham": {
   "name": "Malik Cunningham",
+  "overallGrade": {
+   "value": 28.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Baltimore",
   "production": {
@@ -3672,6 +4239,13 @@
  },
  "Chris Oladokun": {
   "name": "Chris Oladokun",
+  "overallGrade": {
+   "value": 20,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Kansas City",
   "production": {
@@ -3707,6 +4281,13 @@
  },
  "Kyle Trask": {
   "name": "Kyle Trask",
+  "overallGrade": {
+   "value": 10.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Tampa Bay",
   "production": {
@@ -3753,6 +4334,13 @@
  },
  "Teddy Bridgewater": {
   "name": "Teddy Bridgewater",
+  "overallGrade": {
+   "value": 22,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Detroit",
   "production": {
@@ -3788,6 +4376,13 @@
  },
  "Matt Barkley": {
   "name": "Matt Barkley",
+  "overallGrade": {
+   "value": 14.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Jacksonville",
   "production": {
@@ -3823,6 +4418,13 @@
  },
  "Nathan Peterman": {
   "name": "Nathan Peterman",
+  "overallGrade": {
+   "value": 11.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Chicago",
   "production": {
@@ -3858,6 +4460,13 @@
  },
  "Kyle Allen": {
   "name": "Kyle Allen",
+  "overallGrade": {
+   "value": 20.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "QB",
   "team": "Buffalo",
   "production": {
@@ -3893,6 +4502,13 @@
  },
  "Christian McCaffrey": {
   "name": "Christian McCaffrey",
+  "overallGrade": {
+   "value": 97.25,
+   "grade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  },
   "position": "RB",
   "team": "San Francisco",
   "production": {
@@ -3945,6 +4561,13 @@
  },
  "Breece Hall": {
   "name": "Breece Hall",
+  "overallGrade": {
+   "value": 74,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Jets",
   "production": {
@@ -3997,6 +4620,13 @@
  },
  "Travis Etienne Jr.": {
   "name": "Travis Etienne Jr.",
+  "overallGrade": {
+   "value": 87,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "Jacksonville",
   "production": {
@@ -4049,6 +4679,13 @@
  },
  "Rachaad White": {
   "name": "Rachaad White",
+  "overallGrade": {
+   "value": 82.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "RB",
   "team": "Tampa Bay",
   "production": {
@@ -4101,6 +4738,13 @@
  },
  "Raheem Mostert": {
   "name": "Raheem Mostert",
+  "overallGrade": {
+   "value": 93.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -4153,6 +4797,13 @@
  },
  "Joe Mixon": {
   "name": "Joe Mixon",
+  "overallGrade": {
+   "value": 84.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "RB",
   "team": "Cincinnati",
   "production": {
@@ -4205,6 +4856,13 @@
  },
  "Kyren Williams": {
   "name": "Kyren Williams",
+  "overallGrade": {
+   "value": 89.25,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "L.A. Rams",
   "production": {
@@ -4257,6 +4915,13 @@
  },
  "Derrick Henry": {
   "name": "Derrick Henry",
+  "overallGrade": {
+   "value": 75.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Tennessee",
   "production": {
@@ -4309,6 +4974,13 @@
  },
  "Bijan Robinson": {
   "name": "Bijan Robinson",
+  "overallGrade": {
+   "value": 73.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Atlanta",
   "production": {
@@ -4361,6 +5033,13 @@
  },
  "Jahmyr Gibbs": {
   "name": "Jahmyr Gibbs",
+  "overallGrade": {
+   "value": 88,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "Detroit",
   "production": {
@@ -4413,6 +5092,13 @@
  },
  "Alvin Kamara": {
   "name": "Alvin Kamara",
+  "overallGrade": {
+   "value": 84.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -4465,6 +5151,13 @@
  },
  "James Cook": {
   "name": "James Cook",
+  "overallGrade": {
+   "value": 90,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "RB",
   "team": "Buffalo",
   "production": {
@@ -4517,6 +5210,13 @@
  },
  "Saquon Barkley": {
   "name": "Saquon Barkley",
+  "overallGrade": {
+   "value": 71,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -4569,6 +5269,13 @@
  },
  "Tony Pollard": {
   "name": "Tony Pollard",
+  "overallGrade": {
+   "value": 93.75,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -4621,6 +5328,13 @@
  },
  "Isiah Pacheco": {
   "name": "Isiah Pacheco",
+  "overallGrade": {
+   "value": 79.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Kansas City",
   "production": {
@@ -4673,6 +5387,13 @@
  },
  "Jerome Ford": {
   "name": "Jerome Ford",
+  "overallGrade": {
+   "value": 82.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "RB",
   "team": "Cleveland",
   "production": {
@@ -4725,6 +5446,13 @@
  },
  "David Montgomery": {
   "name": "David Montgomery",
+  "overallGrade": {
+   "value": 88.25,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "Detroit",
   "production": {
@@ -4777,6 +5505,13 @@
  },
  "James Conner": {
   "name": "James Conner",
+  "overallGrade": {
+   "value": 72,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Arizona",
   "production": {
@@ -4829,6 +5564,13 @@
  },
  "Kenneth Walker III": {
   "name": "Kenneth Walker III",
+  "overallGrade": {
+   "value": 78,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Seattle",
   "production": {
@@ -4881,6 +5623,13 @@
  },
  "D'Andre Swift": {
   "name": "D'Andre Swift",
+  "overallGrade": {
+   "value": 86.5,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "Philadelphia",
   "production": {
@@ -4933,6 +5682,13 @@
  },
  "Brian Robinson Jr.": {
   "name": "Brian Robinson Jr.",
+  "overallGrade": {
+   "value": 68.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -4985,6 +5741,13 @@
  },
  "Jaylen Warren": {
   "name": "Jaylen Warren",
+  "overallGrade": {
+   "value": 66.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Pittsburgh",
   "production": {
@@ -5037,6 +5800,13 @@
  },
  "Najee Harris": {
   "name": "Najee Harris",
+  "overallGrade": {
+   "value": 71.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Pittsburgh",
   "production": {
@@ -5089,6 +5859,13 @@
  },
  "De'Von Achane": {
   "name": "De'Von Achane",
+  "overallGrade": {
+   "value": 83.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -5141,6 +5918,13 @@
  },
  "Gus Edwards": {
   "name": "Gus Edwards",
+  "overallGrade": {
+   "value": 86,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -5193,6 +5977,13 @@
  },
  "Austin Ekeler": {
   "name": "Austin Ekeler",
+  "overallGrade": {
+   "value": 70.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "L.A. Chargers",
   "production": {
@@ -5245,6 +6036,13 @@
  },
  "Chuba Hubbard": {
   "name": "Chuba Hubbard",
+  "overallGrade": {
+   "value": 66,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Carolina",
   "production": {
@@ -5297,6 +6095,13 @@
  },
  "Josh Jacobs": {
   "name": "Josh Jacobs",
+  "overallGrade": {
+   "value": 72.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -5349,6 +6154,13 @@
  },
  "Javonte Williams": {
   "name": "Javonte Williams",
+  "overallGrade": {
+   "value": 74.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Denver",
   "production": {
@@ -5401,6 +6213,13 @@
  },
  "Ezekiel Elliott": {
   "name": "Ezekiel Elliott",
+  "overallGrade": {
+   "value": 63,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "New England",
   "production": {
@@ -5453,6 +6272,13 @@
  },
  "Zack Moss": {
   "name": "Zack Moss",
+  "overallGrade": {
+   "value": 79,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Indianapolis",
   "production": {
@@ -5505,6 +6331,13 @@
  },
  "Devin Singletary": {
   "name": "Devin Singletary",
+  "overallGrade": {
+   "value": 77.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Houston",
   "production": {
@@ -5557,6 +6390,13 @@
  },
  "Jonathan Taylor": {
   "name": "Jonathan Taylor",
+  "overallGrade": {
+   "value": 77.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Indianapolis",
   "production": {
@@ -5609,6 +6449,13 @@
  },
  "Tyjae Spears": {
   "name": "Tyjae Spears",
+  "overallGrade": {
+   "value": 60,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Tennessee",
   "production": {
@@ -5661,6 +6508,13 @@
  },
  "Rhamondre Stevenson": {
   "name": "Rhamondre Stevenson",
+  "overallGrade": {
+   "value": 59.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New England",
   "production": {
@@ -5713,6 +6567,13 @@
  },
  "Tyler Allgeier": {
   "name": "Tyler Allgeier",
+  "overallGrade": {
+   "value": 64.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Atlanta",
   "production": {
@@ -5765,6 +6626,13 @@
  },
  "Aaron Jones": {
   "name": "Aaron Jones",
+  "overallGrade": {
+   "value": 72.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Green Bay",
   "production": {
@@ -5817,6 +6685,13 @@
  },
  "Alexander Mattison": {
   "name": "Alexander Mattison",
+  "overallGrade": {
+   "value": 65.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Minnesota",
   "production": {
@@ -5869,6 +6744,13 @@
  },
  "Antonio Gibson": {
   "name": "Antonio Gibson",
+  "overallGrade": {
+   "value": 57.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -5921,6 +6803,13 @@
  },
  "Samaje Perine": {
   "name": "Samaje Perine",
+  "overallGrade": {
+   "value": 60.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Denver",
   "production": {
@@ -5973,6 +6862,13 @@
  },
  "Kareem Hunt": {
   "name": "Kareem Hunt",
+  "overallGrade": {
+   "value": 71.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Cleveland",
   "production": {
@@ -6025,6 +6921,13 @@
  },
  "AJ Dillon": {
   "name": "AJ Dillon",
+  "overallGrade": {
+   "value": 71.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Green Bay",
   "production": {
@@ -6077,6 +6980,13 @@
  },
  "Khalil Herbert": {
   "name": "Khalil Herbert",
+  "overallGrade": {
+   "value": 65,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Chicago",
   "production": {
@@ -6129,6 +7039,13 @@
  },
  "Justice Hill": {
   "name": "Justice Hill",
+  "overallGrade": {
+   "value": 73.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -6181,6 +7098,13 @@
  },
  "Zach Charbonnet": {
   "name": "Zach Charbonnet",
+  "overallGrade": {
+   "value": 64.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Seattle",
   "production": {
@@ -6233,6 +7157,13 @@
  },
  "Jaleel McLaughlin": {
   "name": "Jaleel McLaughlin",
+  "overallGrade": {
+   "value": 60.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Denver",
   "production": {
@@ -6285,6 +7216,13 @@
  },
  "Roschon Johnson": {
   "name": "Roschon Johnson",
+  "overallGrade": {
+   "value": 61.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Chicago",
   "production": {
@@ -6337,6 +7275,13 @@
  },
  "Ty Chandler": {
   "name": "Ty Chandler",
+  "overallGrade": {
+   "value": 58.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Minnesota",
   "production": {
@@ -6389,6 +7334,13 @@
  },
  "Kenneth Gainwell": {
   "name": "Kenneth Gainwell",
+  "overallGrade": {
+   "value": 69.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Philadelphia",
   "production": {
@@ -6441,6 +7393,13 @@
  },
  "Rico Dowdle": {
   "name": "Rico Dowdle",
+  "overallGrade": {
+   "value": 74,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -6493,6 +7452,13 @@
  },
  "D'Onta Foreman": {
   "name": "D'Onta Foreman",
+  "overallGrade": {
+   "value": 62.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Chicago",
   "production": {
@@ -6545,6 +7511,13 @@
  },
  "Miles Sanders": {
   "name": "Miles Sanders",
+  "overallGrade": {
+   "value": 51,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Carolina",
   "production": {
@@ -6597,6 +7570,13 @@
  },
  "Jerick McKinnon": {
   "name": "Jerick McKinnon",
+  "overallGrade": {
+   "value": 54,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Kansas City",
   "production": {
@@ -6649,6 +7629,13 @@
  },
  "Latavius Murray": {
   "name": "Latavius Murray",
+  "overallGrade": {
+   "value": 68.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Buffalo",
   "production": {
@@ -6701,6 +7688,13 @@
  },
  "Dameon Pierce": {
   "name": "Dameon Pierce",
+  "overallGrade": {
+   "value": 65.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Houston",
   "production": {
@@ -6753,6 +7747,13 @@
  },
  "Zamir White": {
   "name": "Zamir White",
+  "overallGrade": {
+   "value": 55.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -6805,6 +7806,13 @@
  },
  "Emari Demercado": {
   "name": "Emari Demercado",
+  "overallGrade": {
+   "value": 51.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Arizona",
   "production": {
@@ -6857,6 +7865,13 @@
  },
  "Clyde Edwards-Helaire": {
   "name": "Clyde Edwards-Helaire",
+  "overallGrade": {
+   "value": 58.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Kansas City",
   "production": {
@@ -6909,6 +7924,13 @@
  },
  "Keaton Mitchell": {
   "name": "Keaton Mitchell",
+  "overallGrade": {
+   "value": 65.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -6961,6 +7983,13 @@
  },
  "Joshua Kelley": {
   "name": "Joshua Kelley",
+  "overallGrade": {
+   "value": 55.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "L.A. Chargers",
   "production": {
@@ -7013,6 +8042,13 @@
  },
  "Jamaal Williams": {
   "name": "Jamaal Williams",
+  "overallGrade": {
+   "value": 65,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -7065,6 +8101,13 @@
  },
  "Michael Carter": {
   "name": "Michael Carter",
+  "overallGrade": {
+   "value": 45.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Arizona",
   "production": {
@@ -7117,6 +8160,13 @@
  },
  "Chase Brown": {
   "name": "Chase Brown",
+  "overallGrade": {
+   "value": 53.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Cincinnati",
   "production": {
@@ -7169,6 +8219,13 @@
  },
  "Elijah Mitchell": {
   "name": "Elijah Mitchell",
+  "overallGrade": {
+   "value": 65.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "San Francisco",
   "production": {
@@ -7221,6 +8278,13 @@
  },
  "Matt Breida": {
   "name": "Matt Breida",
+  "overallGrade": {
+   "value": 43,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -7273,6 +8337,13 @@
  },
  "Cam Akers": {
   "name": "Cam Akers",
+  "overallGrade": {
+   "value": 49.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Minnesota",
   "production": {
@@ -7325,6 +8396,13 @@
  },
  "Royce Freeman": {
   "name": "Royce Freeman",
+  "overallGrade": {
+   "value": 61.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "L.A. Rams",
   "production": {
@@ -7377,6 +8455,13 @@
  },
  "Jordan Mason": {
   "name": "Jordan Mason",
+  "overallGrade": {
+   "value": 61.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "San Francisco",
   "production": {
@@ -7429,6 +8514,13 @@
  },
  "Darrell Henderson Jr.": {
   "name": "Darrell Henderson Jr.",
+  "overallGrade": {
+   "value": 39.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -7469,6 +8561,13 @@
  },
  "Kendre Miller": {
   "name": "Kendre Miller",
+  "overallGrade": {
+   "value": 56.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -7521,6 +8620,13 @@
  },
  "Salvon Ahmed": {
   "name": "Salvon Ahmed",
+  "overallGrade": {
+   "value": 58.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -7573,6 +8679,13 @@
  },
  "Pierre Strong Jr.": {
   "name": "Pierre Strong Jr.",
+  "overallGrade": {
+   "value": 57,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Cleveland",
   "production": {
@@ -7625,6 +8738,13 @@
  },
  "Jeff Wilson Jr.": {
   "name": "Jeff Wilson Jr.",
+  "overallGrade": {
+   "value": 61.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -7677,6 +8797,13 @@
  },
  "Ameer Abdullah": {
   "name": "Ameer Abdullah",
+  "overallGrade": {
+   "value": 40.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -7729,6 +8856,13 @@
  },
  "Dalvin Cook": {
   "name": "Dalvin Cook",
+  "overallGrade": {
+   "value": 62.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -7781,6 +8915,13 @@
  },
  "Chase Edmonds": {
   "name": "Chase Edmonds",
+  "overallGrade": {
+   "value": 47.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Tampa Bay",
   "production": {
@@ -7833,6 +8974,13 @@
  },
  "Kyle Juszczyk": {
   "name": "Kyle Juszczyk",
+  "overallGrade": {
+   "value": 51.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "San Francisco",
   "production": {
@@ -7885,6 +9033,13 @@
  },
  "Chris Rodriguez Jr.": {
   "name": "Chris Rodriguez Jr.",
+  "overallGrade": {
+   "value": 43.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -7937,6 +9092,13 @@
  },
  "Cordarrelle Patterson": {
   "name": "Cordarrelle Patterson",
+  "overallGrade": {
+   "value": 42.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Atlanta",
   "production": {
@@ -7989,6 +9151,13 @@
  },
  "D'Ernest Johnson": {
   "name": "D'Ernest Johnson",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Jacksonville",
   "production": {
@@ -8041,6 +9210,13 @@
  },
  "Ty Johnson": {
   "name": "Ty Johnson",
+  "overallGrade": {
+   "value": 53.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Buffalo",
   "production": {
@@ -8093,6 +9269,13 @@
  },
  "Tony Jones Jr.": {
   "name": "Tony Jones Jr.",
+  "overallGrade": {
+   "value": 39,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Arizona",
   "production": {
@@ -8145,6 +9328,13 @@
  },
  "Patrick Taylor Jr.": {
   "name": "Patrick Taylor Jr.",
+  "overallGrade": {
+   "value": 49.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Green Bay",
   "production": {
@@ -8197,6 +9387,13 @@
  },
  "Darrynton Evans": {
   "name": "Darrynton Evans",
+  "overallGrade": {
+   "value": 56.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -8249,6 +9446,13 @@
  },
  "Craig Reynolds": {
   "name": "Craig Reynolds",
+  "overallGrade": {
+   "value": 55,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Detroit",
   "production": {
@@ -8301,6 +9505,13 @@
  },
  "Alec Ingold": {
   "name": "Alec Ingold",
+  "overallGrade": {
+   "value": 46.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -8353,6 +9564,13 @@
  },
  "Nick Chubb": {
   "name": "Nick Chubb",
+  "overallGrade": {
+   "value": 47.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Cleveland",
   "production": {
@@ -8405,6 +9623,13 @@
  },
  "Tank Bigsby": {
   "name": "Tank Bigsby",
+  "overallGrade": {
+   "value": 47.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Jacksonville",
   "production": {
@@ -8457,6 +9682,13 @@
  },
  "Kevin Harris": {
   "name": "Kevin Harris",
+  "overallGrade": {
+   "value": 28.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New England",
   "production": {
@@ -8509,6 +9741,13 @@
  },
  "Trey Sermon": {
   "name": "Trey Sermon",
+  "overallGrade": {
+   "value": 48.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Indianapolis",
   "production": {
@@ -8561,6 +9800,13 @@
  },
  "Ronnie Rivers": {
   "name": "Ronnie Rivers",
+  "overallGrade": {
+   "value": 48.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "L.A. Rams",
   "production": {
@@ -8613,6 +9859,13 @@
  },
  "Melvin Gordon III": {
   "name": "Melvin Gordon III",
+  "overallGrade": {
+   "value": 51.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -8665,6 +9918,13 @@
  },
  "Damien Harris": {
   "name": "Damien Harris",
+  "overallGrade": {
+   "value": 48.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Buffalo",
   "production": {
@@ -8717,6 +9977,13 @@
  },
  "Isaiah Spiller": {
   "name": "Isaiah Spiller",
+  "overallGrade": {
+   "value": 39,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "L.A. Chargers",
   "production": {
@@ -8769,6 +10036,13 @@
  },
  "Tyler Goodson": {
   "name": "Tyler Goodson",
+  "overallGrade": {
+   "value": 42.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Indianapolis",
   "production": {
@@ -8821,6 +10095,13 @@
  },
  "Raheem Blackshear": {
   "name": "Raheem Blackshear",
+  "overallGrade": {
+   "value": 25.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Carolina",
   "production": {
@@ -8873,6 +10154,13 @@
  },
  "Israel Abanikanda": {
   "name": "Israel Abanikanda",
+  "overallGrade": {
+   "value": 29,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Jets",
   "production": {
@@ -8925,6 +10213,13 @@
  },
  "Patrick Ricard": {
   "name": "Patrick Ricard",
+  "overallGrade": {
+   "value": 40.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -8960,6 +10255,13 @@
  },
  "Boston Scott": {
   "name": "Boston Scott",
+  "overallGrade": {
+   "value": 45.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Philadelphia",
   "production": {
@@ -9012,6 +10314,13 @@
  },
  "Deuce Vaughn": {
   "name": "Deuce Vaughn",
+  "overallGrade": {
+   "value": 51,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -9064,6 +10373,13 @@
  },
  "Trayveon Williams": {
   "name": "Trayveon Williams",
+  "overallGrade": {
+   "value": 37,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Cincinnati",
   "production": {
@@ -9116,6 +10432,13 @@
  },
  "Emanuel Wilson": {
   "name": "Emanuel Wilson",
+  "overallGrade": {
+   "value": 39.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Green Bay",
   "production": {
@@ -9168,6 +10491,13 @@
  },
  "La'Mical Perine": {
   "name": "La'Mical Perine",
+  "overallGrade": {
+   "value": 38.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Kansas City",
   "production": {
@@ -9220,6 +10550,13 @@
  },
  "Keaontay Ingram": {
   "name": "Keaontay Ingram",
+  "overallGrade": {
+   "value": 40.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Kansas City",
   "production": {
@@ -9272,6 +10609,13 @@
  },
  "Mike Boone": {
   "name": "Mike Boone",
+  "overallGrade": {
+   "value": 20.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Carolina",
   "production": {
@@ -9324,6 +10668,13 @@
  },
  "Eric Gray": {
   "name": "Eric Gray",
+  "overallGrade": {
+   "value": 25.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -9376,6 +10727,13 @@
  },
  "Hunter Luepke": {
   "name": "Hunter Luepke",
+  "overallGrade": {
+   "value": 44.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -9428,6 +10786,13 @@
  },
  "J.K. Dobbins": {
   "name": "J.K. Dobbins",
+  "overallGrade": {
+   "value": 42.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -9480,6 +10845,13 @@
  },
  "Gary Brightwell": {
   "name": "Gary Brightwell",
+  "overallGrade": {
+   "value": 22.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -9532,6 +10904,13 @@
  },
  "Nick Bawden": {
   "name": "Nick Bawden",
+  "overallGrade": {
+   "value": 19.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Jets",
   "production": {
@@ -9584,6 +10963,13 @@
  },
  "Brandon Bolden": {
   "name": "Brandon Bolden",
+  "overallGrade": {
+   "value": 25.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -9636,6 +11022,13 @@
  },
  "Chris Brooks": {
   "name": "Chris Brooks",
+  "overallGrade": {
+   "value": 45.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Miami",
   "production": {
@@ -9688,6 +11081,13 @@
  },
  "Dare Ogunbowale": {
   "name": "Dare Ogunbowale",
+  "overallGrade": {
+   "value": 34,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Houston",
   "production": {
@@ -9740,6 +11140,13 @@
  },
  "C.J. Ham": {
   "name": "C.J. Ham",
+  "overallGrade": {
+   "value": 22.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Minnesota",
   "production": {
@@ -9792,6 +11199,13 @@
  },
  "Ty Montgomery II": {
   "name": "Ty Montgomery II",
+  "overallGrade": {
+   "value": null,
+   "grade": {
+    "letter": "N/A",
+    "description": "Oops, something went wrong..could not calculate grade"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -9825,6 +11239,13 @@
  },
  "DeeJay Dallas": {
   "name": "DeeJay Dallas",
+  "overallGrade": {
+   "value": 30.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Seattle",
   "production": {
@@ -9877,6 +11298,13 @@
  },
  "Damien Williams": {
   "name": "Damien Williams",
+  "overallGrade": {
+   "value": 19,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -9917,6 +11345,13 @@
  },
  "Michael Burton": {
   "name": "Michael Burton",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Denver",
   "production": {
@@ -9969,6 +11404,13 @@
  },
  "Ke'Shawn Vaughn": {
   "name": "Ke'Shawn Vaughn",
+  "overallGrade": {
+   "value": 22.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New England",
   "production": {
@@ -10021,6 +11463,13 @@
  },
  "Keith Smith": {
   "name": "Keith Smith",
+  "overallGrade": {
+   "value": 17.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Atlanta",
   "production": {
@@ -10056,6 +11505,13 @@
  },
  "Khari Blasingame": {
   "name": "Khari Blasingame",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Chicago",
   "production": {
@@ -10108,6 +11564,13 @@
  },
  "Sean Tucker": {
   "name": "Sean Tucker",
+  "overallGrade": {
+   "value": 28.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Tampa Bay",
   "production": {
@@ -10160,6 +11623,13 @@
  },
  "Rashaad Penny": {
   "name": "Rashaad Penny",
+  "overallGrade": {
+   "value": 36.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Philadelphia",
   "production": {
@@ -10212,6 +11682,13 @@
  },
  "Jashaun Corbin": {
   "name": "Jashaun Corbin",
+  "overallGrade": {
+   "value": 13.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -10264,6 +11741,13 @@
  },
  "Alex Armah Jr.": {
   "name": "Alex Armah Jr.",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -10299,6 +11783,13 @@
  },
  "Deon Jackson": {
   "name": "Deon Jackson",
+  "overallGrade": {
+   "value": 18.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N.Y. Giants",
   "production": {
@@ -10351,6 +11842,13 @@
  },
  "Leonard Fournette": {
   "name": "Leonard Fournette",
+  "overallGrade": {
+   "value": 16.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -10391,6 +11889,13 @@
  },
  "Elijah Dotson": {
   "name": "Elijah Dotson",
+  "overallGrade": {
+   "value": 21.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "L.A. Chargers",
   "production": {
@@ -10443,6 +11948,13 @@
  },
  "Jake Funk": {
   "name": "Jake Funk",
+  "overallGrade": {
+   "value": 11.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -10483,6 +11995,13 @@
  },
  "Anthony McFarland Jr.": {
   "name": "Anthony McFarland Jr.",
+  "overallGrade": {
+   "value": 14,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Pittsburgh",
   "production": {
@@ -10518,6 +12037,13 @@
  },
  "Zonovan Knight": {
   "name": "Zonovan Knight",
+  "overallGrade": {
+   "value": 33.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Detroit",
   "production": {
@@ -10570,6 +12096,13 @@
  },
  "Kenyan Drake": {
   "name": "Kenyan Drake",
+  "overallGrade": {
+   "value": 11,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -10610,6 +12143,13 @@
  },
  "Derrick Gore": {
   "name": "Derrick Gore",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -10662,6 +12202,13 @@
  },
  "Adam Prentice": {
   "name": "Adam Prentice",
+  "overallGrade": {
+   "value": 28.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -10714,6 +12261,13 @@
  },
  "Devine Ozigbo": {
   "name": "Devine Ozigbo",
+  "overallGrade": {
+   "value": 10.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -10754,6 +12308,13 @@
  },
  "Jakob Johnson": {
   "name": "Jakob Johnson",
+  "overallGrade": {
+   "value": 15.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -10789,6 +12350,13 @@
  },
  "Chris Evans": {
   "name": "Chris Evans",
+  "overallGrade": {
+   "value": 21.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Cincinnati",
   "production": {
@@ -10841,6 +12409,13 @@
  },
  "Tyrion Davis-Price": {
   "name": "Tyrion Davis-Price",
+  "overallGrade": {
+   "value": 35,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "San Francisco",
   "production": {
@@ -10893,6 +12468,13 @@
  },
  "Zach Evans": {
   "name": "Zach Evans",
+  "overallGrade": {
+   "value": 31.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "L.A. Rams",
   "production": {
@@ -10945,6 +12527,13 @@
  },
  "Evan Hull": {
   "name": "Evan Hull",
+  "overallGrade": {
+   "value": 25.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Indianapolis",
   "production": {
@@ -10997,6 +12586,13 @@
  },
  "Reggie Gilliam": {
   "name": "Reggie Gilliam",
+  "overallGrade": {
+   "value": 27.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Buffalo",
   "production": {
@@ -11032,6 +12628,13 @@
  },
  "Kene Nwangwu": {
   "name": "Kene Nwangwu",
+  "overallGrade": {
+   "value": 18.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Minnesota",
   "production": {
@@ -11084,6 +12687,13 @@
  },
  "Jonathan Ward": {
   "name": "Jonathan Ward",
+  "overallGrade": {
+   "value": 11.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Tennessee",
   "production": {
@@ -11136,6 +12746,13 @@
  },
  "James Robinson": {
   "name": "James Robinson",
+  "overallGrade": {
+   "value": 24.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -11188,6 +12805,13 @@
  },
  "Henry Pearson": {
   "name": "Henry Pearson",
+  "overallGrade": {
+   "value": 22,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Green Bay",
   "production": {
@@ -11223,6 +12847,13 @@
  },
  "Austin Walter": {
   "name": "Austin Walter",
+  "overallGrade": {
+   "value": 13.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -11258,6 +12889,13 @@
  },
  "Jeremy McNichols": {
   "name": "Jeremy McNichols",
+  "overallGrade": {
+   "value": 6.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -11281,6 +12919,13 @@
  },
  "Brittain Brown": {
   "name": "Brittain Brown",
+  "overallGrade": {
+   "value": 13.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Las Vegas",
   "production": {
@@ -11316,6 +12961,13 @@
  },
  "Corey Clement": {
   "name": "Corey Clement",
+  "overallGrade": {
+   "value": 6.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "N/A",
   "production": {
@@ -11339,6 +12991,13 @@
  },
  "Marlon Mack": {
   "name": "Marlon Mack",
+  "overallGrade": {
+   "value": 12.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Arizona",
   "production": {
@@ -11374,6 +13033,13 @@
  },
  "SaRodorick Thompson Jr.": {
   "name": "SaRodorick Thompson Jr.",
+  "overallGrade": {
+   "value": 30.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -11409,6 +13075,13 @@
  },
  "Mohamed Ibrahim": {
   "name": "Mohamed Ibrahim",
+  "overallGrade": {
+   "value": 27.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Detroit",
   "production": {
@@ -11444,6 +13117,13 @@
  },
  "Godwin Igwebuike": {
   "name": "Godwin Igwebuike",
+  "overallGrade": {
+   "value": 10.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Pittsburgh",
   "production": {
@@ -11479,6 +13159,13 @@
  },
  "Travis Homer": {
   "name": "Travis Homer",
+  "overallGrade": {
+   "value": 17.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Chicago",
   "production": {
@@ -11514,6 +13201,13 @@
  },
  "JaMycal Hasty": {
   "name": "JaMycal Hasty",
+  "overallGrade": {
+   "value": 7,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New England",
   "production": {
@@ -11549,6 +13243,13 @@
  },
  "Dwayne Washington": {
   "name": "Dwayne Washington",
+  "overallGrade": {
+   "value": 16.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Denver",
   "production": {
@@ -11584,6 +13285,13 @@
  },
  "Malik Davis": {
   "name": "Malik Davis",
+  "overallGrade": {
+   "value": 30.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Dallas",
   "production": {
@@ -11619,6 +13327,13 @@
  },
  "Julius Chestnut": {
   "name": "Julius Chestnut",
+  "overallGrade": {
+   "value": 9.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Tennessee",
   "production": {
@@ -11654,6 +13369,13 @@
  },
  "Bryant Koback": {
   "name": "Bryant Koback",
+  "overallGrade": {
+   "value": 18,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Seattle",
   "production": {
@@ -11689,6 +13411,13 @@
  },
  "Patrick Laird": {
   "name": "Patrick Laird",
+  "overallGrade": {
+   "value": 15.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Tampa Bay",
   "production": {
@@ -11724,6 +13453,13 @@
  },
  "Jordan Mims": {
   "name": "Jordan Mims",
+  "overallGrade": {
+   "value": 24.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "New Orleans",
   "production": {
@@ -11759,6 +13495,13 @@
  },
  "Ben Mason": {
   "name": "Ben Mason",
+  "overallGrade": {
+   "value": 28.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Baltimore",
   "production": {
@@ -11794,6 +13537,13 @@
  },
  "Jonathan Williams": {
   "name": "Jonathan Williams",
+  "overallGrade": {
+   "value": 5.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "RB",
   "team": "Washington",
   "production": {
@@ -11829,6 +13579,13 @@
  },
  "CeeDee Lamb": {
   "name": "CeeDee Lamb",
+  "overallGrade": {
+   "value": 99.25,
+   "grade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -11874,6 +13631,13 @@
  },
  "Tyreek Hill": {
   "name": "Tyreek Hill",
+  "overallGrade": {
+   "value": 97.75,
+   "grade": {
+    "letter": "A+",
+    "description": "Elite"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -11919,6 +13683,13 @@
  },
  "Amon-Ra St. Brown": {
   "name": "Amon-Ra St. Brown",
+  "overallGrade": {
+   "value": 95,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -11964,6 +13735,13 @@
  },
  "Puka Nacua": {
   "name": "Puka Nacua",
+  "overallGrade": {
+   "value": 92,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -12009,6 +13787,13 @@
  },
  "A.J. Brown": {
   "name": "A.J. Brown",
+  "overallGrade": {
+   "value": 92.5,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -12054,6 +13839,13 @@
  },
  "DJ Moore": {
   "name": "DJ Moore",
+  "overallGrade": {
+   "value": 83.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -12099,6 +13891,13 @@
  },
  "Mike Evans": {
   "name": "Mike Evans",
+  "overallGrade": {
+   "value": 81,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -12144,6 +13943,13 @@
  },
  "Keenan Allen": {
   "name": "Keenan Allen",
+  "overallGrade": {
+   "value": 80.75,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -12189,6 +13995,13 @@
  },
  "Stefon Diggs": {
   "name": "Stefon Diggs",
+  "overallGrade": {
+   "value": 92.5,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -12234,6 +14047,13 @@
  },
  "Davante Adams": {
   "name": "Davante Adams",
+  "overallGrade": {
+   "value": 79.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -12279,6 +14099,13 @@
  },
  "Ja'Marr Chase": {
   "name": "Ja'Marr Chase",
+  "overallGrade": {
+   "value": 84,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -12324,6 +14151,13 @@
  },
  "Nico Collins": {
   "name": "Nico Collins",
+  "overallGrade": {
+   "value": 84.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -12369,6 +14203,13 @@
  },
  "Michael Pittman Jr.": {
   "name": "Michael Pittman Jr.",
+  "overallGrade": {
+   "value": 88.75,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -12414,6 +14255,13 @@
  },
  "Brandon Aiyuk": {
   "name": "Brandon Aiyuk",
+  "overallGrade": {
+   "value": 91.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -12459,6 +14307,13 @@
  },
  "Deebo Samuel": {
   "name": "Deebo Samuel",
+  "overallGrade": {
+   "value": 89.25,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -12504,6 +14359,13 @@
  },
  "Chris Olave": {
   "name": "Chris Olave",
+  "overallGrade": {
+   "value": 88,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -12549,6 +14411,13 @@
  },
  "Adam Thielen": {
   "name": "Adam Thielen",
+  "overallGrade": {
+   "value": 70,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -12594,6 +14463,13 @@
  },
  "Calvin Ridley": {
   "name": "Calvin Ridley",
+  "overallGrade": {
+   "value": 83.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -12639,6 +14515,13 @@
  },
  "DeVonta Smith": {
   "name": "DeVonta Smith",
+  "overallGrade": {
+   "value": 88,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -12684,6 +14567,13 @@
  },
  "Amari Cooper": {
   "name": "Amari Cooper",
+  "overallGrade": {
+   "value": 85.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -12729,6 +14619,13 @@
  },
  "DK Metcalf": {
   "name": "DK Metcalf",
+  "overallGrade": {
+   "value": 79.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -12774,6 +14671,13 @@
  },
  "DeAndre Hopkins": {
   "name": "DeAndre Hopkins",
+  "overallGrade": {
+   "value": 72.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -12819,6 +14723,13 @@
  },
  "Jordan Addison": {
   "name": "Jordan Addison",
+  "overallGrade": {
+   "value": 75.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -12864,6 +14775,13 @@
  },
  "Jakobi Meyers": {
   "name": "Jakobi Meyers",
+  "overallGrade": {
+   "value": 73.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -12909,6 +14827,13 @@
  },
  "Jayden Reed": {
   "name": "Jayden Reed",
+  "overallGrade": {
+   "value": 81,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -12954,6 +14879,13 @@
  },
  "Garrett Wilson": {
   "name": "Garrett Wilson",
+  "overallGrade": {
+   "value": 71.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -12999,6 +14931,13 @@
  },
  "Rashee Rice": {
   "name": "Rashee Rice",
+  "overallGrade": {
+   "value": 79.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -13044,6 +14983,13 @@
  },
  "Chris Godwin": {
   "name": "Chris Godwin",
+  "overallGrade": {
+   "value": 77,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -13089,6 +15035,13 @@
  },
  "George Pickens": {
   "name": "George Pickens",
+  "overallGrade": {
+   "value": 70,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -13134,6 +15087,13 @@
  },
  "Zay Flowers": {
   "name": "Zay Flowers",
+  "overallGrade": {
+   "value": 88.25,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -13179,6 +15139,13 @@
  },
  "Terry McLaurin": {
   "name": "Terry McLaurin",
+  "overallGrade": {
+   "value": 72.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -13224,6 +15191,13 @@
  },
  "Tyler Lockett": {
   "name": "Tyler Lockett",
+  "overallGrade": {
+   "value": 78.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -13269,6 +15243,13 @@
  },
  "Justin Jefferson": {
   "name": "Justin Jefferson",
+  "overallGrade": {
+   "value": 72.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -13314,6 +15295,13 @@
  },
  "Jaylen Waddle": {
   "name": "Jaylen Waddle",
+  "overallGrade": {
+   "value": 88.5,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -13359,6 +15347,13 @@
  },
  "Courtland Sutton": {
   "name": "Courtland Sutton",
+  "overallGrade": {
+   "value": 73.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -13404,6 +15399,13 @@
  },
  "Romeo Doubs": {
   "name": "Romeo Doubs",
+  "overallGrade": {
+   "value": 78.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -13449,6 +15451,13 @@
  },
  "Drake London": {
   "name": "Drake London",
+  "overallGrade": {
+   "value": 69.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -13494,6 +15503,13 @@
  },
  "Brandin Cooks": {
   "name": "Brandin Cooks",
+  "overallGrade": {
+   "value": 85.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -13539,6 +15555,13 @@
  },
  "Tank Dell": {
   "name": "Tank Dell",
+  "overallGrade": {
+   "value": 75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -13584,6 +15607,13 @@
  },
  "Cooper Kupp": {
   "name": "Cooper Kupp",
+  "overallGrade": {
+   "value": 81.25,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -13629,6 +15659,13 @@
  },
  "Gabe Davis": {
   "name": "Gabe Davis",
+  "overallGrade": {
+   "value": 81,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -13674,6 +15711,13 @@
  },
  "Curtis Samuel": {
   "name": "Curtis Samuel",
+  "overallGrade": {
+   "value": 67,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -13719,6 +15763,13 @@
  },
  "Josh Downs": {
   "name": "Josh Downs",
+  "overallGrade": {
+   "value": 79.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -13764,6 +15815,13 @@
  },
  "Rashid Shaheed": {
   "name": "Rashid Shaheed",
+  "overallGrade": {
+   "value": 77.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -13809,6 +15867,13 @@
  },
  "Diontae Johnson": {
   "name": "Diontae Johnson",
+  "overallGrade": {
+   "value": 64.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -13854,6 +15919,13 @@
  },
  "Darius Slayton": {
   "name": "Darius Slayton",
+  "overallGrade": {
+   "value": 60.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -13899,6 +15971,13 @@
  },
  "Christian Kirk": {
   "name": "Christian Kirk",
+  "overallGrade": {
+   "value": 73.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -13944,6 +16023,13 @@
  },
  "Jaxon Smith-Njigba": {
   "name": "Jaxon Smith-Njigba",
+  "overallGrade": {
+   "value": 72,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -13989,6 +16075,13 @@
  },
  "Tyler Boyd": {
   "name": "Tyler Boyd",
+  "overallGrade": {
+   "value": 73,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -14034,6 +16127,13 @@
  },
  "Jerry Jeudy": {
   "name": "Jerry Jeudy",
+  "overallGrade": {
+   "value": 69.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -14079,6 +16179,13 @@
  },
  "Tee Higgins": {
   "name": "Tee Higgins",
+  "overallGrade": {
+   "value": 70.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -14124,6 +16231,13 @@
  },
  "Marquise Brown": {
   "name": "Marquise Brown",
+  "overallGrade": {
+   "value": 66.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -14169,6 +16283,13 @@
  },
  "Wan'Dale Robinson": {
   "name": "Wan'Dale Robinson",
+  "overallGrade": {
+   "value": 58.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -14214,6 +16335,13 @@
  },
  "Elijah Moore": {
   "name": "Elijah Moore",
+  "overallGrade": {
+   "value": 76.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -14259,6 +16387,13 @@
  },
  "Josh Reynolds": {
   "name": "Josh Reynolds",
+  "overallGrade": {
+   "value": 76.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -14304,6 +16439,13 @@
  },
  "Jahan Dotson": {
   "name": "Jahan Dotson",
+  "overallGrade": {
+   "value": 62.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -14349,6 +16491,13 @@
  },
  "K.J. Osborn": {
   "name": "K.J. Osborn",
+  "overallGrade": {
+   "value": 63.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -14394,6 +16543,13 @@
  },
  "Dontayvion Wicks": {
   "name": "Dontayvion Wicks",
+  "overallGrade": {
+   "value": 69.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -14439,6 +16595,13 @@
  },
  "DJ Chark Jr.": {
   "name": "DJ Chark Jr.",
+  "overallGrade": {
+   "value": 54.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -14484,6 +16647,13 @@
  },
  "Michael Wilson": {
   "name": "Michael Wilson",
+  "overallGrade": {
+   "value": 59,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -14529,6 +16699,13 @@
  },
  "Khalil Shakir": {
   "name": "Khalil Shakir",
+  "overallGrade": {
+   "value": 71.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -14574,6 +16751,13 @@
  },
  "Tutu Atwell": {
   "name": "Tutu Atwell",
+  "overallGrade": {
+   "value": 72.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -14619,6 +16803,13 @@
  },
  "Odell Beckham Jr.": {
   "name": "Odell Beckham Jr.",
+  "overallGrade": {
+   "value": 74.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -14664,6 +16855,13 @@
  },
  "Demario Douglas": {
   "name": "Demario Douglas",
+  "overallGrade": {
+   "value": 55.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -14709,6 +16907,13 @@
  },
  "Joshua Palmer": {
   "name": "Joshua Palmer",
+  "overallGrade": {
+   "value": 60.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -14754,6 +16959,13 @@
  },
  "Rondale Moore": {
   "name": "Rondale Moore",
+  "overallGrade": {
+   "value": 58.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -14799,6 +17011,13 @@
  },
  "Noah Brown": {
   "name": "Noah Brown",
+  "overallGrade": {
+   "value": 65.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -14844,6 +17063,13 @@
  },
  "Christian Watson": {
   "name": "Christian Watson",
+  "overallGrade": {
+   "value": 66,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -14889,6 +17115,13 @@
  },
  "Kendrick Bourne": {
   "name": "Kendrick Bourne",
+  "overallGrade": {
+   "value": 51,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -14934,6 +17167,13 @@
  },
  "Kalif Raymond": {
   "name": "Kalif Raymond",
+  "overallGrade": {
+   "value": 69.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -14979,6 +17219,13 @@
  },
  "Nelson Agholor": {
   "name": "Nelson Agholor",
+  "overallGrade": {
+   "value": 71,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -15024,6 +17271,13 @@
  },
  "Trey Palmer": {
   "name": "Trey Palmer",
+  "overallGrade": {
+   "value": 61.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -15069,6 +17323,13 @@
  },
  "Alec Pierce": {
   "name": "Alec Pierce",
+  "overallGrade": {
+   "value": 68.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -15114,6 +17375,13 @@
  },
  "Quentin Johnston": {
   "name": "Quentin Johnston",
+  "overallGrade": {
+   "value": 59.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -15159,6 +17427,13 @@
  },
  "Michael Thomas": {
   "name": "Michael Thomas",
+  "overallGrade": {
+   "value": 68.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -15204,6 +17479,13 @@
  },
  "Robert Woods": {
   "name": "Robert Woods",
+  "overallGrade": {
+   "value": 66,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -15249,6 +17531,13 @@
  },
  "Justin Watson": {
   "name": "Justin Watson",
+  "overallGrade": {
+   "value": 61.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -15294,6 +17583,13 @@
  },
  "Michael Gallup": {
   "name": "Michael Gallup",
+  "overallGrade": {
+   "value": 73.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -15339,6 +17635,13 @@
  },
  "Demarcus Robinson": {
   "name": "Demarcus Robinson",
+  "overallGrade": {
+   "value": 65.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -15384,6 +17687,13 @@
  },
  "Nick Westbrook-Ikhine": {
   "name": "Nick Westbrook-Ikhine",
+  "overallGrade": {
+   "value": 50.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -15429,6 +17739,13 @@
  },
  "Jonathan Mingo": {
   "name": "Jonathan Mingo",
+  "overallGrade": {
+   "value": 51.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -15474,6 +17791,13 @@
  },
  "Jameson Williams": {
   "name": "Jameson Williams",
+  "overallGrade": {
+   "value": 67,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -15519,6 +17843,13 @@
  },
  "Darnell Mooney": {
   "name": "Darnell Mooney",
+  "overallGrade": {
+   "value": 59.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -15564,6 +17895,13 @@
  },
  "Zay Jones": {
   "name": "Zay Jones",
+  "overallGrade": {
+   "value": 63,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -15609,6 +17947,13 @@
  },
  "Rashod Bateman": {
   "name": "Rashod Bateman",
+  "overallGrade": {
+   "value": 69.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -15654,6 +17999,13 @@
  },
  "Brandon Johnson": {
   "name": "Brandon Johnson",
+  "overallGrade": {
+   "value": 53,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -15699,6 +18051,13 @@
  },
  "DeVante Parker": {
   "name": "DeVante Parker",
+  "overallGrade": {
+   "value": 47.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -15744,6 +18103,13 @@
  },
  "Tre Tucker": {
   "name": "Tre Tucker",
+  "overallGrade": {
+   "value": 50.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -15789,6 +18155,13 @@
  },
  "Marvin Mims Jr.": {
   "name": "Marvin Mims Jr.",
+  "overallGrade": {
+   "value": 53.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -15834,6 +18207,13 @@
  },
  "Cedrick Wilson Jr.": {
   "name": "Cedrick Wilson Jr.",
+  "overallGrade": {
+   "value": 67.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -15879,6 +18259,13 @@
  },
  "Chris Moore": {
   "name": "Chris Moore",
+  "overallGrade": {
+   "value": 46.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -15924,6 +18311,13 @@
  },
  "Brandon Powell": {
   "name": "Brandon Powell",
+  "overallGrade": {
+   "value": 52.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -15969,6 +18363,13 @@
  },
  "Greg Dortch": {
   "name": "Greg Dortch",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -16014,6 +18415,13 @@
  },
  "Trenton Irwin": {
   "name": "Trenton Irwin",
+  "overallGrade": {
+   "value": 53.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -16059,6 +18467,13 @@
  },
  "Allen Robinson II": {
   "name": "Allen Robinson II",
+  "overallGrade": {
+   "value": 48.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -16104,6 +18519,13 @@
  },
  "JuJu Smith-Schuster": {
   "name": "JuJu Smith-Schuster",
+  "overallGrade": {
+   "value": 45,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -16149,6 +18571,13 @@
  },
  "A.T. Perry": {
   "name": "A.T. Perry",
+  "overallGrade": {
+   "value": 54.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -16194,6 +18623,13 @@
  },
  "Jalin Hyatt": {
   "name": "Jalin Hyatt",
+  "overallGrade": {
+   "value": 44.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -16239,6 +18675,13 @@
  },
  "Allen Lazard": {
   "name": "Allen Lazard",
+  "overallGrade": {
+   "value": 46,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -16284,6 +18727,13 @@
  },
  "Isaiah Hodgins": {
   "name": "Isaiah Hodgins",
+  "overallGrade": {
+   "value": 42.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -16329,6 +18779,13 @@
  },
  "KaVontae Turpin": {
   "name": "KaVontae Turpin",
+  "overallGrade": {
+   "value": 60,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -16374,6 +18831,13 @@
  },
  "Jalen Tolbert": {
   "name": "Jalen Tolbert",
+  "overallGrade": {
+   "value": 65.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -16419,6 +18883,13 @@
  },
  "Xavier Gipson": {
   "name": "Xavier Gipson",
+  "overallGrade": {
+   "value": 43.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -16464,6 +18935,13 @@
  },
  "Braxton Berrios": {
   "name": "Braxton Berrios",
+  "overallGrade": {
+   "value": 63.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -16509,6 +18987,13 @@
  },
  "Jake Bobo": {
   "name": "Jake Bobo",
+  "overallGrade": {
+   "value": 50,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -16554,6 +19039,13 @@
  },
  "Marquez Valdes-Scantling": {
   "name": "Marquez Valdes-Scantling",
+  "overallGrade": {
+   "value": 55,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -16599,6 +19091,13 @@
  },
  "Skyy Moore": {
   "name": "Skyy Moore",
+  "overallGrade": {
+   "value": 54,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -16644,6 +19143,13 @@
  },
  "Kadarius Toney": {
   "name": "Kadarius Toney",
+  "overallGrade": {
+   "value": 53.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -16689,6 +19195,13 @@
  },
  "Calvin Austin III": {
   "name": "Calvin Austin III",
+  "overallGrade": {
+   "value": 42.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -16734,6 +19247,13 @@
  },
  "Jauan Jennings": {
   "name": "Jauan Jennings",
+  "overallGrade": {
+   "value": 61.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -16779,6 +19299,13 @@
  },
  "Andrei Iosivas": {
   "name": "Andrei Iosivas",
+  "overallGrade": {
+   "value": 50,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -16824,6 +19351,13 @@
  },
  "Mike Williams": {
   "name": "Mike Williams",
+  "overallGrade": {
+   "value": 45.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -16869,6 +19403,13 @@
  },
  "David Bell": {
   "name": "David Bell",
+  "overallGrade": {
+   "value": 52.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -16914,6 +19455,13 @@
  },
  "Hunter Renfrow": {
   "name": "Hunter Renfrow",
+  "overallGrade": {
+   "value": 46.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -16959,6 +19507,13 @@
  },
  "Lil'Jordan Humphrey": {
   "name": "Lil'Jordan Humphrey",
+  "overallGrade": {
+   "value": 44,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -17004,6 +19559,13 @@
  },
  "Bo Melton": {
   "name": "Bo Melton",
+  "overallGrade": {
+   "value": 51.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -17049,6 +19611,13 @@
  },
  "Alex Erickson": {
   "name": "Alex Erickson",
+  "overallGrade": {
+   "value": 45,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -17094,6 +19663,13 @@
  },
  "Cedric Tillman": {
   "name": "Cedric Tillman",
+  "overallGrade": {
+   "value": 56.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -17139,6 +19715,13 @@
  },
  "Mack Hollins": {
   "name": "Mack Hollins",
+  "overallGrade": {
+   "value": 41.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -17184,6 +19767,13 @@
  },
  "Van Jefferson": {
   "name": "Van Jefferson",
+  "overallGrade": {
+   "value": 44,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -17229,6 +19819,13 @@
  },
  "Jamal Agnew": {
   "name": "Jamal Agnew",
+  "overallGrade": {
+   "value": 47.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -17274,6 +19871,13 @@
  },
  "Deonte Harty": {
   "name": "Deonte Harty",
+  "overallGrade": {
+   "value": 53.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -17319,6 +19923,13 @@
  },
  "Treylon Burks": {
   "name": "Treylon Burks",
+  "overallGrade": {
+   "value": 39,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -17364,6 +19975,13 @@
  },
  "Parker Washington": {
   "name": "Parker Washington",
+  "overallGrade": {
+   "value": 46.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -17409,6 +20027,13 @@
  },
  "Scott Miller": {
   "name": "Scott Miller",
+  "overallGrade": {
+   "value": 35.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -17454,6 +20079,13 @@
  },
  "Olamide Zaccheaus": {
   "name": "Olamide Zaccheaus",
+  "overallGrade": {
+   "value": 51.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -17499,6 +20131,13 @@
  },
  "KhaDarel Hodge": {
   "name": "KhaDarel Hodge",
+  "overallGrade": {
+   "value": 37.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -17544,6 +20183,13 @@
  },
  "Julio Jones": {
   "name": "Julio Jones",
+  "overallGrade": {
+   "value": 50.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -17589,6 +20235,13 @@
  },
  "Tyler Scott": {
   "name": "Tyler Scott",
+  "overallGrade": {
+   "value": 46,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -17634,6 +20287,13 @@
  },
  "Jamison Crowder": {
   "name": "Jamison Crowder",
+  "overallGrade": {
+   "value": 36.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -17679,6 +20339,13 @@
  },
  "Derius Davis": {
   "name": "Derius Davis",
+  "overallGrade": {
+   "value": 38,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -17724,6 +20391,13 @@
  },
  "Quez Watkins": {
   "name": "Quez Watkins",
+  "overallGrade": {
+   "value": 50.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -17769,6 +20443,13 @@
  },
  "Dyami Brown": {
   "name": "Dyami Brown",
+  "overallGrade": {
+   "value": 37.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -17814,6 +20495,13 @@
  },
  "Deven Thompkins": {
   "name": "Deven Thompkins",
+  "overallGrade": {
+   "value": 42.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -17859,6 +20547,13 @@
  },
  "Malik Heath": {
   "name": "Malik Heath",
+  "overallGrade": {
+   "value": 48,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -17904,6 +20599,13 @@
  },
  "Terrace Marshall Jr.": {
   "name": "Terrace Marshall Jr.",
+  "overallGrade": {
+   "value": 34,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -17949,6 +20651,13 @@
  },
  "Ihmir Smith-Marsette": {
   "name": "Ihmir Smith-Marsette",
+  "overallGrade": {
+   "value": 27,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -17994,6 +20703,13 @@
  },
  "John Metchie III": {
   "name": "John Metchie III",
+  "overallGrade": {
+   "value": 47.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -18039,6 +20755,13 @@
  },
  "Kyle Philips": {
   "name": "Kyle Philips",
+  "overallGrade": {
+   "value": 33.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -18084,6 +20807,13 @@
  },
  "Ronnie Bell": {
   "name": "Ronnie Bell",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -18129,6 +20859,13 @@
  },
  "Parris Campbell": {
   "name": "Parris Campbell",
+  "overallGrade": {
+   "value": 33.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -18174,6 +20911,13 @@
  },
  "Jalen Reagor": {
   "name": "Jalen Reagor",
+  "overallGrade": {
+   "value": 30.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -18219,6 +20963,13 @@
  },
  "Donovan Peoples-Jones": {
   "name": "Donovan Peoples-Jones",
+  "overallGrade": {
+   "value": 52,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -18264,6 +21015,13 @@
  },
  "Ray-Ray McCloud III": {
   "name": "Ray-Ray McCloud III",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -18309,6 +21067,13 @@
  },
  "Byron Pringle": {
   "name": "Byron Pringle",
+  "overallGrade": {
+   "value": 35,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -18354,6 +21119,13 @@
  },
  "Tyquan Thornton": {
   "name": "Tyquan Thornton",
+  "overallGrade": {
+   "value": 30,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -18399,6 +21171,13 @@
  },
  "River Cracraft": {
   "name": "River Cracraft",
+  "overallGrade": {
+   "value": 49,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -18444,6 +21223,13 @@
  },
  "Mecole Hardman Jr.": {
   "name": "Mecole Hardman Jr.",
+  "overallGrade": {
+   "value": 42.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -18489,6 +21275,13 @@
  },
  "Trent Sherfield": {
   "name": "Trent Sherfield",
+  "overallGrade": {
+   "value": 48.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -18534,6 +21327,13 @@
  },
  "Jalen Guyton": {
   "name": "Jalen Guyton",
+  "overallGrade": {
+   "value": 36.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -18579,6 +21379,13 @@
  },
  "Robbie Chosen": {
   "name": "Robbie Chosen",
+  "overallGrade": {
+   "value": 45.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -18624,6 +21431,13 @@
  },
  "Lynn Bowden Jr.": {
   "name": "Lynn Bowden Jr.",
+  "overallGrade": {
+   "value": 43.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -18669,6 +21483,13 @@
  },
  "Xavier Hutchinson": {
   "name": "Xavier Hutchinson",
+  "overallGrade": {
+   "value": 40.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -18714,6 +21535,13 @@
  },
  "Chase Claypool": {
   "name": "Chase Claypool",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -18759,6 +21587,13 @@
  },
  "Laviska Shenault Jr.": {
   "name": "Laviska Shenault Jr.",
+  "overallGrade": {
+   "value": 22.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -18804,6 +21639,13 @@
  },
  "Ben Skowronek": {
   "name": "Ben Skowronek",
+  "overallGrade": {
+   "value": 42,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -18849,6 +21691,13 @@
  },
  "Charlie Jones": {
   "name": "Charlie Jones",
+  "overallGrade": {
+   "value": 34.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -18894,6 +21743,13 @@
  },
  "David Moore": {
   "name": "David Moore",
+  "overallGrade": {
+   "value": 30.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -18939,6 +21795,13 @@
  },
  "Sterling Shepard": {
   "name": "Sterling Shepard",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -18984,6 +21847,13 @@
  },
  "Richie James Jr.": {
   "name": "Richie James Jr.",
+  "overallGrade": {
+   "value": 36.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -19029,6 +21899,13 @@
  },
  "Tim Jones": {
   "name": "Tim Jones",
+  "overallGrade": {
+   "value": 38,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -19074,6 +21951,13 @@
  },
  "Randall Cobb": {
   "name": "Randall Cobb",
+  "overallGrade": {
+   "value": 25.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -19119,6 +22003,13 @@
  },
  "Jason Brownlee": {
   "name": "Jason Brownlee",
+  "overallGrade": {
+   "value": 22.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -19164,6 +22055,13 @@
  },
  "Isaiah McKenzie": {
   "name": "Isaiah McKenzie",
+  "overallGrade": {
+   "value": 39.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -19209,6 +22107,13 @@
  },
  "Samori Toure": {
   "name": "Samori Toure",
+  "overallGrade": {
+   "value": 39,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Green Bay",
   "production": {
@@ -19254,6 +22159,13 @@
  },
  "Keith Kirkwood": {
   "name": "Keith Kirkwood",
+  "overallGrade": {
+   "value": 38.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New Orleans",
   "production": {
@@ -19299,6 +22211,13 @@
  },
  "D.J. Montgomery": {
   "name": "D.J. Montgomery",
+  "overallGrade": {
+   "value": 37,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -19344,6 +22263,13 @@
  },
  "Marquise Goodwin": {
   "name": "Marquise Goodwin",
+  "overallGrade": {
+   "value": 37.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -19389,6 +22315,13 @@
  },
  "Lawrence Cager": {
   "name": "Lawrence Cager",
+  "overallGrade": {
+   "value": 21.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -19434,6 +22367,13 @@
  },
  "Jalen Brooks": {
   "name": "Jalen Brooks",
+  "overallGrade": {
+   "value": 42,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Dallas",
   "production": {
@@ -19479,6 +22419,13 @@
  },
  "Justyn Ross": {
   "name": "Justyn Ross",
+  "overallGrade": {
+   "value": 32.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -19524,6 +22471,13 @@
  },
  "Equanimeous St. Brown": {
   "name": "Equanimeous St. Brown",
+  "overallGrade": {
+   "value": 28.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -19569,6 +22523,13 @@
  },
  "Velus Jones Jr.": {
   "name": "Velus Jones Jr.",
+  "overallGrade": {
+   "value": 29,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -19614,6 +22575,13 @@
  },
  "Rakim Jarrett": {
   "name": "Rakim Jarrett",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -19659,6 +22627,13 @@
  },
  "Chris Conley": {
   "name": "Chris Conley",
+  "overallGrade": {
+   "value": 39.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -19704,6 +22679,13 @@
  },
  "DeAndre Carter": {
   "name": "DeAndre Carter",
+  "overallGrade": {
+   "value": 24,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -19749,6 +22731,13 @@
  },
  "Keelan Doss": {
   "name": "Keelan Doss",
+  "overallGrade": {
+   "value": 27.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -19794,6 +22783,13 @@
  },
  "Tyler Johnson": {
   "name": "Tyler Johnson",
+  "overallGrade": {
+   "value": 33.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -19839,6 +22835,13 @@
  },
  "Britain Covey": {
   "name": "Britain Covey",
+  "overallGrade": {
+   "value": 35.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -19884,6 +22887,13 @@
  },
  "Tylan Wallace": {
   "name": "Tylan Wallace",
+  "overallGrade": {
+   "value": 35.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -19929,6 +22939,13 @@
  },
  "Simi Fehoko": {
   "name": "Simi Fehoko",
+  "overallGrade": {
+   "value": 22,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Chargers",
   "production": {
@@ -19974,6 +22991,13 @@
  },
  "Devin Duvernay": {
   "name": "Devin Duvernay",
+  "overallGrade": {
+   "value": 38.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -20019,6 +23043,13 @@
  },
  "Elijah Cooks": {
   "name": "Elijah Cooks",
+  "overallGrade": {
+   "value": 28.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Jacksonville",
   "production": {
@@ -20064,6 +23095,13 @@
  },
  "Marvin Jones Jr.": {
   "name": "Marvin Jones Jr.",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N/A",
   "production": {
@@ -20097,6 +23135,13 @@
  },
  "Jalen Nailor": {
   "name": "Jalen Nailor",
+  "overallGrade": {
+   "value": 22,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -20142,6 +23187,13 @@
  },
  "Zach Pascal": {
   "name": "Zach Pascal",
+  "overallGrade": {
+   "value": 24.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -20187,6 +23239,13 @@
  },
  "Steven Sims Jr.": {
   "name": "Steven Sims Jr.",
+  "overallGrade": {
+   "value": 27.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -20232,6 +23291,13 @@
  },
  "Mike Strachan": {
   "name": "Mike Strachan",
+  "overallGrade": {
+   "value": 12.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Carolina",
   "production": {
@@ -20277,6 +23343,13 @@
  },
  "Trishton Jackson": {
   "name": "Trishton Jackson",
+  "overallGrade": {
+   "value": 21,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -20322,6 +23395,13 @@
  },
  "Austin Trammell": {
   "name": "Austin Trammell",
+  "overallGrade": {
+   "value": 33.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "L.A. Rams",
   "production": {
@@ -20367,6 +23447,13 @@
  },
  "Miles Boykin": {
   "name": "Miles Boykin",
+  "overallGrade": {
+   "value": 16.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -20412,6 +23499,13 @@
  },
  "Kayshon Boutte": {
   "name": "Kayshon Boutte",
+  "overallGrade": {
+   "value": 14.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -20457,6 +23551,13 @@
  },
  "Willie Snead IV": {
   "name": "Willie Snead IV",
+  "overallGrade": {
+   "value": 34.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -20502,6 +23603,13 @@
  },
  "Malik Taylor": {
   "name": "Malik Taylor",
+  "overallGrade": {
+   "value": 13.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -20547,6 +23655,13 @@
  },
  "Gunner Olszewski": {
   "name": "Gunner Olszewski",
+  "overallGrade": {
+   "value": 11.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -20582,6 +23697,13 @@
  },
  "Laquon Treadwell": {
   "name": "Laquon Treadwell",
+  "overallGrade": {
+   "value": 32.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -20627,6 +23749,13 @@
  },
  "Erik Ezukanma": {
   "name": "Erik Ezukanma",
+  "overallGrade": {
+   "value": 32.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Miami",
   "production": {
@@ -20662,6 +23791,13 @@
  },
  "Collin Johnson": {
   "name": "Collin Johnson",
+  "overallGrade": {
+   "value": 20.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -20697,6 +23833,13 @@
  },
  "Cody Thompson": {
   "name": "Cody Thompson",
+  "overallGrade": {
+   "value": 20.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -20732,6 +23875,13 @@
  },
  "Mason Kinsey": {
   "name": "Mason Kinsey",
+  "overallGrade": {
+   "value": 12,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -20767,6 +23917,13 @@
  },
  "Colton Dowell": {
   "name": "Colton Dowell",
+  "overallGrade": {
+   "value": 12.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -20812,6 +23969,13 @@
  },
  "Kwamie Lassiter II": {
   "name": "Kwamie Lassiter II",
+  "overallGrade": {
+   "value": 20.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -20847,6 +24011,13 @@
  },
  "Antoine Green": {
   "name": "Antoine Green",
+  "overallGrade": {
+   "value": 29.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Detroit",
   "production": {
@@ -20892,6 +24063,13 @@
  },
  "Dee Eskridge": {
   "name": "Dee Eskridge",
+  "overallGrade": {
+   "value": 19.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -20927,6 +24105,13 @@
  },
  "Phillip Dorsett II": {
   "name": "Phillip Dorsett II",
+  "overallGrade": {
+   "value": 18.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -20972,6 +24157,13 @@
  },
  "Terrell Bynum": {
   "name": "Terrell Bynum",
+  "overallGrade": {
+   "value": 24.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -21007,6 +24199,13 @@
  },
  "N'Keal Harry": {
   "name": "N'Keal Harry",
+  "overallGrade": {
+   "value": 15.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -21042,6 +24241,13 @@
  },
  "Dax Milne": {
   "name": "Dax Milne",
+  "overallGrade": {
+   "value": 13,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Washington",
   "production": {
@@ -21077,6 +24283,13 @@
  },
  "Andy Isabella": {
   "name": "Andy Isabella",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Buffalo",
   "production": {
@@ -21112,6 +24325,13 @@
  },
  "Shedrick Jackson": {
   "name": "Shedrick Jackson",
+  "overallGrade": {
+   "value": 20,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -21147,6 +24367,13 @@
  },
  "Justin Hardee": {
   "name": "Justin Hardee",
+  "overallGrade": {
+   "value": 9.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -21182,6 +24409,13 @@
  },
  "Ryan Miller": {
   "name": "Ryan Miller",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -21217,6 +24451,13 @@
  },
  "Chris Blair": {
   "name": "Chris Blair",
+  "overallGrade": {
+   "value": 12.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Atlanta",
   "production": {
@@ -21252,6 +24493,13 @@
  },
  "Cephus Johnson III": {
   "name": "Cephus Johnson III",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tampa Bay",
   "production": {
@@ -21287,6 +24535,13 @@
  },
  "Marquez Callaway": {
   "name": "Marquez Callaway",
+  "overallGrade": {
+   "value": 11.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Pittsburgh",
   "production": {
@@ -21322,6 +24577,13 @@
  },
  "Dan Chisena": {
   "name": "Dan Chisena",
+  "overallGrade": {
+   "value": 29.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Baltimore",
   "production": {
@@ -21357,6 +24619,13 @@
  },
  "Ethan Fernea": {
   "name": "Ethan Fernea",
+  "overallGrade": {
+   "value": 24.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -21392,6 +24661,13 @@
  },
  "Lucky Jackson": {
   "name": "Lucky Jackson",
+  "overallGrade": {
+   "value": 15.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Minnesota",
   "production": {
@@ -21427,6 +24703,13 @@
  },
  "Chase Cota": {
   "name": "Chase Cota",
+  "overallGrade": {
+   "value": 22.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -21462,6 +24745,13 @@
  },
  "Michael Bandy": {
   "name": "Michael Bandy",
+  "overallGrade": {
+   "value": 17.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -21497,6 +24787,13 @@
  },
  "Tay Martin": {
   "name": "Tay Martin",
+  "overallGrade": {
+   "value": 30.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "San Francisco",
   "production": {
@@ -21532,6 +24829,13 @@
  },
  "Dareke Young": {
   "name": "Dareke Young",
+  "overallGrade": {
+   "value": 19.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -21567,6 +24871,13 @@
  },
  "Stanley Morgan Jr.": {
   "name": "Stanley Morgan Jr.",
+  "overallGrade": {
+   "value": 20,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cincinnati",
   "production": {
@@ -21602,6 +24913,13 @@
  },
  "David Sills": {
   "name": "David Sills",
+  "overallGrade": {
+   "value": 17.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -21637,6 +24955,13 @@
  },
  "Juwann Winfree": {
   "name": "Juwann Winfree",
+  "overallGrade": {
+   "value": 24.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Indianapolis",
   "production": {
@@ -21672,6 +24997,13 @@
  },
  "Isaiah Winstead": {
   "name": "Isaiah Winstead",
+  "overallGrade": {
+   "value": 7.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N/A",
   "production": {
@@ -21695,6 +25027,13 @@
  },
  "Irvin Charles": {
   "name": "Irvin Charles",
+  "overallGrade": {
+   "value": 9.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Jets",
   "production": {
@@ -21730,6 +25069,13 @@
  },
  "Dylan Drummond": {
   "name": "Dylan Drummond",
+  "overallGrade": {
+   "value": 9,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N.Y. Giants",
   "production": {
@@ -21765,6 +25111,13 @@
  },
  "Kearis Jackson": {
   "name": "Kearis Jackson",
+  "overallGrade": {
+   "value": 10.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Tennessee",
   "production": {
@@ -21800,6 +25153,13 @@
  },
  "Jaelon Darden": {
   "name": "Jaelon Darden",
+  "overallGrade": {
+   "value": 24,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -21835,6 +25195,13 @@
  },
  "Kirk Merritt": {
   "name": "Kirk Merritt",
+  "overallGrade": {
+   "value": 7.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N/A",
   "production": {
@@ -21858,6 +25225,13 @@
  },
  "Tre'Quan Smith": {
   "name": "Tre'Quan Smith",
+  "overallGrade": {
+   "value": 17.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -21893,6 +25267,13 @@
  },
  "Easop Winston Jr.": {
   "name": "Easop Winston Jr.",
+  "overallGrade": {
+   "value": 19.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Seattle",
   "production": {
@@ -21928,6 +25309,13 @@
  },
  "Andre Baccellia": {
   "name": "Andre Baccellia",
+  "overallGrade": {
+   "value": 13.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Arizona",
   "production": {
@@ -21963,6 +25351,13 @@
  },
  "DJ Turner": {
   "name": "DJ Turner",
+  "overallGrade": {
+   "value": 14.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Las Vegas",
   "production": {
@@ -21998,6 +25393,13 @@
  },
  "Jalen Virgil": {
   "name": "Jalen Virgil",
+  "overallGrade": {
+   "value": 17.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Denver",
   "production": {
@@ -22033,6 +25435,13 @@
  },
  "Matthew Slater": {
   "name": "Matthew Slater",
+  "overallGrade": {
+   "value": 8.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "New England",
   "production": {
@@ -22068,6 +25477,13 @@
  },
  "Montrell Washington": {
   "name": "Montrell Washington",
+  "overallGrade": {
+   "value": 20.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Kansas City",
   "production": {
@@ -22103,6 +25519,13 @@
  },
  "Damiere Byrd": {
   "name": "Damiere Byrd",
+  "overallGrade": {
+   "value": 22.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -22148,6 +25571,13 @@
  },
  "Devon Allen": {
   "name": "Devon Allen",
+  "overallGrade": {
+   "value": 27,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Philadelphia",
   "production": {
@@ -22183,6 +25613,13 @@
  },
  "Amari Rodgers": {
   "name": "Amari Rodgers",
+  "overallGrade": {
+   "value": 7.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "N/A",
   "production": {
@@ -22216,6 +25653,13 @@
  },
  "Johnny Johnson III": {
   "name": "Johnny Johnson III",
+  "overallGrade": {
+   "value": 22.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Houston",
   "production": {
@@ -22251,6 +25695,13 @@
  },
  "James Proche II": {
   "name": "James Proche II",
+  "overallGrade": {
+   "value": 18.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Cleveland",
   "production": {
@@ -22296,6 +25747,13 @@
  },
  "Trent Taylor": {
   "name": "Trent Taylor",
+  "overallGrade": {
+   "value": 11,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "WR",
   "team": "Chicago",
   "production": {
@@ -22331,6 +25789,13 @@
  },
  "Sam LaPorta": {
   "name": "Sam LaPorta",
+  "overallGrade": {
+   "value": 93.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "TE",
   "team": "Detroit",
   "production": {
@@ -22376,6 +25841,13 @@
  },
  "Evan Engram": {
   "name": "Evan Engram",
+  "overallGrade": {
+   "value": 86.75,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "TE",
   "team": "Jacksonville",
   "production": {
@@ -22421,6 +25893,13 @@
  },
  "Travis Kelce": {
   "name": "Travis Kelce",
+  "overallGrade": {
+   "value": 84.75,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "TE",
   "team": "Kansas City",
   "production": {
@@ -22466,6 +25945,13 @@
  },
  "T.J. Hockenson": {
   "name": "T.J. Hockenson",
+  "overallGrade": {
+   "value": 79.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Minnesota",
   "production": {
@@ -22511,6 +25997,13 @@
  },
  "George Kittle": {
   "name": "George Kittle",
+  "overallGrade": {
+   "value": 92.25,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "TE",
   "team": "San Francisco",
   "production": {
@@ -22556,6 +26049,13 @@
  },
  "David Njoku": {
   "name": "David Njoku",
+  "overallGrade": {
+   "value": 87,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "TE",
   "team": "Cleveland",
   "production": {
@@ -22601,6 +26101,13 @@
  },
  "Trey McBride": {
   "name": "Trey McBride",
+  "overallGrade": {
+   "value": 75.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Arizona",
   "production": {
@@ -22646,6 +26153,13 @@
  },
  "Cole Kmet": {
   "name": "Cole Kmet",
+  "overallGrade": {
+   "value": 79,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Chicago",
   "production": {
@@ -22691,6 +26205,13 @@
  },
  "Jake Ferguson": {
   "name": "Jake Ferguson",
+  "overallGrade": {
+   "value": 92.75,
+   "grade": {
+    "letter": "A",
+    "description": "Great"
+   }
+  },
   "position": "TE",
   "team": "Dallas",
   "production": {
@@ -22736,6 +26257,13 @@
  },
  "Dalton Schultz": {
   "name": "Dalton Schultz",
+  "overallGrade": {
+   "value": 80.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -22781,6 +26309,13 @@
  },
  "Dalton Kincaid": {
   "name": "Dalton Kincaid",
+  "overallGrade": {
+   "value": 86.75,
+   "grade": {
+    "letter": "B+",
+    "description": "Good"
+   }
+  },
   "position": "TE",
   "team": "Buffalo",
   "production": {
@@ -22826,6 +26361,13 @@
  },
  "Taysom Hill": {
   "name": "Taysom Hill",
+  "overallGrade": {
+   "value": 78.25,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "New Orleans",
   "production": {
@@ -22871,6 +26413,13 @@
  },
  "Kyle Pitts": {
   "name": "Kyle Pitts",
+  "overallGrade": {
+   "value": 69.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -22916,6 +26465,13 @@
  },
  "Dallas Goedert": {
   "name": "Dallas Goedert",
+  "overallGrade": {
+   "value": 83.5,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "TE",
   "team": "Philadelphia",
   "production": {
@@ -22961,6 +26517,13 @@
  },
  "Mark Andrews": {
   "name": "Mark Andrews",
+  "overallGrade": {
+   "value": 84,
+   "grade": {
+    "letter": "B",
+    "description": "Above Average"
+   }
+  },
   "position": "TE",
   "team": "Baltimore",
   "production": {
@@ -23006,6 +26569,13 @@
  },
  "Logan Thomas": {
   "name": "Logan Thomas",
+  "overallGrade": {
+   "value": 68.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Washington",
   "production": {
@@ -23051,6 +26621,13 @@
  },
  "Jonnu Smith": {
   "name": "Jonnu Smith",
+  "overallGrade": {
+   "value": 66.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -23096,6 +26673,13 @@
  },
  "Tyler Conklin": {
   "name": "Tyler Conklin",
+  "overallGrade": {
+   "value": 64.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Jets",
   "production": {
@@ -23141,6 +26725,13 @@
  },
  "Hunter Henry": {
   "name": "Hunter Henry",
+  "overallGrade": {
+   "value": 61,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "New England",
   "production": {
@@ -23186,6 +26777,13 @@
  },
  "Cade Otton": {
   "name": "Cade Otton",
+  "overallGrade": {
+   "value": 69.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Tampa Bay",
   "production": {
@@ -23231,6 +26829,13 @@
  },
  "Chigoziem Okonkwo": {
   "name": "Chigoziem Okonkwo",
+  "overallGrade": {
+   "value": 64,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Tennessee",
   "production": {
@@ -23276,6 +26881,13 @@
  },
  "Darren Waller": {
   "name": "Darren Waller",
+  "overallGrade": {
+   "value": 61.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Giants",
   "production": {
@@ -23321,6 +26933,13 @@
  },
  "Gerald Everett": {
   "name": "Gerald Everett",
+  "overallGrade": {
+   "value": 68,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -23366,6 +26985,13 @@
  },
  "Tyler Higbee": {
   "name": "Tyler Higbee",
+  "overallGrade": {
+   "value": 77.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "L.A. Rams",
   "production": {
@@ -23411,6 +27037,13 @@
  },
  "Isaiah Likely": {
   "name": "Isaiah Likely",
+  "overallGrade": {
+   "value": 76.5,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Baltimore",
   "production": {
@@ -23456,6 +27089,13 @@
  },
  "Juwan Johnson": {
   "name": "Juwan Johnson",
+  "overallGrade": {
+   "value": 75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "New Orleans",
   "production": {
@@ -23501,6 +27141,13 @@
  },
  "Tanner Hudson": {
   "name": "Tanner Hudson",
+  "overallGrade": {
+   "value": 68,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Cincinnati",
   "production": {
@@ -23546,6 +27193,13 @@
  },
  "Donald Parham Jr.": {
   "name": "Donald Parham Jr.",
+  "overallGrade": {
+   "value": 62,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -23591,6 +27245,13 @@
  },
  "Tucker Kraft": {
   "name": "Tucker Kraft",
+  "overallGrade": {
+   "value": 68.25,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Green Bay",
   "production": {
@@ -23636,6 +27297,13 @@
  },
  "Pat Freiermuth": {
   "name": "Pat Freiermuth",
+  "overallGrade": {
+   "value": 58.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Pittsburgh",
   "production": {
@@ -23681,6 +27349,13 @@
  },
  "Luke Musgrave": {
   "name": "Luke Musgrave",
+  "overallGrade": {
+   "value": 69.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Green Bay",
   "production": {
@@ -23726,6 +27401,13 @@
  },
  "Noah Fant": {
   "name": "Noah Fant",
+  "overallGrade": {
+   "value": 64.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Seattle",
   "production": {
@@ -23771,6 +27453,13 @@
  },
  "Kylen Granson": {
   "name": "Kylen Granson",
+  "overallGrade": {
+   "value": 71,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Indianapolis",
   "production": {
@@ -23816,6 +27505,13 @@
  },
  "Durham Smythe": {
   "name": "Durham Smythe",
+  "overallGrade": {
+   "value": 75.75,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Miami",
   "production": {
@@ -23861,6 +27557,13 @@
  },
  "Michael Mayer": {
   "name": "Michael Mayer",
+  "overallGrade": {
+   "value": 57.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Las Vegas",
   "production": {
@@ -23906,6 +27609,13 @@
  },
  "Noah Gray": {
   "name": "Noah Gray",
+  "overallGrade": {
+   "value": 64.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Kansas City",
   "production": {
@@ -23951,6 +27661,13 @@
  },
  "Mike Gesicki": {
   "name": "Mike Gesicki",
+  "overallGrade": {
+   "value": 52.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "New England",
   "production": {
@@ -23996,6 +27713,13 @@
  },
  "Colby Parkinson": {
   "name": "Colby Parkinson",
+  "overallGrade": {
+   "value": 60.5,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Seattle",
   "production": {
@@ -24041,6 +27765,13 @@
  },
  "Tommy Tremble": {
   "name": "Tommy Tremble",
+  "overallGrade": {
+   "value": 48,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {
@@ -24086,6 +27817,13 @@
  },
  "Adam Trautman": {
   "name": "Adam Trautman",
+  "overallGrade": {
+   "value": 58.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Denver",
   "production": {
@@ -24131,6 +27869,13 @@
  },
  "Dawson Knox": {
   "name": "Dawson Knox",
+  "overallGrade": {
+   "value": 68,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "Buffalo",
   "production": {
@@ -24176,6 +27921,13 @@
  },
  "Josh Oliver": {
   "name": "Josh Oliver",
+  "overallGrade": {
+   "value": 53.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Minnesota",
   "production": {
@@ -24221,6 +27973,13 @@
  },
  "Zach Ertz": {
   "name": "Zach Ertz",
+  "overallGrade": {
+   "value": 70,
+   "grade": {
+    "letter": "C",
+    "description": "Average"
+   }
+  },
   "position": "TE",
   "team": "Detroit",
   "production": {
@@ -24266,6 +28025,13 @@
  },
  "Brevin Jordan": {
   "name": "Brevin Jordan",
+  "overallGrade": {
+   "value": 57.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -24311,6 +28077,13 @@
  },
  "Daniel Bellinger": {
   "name": "Daniel Bellinger",
+  "overallGrade": {
+   "value": 46.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Giants",
   "production": {
@@ -24356,6 +28129,13 @@
  },
  "Drew Sample": {
   "name": "Drew Sample",
+  "overallGrade": {
+   "value": 57,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cincinnati",
   "production": {
@@ -24401,6 +28181,13 @@
  },
  "Mo Alie-Cox": {
   "name": "Mo Alie-Cox",
+  "overallGrade": {
+   "value": 59.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Indianapolis",
   "production": {
@@ -24446,6 +28233,13 @@
  },
  "Austin Hooper": {
   "name": "Austin Hooper",
+  "overallGrade": {
+   "value": 51.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Las Vegas",
   "production": {
@@ -24491,6 +28285,13 @@
  },
  "Foster Moreau": {
   "name": "Foster Moreau",
+  "overallGrade": {
+   "value": 60.75,
+   "grade": {
+    "letter": "D",
+    "description": "Below Average"
+   }
+  },
   "position": "TE",
   "team": "New Orleans",
   "production": {
@@ -24536,6 +28337,13 @@
  },
  "Hayden Hurst": {
   "name": "Hayden Hurst",
+  "overallGrade": {
+   "value": 44,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {
@@ -24581,6 +28389,13 @@
  },
  "Will Dissly": {
   "name": "Will Dissly",
+  "overallGrade": {
+   "value": 52.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Seattle",
   "production": {
@@ -24626,6 +28441,13 @@
  },
  "Johnny Mundt": {
   "name": "Johnny Mundt",
+  "overallGrade": {
+   "value": 49.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Minnesota",
   "production": {
@@ -24671,6 +28493,13 @@
  },
  "Connor Heyward": {
   "name": "Connor Heyward",
+  "overallGrade": {
+   "value": 47.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Pittsburgh",
   "production": {
@@ -24716,6 +28545,13 @@
  },
  "Andrew Beck": {
   "name": "Andrew Beck",
+  "overallGrade": {
+   "value": 51.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -24761,6 +28597,13 @@
  },
  "Will Mallory": {
   "name": "Will Mallory",
+  "overallGrade": {
+   "value": 58.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Indianapolis",
   "production": {
@@ -24806,6 +28649,13 @@
  },
  "Harrison Bryant": {
   "name": "Harrison Bryant",
+  "overallGrade": {
+   "value": 55,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cleveland",
   "production": {
@@ -24851,6 +28701,13 @@
  },
  "Pharaoh Brown": {
   "name": "Pharaoh Brown",
+  "overallGrade": {
+   "value": 38,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "New England",
   "production": {
@@ -24896,6 +28753,13 @@
  },
  "Elijah Higgins": {
   "name": "Elijah Higgins",
+  "overallGrade": {
+   "value": 43.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Arizona",
   "production": {
@@ -24941,6 +28805,13 @@
  },
  "Andrew Ogletree": {
   "name": "Andrew Ogletree",
+  "overallGrade": {
+   "value": 55,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Indianapolis",
   "production": {
@@ -24986,6 +28857,13 @@
  },
  "John Bates": {
   "name": "John Bates",
+  "overallGrade": {
+   "value": 45.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Washington",
   "production": {
@@ -25031,6 +28909,13 @@
  },
  "Jimmy Graham": {
   "name": "Jimmy Graham",
+  "overallGrade": {
+   "value": 49.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "New Orleans",
   "production": {
@@ -25076,6 +28961,13 @@
  },
  "Irv Smith Jr.": {
   "name": "Irv Smith Jr.",
+  "overallGrade": {
+   "value": 51.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cincinnati",
   "production": {
@@ -25121,6 +29013,13 @@
  },
  "Stone Smartt": {
   "name": "Stone Smartt",
+  "overallGrade": {
+   "value": 45.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -25166,6 +29065,13 @@
  },
  "Jeremy Ruckert": {
   "name": "Jeremy Ruckert",
+  "overallGrade": {
+   "value": 39.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Jets",
   "production": {
@@ -25211,6 +29117,13 @@
  },
  "Luke Farrell": {
   "name": "Luke Farrell",
+  "overallGrade": {
+   "value": 48.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Jacksonville",
   "production": {
@@ -25256,6 +29169,13 @@
  },
  "Jordan Akins": {
   "name": "Jordan Akins",
+  "overallGrade": {
+   "value": 53.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cleveland",
   "production": {
@@ -25301,6 +29221,13 @@
  },
  "Brock Wright": {
   "name": "Brock Wright",
+  "overallGrade": {
+   "value": 54.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Detroit",
   "production": {
@@ -25346,6 +29273,13 @@
  },
  "Luke Schoonmaker": {
   "name": "Luke Schoonmaker",
+  "overallGrade": {
+   "value": 57.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Dallas",
   "production": {
@@ -25391,6 +29325,13 @@
  },
  "MyCole Pruitt": {
   "name": "MyCole Pruitt",
+  "overallGrade": {
+   "value": 36.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -25436,6 +29377,13 @@
  },
  "Davis Allen": {
   "name": "Davis Allen",
+  "overallGrade": {
+   "value": 49.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Rams",
   "production": {
@@ -25481,6 +29429,13 @@
  },
  "Stephen Sullivan": {
   "name": "Stephen Sullivan",
+  "overallGrade": {
+   "value": 35.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {
@@ -25526,6 +29481,13 @@
  },
  "Josh Whyle": {
   "name": "Josh Whyle",
+  "overallGrade": {
+   "value": 35.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tennessee",
   "production": {
@@ -25571,6 +29533,13 @@
  },
  "Lucas Krull": {
   "name": "Lucas Krull",
+  "overallGrade": {
+   "value": 41.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Denver",
   "production": {
@@ -25616,6 +29585,13 @@
  },
  "Cole Turner": {
   "name": "Cole Turner",
+  "overallGrade": {
+   "value": 36.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Washington",
   "production": {
@@ -25661,6 +29637,13 @@
  },
  "Robert Tonyan": {
   "name": "Robert Tonyan",
+  "overallGrade": {
+   "value": 43,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Chicago",
   "production": {
@@ -25706,6 +29689,13 @@
  },
  "Charlie Kolar": {
   "name": "Charlie Kolar",
+  "overallGrade": {
+   "value": 50.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Baltimore",
   "production": {
@@ -25751,6 +29741,13 @@
  },
  "C.J. Uzomah": {
   "name": "C.J. Uzomah",
+  "overallGrade": {
+   "value": 31.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Jets",
   "production": {
@@ -25796,6 +29793,13 @@
  },
  "Geoff Swaim": {
   "name": "Geoff Swaim",
+  "overallGrade": {
+   "value": 34.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Arizona",
   "production": {
@@ -25841,6 +29845,13 @@
  },
  "Mitchell Wilcox": {
   "name": "Mitchell Wilcox",
+  "overallGrade": {
+   "value": 40,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cincinnati",
   "production": {
@@ -25886,6 +29897,13 @@
  },
  "Josiah Deguara": {
   "name": "Josiah Deguara",
+  "overallGrade": {
+   "value": 41.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Green Bay",
   "production": {
@@ -25931,6 +29949,13 @@
  },
  "Brenton Strange": {
   "name": "Brenton Strange",
+  "overallGrade": {
+   "value": 40,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Jacksonville",
   "production": {
@@ -25976,6 +30001,13 @@
  },
  "Darnell Washington": {
   "name": "Darnell Washington",
+  "overallGrade": {
+   "value": 30,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Pittsburgh",
   "production": {
@@ -26021,6 +30053,13 @@
  },
  "Marcedes Lewis": {
   "name": "Marcedes Lewis",
+  "overallGrade": {
+   "value": 34,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Chicago",
   "production": {
@@ -26066,6 +30105,13 @@
  },
  "Brycen Hopkins": {
   "name": "Brycen Hopkins",
+  "overallGrade": {
+   "value": 42.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Rams",
   "production": {
@@ -26111,6 +30157,13 @@
  },
  "Ben Sims": {
   "name": "Ben Sims",
+  "overallGrade": {
+   "value": 38.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Green Bay",
   "production": {
@@ -26156,6 +30209,13 @@
  },
  "Blake Bell": {
   "name": "Blake Bell",
+  "overallGrade": {
+   "value": 37.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Kansas City",
   "production": {
@@ -26201,6 +30261,13 @@
  },
  "Payne Durham": {
   "name": "Payne Durham",
+  "overallGrade": {
+   "value": 32,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tampa Bay",
   "production": {
@@ -26246,6 +30313,13 @@
  },
  "Ian Thomas": {
   "name": "Ian Thomas",
+  "overallGrade": {
+   "value": 23.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {
@@ -26291,6 +30365,13 @@
  },
  "Quintin Morris": {
   "name": "Quintin Morris",
+  "overallGrade": {
+   "value": 40,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Buffalo",
   "production": {
@@ -26336,6 +30417,13 @@
  },
  "Jack Stoll": {
   "name": "Jack Stoll",
+  "overallGrade": {
+   "value": 41.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Philadelphia",
   "production": {
@@ -26381,6 +30469,13 @@
  },
  "Julian Hill": {
   "name": "Julian Hill",
+  "overallGrade": {
+   "value": 46,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Miami",
   "production": {
@@ -26426,6 +30521,13 @@
  },
  "Grant Calcaterra": {
   "name": "Grant Calcaterra",
+  "overallGrade": {
+   "value": 38.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Philadelphia",
   "production": {
@@ -26471,6 +30573,13 @@
  },
  "Peyton Hendershot": {
   "name": "Peyton Hendershot",
+  "overallGrade": {
+   "value": 44.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Dallas",
   "production": {
@@ -26516,6 +30625,13 @@
  },
  "Ko Kieft": {
   "name": "Ko Kieft",
+  "overallGrade": {
+   "value": 29,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tampa Bay",
   "production": {
@@ -26561,6 +30677,13 @@
  },
  "Nate Adkins": {
   "name": "Nate Adkins",
+  "overallGrade": {
+   "value": 29,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Denver",
   "production": {
@@ -26606,6 +30729,13 @@
  },
  "Charlie Woerner": {
   "name": "Charlie Woerner",
+  "overallGrade": {
+   "value": 40,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "San Francisco",
   "production": {
@@ -26651,6 +30781,13 @@
  },
  "Greg Dulcich": {
   "name": "Greg Dulcich",
+  "overallGrade": {
+   "value": 27.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Denver",
   "production": {
@@ -26696,6 +30833,13 @@
  },
  "Teagan Quitoriano": {
   "name": "Teagan Quitoriano",
+  "overallGrade": {
+   "value": 31,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -26741,6 +30885,13 @@
  },
  "James Mitchell": {
   "name": "James Mitchell",
+  "overallGrade": {
+   "value": 35.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Detroit",
   "production": {
@@ -26786,6 +30937,13 @@
  },
  "Kenny Yeboah": {
   "name": "Kenny Yeboah",
+  "overallGrade": {
+   "value": 18.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Jets",
   "production": {
@@ -26831,6 +30989,13 @@
  },
  "Eric Saubert": {
   "name": "Eric Saubert",
+  "overallGrade": {
+   "value": 29.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -26876,6 +31041,13 @@
  },
  "Chris Manhertz": {
   "name": "Chris Manhertz",
+  "overallGrade": {
+   "value": 25.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Denver",
   "production": {
@@ -26921,6 +31093,13 @@
  },
  "Nick Muse": {
   "name": "Nick Muse",
+  "overallGrade": {
+   "value": 20.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Minnesota",
   "production": {
@@ -26966,6 +31145,13 @@
  },
  "Trevon Wesco": {
   "name": "Trevon Wesco",
+  "overallGrade": {
+   "value": 17.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tennessee",
   "production": {
@@ -27011,6 +31197,13 @@
  },
  "John FitzPatrick": {
   "name": "John FitzPatrick",
+  "overallGrade": {
+   "value": 16.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -27056,6 +31249,13 @@
  },
  "Ross Dwelley": {
   "name": "Ross Dwelley",
+  "overallGrade": {
+   "value": 35.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "San Francisco",
   "production": {
@@ -27101,6 +31301,13 @@
  },
  "Tucker Fisk": {
   "name": "Tucker Fisk",
+  "overallGrade": {
+   "value": 15.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -27146,6 +31353,13 @@
  },
  "Cole Fotheringham": {
   "name": "Cole Fotheringham",
+  "overallGrade": {
+   "value": 17.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Las Vegas",
   "production": {
@@ -27191,6 +31405,13 @@
  },
  "Kevin Rader": {
   "name": "Kevin Rader",
+  "overallGrade": {
+   "value": 15.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tennessee",
   "production": {
@@ -27236,6 +31457,13 @@
  },
  "Jesper Horsted": {
   "name": "Jesper Horsted",
+  "overallGrade": {
+   "value": 16.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Las Vegas",
   "production": {
@@ -27271,6 +31499,13 @@
  },
  "Nick Vannett": {
   "name": "Nick Vannett",
+  "overallGrade": {
+   "value": 18,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -27306,6 +31541,13 @@
  },
  "Giovanni Ricci": {
   "name": "Giovanni Ricci",
+  "overallGrade": {
+   "value": 9,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {
@@ -27341,6 +31583,13 @@
  },
  "David Wells": {
   "name": "David Wells",
+  "overallGrade": {
+   "value": 19.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Tampa Bay",
   "production": {
@@ -27386,6 +31635,13 @@
  },
  "Leroy Watson IV": {
   "name": "Leroy Watson IV",
+  "overallGrade": {
+   "value": 25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Cleveland",
   "production": {
@@ -27421,6 +31677,13 @@
  },
  "Noah Togiai": {
   "name": "Noah Togiai",
+  "overallGrade": {
+   "value": 28,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Philadelphia",
   "production": {
@@ -27456,6 +31719,13 @@
  },
  "Tyree Jackson": {
   "name": "Tyree Jackson",
+  "overallGrade": {
+   "value": 10,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Giants",
   "production": {
@@ -27491,6 +31761,13 @@
  },
  "Hunter Long": {
   "name": "Hunter Long",
+  "overallGrade": {
+   "value": 27.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Rams",
   "production": {
@@ -27526,6 +31803,13 @@
  },
  "Hunter Kampmoyer": {
   "name": "Hunter Kampmoyer",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -27561,6 +31845,13 @@
  },
  "Blake Whiteheart": {
   "name": "Blake Whiteheart",
+  "overallGrade": {
+   "value": 14.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Arizona",
   "production": {
@@ -27596,6 +31887,13 @@
  },
  "Zach Gentry": {
   "name": "Zach Gentry",
+  "overallGrade": {
+   "value": 15.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Las Vegas",
   "production": {
@@ -27631,6 +31929,13 @@
  },
  "Travis Vokolek": {
   "name": "Travis Vokolek",
+  "overallGrade": {
+   "value": 14.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Arizona",
   "production": {
@@ -27666,6 +31971,13 @@
  },
  "Josh Pederson": {
   "name": "Josh Pederson",
+  "overallGrade": {
+   "value": 22.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Jacksonville",
   "production": {
@@ -27701,6 +32013,13 @@
  },
  "Anthony Firkser": {
   "name": "Anthony Firkser",
+  "overallGrade": {
+   "value": 29.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Detroit",
   "production": {
@@ -27736,6 +32055,13 @@
  },
  "Stephen Anderson": {
   "name": "Stephen Anderson",
+  "overallGrade": {
+   "value": 17,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "L.A. Chargers",
   "production": {
@@ -27771,6 +32097,13 @@
  },
  "Parker Hesse": {
   "name": "Parker Hesse",
+  "overallGrade": {
+   "value": 13.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Atlanta",
   "production": {
@@ -27806,6 +32139,13 @@
  },
  "Jordan Thomas": {
   "name": "Jordan Thomas",
+  "overallGrade": {
+   "value": 8.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N/A",
   "production": {
@@ -27829,6 +32169,13 @@
  },
  "Brayden Willis": {
   "name": "Brayden Willis",
+  "overallGrade": {
+   "value": 31.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "San Francisco",
   "production": {
@@ -27864,6 +32211,13 @@
  },
  "Dalton Keene": {
   "name": "Dalton Keene",
+  "overallGrade": {
+   "value": 23.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Houston",
   "production": {
@@ -27899,6 +32253,13 @@
  },
  "Tre' McKitty": {
   "name": "Tre' McKitty",
+  "overallGrade": {
+   "value": 28.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Buffalo",
   "production": {
@@ -27934,6 +32295,13 @@
  },
  "Brady Russell": {
   "name": "Brady Russell",
+  "overallGrade": {
+   "value": 20.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Seattle",
   "production": {
@@ -27969,6 +32337,13 @@
  },
  "James Winchester": {
   "name": "James Winchester",
+  "overallGrade": {
+   "value": 21.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Kansas City",
   "production": {
@@ -28004,6 +32379,13 @@
  },
  "Sean McKeon": {
   "name": "Sean McKeon",
+  "overallGrade": {
+   "value": 33.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Dallas",
   "production": {
@@ -28049,6 +32431,13 @@
  },
  "Matt Bushman": {
   "name": "Matt Bushman",
+  "overallGrade": {
+   "value": 21.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Kansas City",
   "production": {
@@ -28084,6 +32473,13 @@
  },
  "Darrell Daniels": {
   "name": "Darrell Daniels",
+  "overallGrade": {
+   "value": 8.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N/A",
   "production": {
@@ -28107,6 +32503,13 @@
  },
  "Albert Okwuegbunam": {
   "name": "Albert Okwuegbunam",
+  "overallGrade": {
+   "value": 28,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Philadelphia",
   "production": {
@@ -28142,6 +32545,13 @@
  },
  "Rodney Williams": {
   "name": "Rodney Williams",
+  "overallGrade": {
+   "value": 13.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Pittsburgh",
   "production": {
@@ -28187,6 +32597,13 @@
  },
  "J.P. Holtz": {
   "name": "J.P. Holtz",
+  "overallGrade": {
+   "value": 8.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N/A",
   "production": {
@@ -28210,6 +32627,13 @@
  },
  "Tanner Conner": {
   "name": "Tanner Conner",
+  "overallGrade": {
+   "value": 32,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Miami",
   "production": {
@@ -28245,6 +32669,13 @@
  },
  "Matt Sokol": {
   "name": "Matt Sokol",
+  "overallGrade": {
+   "value": 9.25,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "New England",
   "production": {
@@ -28280,6 +32711,13 @@
  },
  "Tyler Kroft": {
   "name": "Tyler Kroft",
+  "overallGrade": {
+   "value": 32,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Miami",
   "production": {
@@ -28315,6 +32753,13 @@
  },
  "Zack Kuntz": {
   "name": "Zack Kuntz",
+  "overallGrade": {
+   "value": 10.75,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "N.Y. Jets",
   "production": {
@@ -28350,6 +32795,13 @@
  },
  "Chris Pierce Jr.": {
   "name": "Chris Pierce Jr.",
+  "overallGrade": {
+   "value": 8.5,
+   "grade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  },
   "position": "TE",
   "team": "Carolina",
   "production": {

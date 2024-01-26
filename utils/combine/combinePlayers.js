@@ -5,6 +5,7 @@ import writeToFile from "../writeToFile.js";
 import offenseData from "../../data/offense/offenseData.json" assert { type: "json" };
 import opportunityData from "../../data/opportunity/opportunityData.json" assert { type: "json" };
 import productionData from "../../data/production/productionData.json" assert { type: "json" };
+import overallGrade from "../../data/grade/overallGrade.json" assert { type: "json" };
 
 let allData = (offense, opportunity, production) => {
   let object = new Map();
@@ -14,7 +15,7 @@ let allData = (offense, opportunity, production) => {
   list.forEach((player) => {
     data = {
       name: player,
-      overallGrade: "",
+      overallGrade: overallGrade[player] ? overallGrade[player] : "N/A",
       position: production[player].position,
       team: offense[production[player].team]
         ? offense[production[player].team].name
