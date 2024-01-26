@@ -13,19 +13,19 @@ let allData = (offense, opportunity, production) => {
 
   // loop through list and only add QBs
   list.forEach((player) => {
-    let data = {
+    data = {
       production: production[player] || "N/A",
       opportunity: opportunity[player] || "N/A",
       offense: offense[player] || "N/A",
     };
 
-    console.log(data);
+    object.set(player, data);
   });
 
-  //   let obj = Object.fromEntries(object);
-
-  //   return obj;
+  let obj = Object.fromEntries(object);
+  console.log(obj);
+  return obj;
 };
 
 let data = allData(offenseData, opportunityData, productionData);
-// writeToFile("../../data/combinedData/combinedData.json", data);
+writeToFile("../../data/combinedData/combinedData.json", data);

@@ -1,514 +1,514 @@
 {
- "Dallas": {
-  "name": "Dallas",
-  "offense": {
-   "pointsPerGame": 29.9,
-   "QBR": 104.6,
-   "passPerGame": 258.6,
-   "rushPerGame": 112.9,
-   "yardsPerGame": 371.6,
-   "rank": 1,
-   "percentile": 97,
-   "grade": {
-    "letter": "A+",
-    "description": "Elite"
-   }
+  "DAL": {
+    "name": "Dallas",
+    "offense": {
+      "pointsPerGame": 29.9,
+      "QBR": 104.6,
+      "passPerGame": 258.6,
+      "rushPerGame": 112.9,
+      "yardsPerGame": 371.6,
+      "rank": 1,
+      "percentile": 97,
+      "grade": {
+        "letter": "A+",
+        "description": "Elite"
+      }
+    }
+  },
+  "MIA": {
+    "name": "Miami",
+    "offense": {
+      "pointsPerGame": 29.2,
+      "QBR": 101.2,
+      "passPerGame": 265.5,
+      "rushPerGame": 135.8,
+      "yardsPerGame": 401.3,
+      "rank": 2,
+      "percentile": 94,
+      "grade": {
+        "letter": "A+",
+        "description": "Elite"
+      }
+    }
+  },
+  "SF": {
+    "name": "San Francisco",
+    "offense": {
+      "pointsPerGame": 28.9,
+      "QBR": 110.2,
+      "passPerGame": 257.9,
+      "rushPerGame": 140.5,
+      "yardsPerGame": 398.4,
+      "rank": 3,
+      "percentile": 91,
+      "grade": {
+        "letter": "A+",
+        "description": "Elite"
+      }
+    }
+  },
+  "BAL": {
+    "name": "Baltimore",
+    "offense": {
+      "pointsPerGame": 28.4,
+      "QBR": 102.5,
+      "passPerGame": 213.8,
+      "rushPerGame": 156.5,
+      "yardsPerGame": 370.4,
+      "rank": 4,
+      "percentile": 88,
+      "grade": {
+        "letter": "A",
+        "description": "Great"
+      }
+    }
+  },
+  "DET": {
+    "name": "Detroit",
+    "offense": {
+      "pointsPerGame": 27.1,
+      "QBR": 98.1,
+      "passPerGame": 258.9,
+      "rushPerGame": 135.9,
+      "yardsPerGame": 394.8,
+      "rank": 5,
+      "percentile": 84,
+      "grade": {
+        "letter": "A",
+        "description": "Great"
+      }
+    }
+  },
+  "BUF": {
+    "name": "Buffalo",
+    "offense": {
+      "pointsPerGame": 26.5,
+      "QBR": 92.2,
+      "passPerGame": 244.4,
+      "rushPerGame": 130.1,
+      "yardsPerGame": 374.5,
+      "rank": 6,
+      "percentile": 81,
+      "grade": {
+        "letter": "A",
+        "description": "Great"
+      }
+    }
+  },
+  "PHI": {
+    "name": "Philadelphia",
+    "offense": {
+      "pointsPerGame": 25.5,
+      "QBR": 89.2,
+      "passPerGame": 225.5,
+      "rushPerGame": 128.8,
+      "yardsPerGame": 354.4,
+      "rank": 7,
+      "percentile": 78,
+      "grade": {
+        "letter": "B+",
+        "description": "Good"
+      }
+    }
+  },
+  "LAR": {
+    "name": "L.A. Rams",
+    "offense": {
+      "pointsPerGame": 23.8,
+      "QBR": 90,
+      "passPerGame": 239,
+      "rushPerGame": 120.3,
+      "yardsPerGame": 359.3,
+      "rank": 8,
+      "percentile": 75,
+      "grade": {
+        "letter": "B+",
+        "description": "Good"
+      }
+    }
+  },
+  "NO": {
+    "name": "New Orleans",
+    "offense": {
+      "pointsPerGame": 23.6,
+      "QBR": 94.8,
+      "passPerGame": 234.7,
+      "rushPerGame": 102.5,
+      "yardsPerGame": 337.2,
+      "rank": 9,
+      "percentile": 72,
+      "grade": {
+        "letter": "B+",
+        "description": "Good"
+      }
+    }
+  },
+  "IND": {
+    "name": "Indianapolis",
+    "offense": {
+      "pointsPerGame": 23.3,
+      "QBR": 85,
+      "passPerGame": 215.6,
+      "rushPerGame": 121.1,
+      "yardsPerGame": 336.8,
+      "rank": 10,
+      "percentile": 69,
+      "grade": {
+        "letter": "B",
+        "description": "Above Average"
+      }
+    }
+  },
+  "CLE": {
+    "name": "Cleveland",
+    "offense": {
+      "pointsPerGame": 23.3,
+      "QBR": 73.7,
+      "passPerGame": 217.2,
+      "rushPerGame": 118.6,
+      "yardsPerGame": 335.9,
+      "rank": 11,
+      "percentile": 66,
+      "grade": {
+        "letter": "B",
+        "description": "Above Average"
+      }
+    }
+  },
+  "GB": {
+    "name": "Green Bay",
+    "offense": {
+      "pointsPerGame": 22.5,
+      "QBR": 96.4,
+      "passPerGame": 233.4,
+      "rushPerGame": 112.1,
+      "yardsPerGame": 345.5,
+      "rank": 12,
+      "percentile": 63,
+      "grade": {
+        "letter": "B",
+        "description": "Above Average"
+      }
+    }
+  },
+  "HOU": {
+    "name": "Houston",
+    "offense": {
+      "pointsPerGame": 22.2,
+      "QBR": 96.2,
+      "passPerGame": 245.5,
+      "rushPerGame": 96.9,
+      "yardsPerGame": 342.4,
+      "rank": 13,
+      "percentile": 59,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "JAC": {
+    "name": "Jacksonville",
+    "offense": {
+      "pointsPerGame": 22.2,
+      "QBR": 89.3,
+      "passPerGame": 242.7,
+      "rushPerGame": 96.8,
+      "yardsPerGame": 339.5,
+      "rank": 14,
+      "percentile": 56,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "KC": {
+    "name": "Kansas City",
+    "offense": {
+      "pointsPerGame": 21.8,
+      "QBR": 89.6,
+      "passPerGame": 246.4,
+      "rushPerGame": 104.9,
+      "yardsPerGame": 351.3,
+      "rank": 15,
+      "percentile": 53,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "CIN": {
+    "name": "Cincinnati",
+    "offense": {
+      "pointsPerGame": 21.5,
+      "QBR": 93,
+      "passPerGame": 229.1,
+      "rushPerGame": 89.8,
+      "yardsPerGame": 318.9,
+      "rank": 16,
+      "percentile": 50,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "SEA": {
+    "name": "Seattle",
+    "offense": {
+      "pointsPerGame": 21.4,
+      "QBR": 90.7,
+      "passPerGame": 230,
+      "rushPerGame": 92.9,
+      "yardsPerGame": 322.9,
+      "rank": 17,
+      "percentile": 47,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "CHI": {
+    "name": "Chicago",
+    "offense": {
+      "pointsPerGame": 21.2,
+      "QBR": 82.2,
+      "passPerGame": 182.1,
+      "rushPerGame": 141.1,
+      "yardsPerGame": 323.2,
+      "rank": 18,
+      "percentile": 44,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "DEN": {
+    "name": "Denver",
+    "offense": {
+      "pointsPerGame": 21,
+      "QBR": 96.7,
+      "passPerGame": 191.9,
+      "rushPerGame": 106.5,
+      "yardsPerGame": 298.4,
+      "rank": 19,
+      "percentile": 41,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "TB": {
+    "name": "Tampa Bay",
+    "offense": {
+      "pointsPerGame": 20.5,
+      "QBR": 94.2,
+      "passPerGame": 224.2,
+      "rushPerGame": 88.8,
+      "yardsPerGame": 313,
+      "rank": 20,
+      "percentile": 38,
+      "grade": {
+        "letter": "C",
+        "description": "Average"
+      }
+    }
+  },
+  "LAC": {
+    "name": "L.A. Chargers",
+    "offense": {
+      "pointsPerGame": 20.4,
+      "QBR": 91.8,
+      "passPerGame": 232.8,
+      "rushPerGame": 96.6,
+      "yardsPerGame": 329.4,
+      "rank": 21,
+      "percentile": 34,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "MIN": {
+    "name": "Minnesota",
+    "offense": {
+      "pointsPerGame": 20.2,
+      "QBR": 92.4,
+      "passPerGame": 256.4,
+      "rushPerGame": 91.4,
+      "yardsPerGame": 347.8,
+      "rank": 22,
+      "percentile": 31,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "LV": {
+    "name": "Las Vegas",
+    "offense": {
+      "pointsPerGame": 19.5,
+      "QBR": 80.1,
+      "passPerGame": 198.8,
+      "rushPerGame": 90.7,
+      "yardsPerGame": 289.5,
+      "rank": 23,
+      "percentile": 28,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "ARI": {
+    "name": "Arizona",
+    "offense": {
+      "pointsPerGame": 19.4,
+      "QBR": 82.9,
+      "passPerGame": 184.9,
+      "rushPerGame": 139.1,
+      "yardsPerGame": 324.1,
+      "rank": 24,
+      "percentile": 25,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "WAS": {
+    "name": "Washington",
+    "offense": {
+      "pointsPerGame": 19.4,
+      "QBR": 81.6,
+      "passPerGame": 219.1,
+      "rushPerGame": 93.6,
+      "yardsPerGame": 312.8,
+      "rank": 25,
+      "percentile": 22,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "ATL": {
+    "name": "Atlanta",
+    "offense": {
+      "pointsPerGame": 18.9,
+      "QBR": 80.5,
+      "passPerGame": 207.3,
+      "rushPerGame": 127,
+      "yardsPerGame": 334.3,
+      "rank": 26,
+      "percentile": 19,
+      "grade": {
+        "letter": "D",
+        "description": "Below Average"
+      }
+    }
+  },
+  "PIT": {
+    "name": "Pittsburgh",
+    "offense": {
+      "pointsPerGame": 17.9,
+      "QBR": 84.6,
+      "passPerGame": 186.1,
+      "rushPerGame": 118.2,
+      "yardsPerGame": 304.3,
+      "rank": 27,
+      "percentile": 16,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
+  },
+  "TEN": {
+    "name": "Tennessee",
+    "offense": {
+      "pointsPerGame": 17.9,
+      "QBR": 83.2,
+      "passPerGame": 180.4,
+      "rushPerGame": 108.6,
+      "yardsPerGame": 289,
+      "rank": 28,
+      "percentile": 13,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
+  },
+  "NYJ": {
+    "name": "N.Y. Jets",
+    "offense": {
+      "pointsPerGame": 15.8,
+      "QBR": 70.5,
+      "passPerGame": 171.7,
+      "rushPerGame": 96.9,
+      "yardsPerGame": 268.6,
+      "rank": 29,
+      "percentile": 9,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
+  },
+  "NYG": {
+    "name": "N.Y. Giants",
+    "offense": {
+      "pointsPerGame": 15.6,
+      "QBR": 83.4,
+      "passPerGame": 169.8,
+      "rushPerGame": 110.2,
+      "yardsPerGame": 280,
+      "rank": 30,
+      "percentile": 6,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
+  },
+  "NE": {
+    "name": "New England",
+    "offense": {
+      "pointsPerGame": 13.9,
+      "QBR": 73.8,
+      "passPerGame": 180.5,
+      "rushPerGame": 95.7,
+      "yardsPerGame": 276.2,
+      "rank": 31,
+      "percentile": 3,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
+  },
+  "CAR": {
+    "name": "Carolina",
+    "offense": {
+      "pointsPerGame": 13.9,
+      "QBR": 75.2,
+      "passPerGame": 161.2,
+      "rushPerGame": 104.1,
+      "yardsPerGame": 265.3,
+      "rank": 32,
+      "percentile": 0,
+      "grade": {
+        "letter": "F",
+        "description": "Not Good Enough"
+      }
+    }
   }
- },
- "Miami": {
-  "name": "Miami",
-  "offense": {
-   "pointsPerGame": 29.2,
-   "QBR": 101.2,
-   "passPerGame": 265.5,
-   "rushPerGame": 135.8,
-   "yardsPerGame": 401.3,
-   "rank": 2,
-   "percentile": 94,
-   "grade": {
-    "letter": "A+",
-    "description": "Elite"
-   }
-  }
- },
- "San Francisco": {
-  "name": "San Francisco",
-  "offense": {
-   "pointsPerGame": 28.9,
-   "QBR": 110.2,
-   "passPerGame": 257.9,
-   "rushPerGame": 140.5,
-   "yardsPerGame": 398.4,
-   "rank": 3,
-   "percentile": 91,
-   "grade": {
-    "letter": "A+",
-    "description": "Elite"
-   }
-  }
- },
- "Baltimore": {
-  "name": "Baltimore",
-  "offense": {
-   "pointsPerGame": 28.4,
-   "QBR": 102.5,
-   "passPerGame": 213.8,
-   "rushPerGame": 156.5,
-   "yardsPerGame": 370.4,
-   "rank": 4,
-   "percentile": 88,
-   "grade": {
-    "letter": "A",
-    "description": "Great"
-   }
-  }
- },
- "Detroit": {
-  "name": "Detroit",
-  "offense": {
-   "pointsPerGame": 27.1,
-   "QBR": 98.1,
-   "passPerGame": 258.9,
-   "rushPerGame": 135.9,
-   "yardsPerGame": 394.8,
-   "rank": 5,
-   "percentile": 84,
-   "grade": {
-    "letter": "A",
-    "description": "Great"
-   }
-  }
- },
- "Buffalo": {
-  "name": "Buffalo",
-  "offense": {
-   "pointsPerGame": 26.5,
-   "QBR": 92.2,
-   "passPerGame": 244.4,
-   "rushPerGame": 130.1,
-   "yardsPerGame": 374.5,
-   "rank": 6,
-   "percentile": 81,
-   "grade": {
-    "letter": "A",
-    "description": "Great"
-   }
-  }
- },
- "Philadelphia": {
-  "name": "Philadelphia",
-  "offense": {
-   "pointsPerGame": 25.5,
-   "QBR": 89.2,
-   "passPerGame": 225.5,
-   "rushPerGame": 128.8,
-   "yardsPerGame": 354.4,
-   "rank": 7,
-   "percentile": 78,
-   "grade": {
-    "letter": "B+",
-    "description": "Good"
-   }
-  }
- },
- "L.A. Rams": {
-  "name": "L.A. Rams",
-  "offense": {
-   "pointsPerGame": 23.8,
-   "QBR": 90,
-   "passPerGame": 239,
-   "rushPerGame": 120.3,
-   "yardsPerGame": 359.3,
-   "rank": 8,
-   "percentile": 75,
-   "grade": {
-    "letter": "B+",
-    "description": "Good"
-   }
-  }
- },
- "New Orleans": {
-  "name": "New Orleans",
-  "offense": {
-   "pointsPerGame": 23.6,
-   "QBR": 94.8,
-   "passPerGame": 234.7,
-   "rushPerGame": 102.5,
-   "yardsPerGame": 337.2,
-   "rank": 9,
-   "percentile": 72,
-   "grade": {
-    "letter": "B+",
-    "description": "Good"
-   }
-  }
- },
- "Indianapolis": {
-  "name": "Indianapolis",
-  "offense": {
-   "pointsPerGame": 23.3,
-   "QBR": 85,
-   "passPerGame": 215.6,
-   "rushPerGame": 121.1,
-   "yardsPerGame": 336.8,
-   "rank": 10,
-   "percentile": 69,
-   "grade": {
-    "letter": "B",
-    "description": "Above Average"
-   }
-  }
- },
- "Cleveland": {
-  "name": "Cleveland",
-  "offense": {
-   "pointsPerGame": 23.3,
-   "QBR": 73.7,
-   "passPerGame": 217.2,
-   "rushPerGame": 118.6,
-   "yardsPerGame": 335.9,
-   "rank": 11,
-   "percentile": 66,
-   "grade": {
-    "letter": "B",
-    "description": "Above Average"
-   }
-  }
- },
- "Green Bay": {
-  "name": "Green Bay",
-  "offense": {
-   "pointsPerGame": 22.5,
-   "QBR": 96.4,
-   "passPerGame": 233.4,
-   "rushPerGame": 112.1,
-   "yardsPerGame": 345.5,
-   "rank": 12,
-   "percentile": 63,
-   "grade": {
-    "letter": "B",
-    "description": "Above Average"
-   }
-  }
- },
- "Houston": {
-  "name": "Houston",
-  "offense": {
-   "pointsPerGame": 22.2,
-   "QBR": 96.2,
-   "passPerGame": 245.5,
-   "rushPerGame": 96.9,
-   "yardsPerGame": 342.4,
-   "rank": 13,
-   "percentile": 59,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Jacksonville": {
-  "name": "Jacksonville",
-  "offense": {
-   "pointsPerGame": 22.2,
-   "QBR": 89.3,
-   "passPerGame": 242.7,
-   "rushPerGame": 96.8,
-   "yardsPerGame": 339.5,
-   "rank": 14,
-   "percentile": 56,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Kansas City": {
-  "name": "Kansas City",
-  "offense": {
-   "pointsPerGame": 21.8,
-   "QBR": 89.6,
-   "passPerGame": 246.4,
-   "rushPerGame": 104.9,
-   "yardsPerGame": 351.3,
-   "rank": 15,
-   "percentile": 53,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Cincinnati": {
-  "name": "Cincinnati",
-  "offense": {
-   "pointsPerGame": 21.5,
-   "QBR": 93,
-   "passPerGame": 229.1,
-   "rushPerGame": 89.8,
-   "yardsPerGame": 318.9,
-   "rank": 16,
-   "percentile": 50,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Seattle": {
-  "name": "Seattle",
-  "offense": {
-   "pointsPerGame": 21.4,
-   "QBR": 90.7,
-   "passPerGame": 230,
-   "rushPerGame": 92.9,
-   "yardsPerGame": 322.9,
-   "rank": 17,
-   "percentile": 47,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Chicago": {
-  "name": "Chicago",
-  "offense": {
-   "pointsPerGame": 21.2,
-   "QBR": 82.2,
-   "passPerGame": 182.1,
-   "rushPerGame": 141.1,
-   "yardsPerGame": 323.2,
-   "rank": 18,
-   "percentile": 44,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Denver": {
-  "name": "Denver",
-  "offense": {
-   "pointsPerGame": 21,
-   "QBR": 96.7,
-   "passPerGame": 191.9,
-   "rushPerGame": 106.5,
-   "yardsPerGame": 298.4,
-   "rank": 19,
-   "percentile": 41,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "Tampa Bay": {
-  "name": "Tampa Bay",
-  "offense": {
-   "pointsPerGame": 20.5,
-   "QBR": 94.2,
-   "passPerGame": 224.2,
-   "rushPerGame": 88.8,
-   "yardsPerGame": 313,
-   "rank": 20,
-   "percentile": 38,
-   "grade": {
-    "letter": "C",
-    "description": "Average"
-   }
-  }
- },
- "L.A. Chargers": {
-  "name": "L.A. Chargers",
-  "offense": {
-   "pointsPerGame": 20.4,
-   "QBR": 91.8,
-   "passPerGame": 232.8,
-   "rushPerGame": 96.6,
-   "yardsPerGame": 329.4,
-   "rank": 21,
-   "percentile": 34,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Minnesota": {
-  "name": "Minnesota",
-  "offense": {
-   "pointsPerGame": 20.2,
-   "QBR": 92.4,
-   "passPerGame": 256.4,
-   "rushPerGame": 91.4,
-   "yardsPerGame": 347.8,
-   "rank": 22,
-   "percentile": 31,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Las Vegas": {
-  "name": "Las Vegas",
-  "offense": {
-   "pointsPerGame": 19.5,
-   "QBR": 80.1,
-   "passPerGame": 198.8,
-   "rushPerGame": 90.7,
-   "yardsPerGame": 289.5,
-   "rank": 23,
-   "percentile": 28,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Arizona": {
-  "name": "Arizona",
-  "offense": {
-   "pointsPerGame": 19.4,
-   "QBR": 82.9,
-   "passPerGame": 184.9,
-   "rushPerGame": 139.1,
-   "yardsPerGame": 324.1,
-   "rank": 24,
-   "percentile": 25,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Washington": {
-  "name": "Washington",
-  "offense": {
-   "pointsPerGame": 19.4,
-   "QBR": 81.6,
-   "passPerGame": 219.1,
-   "rushPerGame": 93.6,
-   "yardsPerGame": 312.8,
-   "rank": 25,
-   "percentile": 22,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Atlanta": {
-  "name": "Atlanta",
-  "offense": {
-   "pointsPerGame": 18.9,
-   "QBR": 80.5,
-   "passPerGame": 207.3,
-   "rushPerGame": 127,
-   "yardsPerGame": 334.3,
-   "rank": 26,
-   "percentile": 19,
-   "grade": {
-    "letter": "D",
-    "description": "Below Average"
-   }
-  }
- },
- "Pittsburgh": {
-  "name": "Pittsburgh",
-  "offense": {
-   "pointsPerGame": 17.9,
-   "QBR": 84.6,
-   "passPerGame": 186.1,
-   "rushPerGame": 118.2,
-   "yardsPerGame": 304.3,
-   "rank": 27,
-   "percentile": 16,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
- "Tennessee": {
-  "name": "Tennessee",
-  "offense": {
-   "pointsPerGame": 17.9,
-   "QBR": 83.2,
-   "passPerGame": 180.4,
-   "rushPerGame": 108.6,
-   "yardsPerGame": 289,
-   "rank": 28,
-   "percentile": 13,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
- "N.Y. Jets": {
-  "name": "N.Y. Jets",
-  "offense": {
-   "pointsPerGame": 15.8,
-   "QBR": 70.5,
-   "passPerGame": 171.7,
-   "rushPerGame": 96.9,
-   "yardsPerGame": 268.6,
-   "rank": 29,
-   "percentile": 9,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
- "N.Y. Giants": {
-  "name": "N.Y. Giants",
-  "offense": {
-   "pointsPerGame": 15.6,
-   "QBR": 83.4,
-   "passPerGame": 169.8,
-   "rushPerGame": 110.2,
-   "yardsPerGame": 280,
-   "rank": 30,
-   "percentile": 6,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
- "New England": {
-  "name": "New England",
-  "offense": {
-   "pointsPerGame": 13.9,
-   "QBR": 73.8,
-   "passPerGame": 180.5,
-   "rushPerGame": 95.7,
-   "yardsPerGame": 276.2,
-   "rank": 31,
-   "percentile": 3,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
- "Carolina": {
-  "name": "Carolina",
-  "offense": {
-   "pointsPerGame": 13.9,
-   "QBR": 75.2,
-   "passPerGame": 161.2,
-   "rushPerGame": 104.1,
-   "yardsPerGame": 265.3,
-   "rank": 32,
-   "percentile": 0,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- }
 }
