@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get fantasy football player data and create grades",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "cyo": "cypress open"
