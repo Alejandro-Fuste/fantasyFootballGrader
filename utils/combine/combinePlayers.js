@@ -14,16 +14,24 @@ let allData = (offense, opportunity, production) => {
   // loop through list and only add QBs
   list.forEach((player) => {
     data = {
-      production: production[player] || "N/A",
-      opportunity: opportunity[player] || "N/A",
-      offense: offense[player] || "N/A",
+      name: player,
+      position: production[player].position,
+      team: offense[production[player].team]
+        ? offense[production[player].team].name
+        : "N/A",
+      production: production[player].production || "N/A",
+      opportunity: opportunity[player]
+        ? opportunity[player].opportunity
+        : "N/A",
+      offense: offense[production[player].team]
+        ? offense[production[player].team].offense
+        : "N/A",
     };
-
     object.set(player, data);
   });
 
   let obj = Object.fromEntries(object);
-  console.log(obj);
+
   return obj;
 };
 
