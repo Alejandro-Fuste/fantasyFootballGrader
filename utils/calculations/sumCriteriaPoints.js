@@ -3,4 +3,4 @@ function sumCriteriaPoints(array) {
   return sum;
 }
 
-module.exports = sumCriteriaPoints;
+export default sumCriteriaPoints;

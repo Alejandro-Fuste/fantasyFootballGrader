@@ -6,4 +6,4 @@ function isANumber(input1, input2) {
   }
 }
 
-module.exports = isANumber;
+export default isANumber;

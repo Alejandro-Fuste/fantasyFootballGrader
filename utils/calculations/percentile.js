@@ -11,4 +11,4 @@ function percentile(total, rank) {
   }
 }
 
-module.exports = percentile;
+export default percentile;

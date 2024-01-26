@@ -11,10 +11,10 @@ let allData = (offense, opportunity, production) => {
   let data = {};
   let list = Object.keys(production);
 
-  // loop through list and only add QBs
   list.forEach((player) => {
     data = {
       name: player,
+      overallGrade: "",
       position: production[player].position,
       team: offense[production[player].team]
         ? offense[production[player].team].name

@@ -21,4 +21,4 @@ function letterGrade(value) {
   }
 }
 
-module.exports = letterGrade;
+export default letterGrade;

@@ -1,4 +1,4 @@
-const isANumber = require("./isANumber");
+import isANumber from "./isANumber.js";
 
 function percentage(sum, total) {
   let result;
@@ -13,4 +13,4 @@ function percentage(sum, total) {
   }
 }
 
-module.exports = percentage;
+export default percentage;
