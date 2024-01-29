@@ -10,14 +10,30 @@ const holURL = `${BASE_URI}${houseOfLambdaId}`;
 const glaURL = `${BASE_URI}${glaDynastyId}`;
 const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
 
+// Get owners from all three leagues
+
 // sleeperAPI.getOwners(holURL).then((data) => {
 //   writeToFile("./data/sleeper/owners/houseOfLambda.json", data);
 // });
 
-sleeperAPI.getOwners(glaURL).then((data) => {
-  writeToFile("./data/sleeper/owners/glaDynasty.json", data);
+// sleeperAPI.getOwners(glaURL).then((data) => {
+//   writeToFile("./data/sleeper/owners/glaDynasty.json", data);
+// });
+
+// sleeperAPI.getOwners(ddbURL).then((data) => {
+//   writeToFile("./data/sleeper/owners/dirtyDroAndBoys.json", data);
+// });
+
+// Get rosters from all teams in all leagues
+
+sleeperAPI.getRosters(holURL).then((data) => {
+  writeToFile("./data/sleeper/players/houseOfLambdaRosters.json", data);
 });
 
-sleeperAPI.getOwners(ddbURL).then((data) => {
-  writeToFile("./data/sleeper/owners/dirtyDroAndBoys.json", data);
+sleeperAPI.getRosters(glaURL).then((data) => {
+  writeToFile("./data/sleeper/players/glaDynastyRosters.json", data);
+});
+
+sleeperAPI.getRosters(ddbURL).then((data) => {
+  writeToFile("./data/sleeper/players/dirtyDroAndBoysRosters.json", data);
 });
