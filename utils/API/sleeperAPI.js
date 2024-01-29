@@ -13,6 +13,11 @@ const sleeperAPI = {
     const results = await response.json();
     return results;
   },
+  getAllPlayers: async (url) => {
+    const response = await fetch(url);
+    const results = await response.json();
+    return results;
+  },
 };
 
 export default sleeperAPI;

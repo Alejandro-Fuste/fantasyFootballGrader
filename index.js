@@ -9,8 +9,9 @@ const dirtyDroAndTheBoysId = process.env.API_DDB;
 const holURL = `${BASE_URI}${houseOfLambdaId}`;
 const glaURL = `${BASE_URI}${glaDynastyId}`;
 const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
+const allPlayersURL = "https://api.sleeper.app/v1/players/nfl";
 
-// Get owners from all three leagues
+/* ****** Get owners from all leagues ****** */
 
 // sleeperAPI.getOwners(holURL).then((data) => {
 //   writeToFile("./data/sleeper/owners/houseOfLambda.json", data);
@@ -24,16 +25,21 @@ const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
 //   writeToFile("./data/sleeper/owners/dirtyDroAndBoys.json", data);
 // });
 
-// Get rosters from all teams in all leagues
+/* ****** Get rosters from all teams in all leagues ****** */
 
-sleeperAPI.getRosters(holURL).then((data) => {
-  writeToFile("./data/sleeper/players/houseOfLambdaRosters.json", data);
-});
+// sleeperAPI.getRosters(holURL).then((data) => {
+//   writeToFile("./data/sleeper/rosters/houseOfLambdaRosters.json", data);
+// });
 
-sleeperAPI.getRosters(glaURL).then((data) => {
-  writeToFile("./data/sleeper/players/glaDynastyRosters.json", data);
-});
+// sleeperAPI.getRosters(glaURL).then((data) => {
+//   writeToFile("./data/sleeper/rosters/glaDynastyRosters.json", data);
+// });
 
-sleeperAPI.getRosters(ddbURL).then((data) => {
-  writeToFile("./data/sleeper/players/dirtyDroAndBoysRosters.json", data);
+// sleeperAPI.getRosters(ddbURL).then((data) => {
+//   writeToFile("./data/sleeper/rosters/dirtyDroAndBoysRosters.json", data);
+// });
+
+/* ****** Get All Players from Sleeper ****** */
+sleeperAPI.getAllPlayers(allPlayersURL).then((data) => {
+  writeToFile("./data/sleeper/players/allPlayers.json", data);
 });
