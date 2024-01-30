@@ -1,0 +1,162 @@
+{
+ "608553767108960256": {
+  "user_id": "608553767108960256",
+  "settings": null,
+  "metadata": {
+   "team_name": "Waste Of Money",
+   "mention_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/5f010b6a05f2ac93370b7310ebb4c958.jpg",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "jcabrera14",
+  "avatar": "e36a6748fbd53ab64ceb5f669bc6e27c"
+ },
+ "616365926266253312": {
+  "user_id": "616365926266253312",
+  "settings": null,
+  "metadata": {
+   "team_name": "Birdie Boyz",
+   "mention_pn": "on",
+   "archived": "off",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": true,
+  "is_bot": false,
+  "display_name": "AlejandroF",
+  "avatar": "0536d04acffcebf15be2082dff306f52"
+ },
+ "728440410577428480": {
+  "user_id": "728440410577428480",
+  "settings": null,
+  "metadata": {
+   "team_name": "Legion of Moose 🫎",
+   "mention_pn": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "rmontes8",
+  "avatar": "485c762e2b0a496fba0844cd1406530d"
+ },
+ "728756987382321152": {
+  "user_id": "728756987382321152",
+  "settings": null,
+  "metadata": {
+   "team_name": "Massage My Roster",
+   "mention_pn": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": null,
+  "is_bot": false,
+  "display_name": "AndrewDC3",
+  "avatar": "8148bdca65fac1bc642a70fd341a9074"
+ },
+ "993665706220695552": {
+  "user_id": "993665706220695552",
+  "settings": null,
+  "metadata": {
+   "team_name": "Blind Squirrels",
+   "mention_pn": "on",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": true,
+  "is_bot": false,
+  "display_name": "solracAAA10",
+  "avatar": "40a028cecd7b8ca588c2ada49e86786b"
+ },
+ "994028919617585152": {
+  "user_id": "994028919617585152",
+  "settings": null,
+  "metadata": {
+   "team_name": "The Little Giants",
+   "mention_pn": "on",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "JJ0321",
+  "avatar": "de441b210aa803e2d7550e34ba9c6ff2"
+ },
+ "994031261045813248": {
+  "user_id": "994031261045813248",
+  "settings": null,
+  "metadata": {
+   "team_name": "Widowmaker",
+   "mention_pn": "on",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "javisobe",
+  "avatar": "503027351aba81424e39bb8245bfa4da"
+ },
+ "994037507081773056": {
+  "user_id": "994037507081773056",
+  "settings": null,
+  "metadata": {
+   "team_name": "Pretty Eyes Genao",
+   "mention_pn": "on",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "johnathangenao",
+  "avatar": "417ab90df2aec32071c282620e11b9d6"
+ },
+ "994048571798274048": {
+  "user_id": "994048571798274048",
+  "settings": null,
+  "metadata": {
+   "user_message_pn": "on",
+   "transaction_waiver": "on",
+   "transaction_trade": "on",
+   "transaction_free_agent": "on",
+   "transaction_commissioner": "on",
+   "trade_block_pn": "on",
+   "team_name_update": "off",
+   "team_name": "Your Girls Fav Drafter",
+   "player_nickname_update": "off",
+   "player_like_pn": "on",
+   "mention_pn": "on",
+   "mascot_message": "on",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "kpardo973",
+  "avatar": "f0edbf4278f53f9425db175073df6584"
+ },
+ "994092551491715072": {
+  "user_id": "994092551491715072",
+  "settings": null,
+  "metadata": {
+   "team_name": "Grump Easy Money",
+   "mention_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/8dfec522b4e07cac98c12d852c2d7a27.jpg",
+   "allow_sms": "on",
+   "allow_pn": "on"
+  },
+  "league_id": "994022092423114752",
+  "is_owner": false,
+  "is_bot": false,
+  "display_name": "semsema38",
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b"
+ }
+}
