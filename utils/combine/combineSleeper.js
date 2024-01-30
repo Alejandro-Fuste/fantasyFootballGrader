@@ -13,3 +13,24 @@ import glaRosters from "../../data/sleeper/rosters/glaDynastyRosters.json" asser
 import ddBRosters from "../../data/sleeper/rosters/dirtyDroAndBoysRosters.json" assert { type: "json" };
 // combined data
 import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };
+
+let dataArray = [];
+let ownerObject = {};
+const getOwnerInfo = "";
+
+function getPlayerNameAndData(list) {
+  let array = [];
+
+  list.forEach((player) => {
+    if (combinedData[sleeperPlayers[player].full_name]) {
+      let data = {
+        ...combinedData[sleeperPlayers[player].full_name],
+        age: sleeperPlayers[player].age,
+      };
+      array.push(data);
+    } else {
+      array.push(`Could not find player: ${sleeperPlayers[player].full_name} `);
+    }
+  });
+  return array;
+}
