@@ -2,9 +2,9 @@
 
 import writeToFile from "../writeToFile.js";
 // owners
-import holOwners from "../../data/sleeper/owners/houseOfLambda.json" assert { type: "json" };
-import glaOwners from "../../data/sleeper/owners/glaDynasty.json" assert { type: "json" };
-import ddBOwners from "../../data/sleeper/owners/dirtyDroAndBoys.json" assert { type: "json" };
+import holOwners from "../../data/sleeper/transformedOwners/houseOfLambdaObject.json" assert { type: "json" };
+import glaOwners from "../../data/sleeper/transformedOwners/glaDynastyObject.json" assert { type: "json" };
+import ddBOwners from "../../data/sleeper/transformedOwners/dirtyDroAndBoysObject.json" assert { type: "json" };
 // players
 import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert { type: "json" };
 // sleeper rosters
@@ -14,12 +14,17 @@ import ddBRosters from "../../data/sleeper/rosters/dirtyDroAndBoysRosters.json" 
 // combined data
 import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };
 
+const leagueId = {
+  hol: "994022092423114752",
+  gla: "918743381038239744",
+  ddb: "992182800750813184",
+};
 let dataArray = [];
 
-function getPlayerNameAndData(list) {
+function getPlayerNameAndData(rosterArray) {
   let array = [];
 
-  list.forEach((player) => {
+  rosterArray.forEach((player) => {
     if (combinedData[sleeperPlayers[player].full_name]) {
       let data = {
         ...combinedData[sleeperPlayers[player].full_name],
@@ -34,11 +39,16 @@ function getPlayerNameAndData(list) {
 }
 
 // loop through league rosters
-function addPlayerDataToRosters(list, league) {
+function addPlayerDataToRosters(rosterArray, leagueObject) {
   const object = {};
+  const allPlayers = [];
 
-  list.forEach((owner) => {
-    object.owner_id = owner.owner_id;
+  rosterArray.forEach((owner) => {
+    object.ownerId = owner.owner_id;
+    object.leagueId = leagueObject[owner.owner_id].league_id;
+    object.displayName = leagueObject[owner.owner_id].display_name;
+    object.teamName = leagueObject[owner.owner_id].metadata.team_name;
+    object.avatar = leagueObject[owner.owner_id].avatar;
     object.wins = owner.settings.wins;
     object.losses = owner.settings.losses;
     object.ties = owner.settings.ties;
@@ -49,6 +59,16 @@ function addPlayerDataToRosters(list, league) {
     object.pointsAgainst = parseFloat(
       `${owner.settings.fpts_against}.${owner.settings.fpts_against_decimal}`
     );
+
+    if (leagueId.hol === owner.league_id || leagueId.gla === owner.league_id) {
+      object.full_roster = [...owner.starters, ...owner.players, ...owner.taxi];
+    } else {
+      object.full_roster = [
+        ...owner.starters,
+        ...owner.players,
+        ...owner.keepers,
+      ];
+    }
   });
 
   // condition
