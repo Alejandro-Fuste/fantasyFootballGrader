@@ -15,7 +15,6 @@ function getPlayerData(rosterArray) {
   let array = [];
 
   rosterArray.forEach((player) => {
-    console.log(player);
     if (combinedData[player] && player != null) {
       let data = {
         ...combinedData[player],
