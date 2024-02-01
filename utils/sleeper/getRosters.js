@@ -1,18 +1,15 @@
-// combine sleeper data with data collect from cypress files
+// combine owners data with roster data
 
 import writeToFile from "../writeToFile.js";
 // owners
 import holOwners from "../../data/sleeper/transformedOwners/houseOfLambdaObject.json" assert { type: "json" };
 import glaOwners from "../../data/sleeper/transformedOwners/glaDynastyObject.json" assert { type: "json" };
 import ddBOwners from "../../data/sleeper/transformedOwners/dirtyDroAndBoysObject.json" assert { type: "json" };
-// players
-import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert { type: "json" };
+
 // sleeper rosters
 import holRosters from "../../data/sleeper/rosters/houseOfLambdaRosters.json" assert { type: "json" };
 import glaRosters from "../../data/sleeper/rosters/glaDynastyRosters.json" assert { type: "json" };
 import ddBRosters from "../../data/sleeper/rosters/dirtyDroAndBoysRosters.json" assert { type: "json" };
-// combined data
-import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };
 
 const leagueId = {
   hol: "994022092423114752",
@@ -20,23 +17,6 @@ const leagueId = {
   ddb: "992182800750813184",
 };
 let dataArray = [];
-
-function getPlayerNameAndData(rosterArray) {
-  let array = [];
-
-  rosterArray.forEach((player) => {
-    if (combinedData[sleeperPlayers[player].full_name]) {
-      let data = {
-        ...combinedData[sleeperPlayers[player].full_name],
-        age: sleeperPlayers[player].age,
-      };
-      array.push(data);
-    } else {
-      array.push(`Could not find player: ${sleeperPlayers[player].full_name} `);
-    }
-  });
-  return array;
-}
 
 // loop through league rosters
 function addPlayerDataToRosters(rosterArray, ownerObject) {
