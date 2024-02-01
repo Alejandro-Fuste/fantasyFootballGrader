@@ -11,34 +11,19 @@ import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert {
 // combined data
 import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };
 
-let dataArray = [];
-let sampleRoster = holRosters[0].full_roster;
-
-function getPlayerNames(rosterArray) {
-  let array = [];
-  rosterArray.forEach((player) => {
-    array.push(sleeperPlayers[player].full_name);
-  });
-  console.log(array);
-  return array;
-}
-
 function getPlayerData(rosterArray) {
   let array = [];
 
   rosterArray.forEach((player) => {
     console.log(player);
-    if (combinedData[sleeperPlayers[player].full_name]) {
+    if (combinedData[player] && player != null) {
       let data = {
-        ...combinedData[sleeperPlayers[player].full_name],
-        age: sleeperPlayers[player].age,
-        sleeperPlayerId: player,
+        ...combinedData[player],
       };
       array.push(data);
     } else {
       array.push({
-        name: sleeperPlayers[player].full_name,
-        sleeperPlayerId: player,
+        name: player,
         message: "No data available",
       });
     }
@@ -49,7 +34,10 @@ function getPlayerData(rosterArray) {
 function addPlayerDataToOwnerData(league) {
   let owners = [];
   league.forEach((owner) => {
-    owners.push({ ...owner, full_roster: getPlayerData(owner.full_roster) });
+    owners.push({
+      ...owner,
+      rosterWithNames: getPlayerData(owner.rosterWithNames),
+    });
   });
   return owners;
 }

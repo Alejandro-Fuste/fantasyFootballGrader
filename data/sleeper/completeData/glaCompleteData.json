@@ -55,128 +55,7 @@
   "reserve": [
    "4988"
   ],
-  "full_roster": [
-   {
-    "name": "Lamar Jackson",
-    "overallGrade": {
-     "value": 90,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "QB",
-    "team": "Baltimore",
-    "production": {
-     "totalPoints": 338.2,
-     "pointsPerGame": 21.1,
-     "overallRank": 7,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 4,
-     "positionPercentile": 95,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 97,
-     "completions": 307,
-     "attempts": 457,
-     "attemptsRank": 17,
-     "attemptsPercentile": 78,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "rushingAttempts": 7
-    },
-    "offense": {
-     "pointsPerGame": 28.4,
-     "QBR": 102.5,
-     "passPerGame": 213.8,
-     "rushPerGame": 156.5,
-     "yardsPerGame": 370.4,
-     "rank": 4,
-     "percentile": 88,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4881"
-   },
-   {
-    "name": "Devin Singletary",
-    "overallGrade": {
-     "value": 77.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Houston",
-    "production": {
-     "totalPoints": 167.3,
-     "pointsPerGame": 9.8,
-     "overallRank": 104,
-     "overallPercentile": 85,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 32,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 58,
-     "attempts": 216,
-     "attemptsRank": 18,
-     "attemptsPercentile": 87,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "receptions": 30,
-     "targets": 38,
-     "targetsRank": 34,
-     "targetsPercentile": 76,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 96.2,
-     "passPerGame": 245.5,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 342.4,
-     "rank": 13,
-     "percentile": 59,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "6130"
-   },
-   {
-    "name": "Travis Etienne",
-    "sleeperPlayerId": "7543",
-    "message": "No data available"
-   },
+  "rosterWithNames": [
    {
     "name": "Stefon Diggs",
     "overallGrade": {
@@ -227,288 +106,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2449"
-   },
-   {
-    "name": "Deebo Samuel",
-    "overallGrade": {
-     "value": 89.25,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "WR",
-    "team": "San Francisco",
-    "production": {
-     "totalPoints": 243.7,
-     "pointsPerGame": 16.2,
-     "overallRank": 40,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 15,
-     "positionPercentile": 94,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 79,
-     "receptions": 60,
-     "targets": 89,
-     "targetsRank": 44,
-     "targetsPercentile": 78,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.9,
-     "QBR": 110.2,
-     "passPerGame": 257.9,
-     "rushPerGame": 140.5,
-     "yardsPerGame": 398.4,
-     "rank": 3,
-     "percentile": 91,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5872"
-   },
-   {
-    "name": "David Njoku",
-    "overallGrade": {
-     "value": 87,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "TE",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 201.2,
-     "pointsPerGame": 12.6,
-     "overallRank": 78,
-     "overallPercentile": 89,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 6,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 82,
-     "receptions": 81,
-     "targets": 123,
-     "targetsRank": 3,
-     "targetsPercentile": 97,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4033"
-   },
-   {
-    "name": "George Kittle",
-    "overallGrade": {
-     "value": 92.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "TE",
-    "team": "San Francisco",
-    "production": {
-     "totalPoints": 203.2,
-     "pointsPerGame": 12.7,
-     "overallRank": 73,
-     "overallPercentile": 90,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 5,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 89,
-     "receptions": 65,
-     "targets": 90,
-     "targetsRank": 9,
-     "targetsPercentile": 92,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.9,
-     "QBR": 110.2,
-     "passPerGame": 257.9,
-     "rushPerGame": 140.5,
-     "yardsPerGame": 398.4,
-     "rank": 3,
-     "percentile": 91,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "4217"
-   },
-   {
-    "name": "Brandon Aiyuk",
-    "overallGrade": {
-     "value": 91.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "WR",
-    "team": "San Francisco",
-    "production": {
-     "totalPoints": 249.2,
-     "pointsPerGame": 15.6,
-     "overallRank": 36,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 14,
-     "positionPercentile": 94,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 87,
-     "receptions": 75,
-     "targets": 105,
-     "targetsRank": 30,
-     "targetsPercentile": 85,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.9,
-     "QBR": 110.2,
-     "passPerGame": 257.9,
-     "rushPerGame": 140.5,
-     "yardsPerGame": 398.4,
-     "rank": 3,
-     "percentile": 91,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6803"
-   },
-   {
-    "name": "Evan McPherson",
-    "sleeperPlayerId": "7839",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "CLE",
-    "message": "No data available"
-   },
-   {
-    "name": "Stefon Diggs",
-    "overallGrade": {
-     "value": 92.5,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "WR",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 273.8,
-     "pointsPerGame": 16.1,
-     "overallRank": 25,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 9,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 87,
-     "receptions": 107,
-     "targets": 160,
-     "targetsRank": 7,
-     "targetsPercentile": 97,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2449"
+    }
    },
    {
     "name": "Jared Goff",
@@ -561,9 +159,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3163"
+    }
    },
    {
     "name": "David Njoku",
@@ -615,9 +211,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4033"
+    }
    },
    {
     "name": "Curtis Samuel",
@@ -669,9 +263,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4082"
+    }
    },
    {
     "name": "Samaje Perine",
@@ -730,9 +322,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4147"
+    }
    },
    {
     "name": "George Kittle",
@@ -784,9 +374,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "4217"
+    }
    },
    {
     "name": "Lamar Jackson",
@@ -839,9 +427,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4881"
+    }
    },
    {
     "name": "Nick Chubb",
@@ -900,9 +486,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4988"
+    }
    },
    {
     "name": "Josh Jacobs",
@@ -961,9 +545,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "5850"
+    }
    },
    {
     "name": "Deebo Samuel",
@@ -1015,9 +597,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5872"
+    }
    },
    {
     "name": "Devin Singletary",
@@ -1076,9 +656,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "6130"
+    }
    },
    {
     "name": "Brandon Aiyuk",
@@ -1130,13 +708,10 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6803"
+    }
    },
    {
     "name": "Travis Etienne",
-    "sleeperPlayerId": "7543",
     "message": "No data available"
    },
    {
@@ -1189,9 +764,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7562"
+    }
    },
    {
     "name": "Rashod Bateman",
@@ -1243,9 +816,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7571"
+    }
    },
    {
     "name": "Javonte Williams",
@@ -1304,9 +875,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7588"
+    }
    },
    {
     "name": "Rondale Moore",
@@ -1358,13 +927,10 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7601"
+    }
    },
    {
     "name": "Evan McPherson",
-    "sleeperPlayerId": "7839",
     "message": "No data available"
    },
    {
@@ -1418,9 +984,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9228"
+    }
    },
    {
     "name": "Michael Mayer",
@@ -1472,143 +1036,19 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9482"
+    }
    },
    {
     "name": "Marvin Mims",
-    "sleeperPlayerId": "9494",
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "CLE",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "DEN",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Bryce Young",
-    "overallGrade": {
-     "value": 60.75,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "QB",
-    "team": "Carolina",
-    "production": {
-     "totalPoints": 166.4,
-     "pointsPerGame": 10.4,
-     "overallRank": 105,
-     "overallPercentile": 85,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 23,
-     "positionPercentile": 74,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 105,
-     "completions": 315,
-     "attempts": 527,
-     "attemptsRank": 12,
-     "attemptsPercentile": 84,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "rushingAttempts": 10
-    },
-    "offense": {
-     "pointsPerGame": 13.9,
-     "QBR": 75.2,
-     "passPerGame": 161.2,
-     "rushPerGame": 104.1,
-     "yardsPerGame": 265.3,
-     "rank": 32,
-     "percentile": 0,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9228"
-   },
-   {
-    "name": "Marvin Mims",
-    "sleeperPlayerId": "9494",
-    "message": "No data available"
-   },
-   {
-    "name": "Nick Chubb",
-    "overallGrade": {
-     "value": 47.5,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 23.1,
-     "pointsPerGame": 11.6,
-     "overallRank": 434,
-     "overallPercentile": 39,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 87,
-     "positionPercentile": 47,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 34,
-     "attempts": 28,
-     "attemptsRank": 86,
-     "attemptsPercentile": 38,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 4,
-     "targets": 4,
-     "targetsRank": 108,
-     "targetsPercentile": 22,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4988"
    }
   ]
  },
@@ -1668,184 +1108,7 @@
   "reserve": [
    "1166"
   ],
-  "full_roster": [
-   {
-    "name": "Geno Smith",
-    "overallGrade": {
-     "value": 74.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "QB",
-    "team": "Seattle",
-    "production": {
-     "totalPoints": 235.3,
-     "pointsPerGame": 15.7,
-     "overallRank": 45,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 19,
-     "positionPercentile": 78,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 103,
-     "completions": 323,
-     "attempts": 499,
-     "attemptsRank": 15,
-     "attemptsPercentile": 80,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "rushingAttempts": 9
-    },
-    "offense": {
-     "pointsPerGame": 21.4,
-     "QBR": 90.7,
-     "passPerGame": 230,
-     "rushPerGame": 92.9,
-     "yardsPerGame": 322.9,
-     "rank": 17,
-     "percentile": 47,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 33,
-    "sleeperPlayerId": "1373"
-   },
-   {
-    "name": "Austin Ekeler",
-    "overallGrade": {
-     "value": 70.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "L.A. Chargers",
-    "production": {
-     "totalPoints": 185.4,
-     "pointsPerGame": 13.2,
-     "overallRank": 89,
-     "overallPercentile": 87,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 26,
-     "positionPercentile": 84,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 72,
-     "attempts": 179,
-     "attemptsRank": 31,
-     "attemptsPercentile": 78,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "receptions": 51,
-     "targets": 74,
-     "targetsRank": 6,
-     "targetsPercentile": 96,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.4,
-     "QBR": 91.8,
-     "passPerGame": 232.8,
-     "rushPerGame": 96.6,
-     "yardsPerGame": 329.4,
-     "rank": 21,
-     "percentile": 34,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4663"
-   },
-   {
-    "name": "Derrick Henry",
-    "overallGrade": {
-     "value": 75.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Tennessee",
-    "production": {
-     "totalPoints": 246.7,
-     "pointsPerGame": 14.5,
-     "overallRank": 38,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 8,
-     "positionPercentile": 95,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 56,
-     "attempts": 280,
-     "attemptsRank": 1,
-     "attemptsPercentile": 99,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "receptions": 28,
-     "targets": 36,
-     "targetsRank": 39,
-     "targetsPercentile": 72,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 17.9,
-     "QBR": 83.2,
-     "passPerGame": 180.4,
-     "rushPerGame": 108.6,
-     "yardsPerGame": 289,
-     "rank": 28,
-     "percentile": 13,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3198"
-   },
+  "rosterWithNames": [
    {
     "name": "Jayden Reed",
     "overallGrade": {
@@ -1896,190 +1159,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10222"
-   },
-   {
-    "name": "Michael Pittman",
-    "sleeperPlayerId": "6819",
-    "message": "No data available"
-   },
-   {
-    "name": "Tyler Higbee",
-    "overallGrade": {
-     "value": 77.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "TE",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 108.5,
-     "pointsPerGame": 7.2,
-     "overallRank": 213,
-     "overallPercentile": 70,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 24,
-     "positionPercentile": 83,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 86,
-     "receptions": 47,
-     "targets": 70,
-     "targetsRank": 20,
-     "targetsPercentile": 82,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 31,
-    "sleeperPlayerId": "3271"
-   },
-   {
-    "name": "Odell Beckham",
-    "sleeperPlayerId": "2078",
-    "message": "No data available"
-   },
-   {
-    "name": "Calvin Ridley",
-    "overallGrade": {
-     "value": 83.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Jacksonville",
-    "production": {
-     "totalPoints": 229.9,
-     "pointsPerGame": 13.5,
-     "overallRank": 51,
-     "overallPercentile": 93,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 18,
-     "positionPercentile": 93,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 91,
-     "receptions": 76,
-     "targets": 136,
-     "targetsRank": 17,
-     "targetsPercentile": 92,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 89.3,
-     "passPerGame": 242.7,
-     "rushPerGame": 96.8,
-     "yardsPerGame": 339.5,
-     "rank": 14,
-     "percentile": 56,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4981"
-   },
-   {
-    "name": "Matt Gay",
-    "sleeperPlayerId": "6083",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "NYJ",
-    "message": "No data available"
-   },
-   {
-    "name": "Jayden Reed",
-    "overallGrade": {
-     "value": 81,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Green Bay",
-    "production": {
-     "totalPoints": 217.2,
-     "pointsPerGame": 13.6,
-     "overallRank": 62,
-     "overallPercentile": 91,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 25,
-     "positionPercentile": 90,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 60,
-     "receptions": 64,
-     "targets": 94,
-     "targetsRank": 40,
-     "targetsPercentile": 80,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.5,
-     "QBR": 96.4,
-     "passPerGame": 233.4,
-     "rushPerGame": 112.1,
-     "yardsPerGame": 345.5,
-     "rank": 12,
-     "percentile": 63,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10222"
+    }
    },
    {
     "name": "Kirk Cousins",
@@ -2132,9 +1212,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 35,
-    "sleeperPlayerId": "1166"
+    }
    },
    {
     "name": "Geno Smith",
@@ -2187,9 +1265,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 33,
-    "sleeperPlayerId": "1373"
+    }
    },
    {
     "name": "Adam Thielen",
@@ -2241,13 +1317,10 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 33,
-    "sleeperPlayerId": "1689"
+    }
    },
    {
     "name": "Odell Beckham",
-    "sleeperPlayerId": "2078",
     "message": "No data available"
    },
    {
@@ -2307,9 +1380,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3198"
+    }
    },
    {
     "name": "Tyler Higbee",
@@ -2361,9 +1432,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "3271"
+    }
    },
    {
     "name": "Josh Reynolds",
@@ -2415,9 +1484,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4171"
+    }
    },
    {
     "name": "Austin Ekeler",
@@ -2476,9 +1543,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4663"
+    }
    },
    {
     "name": "Calvin Ridley",
@@ -2530,9 +1595,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4981"
+    }
    },
    {
     "name": "Justice Hill",
@@ -2591,18 +1654,14 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5995"
+    }
    },
    {
     "name": "Matt Gay",
-    "sleeperPlayerId": "6083",
     "message": "No data available"
    },
    {
     "name": "Michael Pittman",
-    "sleeperPlayerId": "6819",
     "message": "No data available"
    },
    {
@@ -2662,9 +1721,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "6845"
+    }
    },
    {
     "name": "Juwan Johnson",
@@ -2716,9 +1773,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "7002"
+    }
    },
    {
     "name": "Joshua Kelley",
@@ -2777,9 +1832,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "7045"
+    }
    },
    {
     "name": "K.J. Osborn",
@@ -2831,9 +1884,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "7066"
+    }
    },
    {
     "name": "Treylon Burks",
@@ -2885,9 +1936,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8135"
+    }
    },
    {
     "name": "Alec Pierce",
@@ -2939,9 +1988,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8142"
+    }
    },
    {
     "name": "Tank Bigsby",
@@ -3000,9 +2047,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9225"
+    }
    },
    {
     "name": "Jalin Hyatt",
@@ -3054,9 +2099,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9497"
+    }
    },
    {
     "name": "Aaron Rodgers",
@@ -3109,183 +2152,11 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 40,
-    "sleeperPlayerId": "96"
+    }
    },
    {
-    "sleeperPlayerId": "NYJ",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Tank Bigsby",
-    "overallGrade": {
-     "value": 47.75,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Jacksonville",
-    "production": {
-     "totalPoints": 22.8,
-     "pointsPerGame": 1.5,
-     "overallRank": 438,
-     "overallPercentile": 38,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 88,
-     "positionPercentile": 46,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 14,
-     "attempts": 50,
-     "attemptsRank": 68,
-     "attemptsPercentile": 51,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 1,
-     "targets": 4,
-     "targetsRank": 109,
-     "targetsPercentile": 22,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 89.3,
-     "passPerGame": 242.7,
-     "rushPerGame": 96.8,
-     "yardsPerGame": 339.5,
-     "rank": 14,
-     "percentile": 56,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9225"
-   },
-   {
-    "name": "Jalin Hyatt",
-    "overallGrade": {
-     "value": 44.25,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "WR",
-    "team": "N.Y. Giants",
-    "production": {
-     "totalPoints": 60.3,
-     "pointsPerGame": 3.8,
-     "overallRank": 307,
-     "overallPercentile": 57,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 98,
-     "positionPercentile": 60,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 54,
-     "receptions": 23,
-     "targets": 40,
-     "targetsRank": 94,
-     "targetsPercentile": 54,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 15.6,
-     "QBR": 83.4,
-     "passPerGame": 169.8,
-     "rushPerGame": 110.2,
-     "yardsPerGame": 280,
-     "rank": 30,
-     "percentile": 6,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9497"
-   },
-   {
-    "name": "Kirk Cousins",
-    "overallGrade": {
-     "value": 62,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "QB",
-    "team": "Minnesota",
-    "production": {
-     "totalPoints": 154.7,
-     "pointsPerGame": 19.3,
-     "overallRank": 119,
-     "overallPercentile": 83,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 24,
-     "positionPercentile": 72,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 98,
-     "completions": 216,
-     "attempts": 311,
-     "attemptsRank": 29,
-     "attemptsPercentile": 62,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "rushingAttempts": 5
-    },
-    "offense": {
-     "pointsPerGame": 20.2,
-     "QBR": 92.4,
-     "passPerGame": 256.4,
-     "rushPerGame": 91.4,
-     "yardsPerGame": 347.8,
-     "rank": 22,
-     "percentile": 31,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 35,
-    "sleeperPlayerId": "1166"
    }
   ]
  },
@@ -3344,470 +2215,7 @@
    "5012",
    "9502"
   ],
-  "full_roster": [
-   {
-    "name": "Brock Purdy",
-    "overallGrade": {
-     "value": 89.25,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "QB",
-    "team": "San Francisco",
-    "production": {
-     "totalPoints": 306.6,
-     "pointsPerGame": 19.2,
-     "overallRank": 10,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 6,
-     "positionPercentile": 93,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 93,
-     "completions": 308,
-     "attempts": 444,
-     "attemptsRank": 20,
-     "attemptsPercentile": 74,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "rushingAttempts": 11
-    },
-    "offense": {
-     "pointsPerGame": 28.9,
-     "QBR": 110.2,
-     "passPerGame": 257.9,
-     "rushPerGame": 140.5,
-     "yardsPerGame": 398.4,
-     "rank": 3,
-     "percentile": 91,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8183"
-   },
-   {
-    "name": "Kenneth Walker",
-    "overallGrade": {
-     "value": 78,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Seattle",
-    "production": {
-     "totalPoints": 199.4,
-     "pointsPerGame": 13.3,
-     "overallRank": 79,
-     "overallPercentile": 89,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 19,
-     "positionPercentile": 88,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 58,
-     "attempts": 219,
-     "attemptsRank": 16,
-     "attemptsPercentile": 88,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "receptions": 29,
-     "targets": 37,
-     "targetsRank": 35,
-     "targetsPercentile": 75,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.4,
-     "QBR": 90.7,
-     "passPerGame": 230,
-     "rushPerGame": 92.9,
-     "yardsPerGame": 322.9,
-     "rank": 17,
-     "percentile": 47,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8151"
-   },
-   {
-    "name": "Raheem Mostert",
-    "overallGrade": {
-     "value": 93.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "RB",
-    "team": "Miami",
-    "production": {
-     "totalPoints": 267.7,
-     "pointsPerGame": 17.8,
-     "overallRank": 27,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 5,
-     "positionPercentile": 97,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 57,
-     "attempts": 209,
-     "attemptsRank": 20,
-     "attemptsPercentile": 86,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "receptions": 25,
-     "targets": 32,
-     "targetsRank": 42,
-     "targetsPercentile": 70,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.2,
-     "QBR": 101.2,
-     "passPerGame": 265.5,
-     "rushPerGame": 135.8,
-     "yardsPerGame": 401.3,
-     "rank": 2,
-     "percentile": 94,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2749"
-   },
-   {
-    "name": "Davante Adams",
-    "overallGrade": {
-     "value": 79.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Las Vegas",
-    "production": {
-     "totalPoints": 265.4,
-     "pointsPerGame": 15.6,
-     "overallRank": 29,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 10,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 98,
-     "receptions": 103,
-     "targets": 175,
-     "targetsRank": 2,
-     "targetsPercentile": 99,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 19.5,
-     "QBR": 80.1,
-     "passPerGame": 198.8,
-     "rushPerGame": 90.7,
-     "yardsPerGame": 289.5,
-     "rank": 23,
-     "percentile": 28,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2133"
-   },
-   {
-    "name": "Jaylen Waddle",
-    "overallGrade": {
-     "value": 88.5,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "WR",
-    "team": "Miami",
-    "production": {
-     "totalPoints": 198.6,
-     "pointsPerGame": 14.2,
-     "overallRank": 81,
-     "overallPercentile": 89,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 34,
-     "positionPercentile": 86,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 68,
-     "receptions": 72,
-     "targets": 104,
-     "targetsRank": 31,
-     "targetsPercentile": 85,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.2,
-     "QBR": 101.2,
-     "passPerGame": 265.5,
-     "rushPerGame": 135.8,
-     "yardsPerGame": 401.3,
-     "rank": 2,
-     "percentile": 94,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7526"
-   },
-   {
-    "name": "Kyle Pitts",
-    "overallGrade": {
-     "value": 69.5,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "Atlanta",
-    "production": {
-     "totalPoints": 137.3,
-     "pointsPerGame": 8.1,
-     "overallRank": 153,
-     "overallPercentile": 78,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 13,
-     "positionPercentile": 91,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 68,
-     "receptions": 53,
-     "targets": 90,
-     "targetsRank": 11,
-     "targetsPercentile": 90,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 18.9,
-     "QBR": 80.5,
-     "passPerGame": 207.3,
-     "rushPerGame": 127,
-     "yardsPerGame": 334.3,
-     "rank": 26,
-     "percentile": 19,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7553"
-   },
-   {
-    "name": "Tyjae Spears",
-    "overallGrade": {
-     "value": 60,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "RB",
-    "team": "Tennessee",
-    "production": {
-     "totalPoints": 153.8,
-     "pointsPerGame": 9,
-     "overallRank": 122,
-     "overallPercentile": 83,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 34,
-     "positionPercentile": 79,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 56,
-     "attempts": 100,
-     "attemptsRank": 49,
-     "attemptsPercentile": 65,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 52,
-     "targets": 70,
-     "targetsRank": 10,
-     "targetsPercentile": 93,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 17.9,
-     "QBR": 83.2,
-     "passPerGame": 180.4,
-     "rushPerGame": 108.6,
-     "yardsPerGame": 289,
-     "rank": 28,
-     "percentile": 13,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9508"
-   },
-   {
-    "name": "Jaxon Smith-Njigba",
-    "overallGrade": {
-     "value": 72,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Seattle",
-    "production": {
-     "totalPoints": 149.8,
-     "pointsPerGame": 8.8,
-     "overallRank": 135,
-     "overallPercentile": 81,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 48,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 68,
-     "receptions": 63,
-     "targets": 93,
-     "targetsRank": 41,
-     "targetsPercentile": 80,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.4,
-     "QBR": 90.7,
-     "passPerGame": 230,
-     "rushPerGame": 92.9,
-     "yardsPerGame": 322.9,
-     "rank": 17,
-     "percentile": 47,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9488"
-   },
-   {
-    "name": "Dustin Hopkins",
-    "sleeperPlayerId": "1348",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "BAL",
-    "message": "No data available"
-   },
+  "rosterWithNames": [
    {
     "name": "Jonathan Mingo",
     "overallGrade": {
@@ -3858,9 +2266,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "10225"
+    }
    },
    {
     "name": "Jaleel McLaughlin",
@@ -3919,13 +2325,10 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "11439"
+    }
    },
    {
     "name": "Dustin Hopkins",
-    "sleeperPlayerId": "1348",
     "message": "No data available"
    },
    {
@@ -3978,9 +2381,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2133"
+    }
    },
    {
     "name": "Raheem Mostert",
@@ -4039,9 +2440,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2749"
+    }
    },
    {
     "name": "Kareem Hunt",
@@ -4100,9 +2499,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4098"
+    }
    },
    {
     "name": "Taysom Hill",
@@ -4154,9 +2551,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 33,
-    "sleeperPlayerId": "4381"
+    }
    },
    {
     "name": "Mark Andrews",
@@ -4208,9 +2603,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5012"
+    }
    },
    {
     "name": "Terry McLaurin",
@@ -4262,9 +2655,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5927"
+    }
    },
    {
     "name": "Jaylen Waddle",
@@ -4316,9 +2707,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7526"
+    }
    },
    {
     "name": "Kyle Pitts",
@@ -4370,9 +2759,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7553"
+    }
    },
    {
     "name": "Isaiah Likely",
@@ -4424,9 +2811,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8131"
+    }
    },
    {
     "name": "Kenneth Walker",
@@ -4485,9 +2870,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8151"
+    }
    },
    {
     "name": "Brock Purdy",
@@ -4540,9 +2923,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8183"
+    }
    },
    {
     "name": "Jaxon Smith-Njigba",
@@ -4594,9 +2975,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9488"
+    }
    },
    {
     "name": "Tank Dell",
@@ -4648,9 +3027,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "9502"
+    }
    },
    {
     "name": "Kayshon Boutte",
@@ -4702,9 +3079,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9504"
+    }
    },
    {
     "name": "Tyjae Spears",
@@ -4763,9 +3138,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9508"
+    }
    },
    {
     "name": "Zach Charbonnet",
@@ -4824,9 +3197,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9753"
+    }
    },
    {
     "name": "C.J. Stroud",
@@ -4879,179 +3250,15 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9758"
+    }
    },
    {
-    "sleeperPlayerId": "BAL",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "TB",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Kayshon Boutte",
-    "overallGrade": {
-     "value": 14.25,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "WR",
-    "team": "New England",
-    "production": {
-     "totalPoints": 3.9,
-     "pointsPerGame": 0.8,
-     "overallRank": 559,
-     "overallPercentile": 21,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 192,
-     "positionPercentile": 21,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 42,
-     "receptions": 2,
-     "targets": 7,
-     "targetsRank": 178,
-     "targetsPercentile": 12,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 13.9,
-     "QBR": 73.8,
-     "passPerGame": 180.5,
-     "rushPerGame": 95.7,
-     "yardsPerGame": 276.2,
-     "rank": 31,
-     "percentile": 3,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9504"
-   },
-   {
-    "name": "Mark Andrews",
-    "overallGrade": {
-     "value": 84,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "TE",
-    "team": "Baltimore",
-    "production": {
-     "totalPoints": 135.4,
-     "pointsPerGame": 13.5,
-     "overallRank": 156,
-     "overallPercentile": 78,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 15,
-     "positionPercentile": 89,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 70,
-     "receptions": 45,
-     "targets": 61,
-     "targetsRank": 22,
-     "targetsPercentile": 81,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.4,
-     "QBR": 102.5,
-     "passPerGame": 213.8,
-     "rushPerGame": 156.5,
-     "yardsPerGame": 370.4,
-     "rank": 4,
-     "percentile": 88,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5012"
-   },
-   {
-    "name": "Tank Dell",
-    "overallGrade": {
-     "value": 75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Houston",
-    "production": {
-     "totalPoints": 165,
-     "pointsPerGame": 15,
-     "overallRank": 106,
-     "overallPercentile": 85,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 39,
-     "positionPercentile": 84,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 66,
-     "receptions": 47,
-     "targets": 75,
-     "targetsRank": 56,
-     "targetsPercentile": 72,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 96.2,
-     "passPerGame": 245.5,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 342.4,
-     "rank": 13,
-     "percentile": 59,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "9502"
    }
   ]
  },
@@ -5109,480 +3316,9 @@
   "reserve": [
    "6770"
   ],
-  "full_roster": [
-   {
-    "name": "Sam Howell",
-    "overallGrade": {
-     "value": 76,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "QB",
-    "team": "Washington",
-    "production": {
-     "totalPoints": 277.5,
-     "pointsPerGame": 16.3,
-     "overallRank": 23,
-     "overallPercentile": 97,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 12,
-     "positionPercentile": 86,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 100,
-     "completions": 388,
-     "attempts": 612,
-     "attemptsRank": 1,
-     "attemptsPercentile": 99,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "rushingAttempts": 21
-    },
-    "offense": {
-     "pointsPerGame": 19.4,
-     "QBR": 81.6,
-     "passPerGame": 219.1,
-     "rushPerGame": 93.6,
-     "yardsPerGame": 312.8,
-     "rank": 25,
-     "percentile": 22,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8162"
-   },
-   {
-    "name": "Rachaad White",
-    "overallGrade": {
-     "value": 82.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "RB",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 267.9,
-     "pointsPerGame": 15.8,
-     "overallRank": 26,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 4,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 83,
-     "attempts": 272,
-     "attemptsRank": 3,
-     "attemptsPercentile": 98,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "receptions": 64,
-     "targets": 70,
-     "targetsRank": 9,
-     "targetsPercentile": 94,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8136"
-   },
-   {
-    "name": "De'Von Achane",
-    "overallGrade": {
-     "value": 83.25,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "RB",
-    "team": "Miami",
-    "production": {
-     "totalPoints": 190.7,
-     "pointsPerGame": 17.3,
-     "overallRank": 85,
-     "overallPercentile": 88,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 24,
-     "positionPercentile": 85,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 46,
-     "attempts": 103,
-     "attemptsRank": 47,
-     "attemptsPercentile": 66,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 27,
-     "targets": 37,
-     "targetsRank": 36,
-     "targetsPercentile": 74,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.2,
-     "QBR": 101.2,
-     "passPerGame": 265.5,
-     "rushPerGame": 135.8,
-     "yardsPerGame": 401.3,
-     "rank": 2,
-     "percentile": 94,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9226"
-   },
-   {
-    "name": "DK Metcalf",
-    "overallGrade": {
-     "value": 79.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Seattle",
-    "production": {
-     "totalPoints": 225.4,
-     "pointsPerGame": 14.1,
-     "overallRank": 54,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 21,
-     "positionPercentile": 91,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 89,
-     "receptions": 66,
-     "targets": 119,
-     "targetsRank": 22,
-     "targetsPercentile": 89,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.4,
-     "QBR": 90.7,
-     "passPerGame": 230,
-     "rushPerGame": 92.9,
-     "yardsPerGame": 322.9,
-     "rank": 17,
-     "percentile": 47,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5846"
-   },
-   {
-    "name": "Amon-Ra St. Brown",
-    "overallGrade": {
-     "value": 95,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "WR",
-    "team": "Detroit",
-    "production": {
-     "totalPoints": 330.9,
-     "pointsPerGame": 20.7,
-     "overallRank": 8,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 3,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 95,
-     "receptions": 119,
-     "targets": 164,
-     "targetsRank": 5,
-     "targetsPercentile": 98,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 27.1,
-     "QBR": 98.1,
-     "passPerGame": 258.9,
-     "rushPerGame": 135.9,
-     "yardsPerGame": 394.8,
-     "rank": 5,
-     "percentile": 84,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7547"
-   },
-   {
-    "name": "Jake Ferguson",
-    "overallGrade": {
-     "value": 92.75,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "TE",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 177.1,
-     "pointsPerGame": 10.4,
-     "overallRank": 97,
-     "overallPercentile": 86,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 9,
-     "positionPercentile": 94,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 79,
-     "receptions": 71,
-     "targets": 102,
-     "targetsRank": 7,
-     "targetsPercentile": 94,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8110"
-   },
-   {
-    "name": "Saquon Barkley",
-    "overallGrade": {
-     "value": 71,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "N.Y. Giants",
-    "production": {
-     "totalPoints": 223.2,
-     "pointsPerGame": 15.9,
-     "overallRank": 56,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 13,
-     "positionPercentile": 92,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 85,
-     "attempts": 247,
-     "attemptsRank": 8,
-     "attemptsPercentile": 94,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 41,
-     "targets": 60,
-     "targetsRank": 15,
-     "targetsPercentile": 89,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 15.6,
-     "QBR": 83.4,
-     "passPerGame": 169.8,
-     "rushPerGame": 110.2,
-     "yardsPerGame": 280,
-     "rank": 30,
-     "percentile": 6,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "4866"
-   },
-   {
-    "name": "Jerome Ford",
-    "overallGrade": {
-     "value": 82.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "RB",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 211.2,
-     "pointsPerGame": 12.4,
-     "overallRank": 66,
-     "overallPercentile": 91,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 16,
-     "positionPercentile": 90,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 53,
-     "attempts": 204,
-     "attemptsRank": 23,
-     "attemptsPercentile": 83,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "receptions": 44,
-     "targets": 63,
-     "targetsRank": 14,
-     "targetsPercentile": 90,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8143"
-   },
+  "rosterWithNames": [
    {
     "name": "Justin Tucker",
-    "sleeperPlayerId": "1264",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "LV",
-    "message": "No data available"
-   },
-   {
-    "name": "Justin Tucker",
-    "sleeperPlayerId": "1264",
     "message": "No data available"
    },
    {
@@ -5635,9 +3371,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2505"
+    }
    },
    {
     "name": "Saquon Barkley",
@@ -5696,9 +3430,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "4866"
+    }
    },
    {
     "name": "Dalton Schultz",
@@ -5750,9 +3482,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5001"
+    }
    },
    {
     "name": "DK Metcalf",
@@ -5804,9 +3534,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5846"
+    }
    },
    {
     "name": "Joe Burrow",
@@ -5859,9 +3587,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "6770"
+    }
    },
    {
     "name": "AJ Dillon",
@@ -5920,9 +3646,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6828"
+    }
    },
    {
     "name": "Antonio Gibson",
@@ -5981,9 +3705,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6945"
+    }
    },
    {
     "name": "Amon-Ra St. Brown",
@@ -6035,9 +3757,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7547"
+    }
    },
    {
     "name": "Joshua Palmer",
@@ -6089,9 +3809,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7670"
+    }
    },
    {
     "name": "Jake Ferguson",
@@ -6143,9 +3861,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8110"
+    }
    },
    {
     "name": "Wan'Dale Robinson",
@@ -6197,9 +3913,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8126"
+    }
    },
    {
     "name": "Rachaad White",
@@ -6258,9 +3972,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8136"
+    }
    },
    {
     "name": "Jerome Ford",
@@ -6319,9 +4031,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8143"
+    }
    },
    {
     "name": "John Metchie",
@@ -6373,9 +4083,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8147"
+    }
    },
    {
     "name": "Sam Howell",
@@ -6428,9 +4136,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8162"
+    }
    },
    {
     "name": "Skyy Moore",
@@ -6482,9 +4188,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8168"
+    }
    },
    {
     "name": "De'Von Achane",
@@ -6543,13 +4247,10 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9226"
+    }
    },
    {
     "name": "Hendon Hooker",
-    "sleeperPlayerId": "9998",
     "message": "No data available"
    },
    {
@@ -6603,77 +4304,15 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "9999"
+    }
    },
    {
-    "sleeperPlayerId": "LV",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "MIN",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Hendon Hooker",
-    "sleeperPlayerId": "9998",
-    "message": "No data available"
-   },
-   {
-    "name": "Joe Burrow",
-    "overallGrade": {
-     "value": 67.75,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "QB",
-    "team": "Cincinnati",
-    "production": {
-     "totalPoints": 153.2,
-     "pointsPerGame": 15.3,
-     "overallRank": 123,
-     "overallPercentile": 83,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 25,
-     "positionPercentile": 71,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 94,
-     "completions": 244,
-     "attempts": 365,
-     "attemptsRank": 25,
-     "attemptsPercentile": 67,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "rushingAttempts": 6
-    },
-    "offense": {
-     "pointsPerGame": 21.5,
-     "QBR": 93,
-     "passPerGame": 229.1,
-     "rushPerGame": 89.8,
-     "yardsPerGame": 318.9,
-     "rank": 16,
-     "percentile": 50,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "6770"
    }
   ]
  },
@@ -6728,184 +4367,7 @@
    "9222"
   ],
   "reserve": [],
-  "full_roster": [
-   {
-    "name": "Matthew Stafford",
-    "overallGrade": {
-     "value": 84,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "QB",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 254.1,
-     "pointsPerGame": 16.9,
-     "overallRank": 34,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 15,
-     "positionPercentile": 83,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 98,
-     "completions": 326,
-     "attempts": 521,
-     "attemptsRank": 13,
-     "attemptsPercentile": 83,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "rushingAttempts": 11
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 35,
-    "sleeperPlayerId": "421"
-   },
-   {
-    "name": "Chuba Hubbard",
-    "overallGrade": {
-     "value": 66,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "RB",
-    "team": "Carolina",
-    "production": {
-     "totalPoints": 182.5,
-     "pointsPerGame": 10.7,
-     "overallRank": 90,
-     "overallPercentile": 87,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 27,
-     "positionPercentile": 83,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 62,
-     "attempts": 238,
-     "attemptsRank": 9,
-     "attemptsPercentile": 94,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 39,
-     "targets": 44,
-     "targetsRank": 25,
-     "targetsPercentile": 82,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 13.9,
-     "QBR": 75.2,
-     "passPerGame": 161.2,
-     "rushPerGame": 104.1,
-     "yardsPerGame": 265.3,
-     "rank": 32,
-     "percentile": 0,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7594"
-   },
-   {
-    "name": "Christian McCaffrey",
-    "overallGrade": {
-     "value": 97.25,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "position": "RB",
-    "team": "San Francisco",
-    "production": {
-     "totalPoints": 391.3,
-     "pointsPerGame": 24.5,
-     "overallRank": 3,
-     "overallPercentile": 100,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 1,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 81,
-     "attempts": 272,
-     "attemptsRank": 2,
-     "attemptsPercentile": 99,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "receptions": 67,
-     "targets": 83,
-     "targetsRank": 4,
-     "targetsPercentile": 97,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.9,
-     "QBR": 110.2,
-     "passPerGame": 257.9,
-     "rushPerGame": 140.5,
-     "yardsPerGame": 398.4,
-     "rank": 3,
-     "percentile": 91,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4034"
-   },
+  "rosterWithNames": [
    {
     "name": "DeAndre Hopkins",
     "overallGrade": {
@@ -6956,239 +4418,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "1426"
-   },
-   {
-    "name": "Drake London",
-    "overallGrade": {
-     "value": 69.5,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Atlanta",
-    "production": {
-     "totalPoints": 174.4,
-     "pointsPerGame": 10.9,
-     "overallRank": 100,
-     "overallPercentile": 86,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 37,
-     "positionPercentile": 85,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 86,
-     "receptions": 69,
-     "targets": 110,
-     "targetsRank": 24,
-     "targetsPercentile": 88,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 18.9,
-     "QBR": 80.5,
-     "passPerGame": 207.3,
-     "rushPerGame": 127,
-     "yardsPerGame": 334.3,
-     "rank": 26,
-     "percentile": 19,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8112"
-   },
-   {
-    "name": "Cade Otton",
-    "overallGrade": {
-     "value": 69.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 116.5,
-     "pointsPerGame": 6.9,
-     "overallRank": 195,
-     "overallPercentile": 72,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 20,
-     "positionPercentile": 86,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 103,
-     "receptions": 47,
-     "targets": 67,
-     "targetsRank": 21,
-     "targetsPercentile": 81,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8111"
-   },
-   {
-    "name": "Brian Robinson",
-    "sleeperPlayerId": "8154",
-    "message": "No data available"
-   },
-   {
-    "name": "Brandin Cooks",
-    "overallGrade": {
-     "value": 85.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 173.2,
-     "pointsPerGame": 10.8,
-     "overallRank": 102,
-     "overallPercentile": 86,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 38,
-     "positionPercentile": 84,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 79,
-     "receptions": 54,
-     "targets": 81,
-     "targetsRank": 50,
-     "targetsPercentile": 75,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2197"
-   },
-   {
-    "name": "Jason Sanders",
-    "sleeperPlayerId": "5119",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "SEA",
-    "message": "No data available"
-   },
-   {
-    "name": "DeAndre Hopkins",
-    "overallGrade": {
-     "value": 72.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Tennessee",
-    "production": {
-     "totalPoints": 223.6,
-     "pointsPerGame": 13.2,
-     "overallRank": 55,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 22,
-     "positionPercentile": 91,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 76,
-     "receptions": 75,
-     "targets": 137,
-     "targetsRank": 14,
-     "targetsPercentile": 93,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 17.9,
-     "QBR": 83.2,
-     "passPerGame": 180.4,
-     "rushPerGame": 108.6,
-     "yardsPerGame": 289,
-     "rank": 28,
-     "percentile": 13,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 31,
-    "sleeperPlayerId": "1426"
+    }
    },
    {
     "name": "Keenan Allen",
@@ -7240,9 +4470,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "1479"
+    }
    },
    {
     "name": "Brandin Cooks",
@@ -7294,9 +4522,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2197"
+    }
    },
    {
     "name": "Christian McCaffrey",
@@ -7355,9 +4581,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4034"
+    }
    },
    {
     "name": "Zay Jones",
@@ -7409,9 +4633,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4080"
+    }
    },
    {
     "name": "D'Onta Foreman",
@@ -7470,9 +4692,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4111"
+    }
    },
    {
     "name": "Matthew Stafford",
@@ -7525,9 +4745,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 35,
-    "sleeperPlayerId": "421"
+    }
    },
    {
     "name": "Baker Mayfield",
@@ -7580,9 +4798,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4892"
+    }
    },
    {
     "name": "Mike Gesicki",
@@ -7634,9 +4850,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4993"
+    }
    },
    {
     "name": "Chase Edmonds",
@@ -7695,18 +4909,14 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5000"
+    }
    },
    {
     "name": "Jason Sanders",
-    "sleeperPlayerId": "5119",
     "message": "No data available"
    },
    {
     "name": "Nick Folk",
-    "sleeperPlayerId": "650",
     "message": "No data available"
    },
    {
@@ -7766,13 +4976,10 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7594"
+    }
    },
    {
     "name": "Trey Lance",
-    "sleeperPlayerId": "7610",
     "message": "No data available"
    },
    {
@@ -7825,9 +5032,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8111"
+    }
    },
    {
     "name": "Drake London",
@@ -7879,13 +5084,10 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8112"
+    }
    },
    {
     "name": "Brian Robinson",
-    "sleeperPlayerId": "8154",
     "message": "No data available"
    },
    {
@@ -7938,9 +5140,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8171"
+    }
    },
    {
     "name": "Brandon Johnson",
@@ -7992,9 +5192,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8756"
+    }
    },
    {
     "name": "Zach Evans",
@@ -8053,74 +5251,11 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9222"
+    }
    },
    {
-    "sleeperPlayerId": "SEA",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Zach Evans",
-    "overallGrade": {
-     "value": 31.5,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 1.9,
-     "pointsPerGame": 0.5,
-     "overallRank": 586,
-     "overallPercentile": 17,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 139,
-     "positionPercentile": 15,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 8,
-     "attempts": 9,
-     "attemptsRank": 112,
-     "attemptsPercentile": 19,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 0,
-     "targets": 0,
-     "targetsRank": 147,
-     "targetsPercentile": -6,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9222"
    }
   ]
  },
@@ -8181,473 +5316,9 @@
    "6806",
    "9481"
   ],
-  "full_roster": [
-   {
-    "name": "Justin Herbert",
-    "overallGrade": {
-     "value": 71,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "QB",
-    "team": "L.A. Chargers",
-    "production": {
-     "totalPoints": 240.2,
-     "pointsPerGame": 18.5,
-     "overallRank": 42,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 17,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 96,
-     "completions": 297,
-     "attempts": 456,
-     "attemptsRank": 18,
-     "attemptsPercentile": 76,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "rushingAttempts": 7
-    },
-    "offense": {
-     "pointsPerGame": 20.4,
-     "QBR": 91.8,
-     "passPerGame": 232.8,
-     "rushPerGame": 96.6,
-     "yardsPerGame": 329.4,
-     "rank": 21,
-     "percentile": 34,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6797"
-   },
-   {
-    "name": "Gus Edwards",
-    "overallGrade": {
-     "value": 86,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "RB",
-    "team": "Baltimore",
-    "production": {
-     "totalPoints": 187,
-     "pointsPerGame": 11,
-     "overallRank": 88,
-     "overallPercentile": 88,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 25,
-     "positionPercentile": 85,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 44,
-     "attempts": 198,
-     "attemptsRank": 24,
-     "attemptsPercentile": 83,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "receptions": 12,
-     "targets": 13,
-     "targetsRank": 71,
-     "targetsPercentile": 49,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.4,
-     "QBR": 102.5,
-     "passPerGame": 213.8,
-     "rushPerGame": 156.5,
-     "yardsPerGame": 370.4,
-     "rank": 4,
-     "percentile": 88,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5248"
-   },
-   {
-    "name": "Tony Pollard",
-    "overallGrade": {
-     "value": 93.75,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "RB",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 222.6,
-     "pointsPerGame": 13.1,
-     "overallRank": 57,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 14,
-     "positionPercentile": 91,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 75,
-     "attempts": 252,
-     "attemptsRank": 7,
-     "attemptsPercentile": 95,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 55,
-     "targets": 67,
-     "targetsRank": 11,
-     "targetsPercentile": 92,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5967"
-   },
-   {
-    "name": "Christian Watson",
-    "overallGrade": {
-     "value": 66,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Green Bay",
-    "production": {
-     "totalPoints": 101.3,
-     "pointsPerGame": 11.3,
-     "overallRank": 226,
-     "overallPercentile": 68,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 68,
-     "positionPercentile": 72,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 77,
-     "receptions": 28,
-     "targets": 53,
-     "targetsRank": 79,
-     "targetsPercentile": 61,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.5,
-     "QBR": 96.4,
-     "passPerGame": 233.4,
-     "rushPerGame": 112.1,
-     "yardsPerGame": 345.5,
-     "rank": 12,
-     "percentile": 63,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8167"
-   },
-   {
-    "name": "Jerry Jeudy",
-    "overallGrade": {
-     "value": 69.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Denver",
-    "production": {
-     "totalPoints": 141.8,
-     "pointsPerGame": 8.9,
-     "overallRank": 146,
-     "overallPercentile": 79,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 50,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 70,
-     "receptions": 54,
-     "targets": 87,
-     "targetsRank": 46,
-     "targetsPercentile": 77,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21,
-     "QBR": 96.7,
-     "passPerGame": 191.9,
-     "rushPerGame": 106.5,
-     "yardsPerGame": 298.4,
-     "rank": 19,
-     "percentile": 41,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6783"
-   },
-   {
-    "name": "Evan Engram",
-    "overallGrade": {
-     "value": 86.75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "TE",
-    "team": "Jacksonville",
-    "production": {
-     "totalPoints": 230.3,
-     "pointsPerGame": 13.5,
-     "overallRank": 50,
-     "overallPercentile": 93,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 2,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 84,
-     "receptions": 114,
-     "targets": 143,
-     "targetsRank": 1,
-     "targetsPercentile": 99,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 89.3,
-     "passPerGame": 242.7,
-     "rushPerGame": 96.8,
-     "yardsPerGame": 339.5,
-     "rank": 14,
-     "percentile": 56,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4066"
-   },
-   {
-    "name": "Jameson Williams",
-    "overallGrade": {
-     "value": 67,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Detroit",
-    "production": {
-     "totalPoints": 80.3,
-     "pointsPerGame": 6.7,
-     "overallRank": 259,
-     "overallPercentile": 63,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 82,
-     "positionPercentile": 66,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 53,
-     "receptions": 24,
-     "targets": 42,
-     "targetsRank": 91,
-     "targetsPercentile": 55,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 27.1,
-     "QBR": 98.1,
-     "passPerGame": 258.9,
-     "rushPerGame": 135.9,
-     "yardsPerGame": 394.8,
-     "rank": 5,
-     "percentile": 84,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8148"
-   },
-   {
-    "name": "Bijan Robinson",
-    "overallGrade": {
-     "value": 73.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Atlanta",
-    "production": {
-     "totalPoints": 246.3,
-     "pointsPerGame": 14.5,
-     "overallRank": 39,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 9,
-     "positionPercentile": 94,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 72,
-     "attempts": 214,
-     "attemptsRank": 19,
-     "attemptsPercentile": 86,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "receptions": 58,
-     "targets": 86,
-     "targetsRank": 2,
-     "targetsPercentile": 99,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 18.9,
-     "QBR": 80.5,
-     "passPerGame": 207.3,
-     "rushPerGame": 127,
-     "yardsPerGame": 334.3,
-     "rank": 26,
-     "percentile": 19,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9509"
-   },
+  "rosterWithNames": [
    {
     "name": "Jason Myers",
-    "sleeperPlayerId": "2747",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "DET",
-    "message": "No data available"
-   },
-   {
-    "name": "Jason Myers",
-    "sleeperPlayerId": "2747",
     "message": "No data available"
    },
    {
@@ -8700,9 +5371,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4066"
+    }
    },
    {
     "name": "James Conner",
@@ -8761,9 +5430,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4137"
+    }
    },
    {
     "name": "Kendrick Bourne",
@@ -8815,9 +5482,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4454"
+    }
    },
    {
     "name": "Gus Edwards",
@@ -8876,9 +5541,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5248"
+    }
    },
    {
     "name": "Tony Pollard",
@@ -8937,9 +5600,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5967"
+    }
    },
    {
     "name": "Jerry Jeudy",
@@ -8991,9 +5652,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6783"
+    }
    },
    {
     "name": "Justin Jefferson",
@@ -9045,9 +5704,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6794"
+    }
    },
    {
     "name": "Justin Herbert",
@@ -9100,9 +5757,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6797"
+    }
    },
    {
     "name": "Jordan Love",
@@ -9155,9 +5810,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6804"
+    }
    },
    {
     "name": "J.K. Dobbins",
@@ -9216,9 +5869,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6806"
+    }
    },
    {
     "name": "Kadarius Toney",
@@ -9270,9 +5921,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7606"
+    }
    },
    {
     "name": "Romeo Doubs",
@@ -9324,9 +5973,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8121"
+    }
    },
    {
     "name": "Jameson Williams",
@@ -9378,9 +6025,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8148"
+    }
    },
    {
     "name": "Christian Watson",
@@ -9432,9 +6077,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8167"
+    }
    },
    {
     "name": "Greg Dulcich",
@@ -9486,9 +6129,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8172"
+    }
    },
    {
     "name": "Isiah Pacheco",
@@ -9547,9 +6188,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8205"
+    }
    },
    {
     "name": "Rashid Shaheed",
@@ -9601,9 +6240,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8676"
+    }
    },
    {
     "name": "Luke Musgrave",
@@ -9655,9 +6292,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9481"
+    }
    },
    {
     "name": "Sean Tucker",
@@ -9716,9 +6351,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9506"
+    }
    },
    {
     "name": "Bijan Robinson",
@@ -9777,199 +6410,15 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9509"
+    }
    },
    {
     "name": "DeWayne McBride",
-    "sleeperPlayerId": "9512",
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "DET",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Sean Tucker",
-    "overallGrade": {
-     "value": 28.25,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 5.2,
-     "pointsPerGame": 1,
-     "overallRank": 545,
-     "overallPercentile": 23,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 122,
-     "positionPercentile": 25,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 13,
-     "attempts": 15,
-     "attemptsRank": 102,
-     "attemptsPercentile": 27,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 2,
-     "targets": 2,
-     "targetsRank": 126,
-     "targetsPercentile": 9,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9506"
-   },
-   {
-    "name": "DeWayne McBride",
-    "sleeperPlayerId": "9512",
-    "message": "No data available"
-   },
-   {
-    "name": "J.K. Dobbins",
-    "overallGrade": {
-     "value": 42.75,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Baltimore",
-    "production": {
-     "totalPoints": 11.7,
-     "pointsPerGame": 11.7,
-     "overallRank": 496,
-     "overallPercentile": 30,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 108,
-     "positionPercentile": 34,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 47,
-     "attempts": 8,
-     "attemptsRank": 113,
-     "attemptsPercentile": 19,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 2,
-     "targets": 3,
-     "targetsRank": 114,
-     "targetsPercentile": 18,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.4,
-     "QBR": 102.5,
-     "passPerGame": 213.8,
-     "rushPerGame": 156.5,
-     "yardsPerGame": 370.4,
-     "rank": 4,
-     "percentile": 88,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6806"
-   },
-   {
-    "name": "Luke Musgrave",
-    "overallGrade": {
-     "value": 69.5,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "Green Bay",
-    "production": {
-     "totalPoints": 75.2,
-     "pointsPerGame": 6.8,
-     "overallRank": 269,
-     "overallPercentile": 62,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 31,
-     "positionPercentile": 78,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 72,
-     "receptions": 34,
-     "targets": 46,
-     "targetsRank": 28,
-     "targetsPercentile": 75,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.5,
-     "QBR": 96.4,
-     "passPerGame": 233.4,
-     "rushPerGame": 112.1,
-     "yardsPerGame": 345.5,
-     "rank": 12,
-     "percentile": 63,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9481"
    }
   ]
  },
@@ -10029,463 +6478,7 @@
   "reserve": [
    "4017"
   ],
-  "full_roster": [
-   {
-    "name": "Josh Allen",
-    "overallGrade": {
-     "value": 93.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "QB",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 410.6,
-     "pointsPerGame": 24.2,
-     "overallRank": 1,
-     "overallPercentile": 100,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 1,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 104,
-     "completions": 385,
-     "attempts": 579,
-     "attemptsRank": 5,
-     "attemptsPercentile": 93,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "rushingAttempts": 18
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4984"
-   },
-   {
-    "name": "Breece Hall",
-    "overallGrade": {
-     "value": 74,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "N.Y. Jets",
-    "production": {
-     "totalPoints": 290.5,
-     "pointsPerGame": 17.1,
-     "overallRank": 14,
-     "overallPercentile": 98,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 2,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 64,
-     "attempts": 223,
-     "attemptsRank": 14,
-     "attemptsPercentile": 90,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 76,
-     "targets": 95,
-     "targetsRank": 1,
-     "targetsPercentile": 99,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 15.8,
-     "QBR": 70.5,
-     "passPerGame": 171.7,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 268.6,
-     "rank": 29,
-     "percentile": 9,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8155"
-   },
-   {
-    "name": "D'Andre Swift",
-    "overallGrade": {
-     "value": 86.5,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "RB",
-    "team": "Philadelphia",
-    "production": {
-     "totalPoints": 199.3,
-     "pointsPerGame": 12.5,
-     "overallRank": 80,
-     "overallPercentile": 89,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 20,
-     "positionPercentile": 88,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 58,
-     "attempts": 229,
-     "attemptsRank": 12,
-     "attemptsPercentile": 91,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 39,
-     "targets": 49,
-     "targetsRank": 23,
-     "targetsPercentile": 83,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 25.5,
-     "QBR": 89.2,
-     "passPerGame": 225.5,
-     "rushPerGame": 128.8,
-     "yardsPerGame": 354.4,
-     "rank": 7,
-     "percentile": 78,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6790"
-   },
-   {
-    "name": "A.J. Brown",
-    "overallGrade": {
-     "value": 92.5,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "WR",
-    "team": "Philadelphia",
-    "production": {
-     "totalPoints": 289.6,
-     "pointsPerGame": 17,
-     "overallRank": 15,
-     "overallPercentile": 98,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 5,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 94,
-     "receptions": 106,
-     "targets": 158,
-     "targetsRank": 8,
-     "targetsPercentile": 96,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 25.5,
-     "QBR": 89.2,
-     "passPerGame": 225.5,
-     "rushPerGame": 128.8,
-     "yardsPerGame": 354.4,
-     "rank": 7,
-     "percentile": 78,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5859"
-   },
-   {
-    "name": "Tyreek Hill",
-    "overallGrade": {
-     "value": 97.75,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "position": "WR",
-    "team": "Miami",
-    "production": {
-     "totalPoints": 376.4,
-     "pointsPerGame": 23.5,
-     "overallRank": 4,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 2,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 71,
-     "receptions": 119,
-     "targets": 171,
-     "targetsRank": 3,
-     "targetsPercentile": 99,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.2,
-     "QBR": 101.2,
-     "passPerGame": 265.5,
-     "rushPerGame": 135.8,
-     "yardsPerGame": 401.3,
-     "rank": 2,
-     "percentile": 94,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3321"
-   },
-   {
-    "name": "Sam LaPorta",
-    "overallGrade": {
-     "value": 93.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "TE",
-    "team": "Detroit",
-    "production": {
-     "totalPoints": 239.3,
-     "pointsPerGame": 14.1,
-     "overallRank": 43,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 1,
-     "positionPercentile": 99,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 88,
-     "receptions": 86,
-     "targets": 120,
-     "targetsRank": 5,
-     "targetsPercentile": 96,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 27.1,
-     "QBR": 98.1,
-     "passPerGame": 258.9,
-     "rushPerGame": 135.9,
-     "yardsPerGame": 394.8,
-     "rank": 5,
-     "percentile": 84,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10859"
-   },
-   {
-    "name": "Courtland Sutton",
-    "overallGrade": {
-     "value": 73.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Denver",
-    "production": {
-     "totalPoints": 190.2,
-     "pointsPerGame": 11.9,
-     "overallRank": 86,
-     "overallPercentile": 88,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 35,
-     "positionPercentile": 86,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 83,
-     "receptions": 59,
-     "targets": 90,
-     "targetsRank": 43,
-     "targetsPercentile": 79,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21,
-     "QBR": 96.7,
-     "passPerGame": 191.9,
-     "rushPerGame": 106.5,
-     "yardsPerGame": 298.4,
-     "rank": 19,
-     "percentile": 41,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5045"
-   },
-   {
-    "name": "Gerald Everett",
-    "overallGrade": {
-     "value": 68,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "L.A. Chargers",
-    "production": {
-     "totalPoints": 111.1,
-     "pointsPerGame": 7.4,
-     "overallRank": 207,
-     "overallPercentile": 71,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 23,
-     "positionPercentile": 84,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 61,
-     "receptions": 51,
-     "targets": 70,
-     "targetsRank": 19,
-     "targetsPercentile": 83,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.4,
-     "QBR": 91.8,
-     "passPerGame": 232.8,
-     "rushPerGame": 96.6,
-     "yardsPerGame": 329.4,
-     "rank": 21,
-     "percentile": 34,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4089"
-   },
-   {
-    "name": "Harrison Butker",
-    "sleeperPlayerId": "4227",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "JAX",
-    "message": "No data available"
-   },
+  "rosterWithNames": [
    {
     "name": "Cedric Tillman",
     "overallGrade": {
@@ -10536,9 +6529,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10444"
+    }
    },
    {
     "name": "Sam LaPorta",
@@ -10590,9 +6581,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10859"
+    }
    },
    {
     "name": "Michael Thomas",
@@ -10644,9 +6633,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3199"
+    }
    },
    {
     "name": "Hunter Henry",
@@ -10698,9 +6685,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3214"
+    }
    },
    {
     "name": "Tyreek Hill",
@@ -10752,9 +6737,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3321"
+    }
    },
    {
     "name": "Deshaun Watson",
@@ -10807,9 +6790,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4017"
+    }
    },
    {
     "name": "Gerald Everett",
@@ -10861,23 +6842,18 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4089"
+    }
    },
    {
     "name": "Harrison Butker",
-    "sleeperPlayerId": "4227",
     "message": "No data available"
    },
    {
     "name": "Younghoe Koo",
-    "sleeperPlayerId": "4666",
     "message": "No data available"
    },
    {
     "name": "DJ Chark",
-    "sleeperPlayerId": "4951",
     "message": "No data available"
    },
    {
@@ -10931,9 +6907,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4984"
+    }
    },
    {
     "name": "Courtland Sutton",
@@ -10985,9 +6959,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5045"
+    }
    },
    {
     "name": "Marquise Brown",
@@ -11039,9 +7011,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5848"
+    }
    },
    {
     "name": "A.J. Brown",
@@ -11093,9 +7063,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5859"
+    }
    },
    {
     "name": "Miles Sanders",
@@ -11154,9 +7122,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "6151"
+    }
    },
    {
     "name": "D'Andre Swift",
@@ -11215,9 +7181,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6790"
+    }
    },
    {
     "name": "Cole Kmet",
@@ -11269,9 +7233,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6826"
+    }
    },
    {
     "name": "George Pickens",
@@ -11323,9 +7285,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8137"
+    }
    },
    {
     "name": "Zamir White",
@@ -11384,9 +7344,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8139"
+    }
    },
    {
     "name": "Breece Hall",
@@ -11445,9 +7403,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "8155"
+    }
    },
    {
     "name": "Kenny Pickett",
@@ -11500,9 +7456,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8160"
+    }
    },
    {
     "name": "Kendre Miller",
@@ -11561,183 +7515,11 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9757"
+    }
    },
    {
-    "sleeperPlayerId": "JAX",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Cedric Tillman",
-    "overallGrade": {
-     "value": 56.25,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "WR",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 44.2,
-     "pointsPerGame": 3.7,
-     "overallRank": 346,
-     "overallPercentile": 51,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 118,
-     "positionPercentile": 52,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 64,
-     "receptions": 21,
-     "targets": 44,
-     "targetsRank": 89,
-     "targetsPercentile": 56,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10444"
-   },
-   {
-    "name": "Zamir White",
-    "overallGrade": {
-     "value": 55.75,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Las Vegas",
-    "production": {
-     "totalPoints": 73.9,
-     "pointsPerGame": 5.3,
-     "overallRank": 271,
-     "overallPercentile": 62,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 56,
-     "positionPercentile": 66,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 27,
-     "attempts": 104,
-     "attemptsRank": 46,
-     "attemptsPercentile": 67,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 15,
-     "targets": 19,
-     "targetsRank": 61,
-     "targetsPercentile": 56,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 19.5,
-     "QBR": 80.1,
-     "passPerGame": 198.8,
-     "rushPerGame": 90.7,
-     "yardsPerGame": 289.5,
-     "rank": 23,
-     "percentile": 28,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8139"
-   },
-   {
-    "name": "Deshaun Watson",
-    "overallGrade": {
-     "value": 60.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "QB",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 90.8,
-     "pointsPerGame": 15.1,
-     "overallRank": 243,
-     "overallPercentile": 66,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 35,
-     "positionPercentile": 60,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 84,
-     "completions": 105,
-     "attempts": 171,
-     "attemptsRank": 39,
-     "attemptsPercentile": 49,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "rushingAttempts": 4
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4017"
    }
   ]
  },
@@ -11792,346 +7574,7 @@
   "reserve": [
    "9229"
   ],
-  "full_roster": [
-   {
-    "name": "Derek Carr",
-    "overallGrade": {
-     "value": 84,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "QB",
-    "team": "New Orleans",
-    "production": {
-     "totalPoints": 249.1,
-     "pointsPerGame": 14.7,
-     "overallRank": 37,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 16,
-     "positionPercentile": 82,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 90,
-     "completions": 375,
-     "attempts": 548,
-     "attemptsRank": 10,
-     "attemptsPercentile": 87,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "rushingAttempts": 8
-    },
-    "offense": {
-     "pointsPerGame": 23.6,
-     "QBR": 94.8,
-     "passPerGame": 234.7,
-     "rushPerGame": 102.5,
-     "yardsPerGame": 337.2,
-     "rank": 9,
-     "percentile": 72,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 32,
-    "sleeperPlayerId": "2028"
-   },
-   {
-    "name": "Najee Harris",
-    "overallGrade": {
-     "value": 71.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Pittsburgh",
-    "production": {
-     "totalPoints": 195.5,
-     "pointsPerGame": 11.5,
-     "overallRank": 84,
-     "overallPercentile": 88,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 23,
-     "positionPercentile": 86,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 56,
-     "attempts": 255,
-     "attemptsRank": 6,
-     "attemptsPercentile": 96,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "receptions": 29,
-     "targets": 38,
-     "targetsRank": 33,
-     "targetsPercentile": 76,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 17.9,
-     "QBR": 84.6,
-     "passPerGame": 186.1,
-     "rushPerGame": 118.2,
-     "yardsPerGame": 304.3,
-     "rank": 27,
-     "percentile": 16,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7528"
-   },
-   {
-    "name": "Latavius Murray",
-    "overallGrade": {
-     "value": 68.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "RB",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 82.9,
-     "pointsPerGame": 5.2,
-     "overallRank": 256,
-     "overallPercentile": 64,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 54,
-     "positionPercentile": 67,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 32,
-     "attempts": 79,
-     "attemptsRank": 54,
-     "attemptsPercentile": 61,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 17,
-     "targets": 22,
-     "targetsRank": 55,
-     "targetsPercentile": 60,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 34,
-    "sleeperPlayerId": "1476"
-   },
-   {
-    "name": "Chris Godwin",
-    "overallGrade": {
-     "value": 77,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 209.2,
-     "pointsPerGame": 12.3,
-     "overallRank": 68,
-     "overallPercentile": 90,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 28,
-     "positionPercentile": 89,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 86,
-     "receptions": 83,
-     "targets": 130,
-     "targetsRank": 19,
-     "targetsPercentile": 91,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4037"
-   },
-   {
-    "name": "Elijah Moore",
-    "overallGrade": {
-     "value": 76.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Cleveland",
-    "production": {
-     "totalPoints": 132.1,
-     "pointsPerGame": 7.8,
-     "overallRank": 166,
-     "overallPercentile": 77,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 54,
-     "positionPercentile": 78,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 76,
-     "receptions": 59,
-     "targets": 104,
-     "targetsRank": 32,
-     "targetsPercentile": 84,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 73.7,
-     "passPerGame": 217.2,
-     "rushPerGame": 118.6,
-     "yardsPerGame": 335.9,
-     "rank": 11,
-     "percentile": 66,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7596"
-   },
-   {
-    "name": "Dallas Goedert",
-    "overallGrade": {
-     "value": 83.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "TE",
-    "team": "Philadelphia",
-    "production": {
-     "totalPoints": 136.3,
-     "pointsPerGame": 9.7,
-     "overallRank": 154,
-     "overallPercentile": 78,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 14,
-     "positionPercentile": 90,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 91,
-     "receptions": 59,
-     "targets": 83,
-     "targetsRank": 14,
-     "targetsPercentile": 88,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 25.5,
-     "QBR": 89.2,
-     "passPerGame": 225.5,
-     "rushPerGame": 128.8,
-     "yardsPerGame": 354.4,
-     "rank": 7,
-     "percentile": 78,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "5022"
-   },
+  "rosterWithNames": [
    {
     "name": "Rashee Rice",
     "overallGrade": {
@@ -12182,126 +7625,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10229"
-   },
-   {
-    "name": "Gabe Davis",
-    "overallGrade": {
-     "value": 81,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 161.4,
-     "pointsPerGame": 9.5,
-     "overallRank": 108,
-     "overallPercentile": 85,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 41,
-     "positionPercentile": 83,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 89,
-     "receptions": 45,
-     "targets": 81,
-     "targetsRank": 51,
-     "targetsPercentile": 75,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6943"
-   },
-   {
-    "name": "Jake Elliott",
-    "sleeperPlayerId": "4195",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "HOU",
-    "message": "No data available"
-   },
-   {
-    "name": "Rashee Rice",
-    "overallGrade": {
-     "value": 79.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Kansas City",
-    "production": {
-     "totalPoints": 212.5,
-     "pointsPerGame": 13.3,
-     "overallRank": 65,
-     "overallPercentile": 91,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 27,
-     "positionPercentile": 89,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 58,
-     "receptions": 79,
-     "targets": 102,
-     "targetsRank": 33,
-     "targetsPercentile": 84,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.8,
-     "QBR": 89.6,
-     "passPerGame": 246.4,
-     "rushPerGame": 104.9,
-     "yardsPerGame": 351.3,
-     "rank": 15,
-     "percentile": 53,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10229"
+    }
    },
    {
     "name": "Russell Wilson",
@@ -12354,9 +7678,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 35,
-    "sleeperPlayerId": "1234"
+    }
    },
    {
     "name": "Latavius Murray",
@@ -12415,9 +7737,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 34,
-    "sleeperPlayerId": "1476"
+    }
    },
    {
     "name": "Derek Carr",
@@ -12470,9 +7790,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 32,
-    "sleeperPlayerId": "2028"
+    }
    },
    {
     "name": "Chris Godwin",
@@ -12524,13 +7842,10 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4037"
+    }
    },
    {
     "name": "Jake Elliott",
-    "sleeperPlayerId": "4195",
     "message": "No data available"
    },
    {
@@ -12583,9 +7898,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "5022"
+    }
    },
    {
     "name": "Michael Gallup",
@@ -12637,9 +7950,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5038"
+    }
    },
    {
     "name": "Braxton Berrios",
@@ -12691,9 +8002,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5121"
+    }
    },
    {
     "name": "Tyler Conklin",
@@ -12745,9 +8054,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "5133"
+    }
    },
    {
     "name": "Jakobi Meyers",
@@ -12799,9 +8106,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5947"
+    }
    },
    {
     "name": "Clyde Edwards-Helaire",
@@ -12860,9 +8165,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6820"
+    }
    },
    {
     "name": "Gabe Davis",
@@ -12914,9 +8217,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6943"
+    }
    },
    {
     "name": "Najee Harris",
@@ -12975,9 +8276,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7528"
+    }
    },
    {
     "name": "Elijah Moore",
@@ -13029,9 +8328,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7596"
+    }
    },
    {
     "name": "Rhamondre Stevenson",
@@ -13090,9 +8387,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7611"
+    }
    },
    {
     "name": "Dameon Pierce",
@@ -13151,9 +8446,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8129"
+    }
    },
    {
     "name": "Anthony Richardson",
@@ -13206,9 +8499,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9229"
+    }
    },
    {
     "name": "Josh Downs",
@@ -13260,72 +8551,15 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9500"
+    }
    },
    {
-    "sleeperPlayerId": "HOU",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "MIA",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Anthony Richardson",
-    "overallGrade": {
-     "value": 55.25,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "QB",
-    "team": "Indianapolis",
-    "production": {
-     "totalPoints": 73.7,
-     "pointsPerGame": 18.4,
-     "overallRank": 272,
-     "overallPercentile": 62,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 40,
-     "positionPercentile": 54,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 67,
-     "completions": 50,
-     "attempts": 84,
-     "attemptsRank": 49,
-     "attemptsPercentile": 36,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "rushingAttempts": 1
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 85,
-     "passPerGame": 215.6,
-     "rushPerGame": 121.1,
-     "yardsPerGame": 336.8,
-     "rank": 10,
-     "percentile": 69,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9229"
    }
   ]
  },
@@ -13383,292 +8617,7 @@
   "reserve": [
    "4950"
   ],
-  "full_roster": [
-   {
-    "name": "Jalen Hurts",
-    "overallGrade": {
-     "value": 90.25,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "QB",
-    "team": "Philadelphia",
-    "production": {
-     "totalPoints": 371.8,
-     "pointsPerGame": 21.9,
-     "overallRank": 5,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 2,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 102,
-     "completions": 352,
-     "attempts": 538,
-     "attemptsRank": 11,
-     "attemptsPercentile": 86,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "rushingAttempts": 15
-    },
-    "offense": {
-     "pointsPerGame": 25.5,
-     "QBR": 89.2,
-     "passPerGame": 225.5,
-     "rushPerGame": 128.8,
-     "yardsPerGame": 354.4,
-     "rank": 7,
-     "percentile": 78,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6904"
-   },
-   {
-    "name": "Kyren Williams",
-    "overallGrade": {
-     "value": 89.25,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "RB",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 255,
-     "pointsPerGame": 21.3,
-     "overallRank": 33,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 7,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 82,
-     "attempts": 228,
-     "attemptsRank": 13,
-     "attemptsPercentile": 91,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 32,
-     "targets": 48,
-     "targetsRank": 24,
-     "targetsPercentile": 83,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8150"
-   },
-   {
-    "name": "Jonathan Taylor",
-    "overallGrade": {
-     "value": 77.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "RB",
-    "team": "Indianapolis",
-    "production": {
-     "totalPoints": 156.4,
-     "pointsPerGame": 15.6,
-     "overallRank": 116,
-     "overallPercentile": 84,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 33,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 64,
-     "attempts": 169,
-     "attemptsRank": 34,
-     "attemptsPercentile": 76,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "receptions": 19,
-     "targets": 23,
-     "targetsRank": 51,
-     "targetsPercentile": 63,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.3,
-     "QBR": 85,
-     "passPerGame": 215.6,
-     "rushPerGame": 121.1,
-     "yardsPerGame": 336.8,
-     "rank": 10,
-     "percentile": 69,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6813"
-   },
-   {
-    "name": "Mike Evans",
-    "overallGrade": {
-     "value": 81,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 282.5,
-     "pointsPerGame": 16.6,
-     "overallRank": 19,
-     "overallPercentile": 97,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 7,
-     "positionPercentile": 97,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 83,
-     "receptions": 79,
-     "targets": 136,
-     "targetsRank": 16,
-     "targetsPercentile": 92,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2216"
-   },
-   {
-    "name": "Garrett Wilson",
-    "overallGrade": {
-     "value": 71.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "N.Y. Jets",
-    "production": {
-     "totalPoints": 213.2,
-     "pointsPerGame": 12.5,
-     "overallRank": 64,
-     "overallPercentile": 91,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 26,
-     "positionPercentile": 89,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 97,
-     "receptions": 95,
-     "targets": 168,
-     "targetsRank": 4,
-     "targetsPercentile": 98,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 15.8,
-     "QBR": 70.5,
-     "passPerGame": 171.7,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 268.6,
-     "rank": 29,
-     "percentile": 9,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8146"
-   },
+  "rosterWithNames": [
    {
     "name": "Dalton Kincaid",
     "overallGrade": {
@@ -13719,198 +8668,10 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "10236"
-   },
-   {
-    "name": "Ezekiel Elliott",
-    "overallGrade": {
-     "value": 63,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "RB",
-    "team": "New England",
-    "production": {
-     "totalPoints": 174.5,
-     "pointsPerGame": 10.3,
-     "overallRank": 98,
-     "overallPercentile": 86,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 30,
-     "positionPercentile": 82,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 54,
-     "attempts": 184,
-     "attemptsRank": 26,
-     "attemptsPercentile": 81,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "receptions": 51,
-     "targets": 65,
-     "targetsRank": 12,
-     "targetsPercentile": 91,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 13.9,
-     "QBR": 73.8,
-     "passPerGame": 180.5,
-     "rushPerGame": 95.7,
-     "yardsPerGame": 276.2,
-     "rank": 31,
-     "percentile": 3,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "3164"
-   },
-   {
-    "name": "Ty Chandler",
-    "overallGrade": {
-     "value": 58.75,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Minnesota",
-    "production": {
-     "totalPoints": 101,
-     "pointsPerGame": 6.3,
-     "overallRank": 228,
-     "overallPercentile": 68,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 48,
-     "positionPercentile": 71,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 39,
-     "attempts": 102,
-     "attemptsRank": 48,
-     "attemptsPercentile": 65,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 21,
-     "targets": 25,
-     "targetsRank": 48,
-     "targetsPercentile": 65,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.2,
-     "QBR": 92.4,
-     "passPerGame": 256.4,
-     "rushPerGame": 91.4,
-     "yardsPerGame": 347.8,
-     "rank": 22,
-     "percentile": 31,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8230"
+    }
    },
    {
     "name": "Jake Moody",
-    "sleeperPlayerId": "10937",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "BUF",
-    "message": "No data available"
-   },
-   {
-    "name": "Dalton Kincaid",
-    "overallGrade": {
-     "value": 86.75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "TE",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 150.3,
-     "pointsPerGame": 9.4,
-     "overallRank": 132,
-     "overallPercentile": 81,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 11,
-     "positionPercentile": 92,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 68,
-     "receptions": 73,
-     "targets": 91,
-     "targetsRank": 8,
-     "targetsPercentile": 93,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "10236"
-   },
-   {
-    "name": "Jake Moody",
-    "sleeperPlayerId": "10937",
     "message": "No data available"
    },
    {
@@ -13963,9 +8724,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "2216"
+    }
    },
    {
     "name": "Logan Thomas",
@@ -14017,9 +8776,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 32,
-    "sleeperPlayerId": "2251"
+    }
    },
    {
     "name": "Amari Cooper",
@@ -14071,9 +8828,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "2309"
+    }
    },
    {
     "name": "Tyler Lockett",
@@ -14125,9 +8880,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2374"
+    }
    },
    {
     "name": "Ezekiel Elliott",
@@ -14186,9 +8939,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "3164"
+    }
    },
    {
     "name": "Tyler Boyd",
@@ -14240,9 +8991,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3225"
+    }
    },
    {
     "name": "Demarcus Robinson",
@@ -14294,9 +9043,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "3286"
+    }
    },
    {
     "name": "Christian Kirk",
@@ -14348,9 +9095,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4950"
+    }
    },
    {
     "name": "Dawson Knox",
@@ -14402,9 +9147,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5906"
+    }
    },
    {
     "name": "Tua Tagovailoa",
@@ -14457,9 +9200,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6768"
+    }
    },
    {
     "name": "Jonathan Taylor",
@@ -14518,9 +9259,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6813"
+    }
    },
    {
     "name": "Jalen Hurts",
@@ -14573,9 +9312,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6904"
+    }
    },
    {
     "name": "Tyler Allgeier",
@@ -14634,9 +9371,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8132"
+    }
    },
    {
     "name": "Garrett Wilson",
@@ -14688,9 +9423,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8146"
+    }
    },
    {
     "name": "Kyren Williams",
@@ -14749,9 +9482,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8150"
+    }
    },
    {
     "name": "Ty Chandler",
@@ -14810,9 +9541,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8230"
+    }
    },
    {
     "name": "Chase Brown",
@@ -14871,136 +9600,19 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9224"
+    }
    },
    {
-    "sleeperPlayerId": "BUF",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "KC",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "LAR",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Chase Brown",
-    "overallGrade": {
-     "value": 53.5,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Cincinnati",
-    "production": {
-     "totalPoints": 53.5,
-     "pointsPerGame": 4.5,
-     "overallRank": 321,
-     "overallPercentile": 55,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 63,
-     "positionPercentile": 61,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 14,
-     "attempts": 44,
-     "attemptsRank": 72,
-     "attemptsPercentile": 48,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 14,
-     "targets": 15,
-     "targetsRank": 69,
-     "targetsPercentile": 50,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.5,
-     "QBR": 93,
-     "passPerGame": 229.1,
-     "rushPerGame": 89.8,
-     "yardsPerGame": 318.9,
-     "rank": 16,
-     "percentile": 50,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9224"
-   },
-   {
-    "name": "Christian Kirk",
-    "overallGrade": {
-     "value": 73.75,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Jacksonville",
-    "production": {
-     "totalPoints": 150.3,
-     "pointsPerGame": 12.5,
-     "overallRank": 133,
-     "overallPercentile": 81,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 47,
-     "positionPercentile": 81,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 71,
-     "receptions": 57,
-     "targets": 85,
-     "targetsRank": 47,
-     "targetsPercentile": 77,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 89.3,
-     "passPerGame": 242.7,
-     "rushPerGame": 96.8,
-     "yardsPerGame": 339.5,
-     "rank": 14,
-     "percentile": 56,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4950"
    }
   ]
  },
@@ -15025,7 +9637,8 @@
    "9484",
    "4983",
    "7569",
-   "8259"
+   "8259",
+   "0"
   ],
   "players": [
    "10219",
@@ -15061,462 +9674,9 @@
    "4068",
    "5844"
   ],
-  "full_roster": [
-   {
-    "name": "Kyler Murray",
-    "overallGrade": {
-     "value": 59.5,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "QB",
-    "team": "Arizona",
-    "production": {
-     "totalPoints": 151.4,
-     "pointsPerGame": 18.9,
-     "overallRank": 128,
-     "overallPercentile": 82,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 26,
-     "positionPercentile": 70,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 113,
-     "completions": 176,
-     "attempts": 268,
-     "attemptsRank": 30,
-     "attemptsPercentile": 61,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "rushingAttempts": 5
-    },
-    "offense": {
-     "pointsPerGame": 19.4,
-     "QBR": 82.9,
-     "passPerGame": 184.9,
-     "rushPerGame": 139.1,
-     "yardsPerGame": 324.1,
-     "rank": 24,
-     "percentile": 25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5849"
-   },
-   {
-    "name": "Joe Mixon",
-    "overallGrade": {
-     "value": 84.5,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "RB",
-    "team": "Cincinnati",
-    "production": {
-     "totalPoints": 267,
-     "pointsPerGame": 15.7,
-     "overallRank": 28,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 6,
-     "positionPercentile": 96,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 73,
-     "attempts": 257,
-     "attemptsRank": 5,
-     "attemptsPercentile": 96,
-     "attemptsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "receptions": 52,
-     "targets": 64,
-     "targetsRank": 13,
-     "targetsPercentile": 91,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.5,
-     "QBR": 93,
-     "passPerGame": 229.1,
-     "rushPerGame": 89.8,
-     "yardsPerGame": 318.9,
-     "rank": 16,
-     "percentile": 50,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4018"
-   },
-   {
-    "name": "Roschon Johnson",
-    "overallGrade": {
-     "value": 61.5,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "RB",
-    "team": "Chicago",
-    "production": {
-     "totalPoints": 102.1,
-     "pointsPerGame": 6.8,
-     "overallRank": 222,
-     "overallPercentile": 69,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 47,
-     "positionPercentile": 71,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 41,
-     "attempts": 81,
-     "attemptsRank": 53,
-     "attemptsPercentile": 62,
-     "attemptsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "receptions": 34,
-     "targets": 40,
-     "targetsRank": 31,
-     "targetsPercentile": 78,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.2,
-     "QBR": 82.2,
-     "passPerGame": 182.1,
-     "rushPerGame": 141.1,
-     "yardsPerGame": 323.2,
-     "rank": 18,
-     "percentile": 44,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "10235"
-   },
-   {
-    "name": "Tee Higgins",
-    "overallGrade": {
-     "value": 70.25,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "WR",
-    "team": "Cincinnati",
-    "production": {
-     "totalPoints": 137.6,
-     "pointsPerGame": 11.5,
-     "overallRank": 151,
-     "overallPercentile": 79,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 51,
-     "positionPercentile": 79,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 74,
-     "receptions": 42,
-     "targets": 76,
-     "targetsRank": 55,
-     "targetsPercentile": 73,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.5,
-     "QBR": 93,
-     "passPerGame": 229.1,
-     "rushPerGame": 89.8,
-     "yardsPerGame": 318.9,
-     "rank": 16,
-     "percentile": 50,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6801"
-   },
-   {
-    "name": "Puka Nacua",
-    "overallGrade": {
-     "value": 92,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "WR",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 298.5,
-     "pointsPerGame": 17.6,
-     "overallRank": 12,
-     "overallPercentile": 98,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 4,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 93,
-     "receptions": 105,
-     "targets": 160,
-     "targetsRank": 6,
-     "targetsPercentile": 97,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9493"
-   },
-   {
-    "name": "Tucker Kraft",
-    "overallGrade": {
-     "value": 68.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "Green Bay",
-    "production": {
-     "totalPoints": 78.5,
-     "pointsPerGame": 5.6,
-     "overallRank": 263,
-     "overallPercentile": 63,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 29,
-     "positionPercentile": 80,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 60,
-     "receptions": 31,
-     "targets": 40,
-     "targetsRank": 37,
-     "targetsPercentile": 67,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.5,
-     "QBR": 96.4,
-     "passPerGame": 233.4,
-     "rushPerGame": 112.1,
-     "yardsPerGame": 345.5,
-     "rank": 12,
-     "percentile": 63,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9484"
-   },
-   {
-    "name": "DJ Moore",
-    "overallGrade": {
-     "value": 83.25,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Chicago",
-    "production": {
-     "totalPoints": 286.5,
-     "pointsPerGame": 16.9,
-     "overallRank": 16,
-     "overallPercentile": 98,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 6,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 94,
-     "receptions": 96,
-     "targets": 136,
-     "targetsRank": 15,
-     "targetsPercentile": 93,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.2,
-     "QBR": 82.2,
-     "passPerGame": 182.1,
-     "rushPerGame": 141.1,
-     "yardsPerGame": 323.2,
-     "rank": 18,
-     "percentile": 44,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "4983"
-   },
-   {
-    "name": "Nico Collins",
-    "overallGrade": {
-     "value": 84.25,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Houston",
-    "production": {
-     "totalPoints": 260.4,
-     "pointsPerGame": 17.4,
-     "overallRank": 32,
-     "overallPercentile": 95,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 12,
-     "positionPercentile": 95,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 72,
-     "receptions": 80,
-     "targets": 109,
-     "targetsRank": 25,
-     "targetsPercentile": 88,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 96.2,
-     "passPerGame": 245.5,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 342.4,
-     "rank": 13,
-     "percentile": 59,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7569"
-   },
-   {
-    "name": "Cameron Dicker",
-    "sleeperPlayerId": "8259",
-    "message": "No data available"
-   },
+  "rosterWithNames": [
    {
     "name": "Chris Rodriguez",
-    "sleeperPlayerId": "10219",
     "message": "No data available"
    },
    {
@@ -15569,9 +9729,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "10232"
+    }
    },
    {
     "name": "Roschon Johnson",
@@ -15630,13 +9788,10 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "10235"
+    }
    },
    {
     "name": "Deneric Prince",
-    "sleeperPlayerId": "10870",
     "message": "No data available"
    },
    {
@@ -15696,9 +9851,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "4018"
+    }
    },
    {
     "name": "Dalvin Cook",
@@ -15757,9 +9910,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4029"
+    }
    },
    {
     "name": "Mike Williams",
@@ -15811,9 +9962,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4068"
+    }
    },
    {
     "name": "DJ Moore",
@@ -15865,9 +10014,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "4983"
+    }
    },
    {
     "name": "T.J. Hockenson",
@@ -15919,9 +10066,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5844"
+    }
    },
    {
     "name": "Kyler Murray",
@@ -15974,9 +10119,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5849"
+    }
    },
    {
     "name": "Diontae Johnson",
@@ -16028,9 +10171,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "5937"
+    }
    },
    {
     "name": "Alexander Mattison",
@@ -16089,9 +10230,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "5987"
+    }
    },
    {
     "name": "Tee Higgins",
@@ -16143,9 +10282,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "6801"
+    }
    },
    {
     "name": "Cam Akers",
@@ -16204,9 +10341,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6938"
+    }
    },
    {
     "name": "Rico Dowdle",
@@ -16265,9 +10400,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7021"
+    }
    },
    {
     "name": "Elijah Mitchell",
@@ -16326,9 +10459,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7561"
+    }
    },
    {
     "name": "Kenneth Gainwell",
@@ -16387,9 +10518,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7567"
+    }
    },
    {
     "name": "Nico Collins",
@@ -16441,13 +10570,10 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7569"
+    }
    },
    {
     "name": "Cameron Dicker",
-    "sleeperPlayerId": "8259",
     "message": "No data available"
    },
    {
@@ -16500,9 +10626,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9484"
+    }
    },
    {
     "name": "Dontayvion Wicks",
@@ -16554,9 +10678,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9486"
+    }
    },
    {
     "name": "Puka Nacua",
@@ -16608,9 +10730,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9493"
+    }
    },
    {
     "name": "Demario Douglas",
@@ -16662,9 +10782,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9501"
+    }
    },
    {
     "name": "Keaton Mitchell",
@@ -16723,127 +10841,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9511"
-   },
-   {
-    "name": "Chris Rodriguez",
-    "sleeperPlayerId": "10219",
-    "message": "No data available"
-   },
-   {
-    "name": "Deneric Prince",
-    "sleeperPlayerId": "10870",
-    "message": "No data available"
-   },
-   {
-    "name": "Mike Williams",
-    "overallGrade": {
-     "value": 45.75,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "WR",
-    "team": "L.A. Chargers",
-    "production": {
-     "totalPoints": 50.2,
-     "pointsPerGame": 16.7,
-     "overallRank": 331,
-     "overallPercentile": 53,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 112,
-     "positionPercentile": 54,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 78,
-     "receptions": 19,
-     "targets": 26,
-     "targetsRank": 118,
-     "targetsPercentile": 42,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.4,
-     "QBR": 91.8,
-     "passPerGame": 232.8,
-     "rushPerGame": 96.6,
-     "yardsPerGame": 329.4,
-     "rank": 21,
-     "percentile": 34,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4068"
-   },
-   {
-    "name": "T.J. Hockenson",
-    "overallGrade": {
-     "value": 79.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "TE",
-    "team": "Minnesota",
-    "production": {
-     "totalPoints": 219,
-     "pointsPerGame": 14.6,
-     "overallRank": 60,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 4,
-     "positionPercentile": 97,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 79,
-     "receptions": 95,
-     "targets": 127,
-     "targetsRank": 2,
-     "targetsPercentile": 98,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.2,
-     "QBR": 92.4,
-     "passPerGame": 256.4,
-     "rushPerGame": 91.4,
-     "yardsPerGame": 347.8,
-     "rank": 22,
-     "percentile": 31,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5844"
+    }
    }
   ]
  },
@@ -16900,7 +10898,63 @@
    "9505"
   ],
   "reserve": [],
-  "full_roster": [
+  "rosterWithNames": [
+   {
+    "name": "Brandon Aubrey",
+    "message": "No data available"
+   },
+   {
+    "name": "Travis Kelce",
+    "overallGrade": {
+     "value": 84.75,
+     "grade": {
+      "letter": "B",
+      "description": "Above Average"
+     }
+    },
+    "position": "TE",
+    "team": "Kansas City",
+    "production": {
+     "totalPoints": 219.4,
+     "pointsPerGame": 14.6,
+     "overallRank": 59,
+     "overallPercentile": 92,
+     "overallGrade": {
+      "letter": "A",
+      "description": "Great"
+     },
+     "positionRank": 3,
+     "positionPercentile": 98,
+     "positionGrade": {
+      "letter": "A+",
+      "description": "Elite"
+     }
+    },
+    "opportunity": {
+     "snapPercentage": 77,
+     "receptions": 93,
+     "targets": 121,
+     "targetsRank": 4,
+     "targetsPercentile": 96,
+     "targetsGrade": {
+      "letter": "A+",
+      "description": "Elite"
+     }
+    },
+    "offense": {
+     "pointsPerGame": 21.8,
+     "QBR": 89.6,
+     "passPerGame": 246.4,
+     "rushPerGame": 104.9,
+     "yardsPerGame": 351.3,
+     "rank": 15,
+     "percentile": 53,
+     "grade": {
+      "letter": "C",
+      "description": "Average"
+     }
+    }
+   },
    {
     "name": "Dak Prescott",
     "overallGrade": {
@@ -16952,9 +11006,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3294"
+    }
    },
    {
     "name": "Alvin Kamara",
@@ -17013,524 +11065,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4035"
-   },
-   {
-    "name": "James Cook",
-    "overallGrade": {
-     "value": 90,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "position": "RB",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 232.7,
-     "pointsPerGame": 13.7,
-     "overallRank": 47,
-     "overallPercentile": 93,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 12,
-     "positionPercentile": 93,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 58,
-     "attempts": 237,
-     "attemptsRank": 10,
-     "attemptsPercentile": 93,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "receptions": 44,
-     "targets": 54,
-     "targetsRank": 19,
-     "targetsPercentile": 86,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8138"
-   },
-   {
-    "name": "Chris Olave",
-    "overallGrade": {
-     "value": 88,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "WR",
-    "team": "New Orleans",
-    "production": {
-     "totalPoints": 231.3,
-     "pointsPerGame": 14.5,
-     "overallRank": 48,
-     "overallPercentile": 93,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 16,
-     "positionPercentile": 93,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 79,
-     "receptions": 87,
-     "targets": 138,
-     "targetsRank": 12,
-     "targetsPercentile": 94,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.6,
-     "QBR": 94.8,
-     "passPerGame": 234.7,
-     "rushPerGame": 102.5,
-     "yardsPerGame": 337.2,
-     "rank": 9,
-     "percentile": 72,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8144"
-   },
-   {
-    "name": "CeeDee Lamb",
-    "overallGrade": {
-     "value": 99.25,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "position": "WR",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 403.2,
-     "pointsPerGame": 23.7,
-     "overallRank": 2,
-     "overallPercentile": 100,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 1,
-     "positionPercentile": 100,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 89,
-     "receptions": 135,
-     "targets": 181,
-     "targetsRank": 1,
-     "targetsPercentile": 100,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6786"
-   },
-   {
-    "name": "Travis Kelce",
-    "overallGrade": {
-     "value": 84.75,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "TE",
-    "team": "Kansas City",
-    "production": {
-     "totalPoints": 219.4,
-     "pointsPerGame": 14.6,
-     "overallRank": 59,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 3,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 77,
-     "receptions": 93,
-     "targets": 121,
-     "targetsRank": 4,
-     "targetsPercentile": 96,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.8,
-     "QBR": 89.6,
-     "passPerGame": 246.4,
-     "rushPerGame": 104.9,
-     "yardsPerGame": 351.3,
-     "rank": 15,
-     "percentile": 53,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 34,
-    "sleeperPlayerId": "1466"
-   },
-   {
-    "name": "Trey McBride",
-    "overallGrade": {
-     "value": 75.5,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "position": "TE",
-    "team": "Arizona",
-    "production": {
-     "totalPoints": 181.5,
-     "pointsPerGame": 10.7,
-     "overallRank": 91,
-     "overallPercentile": 87,
-     "overallGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "positionRank": 7,
-     "positionPercentile": 95,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 74,
-     "receptions": 81,
-     "targets": 106,
-     "targetsRank": 6,
-     "targetsPercentile": 95,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 19.4,
-     "QBR": 82.9,
-     "passPerGame": 184.9,
-     "rushPerGame": 139.1,
-     "yardsPerGame": 324.1,
-     "rank": 24,
-     "percentile": 25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8130"
-   },
-   {
-    "name": "Ja'Marr Chase",
-    "overallGrade": {
-     "value": 84,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "Cincinnati",
-    "production": {
-     "totalPoints": 262.7,
-     "pointsPerGame": 16.4,
-     "overallRank": 31,
-     "overallPercentile": 96,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 11,
-     "positionPercentile": 95,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 93,
-     "receptions": 100,
-     "targets": 145,
-     "targetsRank": 11,
-     "targetsPercentile": 95,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.5,
-     "QBR": 93,
-     "passPerGame": 229.1,
-     "rushPerGame": 89.8,
-     "yardsPerGame": 318.9,
-     "rank": 16,
-     "percentile": 50,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7564"
-   },
-   {
-    "name": "Brandon Aubrey",
-    "sleeperPlayerId": "11533",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "SF",
-    "message": "No data available"
-   },
-   {
-    "name": "Brandon Aubrey",
-    "sleeperPlayerId": "11533",
-    "message": "No data available"
-   },
-   {
-    "name": "Travis Kelce",
-    "overallGrade": {
-     "value": 84.75,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "TE",
-    "team": "Kansas City",
-    "production": {
-     "totalPoints": 219.4,
-     "pointsPerGame": 14.6,
-     "overallRank": 59,
-     "overallPercentile": 92,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 3,
-     "positionPercentile": 98,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 77,
-     "receptions": 93,
-     "targets": 121,
-     "targetsRank": 4,
-     "targetsPercentile": 96,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.8,
-     "QBR": 89.6,
-     "passPerGame": 246.4,
-     "rushPerGame": 104.9,
-     "yardsPerGame": 351.3,
-     "rank": 15,
-     "percentile": 53,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 34,
-    "sleeperPlayerId": "1466"
-   },
-   {
-    "name": "Dak Prescott",
-    "overallGrade": {
-     "value": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "position": "QB",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 351.8,
-     "pointsPerGame": 20.7,
-     "overallRank": 6,
-     "overallPercentile": 99,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 3,
-     "positionPercentile": 97,
-     "positionGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 100,
-     "completions": 410,
-     "attempts": 590,
-     "attemptsRank": 4,
-     "attemptsPercentile": 95,
-     "attemptsGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "rushingAttempts": 9
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3294"
-   },
-   {
-    "name": "Alvin Kamara",
-    "overallGrade": {
-     "value": 84.25,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "RB",
-    "team": "New Orleans",
-    "production": {
-     "totalPoints": 233,
-     "pointsPerGame": 17.9,
-     "overallRank": 46,
-     "overallPercentile": 93,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 11,
-     "positionPercentile": 93,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 63,
-     "attempts": 180,
-     "attemptsRank": 29,
-     "attemptsPercentile": 79,
-     "attemptsGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "receptions": 75,
-     "targets": 86,
-     "targetsRank": 3,
-     "targetsPercentile": 98,
-     "targetsGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.6,
-     "QBR": 94.8,
-     "passPerGame": 234.7,
-     "rushPerGame": 102.5,
-     "yardsPerGame": 337.2,
-     "rank": 9,
-     "percentile": 72,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4035"
+    }
    },
    {
     "name": "Patrick Mahomes",
@@ -17583,9 +11118,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4046"
+    }
    },
    {
     "name": "Aaron Jones",
@@ -17644,9 +11177,7 @@
       "letter": "B",
       "description": "Above Average"
      }
-    },
-    "age": 29,
-    "sleeperPlayerId": "4199"
+    }
    },
    {
     "name": "David Montgomery",
@@ -17705,9 +11236,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5892"
+    }
    },
    {
     "name": "CeeDee Lamb",
@@ -17759,9 +11288,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "6786"
+    }
    },
    {
     "name": "DeVonta Smith",
@@ -17813,9 +11340,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7525"
+    }
    },
    {
     "name": "Ja'Marr Chase",
@@ -17867,9 +11392,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "7564"
+    }
    },
    {
     "name": "Pat Freiermuth",
@@ -17921,9 +11444,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7600"
+    }
    },
    {
     "name": "Khalil Herbert",
@@ -17982,9 +11503,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "7608"
+    }
    },
    {
     "name": "Trey McBride",
@@ -18036,9 +11555,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8130"
+    }
    },
    {
     "name": "James Cook",
@@ -18097,9 +11614,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8138"
+    }
    },
    {
     "name": "Chris Olave",
@@ -18151,9 +11666,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8144"
+    }
    },
    {
     "name": "Jaylen Warren",
@@ -18212,9 +11725,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 25,
-    "sleeperPlayerId": "8228"
+    }
    },
    {
     "name": "Trey Palmer",
@@ -18266,9 +11777,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9492"
+    }
    },
    {
     "name": "Deuce Vaughn",
@@ -18327,9 +11836,7 @@
       "letter": "A+",
       "description": "Elite"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9505"
+    }
    },
    {
     "name": "Quentin Johnston",
@@ -18381,9 +11888,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9754"
+    }
    },
    {
     "name": "Jordan Addison",
@@ -18435,132 +11940,15 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9756"
+    }
    },
    {
-    "sleeperPlayerId": "DAL",
+    "name": null,
     "message": "No data available"
    },
    {
-    "sleeperPlayerId": "SF",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Trey Palmer",
-    "overallGrade": {
-     "value": 61.25,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Tampa Bay",
-    "production": {
-     "totalPoints": 95.7,
-     "pointsPerGame": 5.6,
-     "overallRank": 236,
-     "overallPercentile": 67,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 72,
-     "positionPercentile": 70,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 69,
-     "receptions": 39,
-     "targets": 68,
-     "targetsRank": 60,
-     "targetsPercentile": 70,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 20.5,
-     "QBR": 94.2,
-     "passPerGame": 224.2,
-     "rushPerGame": 88.8,
-     "yardsPerGame": 313,
-     "rank": 20,
-     "percentile": 38,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9492"
-   },
-   {
-    "name": "Deuce Vaughn",
-    "overallGrade": {
-     "value": 51,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Dallas",
-    "production": {
-     "totalPoints": 15,
-     "pointsPerGame": 2.1,
-     "overallRank": 472,
-     "overallPercentile": 33,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 100,
-     "positionPercentile": 39,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 15,
-     "attempts": 23,
-     "attemptsRank": 91,
-     "attemptsPercentile": 35,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 7,
-     "targets": 7,
-     "targetsRank": 93,
-     "targetsPercentile": 33,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 29.9,
-     "QBR": 104.6,
-     "passPerGame": 258.6,
-     "rushPerGame": 112.9,
-     "yardsPerGame": 371.6,
-     "rank": 1,
-     "percentile": 97,
-     "grade": {
-      "letter": "A+",
-      "description": "Elite"
-     }
-    },
-    "age": 22,
-    "sleeperPlayerId": "9505"
    }
   ]
  },
@@ -18614,466 +12002,9 @@
   "reserve": [
    "5890"
   ],
-  "full_roster": [
-   {
-    "name": "Trevor Lawrence",
-    "overallGrade": {
-     "value": 81.75,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "QB",
-    "team": "Jacksonville",
-    "production": {
-     "totalPoints": 276.5,
-     "pointsPerGame": 17.3,
-     "overallRank": 24,
-     "overallPercentile": 97,
-     "overallGrade": {
-      "letter": "A+",
-      "description": "Elite"
-     },
-     "positionRank": 13,
-     "positionPercentile": 85,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 101,
-     "completions": 370,
-     "attempts": 564,
-     "attemptsRank": 8,
-     "attemptsPercentile": 89,
-     "attemptsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     },
-     "rushingAttempts": 14
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 89.3,
-     "passPerGame": 242.7,
-     "rushPerGame": 96.8,
-     "yardsPerGame": 339.5,
-     "rank": 14,
-     "percentile": 56,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7523"
-   },
-   {
-    "name": "Jahmyr Gibbs",
-    "overallGrade": {
-     "value": 88,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "RB",
-    "team": "Detroit",
-    "production": {
-     "totalPoints": 242.1,
-     "pointsPerGame": 16.1,
-     "overallRank": 41,
-     "overallPercentile": 94,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 10,
-     "positionPercentile": 94,
-     "positionGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 60,
-     "attempts": 182,
-     "attemptsRank": 28,
-     "attemptsPercentile": 80,
-     "attemptsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "receptions": 52,
-     "targets": 71,
-     "targetsRank": 8,
-     "targetsPercentile": 94,
-     "targetsGrade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 27.1,
-     "QBR": 98.1,
-     "passPerGame": 258.9,
-     "rushPerGame": 135.9,
-     "yardsPerGame": 394.8,
-     "rank": 5,
-     "percentile": 84,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9221"
-   },
-   {
-    "name": "Jerick McKinnon",
-    "overallGrade": {
-     "value": 54,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Kansas City",
-    "production": {
-     "totalPoints": 84.4,
-     "pointsPerGame": 7,
-     "overallRank": 254,
-     "overallPercentile": 64,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 53,
-     "positionPercentile": 67,
-     "positionGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 32,
-     "attempts": 21,
-     "attemptsRank": 95,
-     "attemptsPercentile": 32,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 25,
-     "targets": 32,
-     "targetsRank": 43,
-     "targetsPercentile": 69,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 21.8,
-     "QBR": 89.6,
-     "passPerGame": 246.4,
-     "rushPerGame": 104.9,
-     "yardsPerGame": 351.3,
-     "rank": 15,
-     "percentile": 53,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2161"
-   },
-   {
-    "name": "Darius Slayton",
-    "overallGrade": {
-     "value": 60.75,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "N.Y. Giants",
-    "production": {
-     "totalPoints": 151,
-     "pointsPerGame": 8.9,
-     "overallRank": 129,
-     "overallPercentile": 82,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 46,
-     "positionPercentile": 81,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 86,
-     "receptions": 50,
-     "targets": 79,
-     "targetsRank": 52,
-     "targetsPercentile": 74,
-     "targetsGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 15.6,
-     "QBR": 83.4,
-     "passPerGame": 169.8,
-     "rushPerGame": 110.2,
-     "yardsPerGame": 280,
-     "rank": 30,
-     "percentile": 6,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 27,
-    "sleeperPlayerId": "6149"
-   },
-   {
-    "name": "Cooper Kupp",
-    "overallGrade": {
-     "value": 81.25,
-     "grade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "position": "WR",
-    "team": "L.A. Rams",
-    "production": {
-     "totalPoints": 164.4,
-     "pointsPerGame": 13.7,
-     "overallRank": 107,
-     "overallPercentile": 85,
-     "overallGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     },
-     "positionRank": 40,
-     "positionPercentile": 84,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 91,
-     "receptions": 59,
-     "targets": 95,
-     "targetsRank": 39,
-     "targetsPercentile": 81,
-     "targetsGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 23.8,
-     "QBR": 90,
-     "passPerGame": 239,
-     "rushPerGame": 120.3,
-     "yardsPerGame": 359.3,
-     "rank": 8,
-     "percentile": 75,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "age": 30,
-    "sleeperPlayerId": "4039"
-   },
-   {
-    "name": "Chigoziem Okonkwo",
-    "overallGrade": {
-     "value": 64,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "TE",
-    "team": "Tennessee",
-    "production": {
-     "totalPoints": 113.4,
-     "pointsPerGame": 6.7,
-     "overallRank": 201,
-     "overallPercentile": 72,
-     "overallGrade": {
-      "letter": "C",
-      "description": "Average"
-     },
-     "positionRank": 21,
-     "positionPercentile": 85,
-     "positionGrade": {
-      "letter": "B",
-      "description": "Above Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 70,
-     "receptions": 54,
-     "targets": 77,
-     "targetsRank": 16,
-     "targetsPercentile": 86,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 17.9,
-     "QBR": 83.2,
-     "passPerGame": 180.4,
-     "rushPerGame": 108.6,
-     "yardsPerGame": 289,
-     "rank": 28,
-     "percentile": 13,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8210"
-   },
-   {
-    "name": "Zay Flowers",
-    "overallGrade": {
-     "value": 88.25,
-     "grade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "position": "WR",
-    "team": "Baltimore",
-    "production": {
-     "totalPoints": 206.4,
-     "pointsPerGame": 12.9,
-     "overallRank": 71,
-     "overallPercentile": 90,
-     "overallGrade": {
-      "letter": "A",
-      "description": "Great"
-     },
-     "positionRank": 30,
-     "positionPercentile": 88,
-     "positionGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 85,
-     "receptions": 77,
-     "targets": 108,
-     "targetsRank": 27,
-     "targetsPercentile": 87,
-     "targetsGrade": {
-      "letter": "B+",
-      "description": "Good"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 28.4,
-     "QBR": 102.5,
-     "passPerGame": 213.8,
-     "rushPerGame": 156.5,
-     "yardsPerGame": 370.4,
-     "rank": 4,
-     "percentile": 88,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9997"
-   },
-   {
-    "name": "Noah Brown",
-    "overallGrade": {
-     "value": 65.75,
-     "grade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "position": "WR",
-    "team": "Houston",
-    "production": {
-     "totalPoints": 101.6,
-     "pointsPerGame": 10.2,
-     "overallRank": 225,
-     "overallPercentile": 68,
-     "overallGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     },
-     "positionRank": 67,
-     "positionPercentile": 73,
-     "positionGrade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 68,
-     "receptions": 33,
-     "targets": 55,
-     "targetsRank": 76,
-     "targetsPercentile": 63,
-     "targetsGrade": {
-      "letter": "D",
-      "description": "Below Average"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 22.2,
-     "QBR": 96.2,
-     "passPerGame": 245.5,
-     "rushPerGame": 96.9,
-     "yardsPerGame": 342.4,
-     "rank": 13,
-     "percentile": 59,
-     "grade": {
-      "letter": "C",
-      "description": "Average"
-     }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4234"
-   },
-   {
-    "name": "Tyler Bass",
-    "sleeperPlayerId": "7042",
-    "message": "No data available"
-   },
-   {
-    "sleeperPlayerId": "NE",
-    "message": "No data available"
-   },
+  "rosterWithNames": [
    {
     "name": "Sammy Watkins",
-    "sleeperPlayerId": "1817",
     "message": "No data available"
    },
    {
@@ -19133,9 +12064,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2161"
+    }
    },
    {
     "name": "DeVante Parker",
@@ -19187,9 +12116,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 31,
-    "sleeperPlayerId": "2319"
+    }
    },
    {
     "name": "Sterling Shepard",
@@ -19241,9 +12168,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "3200"
+    }
    },
    {
     "name": "Cooper Kupp",
@@ -19295,9 +12220,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "4039"
+    }
    },
    {
     "name": "Jamaal Williams",
@@ -19356,9 +12279,7 @@
       "letter": "B+",
       "description": "Good"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4149"
+    }
    },
    {
     "name": "Mack Hollins",
@@ -19410,9 +12331,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 30,
-    "sleeperPlayerId": "4177"
+    }
    },
    {
     "name": "Noah Brown",
@@ -19464,9 +12383,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 28,
-    "sleeperPlayerId": "4234"
+    }
    },
    {
     "name": "Damien Harris",
@@ -19525,9 +12442,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5890"
+    }
    },
    {
     "name": "Darius Slayton",
@@ -19579,13 +12494,10 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 27,
-    "sleeperPlayerId": "6149"
+    }
    },
    {
     "name": "Tyler Bass",
-    "sleeperPlayerId": "7042",
     "message": "No data available"
    },
    {
@@ -19639,13 +12551,10 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7523"
+    }
    },
    {
     "name": "Terrace Marshall",
-    "sleeperPlayerId": "7565",
     "message": "No data available"
    },
    {
@@ -19699,9 +12608,7 @@
       "letter": "C",
       "description": "Average"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "7591"
+    }
    },
    {
     "name": "Jahan Dotson",
@@ -19753,9 +12660,7 @@
       "letter": "D",
       "description": "Below Average"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "8119"
+    }
    },
    {
     "name": "Chigoziem Okonkwo",
@@ -19807,9 +12712,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 24,
-    "sleeperPlayerId": "8210"
+    }
    },
    {
     "name": "Jahmyr Gibbs",
@@ -19868,9 +12771,7 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9221"
+    }
    },
    {
     "name": "Israel Abanikanda",
@@ -19929,9 +12830,7 @@
       "letter": "F",
       "description": "Not Good Enough"
      }
-    },
-    "age": 21,
-    "sleeperPlayerId": "9227"
+    }
    },
    {
     "name": "Zay Flowers",
@@ -19983,74 +12882,11 @@
       "letter": "A",
       "description": "Great"
      }
-    },
-    "age": 23,
-    "sleeperPlayerId": "9997"
+    }
    },
    {
-    "sleeperPlayerId": "NE",
+    "name": null,
     "message": "No data available"
-   },
-   {
-    "name": "Damien Harris",
-    "overallGrade": {
-     "value": 48.5,
-     "grade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "position": "RB",
-    "team": "Buffalo",
-    "production": {
-     "totalPoints": 19,
-     "pointsPerGame": 2.7,
-     "overallRank": 459,
-     "overallPercentile": 35,
-     "overallGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "positionRank": 93,
-     "positionPercentile": 43,
-     "positionGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "opportunity": {
-     "snapPercentage": 15,
-     "attempts": 23,
-     "attemptsRank": 90,
-     "attemptsPercentile": 35,
-     "attemptsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     },
-     "receptions": 2,
-     "targets": 2,
-     "targetsRank": 124,
-     "targetsPercentile": 11,
-     "targetsGrade": {
-      "letter": "F",
-      "description": "Not Good Enough"
-     }
-    },
-    "offense": {
-     "pointsPerGame": 26.5,
-     "QBR": 92.2,
-     "passPerGame": 244.4,
-     "rushPerGame": 130.1,
-     "yardsPerGame": 374.5,
-     "rank": 6,
-     "percentile": 81,
-     "grade": {
-      "letter": "A",
-      "description": "Great"
-     }
-    },
-    "age": 26,
-    "sleeperPlayerId": "5890"
    }
   ]
  }

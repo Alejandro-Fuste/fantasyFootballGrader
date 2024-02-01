@@ -11,12 +11,26 @@ import holRosters from "../../data/sleeper/rosters/houseOfLambdaRosters.json" as
 import glaRosters from "../../data/sleeper/rosters/glaDynastyRosters.json" assert { type: "json" };
 import ddBRosters from "../../data/sleeper/rosters/dirtyDroAndBoysRosters.json" assert { type: "json" };
 
+// players
+import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert { type: "json" };
+
 const leagueId = {
   hol: "994022092423114752",
   gla: "918743381038239744",
   ddb: "992182800750813184",
 };
 let dataArray = [];
+
+function getPlayerNames(rosterArray) {
+  let array = [];
+  rosterArray.forEach((player) => {
+    if (player != "0") {
+      array.push(sleeperPlayers[player].full_name);
+    }
+  });
+  console.log(array);
+  return array;
+}
 
 // loop through league rosters
 function addPlayerDataToRosters(rosterArray, ownerObject) {
@@ -47,20 +61,22 @@ function addPlayerDataToRosters(rosterArray, ownerObject) {
     object.taxi = taxi;
     object.reserve = reserve;
 
-    if (leagueId.hol === owner.league_id || leagueId.gla === owner.league_id) {
-      object.full_roster = [
-        ...owner.starters,
-        ...owner.players,
-        ...taxi,
-        ...reserve,
-      ];
-    } else {
-      object.full_roster = [
-        ...owner.starters,
-        ...owner.players,
-        ...owner.keepers,
-      ];
-    }
+    object.rosterWithNames = getPlayerNames(owner.players);
+
+    // if (leagueId.hol === owner.league_id || leagueId.gla === owner.league_id) {
+    //   object.full_roster = [
+    //     ...owner.starters,
+    //     ...owner.players,
+    //     ...taxi,
+    //     ...reserve,
+    //   ];
+    // } else {
+    //   object.full_roster = [
+    //     ...owner.starters,
+    //     ...owner.players,
+    //     ...owner.keepers,
+    //   ];
+    // }
 
     dataArray.push(object);
   });
@@ -74,14 +90,14 @@ function addPlayerDataToRosters(rosterArray, ownerObject) {
 //   data
 // );
 
-// let data = addPlayerDataToRosters(glaRosters, glaOwners);
-// writeToFile(
-//   "../../data/sleeper/ownersWithRosters/glaOwnersAndRosters.json",
-//   data
-// );
-
-let data = addPlayerDataToRosters(ddBRosters, ddBOwners);
+let data = addPlayerDataToRosters(glaRosters, glaOwners);
 writeToFile(
-  "../../data/sleeper/ownersWithRosters/ddbOwnersAndRosters.json",
+  "../../data/sleeper/ownersWithRosters/glaOwnersAndRosters.json",
   data
 );
+
+// let data = addPlayerDataToRosters(ddBRosters, ddBOwners);
+// writeToFile(
+//   "../../data/sleeper/ownersWithRosters/ddbOwnersAndRosters.json",
+//   data
+// );
