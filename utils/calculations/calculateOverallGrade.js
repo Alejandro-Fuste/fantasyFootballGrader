@@ -4,7 +4,6 @@ import opportunityData from "../../data/opportunity/opportunityData.json" assert
 import productionData from "../../data/production/productionData.json" assert { type: "json" };
 import sumCriteriaPoints from "./sumCriteriaPoints.js";
 import percentage from "./percentage.js";
-// const letterGrade = require("./letterGrade.js").default;
 import letterGrade from "./letterGrade.js";
 
 function overallGrade(offense, opportunity, production) {

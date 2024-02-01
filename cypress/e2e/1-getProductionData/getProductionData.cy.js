@@ -2,6 +2,7 @@
 
 import percentile from "../../../utils/calculations/percentile";
 import letterGrade from "../../../utils/calculations/letterGrade";
+import formatName from "../../../utils/formatName";
 
 describe("get each player's PPR fantasy production data for the 2023 season and write to json file", () => {
   let resultsMap = new Map();
@@ -34,7 +35,7 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let name = cells[1].innerText;
+      let name = formatName(cells[1].innerText);
       let rank = parseInt(cells[0].innerText);
       let percentileValue = percentile(tableLength, rank);
       let grade = letterGrade(percentileValue);
@@ -67,7 +68,7 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let name = cells[1].innerText;
+      let name = formatName(cells[1].innerText);
       let rank = parseInt(cells[0].innerText);
       let percentileValue = percentile(tableLength, rank);
       let grade = letterGrade(percentileValue);
@@ -109,7 +110,7 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let name = cells[1].innerText;
+      let name = formatName(cells[1].innerText);
       let rank = parseInt(cells[0].innerText);
       let percentileValue = percentile(tableLength, rank);
       let grade = letterGrade(percentileValue);
@@ -151,7 +152,7 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let name = cells[1].innerText;
+      let name = formatName(cells[1].innerText);
       let rank = parseInt(cells[0].innerText);
       let percentileValue = percentile(tableLength, rank);
       let grade = letterGrade(percentileValue);
@@ -193,7 +194,7 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let name = cells[1].innerText;
+      let name = formatName(cells[1].innerText);
       let rank = parseInt(cells[0].innerText);
       let percentileValue = percentile(tableLength, rank);
       let grade = letterGrade(percentileValue);
@@ -222,7 +223,6 @@ describe("get each player's PPR fantasy production data for the 2023 season and 
   it("write data to JSON file", () => {
     let results = Object.fromEntries(resultsMap);
     let jsonString = JSON.stringify(results, null, " ");
-    console.log(jsonString);
 
     cy.writeFile("./data/production/productionData.json", jsonString);
   });

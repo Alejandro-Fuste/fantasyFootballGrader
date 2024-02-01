@@ -48,7 +48,7 @@
    "description": "Great"
   }
  },
- "Patrick Mahomes II": {
+ "Patrick Mahomes": {
   "value": 84.5,
   "grade": {
    "letter": "B",
@@ -139,7 +139,7 @@
    "description": "Below Average"
   }
  },
- "Gardner Minshew II": {
+ "Gardner Minshew": {
   "value": 78.5,
   "grade": {
    "letter": "C",
@@ -622,7 +622,7 @@
    "description": "Average"
   }
  },
- "Travis Etienne Jr.": {
+ "Travis Etienne": {
   "value": 87,
   "grade": {
    "letter": "B+",
@@ -734,7 +734,7 @@
    "description": "Average"
   }
  },
- "Kenneth Walker III": {
+ "Kenneth Walker": {
   "value": 78,
   "grade": {
    "letter": "C",
@@ -748,7 +748,7 @@
    "description": "Good"
   }
  },
- "Brian Robinson Jr.": {
+ "Brian Robinson": {
   "value": 68.5,
   "grade": {
    "letter": "D",
@@ -1084,7 +1084,7 @@
    "description": "Below Average"
   }
  },
- "Darrell Henderson Jr.": {
+ "Darrell Henderson": {
   "value": 39.5,
   "grade": {
    "letter": "F",
@@ -1105,14 +1105,14 @@
    "description": "Not Good Enough"
   }
  },
- "Pierre Strong Jr.": {
+ "Pierre Strong": {
   "value": 57,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "Jeff Wilson Jr.": {
+ "Jeff Wilson": {
   "value": 61.5,
   "grade": {
    "letter": "D",
@@ -1147,7 +1147,7 @@
    "description": "Not Good Enough"
   }
  },
- "Chris Rodriguez Jr.": {
+ "Chris Rodriguez": {
   "value": 43.75,
   "grade": {
    "letter": "F",
@@ -1175,22 +1175,22 @@
    "description": "Not Good Enough"
   }
  },
- "Tony Jones Jr.": {
+ "Tony Jones": {
   "value": 39,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "Patrick Taylor Jr.": {
-  "value": 49.25,
+ "Patrick Taylor": {
+  "value": 49,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
  "Darrynton Evans": {
-  "value": 56.75,
+  "value": 53.75,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
@@ -1245,7 +1245,7 @@
    "description": "Not Good Enough"
   }
  },
- "Melvin Gordon III": {
+ "Melvin Gordon": {
   "value": 51.25,
   "grade": {
    "letter": "F",
@@ -1406,7 +1406,7 @@
    "description": "Not Good Enough"
   }
  },
- "Ty Montgomery II": {
+ "Ty Montgomery": {
   "value": null,
   "grade": {
    "letter": "N/A",
@@ -1476,7 +1476,7 @@
    "description": "Not Good Enough"
   }
  },
- "Alex Armah Jr.": {
+ "Alex Armah": {
   "value": 17,
   "grade": {
    "letter": "F",
@@ -1505,13 +1505,13 @@
   }
  },
  "Jake Funk": {
-  "value": 11.5,
+  "value": 32.5,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "Anthony McFarland Jr.": {
+ "Anthony McFarland": {
   "value": 14,
   "grade": {
    "letter": "F",
@@ -1658,7 +1658,7 @@
    "description": "Not Good Enough"
   }
  },
- "SaRodorick Thompson Jr.": {
+ "SaRodorick Thompson": {
   "value": 30.5,
   "grade": {
    "letter": "F",
@@ -1763,7 +1763,7 @@
    "description": "Elite"
   }
  },
- "Amon-Ra St. Brown": {
+ "Amon-Ra St.": {
   "value": 95,
   "grade": {
    "letter": "A",
@@ -1833,7 +1833,7 @@
    "description": "Above Average"
   }
  },
- "Michael Pittman Jr.": {
+ "Michael Pittman": {
   "value": 88.75,
   "grade": {
    "letter": "B+",
@@ -2155,7 +2155,7 @@
    "description": "Below Average"
   }
  },
- "DJ Chark Jr.": {
+ "DJ Chark": {
   "value": 54.25,
   "grade": {
    "letter": "F",
@@ -2183,7 +2183,7 @@
    "description": "Average"
   }
  },
- "Odell Beckham Jr.": {
+ "Odell Beckham": {
   "value": 74.75,
   "grade": {
    "letter": "C",
@@ -2365,14 +2365,14 @@
    "description": "Not Good Enough"
   }
  },
- "Marvin Mims Jr.": {
+ "Marvin Mims": {
   "value": 53.5,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "Cedrick Wilson Jr.": {
+ "Cedrick Wilson": {
   "value": 67.25,
   "grade": {
    "letter": "D",
@@ -2407,7 +2407,7 @@
    "description": "Not Good Enough"
   }
  },
- "Allen Robinson II": {
+ "Allen Robinson": {
   "value": 48.75,
   "grade": {
    "letter": "F",
@@ -2505,7 +2505,7 @@
    "description": "Not Good Enough"
   }
  },
- "Calvin Austin III": {
+ "Calvin Austin": {
   "value": 42.5,
   "grade": {
    "letter": "F",
@@ -2694,7 +2694,7 @@
    "description": "Not Good Enough"
   }
  },
- "Terrace Marshall Jr.": {
+ "Terrace Marshall": {
   "value": 34,
   "grade": {
    "letter": "F",
@@ -2708,7 +2708,7 @@
    "description": "Not Good Enough"
   }
  },
- "John Metchie III": {
+ "John Metchie": {
   "value": 47.25,
   "grade": {
    "letter": "F",
@@ -2750,7 +2750,7 @@
    "description": "Not Good Enough"
   }
  },
- "Ray-Ray McCloud III": {
+ "Ray-Ray McCloud": {
   "value": 49.75,
   "grade": {
    "letter": "F",
@@ -2778,7 +2778,7 @@
    "description": "Not Good Enough"
   }
  },
- "Mecole Hardman Jr.": {
+ "Mecole Hardman": {
   "value": 42.5,
   "grade": {
    "letter": "F",
@@ -2806,7 +2806,7 @@
    "description": "Not Good Enough"
   }
  },
- "Lynn Bowden Jr.": {
+ "Lynn Bowden": {
   "value": 43.25,
   "grade": {
    "letter": "F",
@@ -2827,7 +2827,7 @@
    "description": "Not Good Enough"
   }
  },
- "Laviska Shenault Jr.": {
+ "Laviska Shenault": {
   "value": 22.75,
   "grade": {
    "letter": "F",
@@ -2862,7 +2862,7 @@
    "description": "Not Good Enough"
   }
  },
- "Richie James Jr.": {
+ "Richie James": {
   "value": 36.5,
   "grade": {
    "letter": "F",
@@ -2946,14 +2946,14 @@
    "description": "Not Good Enough"
   }
  },
- "Equanimeous St. Brown": {
+ "Equanimeous St.": {
   "value": 28.5,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "Velus Jones Jr.": {
+ "Velus Jones": {
   "value": 29,
   "grade": {
    "letter": "F",
@@ -3030,7 +3030,7 @@
    "description": "Not Good Enough"
   }
  },
- "Marvin Jones Jr.": {
+ "Marvin Jones": {
   "value": 17,
   "grade": {
    "letter": "F",
@@ -3051,7 +3051,7 @@
    "description": "Not Good Enough"
   }
  },
- "Steven Sims Jr.": {
+ "Steven Sims": {
   "value": 27.5,
   "grade": {
    "letter": "F",
@@ -3093,7 +3093,7 @@
    "description": "Not Good Enough"
   }
  },
- "Willie Snead IV": {
+ "Willie Snead": {
   "value": 34.25,
   "grade": {
    "letter": "F",
@@ -3156,7 +3156,7 @@
    "description": "Not Good Enough"
   }
  },
- "Kwamie Lassiter II": {
+ "Kwamie Lassiter": {
   "value": 20.5,
   "grade": {
    "letter": "F",
@@ -3177,7 +3177,7 @@
    "description": "Not Good Enough"
   }
  },
- "Phillip Dorsett II": {
+ "Phillip Dorsett": {
   "value": 18.5,
   "grade": {
    "letter": "F",
@@ -3240,7 +3240,7 @@
    "description": "Not Good Enough"
   }
  },
- "Cephus Johnson III": {
+ "Cephus Johnson": {
   "value": 17,
   "grade": {
    "letter": "F",
@@ -3276,7 +3276,7 @@
   }
  },
  "Chase Cota": {
-  "value": 22.25,
+  "value": 9,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
@@ -3303,7 +3303,7 @@
    "description": "Not Good Enough"
   }
  },
- "Stanley Morgan Jr.": {
+ "Stanley Morgan": {
   "value": 20,
   "grade": {
    "letter": "F",
@@ -3373,7 +3373,7 @@
    "description": "Not Good Enough"
   }
  },
- "Easop Winston Jr.": {
+ "Easop Winston": {
   "value": 19.25,
   "grade": {
    "letter": "F",
@@ -3416,7 +3416,7 @@
   }
  },
  "Damiere Byrd": {
-  "value": 22.25,
+  "value": 7.5,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
@@ -3436,14 +3436,14 @@
    "description": "Not Good Enough"
   }
  },
- "Johnny Johnson III": {
+ "Johnny Johnson": {
   "value": 22.25,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
   }
  },
- "James Proche II": {
+ "James Proche": {
   "value": 18.5,
   "grade": {
    "letter": "F",
@@ -3646,7 +3646,7 @@
    "description": "Below Average"
   }
  },
- "Donald Parham Jr.": {
+ "Donald Parham": {
   "value": 62,
   "grade": {
    "letter": "D",
@@ -3884,7 +3884,7 @@
    "description": "Not Good Enough"
   }
  },
- "Irv Smith Jr.": {
+ "Irv Smith": {
   "value": 51.5,
   "grade": {
    "letter": "F",
@@ -4248,7 +4248,7 @@
    "description": "Not Good Enough"
   }
  },
- "Leroy Watson IV": {
+ "Leroy Watson": {
   "value": 25,
   "grade": {
    "letter": "F",
@@ -4444,7 +4444,7 @@
    "description": "Not Good Enough"
   }
  },
- "Chris Pierce Jr.": {
+ "Chris Pierce": {
   "value": 8.5,
   "grade": {
    "letter": "F",

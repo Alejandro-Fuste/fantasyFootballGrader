@@ -1,5 +1,6 @@
 import percentile from "../../../utils/calculations/percentile";
 import letterGrade from "../../../utils/calculations/letterGrade";
+import formatName from "../../../utils/formatName";
 
 describe("get opportunity data for all players", () => {
   let snapMap = new Map();
@@ -25,7 +26,7 @@ describe("get opportunity data for all players", () => {
       const rowElement = $tr.get(0);
       const cells = rowElement.cells;
 
-      let formattedName = cells[0].innerText.replace(/\s$/, "");
+      let formattedName = formatName(cells[0].innerText);
       let formattedPercentage = cells[22].innerText.replace(/[%]$/, "");
 
       let data = {
@@ -60,15 +61,7 @@ describe("get opportunity data for all players", () => {
         const rowElement = $tr.get(0);
         const cells = rowElement.cells;
 
-        let name = cells[1].innerText.split(" ");
-        let formattedName = "";
-
-        if (name.length === 4) {
-          formattedName = `${name[0]} ${name[1]}`;
-        } else {
-          formattedName = `${name[0]} ${name[1]} ${name[2]}`;
-        }
-
+        let formattedName = formatName(cells[1].innerText);
         let rank = index + 1;
         let percentileValue = percentile(total, rank);
         let grade = letterGrade(percentileValue);
@@ -114,15 +107,7 @@ describe("get opportunity data for all players", () => {
         const rowElement = $tr.get(0);
         const cells = rowElement.cells;
 
-        let name = cells[1].innerText.split(" ");
-        let formattedName = "";
-
-        if (name.length === 4) {
-          formattedName = `${name[0]} ${name[1]}`;
-        } else {
-          formattedName = `${name[0]} ${name[1]} ${name[2]}`;
-        }
-
+        let formattedName = formatName(cells[1].innerText);
         let rank = index + 1;
         let percentileValue = percentile(total, rank);
         let grade = letterGrade(percentileValue);
@@ -162,15 +147,7 @@ describe("get opportunity data for all players", () => {
         const rowElement = $tr.get(0);
         const cells = rowElement.cells;
 
-        let name = cells[1].innerText.split(" ");
-        let formattedName = "";
-
-        if (name.length === 4) {
-          formattedName = `${name[0]} ${name[1]}`;
-        } else {
-          formattedName = `${name[0]} ${name[1]} ${name[2]}`;
-        }
-
+        let formattedName = formatName(cells[1].innerText);
         let rank = index + 1;
         let percentileValue = percentile(total, rank);
         let grade = letterGrade(percentileValue);
@@ -219,15 +196,7 @@ describe("get opportunity data for all players", () => {
         const rowElement = $tr.get(0);
         const cells = rowElement.cells;
 
-        let name = cells[1].innerText.split(" ");
-        let formattedName = "";
-
-        if (name.length === 4) {
-          formattedName = `${name[0]} ${name[1]}`;
-        } else {
-          formattedName = `${name[0]} ${name[1]} ${name[2]}`;
-        }
-
+        let formattedName = formatName(cells[1].innerText);
         let rank = index + 1;
         let percentileValue = percentile(total, rank);
         let grade = letterGrade(percentileValue);
@@ -272,15 +241,7 @@ describe("get opportunity data for all players", () => {
         const rowElement = $tr.get(0);
         const cells = rowElement.cells;
 
-        let name = cells[1].innerText.split(" ");
-        let formattedName = "";
-
-        if (name.length === 4) {
-          formattedName = `${name[0]} ${name[1]}`;
-        } else {
-          formattedName = `${name[0]} ${name[1]} ${name[2]}`;
-        }
-
+        let formattedName = formatName(cells[1].innerText);
         let rank = index + 1;
         let percentileValue = percentile(total, rank);
         let grade = letterGrade(percentileValue);
@@ -305,7 +266,6 @@ describe("get opportunity data for all players", () => {
   it("write data to JSON file", () => {
     let results = Object.fromEntries(joinedMap);
     let jsonString = JSON.stringify(results, null, " ");
-    console.log(jsonString);
 
     cy.writeFile("./data/opportunity/opportunityData.json", jsonString);
   });

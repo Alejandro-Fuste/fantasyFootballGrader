@@ -146,8 +146,8 @@
    }
   }
  },
- "Patrick Mahomes II": {
-  "name": "Patrick Mahomes II",
+ "Patrick Mahomes": {
+  "name": "Patrick Mahomes",
   "position": "QB",
   "team": "KC",
   "production": {
@@ -419,8 +419,8 @@
    }
   }
  },
- "Gardner Minshew II": {
-  "name": "Gardner Minshew II",
+ "Gardner Minshew": {
+  "name": "Gardner Minshew",
   "position": "QB",
   "team": "IND",
   "production": {
@@ -1868,8 +1868,8 @@
    }
   }
  },
- "Travis Etienne Jr.": {
-  "name": "Travis Etienne Jr.",
+ "Travis Etienne": {
+  "name": "Travis Etienne",
   "position": "RB",
   "team": "JAC",
   "production": {
@@ -2204,8 +2204,8 @@
    }
   }
  },
- "Kenneth Walker III": {
-  "name": "Kenneth Walker III",
+ "Kenneth Walker": {
+  "name": "Kenneth Walker",
   "position": "RB",
   "team": "SEA",
   "production": {
@@ -2246,8 +2246,8 @@
    }
   }
  },
- "Brian Robinson Jr.": {
-  "name": "Brian Robinson Jr.",
+ "Brian Robinson": {
+  "name": "Brian Robinson",
   "position": "RB",
   "team": "WAS",
   "production": {
@@ -3254,8 +3254,8 @@
    }
   }
  },
- "Darrell Henderson Jr.": {
-  "name": "Darrell Henderson Jr.",
+ "Darrell Henderson": {
+  "name": "Darrell Henderson",
   "position": "RB",
   "team": "FA",
   "production": {
@@ -3317,8 +3317,8 @@
    }
   }
  },
- "Pierre Strong Jr.": {
-  "name": "Pierre Strong Jr.",
+ "Pierre Strong": {
+  "name": "Pierre Strong",
   "position": "RB",
   "team": "CLE",
   "production": {
@@ -3338,8 +3338,8 @@
    }
   }
  },
- "Jeff Wilson Jr.": {
-  "name": "Jeff Wilson Jr.",
+ "Jeff Wilson": {
+  "name": "Jeff Wilson",
   "position": "RB",
   "team": "MIA",
   "production": {
@@ -3443,8 +3443,8 @@
    }
   }
  },
- "Chris Rodriguez Jr.": {
-  "name": "Chris Rodriguez Jr.",
+ "Chris Rodriguez": {
+  "name": "Chris Rodriguez",
   "position": "RB",
   "team": "WAS",
   "production": {
@@ -3527,8 +3527,8 @@
    }
   }
  },
- "Tony Jones Jr.": {
-  "name": "Tony Jones Jr.",
+ "Tony Jones": {
+  "name": "Tony Jones",
   "position": "RB",
   "team": "ARI",
   "production": {
@@ -3548,8 +3548,8 @@
    }
   }
  },
- "Patrick Taylor Jr.": {
-  "name": "Patrick Taylor Jr.",
+ "Patrick Taylor": {
+  "name": "Patrick Taylor",
   "position": "RB",
   "team": "GB",
   "production": {
@@ -3572,7 +3572,7 @@
  "Darrynton Evans": {
   "name": "Darrynton Evans",
   "position": "RB",
-  "team": "MIA",
+  "team": "BUF",
   "production": {
    "totalPoints": 30,
    "pointsPerGame": 5,
@@ -3737,8 +3737,8 @@
    }
   }
  },
- "Melvin Gordon III": {
-  "name": "Melvin Gordon III",
+ "Melvin Gordon": {
+  "name": "Melvin Gordon",
   "position": "RB",
   "team": "BAL",
   "production": {
@@ -4220,8 +4220,8 @@
    }
   }
  },
- "Ty Montgomery II": {
-  "name": "Ty Montgomery II",
+ "Ty Montgomery": {
+  "name": "Ty Montgomery",
   "position": "RB",
   "team": "FA",
   "production": {
@@ -4430,8 +4430,8 @@
    }
   }
  },
- "Alex Armah Jr.": {
-  "name": "Alex Armah Jr.",
+ "Alex Armah": {
+  "name": "Alex Armah",
   "position": "RB",
   "team": "WAS",
   "production": {
@@ -4517,7 +4517,7 @@
  "Jake Funk": {
   "name": "Jake Funk",
   "position": "RB",
-  "team": "FA",
+  "team": "DET",
   "production": {
    "totalPoints": 3.2,
    "pointsPerGame": 3.2,
@@ -4535,8 +4535,8 @@
    }
   }
  },
- "Anthony McFarland Jr.": {
-  "name": "Anthony McFarland Jr.",
+ "Anthony McFarland": {
+  "name": "Anthony McFarland",
   "position": "RB",
   "team": "PIT",
   "production": {
@@ -4976,8 +4976,8 @@
    }
   }
  },
- "SaRodorick Thompson Jr.": {
-  "name": "SaRodorick Thompson Jr.",
+ "SaRodorick Thompson": {
+  "name": "SaRodorick Thompson",
   "position": "RB",
   "team": "DAL",
   "production": {
@@ -5291,8 +5291,8 @@
    }
   }
  },
- "Amon-Ra St. Brown": {
-  "name": "Amon-Ra St. Brown",
+ "Amon-Ra St.": {
+  "name": "Amon-Ra St.",
   "position": "WR",
   "team": "DET",
   "production": {
@@ -5501,8 +5501,8 @@
    }
   }
  },
- "Michael Pittman Jr.": {
-  "name": "Michael Pittman Jr.",
+ "Michael Pittman": {
+  "name": "Michael Pittman",
   "position": "WR",
   "team": "IND",
   "production": {
@@ -6467,8 +6467,8 @@
    }
   }
  },
- "DJ Chark Jr.": {
-  "name": "DJ Chark Jr.",
+ "DJ Chark": {
+  "name": "DJ Chark",
   "position": "WR",
   "team": "CAR",
   "production": {
@@ -6551,8 +6551,8 @@
    }
   }
  },
- "Odell Beckham Jr.": {
-  "name": "Odell Beckham Jr.",
+ "Odell Beckham": {
+  "name": "Odell Beckham",
   "position": "WR",
   "team": "BAL",
   "production": {
@@ -7097,8 +7097,8 @@
    }
   }
  },
- "Marvin Mims Jr.": {
-  "name": "Marvin Mims Jr.",
+ "Marvin Mims": {
+  "name": "Marvin Mims",
   "position": "WR",
   "team": "DEN",
   "production": {
@@ -7118,8 +7118,8 @@
    }
   }
  },
- "Cedrick Wilson Jr.": {
-  "name": "Cedrick Wilson Jr.",
+ "Cedrick Wilson": {
+  "name": "Cedrick Wilson",
   "position": "WR",
   "team": "MIA",
   "production": {
@@ -7223,8 +7223,8 @@
    }
   }
  },
- "Allen Robinson II": {
-  "name": "Allen Robinson II",
+ "Allen Robinson": {
+  "name": "Allen Robinson",
   "position": "WR",
   "team": "PIT",
   "production": {
@@ -7517,8 +7517,8 @@
    }
   }
  },
- "Calvin Austin III": {
-  "name": "Calvin Austin III",
+ "Calvin Austin": {
+  "name": "Calvin Austin",
   "position": "WR",
   "team": "PIT",
   "production": {
@@ -8084,8 +8084,8 @@
    }
   }
  },
- "Terrace Marshall Jr.": {
-  "name": "Terrace Marshall Jr.",
+ "Terrace Marshall": {
+  "name": "Terrace Marshall",
   "position": "WR",
   "team": "CAR",
   "production": {
@@ -8126,8 +8126,8 @@
    }
   }
  },
- "John Metchie III": {
-  "name": "John Metchie III",
+ "John Metchie": {
+  "name": "John Metchie",
   "position": "WR",
   "team": "HOU",
   "production": {
@@ -8252,8 +8252,8 @@
    }
   }
  },
- "Ray-Ray McCloud III": {
-  "name": "Ray-Ray McCloud III",
+ "Ray-Ray McCloud": {
+  "name": "Ray-Ray McCloud",
   "position": "WR",
   "team": "SF",
   "production": {
@@ -8336,8 +8336,8 @@
    }
   }
  },
- "Mecole Hardman Jr.": {
-  "name": "Mecole Hardman Jr.",
+ "Mecole Hardman": {
+  "name": "Mecole Hardman",
   "position": "WR",
   "team": "KC",
   "production": {
@@ -8420,8 +8420,8 @@
    }
   }
  },
- "Lynn Bowden Jr.": {
-  "name": "Lynn Bowden Jr.",
+ "Lynn Bowden": {
+  "name": "Lynn Bowden",
   "position": "WR",
   "team": "NO",
   "production": {
@@ -8483,8 +8483,8 @@
    }
   }
  },
- "Laviska Shenault Jr.": {
-  "name": "Laviska Shenault Jr.",
+ "Laviska Shenault": {
+  "name": "Laviska Shenault",
   "position": "WR",
   "team": "CAR",
   "production": {
@@ -8588,8 +8588,8 @@
    }
   }
  },
- "Richie James Jr.": {
-  "name": "Richie James Jr.",
+ "Richie James": {
+  "name": "Richie James",
   "position": "WR",
   "team": "KC",
   "production": {
@@ -8840,8 +8840,8 @@
    }
   }
  },
- "Equanimeous St. Brown": {
-  "name": "Equanimeous St. Brown",
+ "Equanimeous St.": {
+  "name": "Equanimeous St.",
   "position": "WR",
   "team": "CHI",
   "production": {
@@ -8861,8 +8861,8 @@
    }
   }
  },
- "Velus Jones Jr.": {
-  "name": "Velus Jones Jr.",
+ "Velus Jones": {
+  "name": "Velus Jones",
   "position": "WR",
   "team": "CHI",
   "production": {
@@ -9092,8 +9092,8 @@
    }
   }
  },
- "Marvin Jones Jr.": {
-  "name": "Marvin Jones Jr.",
+ "Marvin Jones": {
+  "name": "Marvin Jones",
   "position": "WR",
   "team": "FA",
   "production": {
@@ -9155,8 +9155,8 @@
    }
   }
  },
- "Steven Sims Jr.": {
-  "name": "Steven Sims Jr.",
+ "Steven Sims": {
+  "name": "Steven Sims",
   "position": "WR",
   "team": "HOU",
   "production": {
@@ -9281,8 +9281,8 @@
    }
   }
  },
- "Willie Snead IV": {
-  "name": "Willie Snead IV",
+ "Willie Snead": {
+  "name": "Willie Snead",
   "position": "WR",
   "team": "SF",
   "production": {
@@ -9470,8 +9470,8 @@
    }
   }
  },
- "Kwamie Lassiter II": {
-  "name": "Kwamie Lassiter II",
+ "Kwamie Lassiter": {
+  "name": "Kwamie Lassiter",
   "position": "WR",
   "team": "CIN",
   "production": {
@@ -9533,8 +9533,8 @@
    }
   }
  },
- "Phillip Dorsett II": {
-  "name": "Phillip Dorsett II",
+ "Phillip Dorsett": {
+  "name": "Phillip Dorsett",
   "position": "WR",
   "team": "DEN",
   "production": {
@@ -9722,8 +9722,8 @@
    }
   }
  },
- "Cephus Johnson III": {
-  "name": "Cephus Johnson III",
+ "Cephus Johnson": {
+  "name": "Cephus Johnson",
   "position": "WR",
   "team": "TB",
   "production": {
@@ -9830,7 +9830,7 @@
  "Chase Cota": {
   "name": "Chase Cota",
   "position": "WR",
-  "team": "HOU",
+  "team": "NYG",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -9911,8 +9911,8 @@
    }
   }
  },
- "Stanley Morgan Jr.": {
-  "name": "Stanley Morgan Jr.",
+ "Stanley Morgan": {
+  "name": "Stanley Morgan",
   "position": "WR",
   "team": "CIN",
   "production": {
@@ -10121,8 +10121,8 @@
    }
   }
  },
- "Easop Winston Jr.": {
-  "name": "Easop Winston Jr.",
+ "Easop Winston": {
+  "name": "Easop Winston",
   "position": "WR",
   "team": "SEA",
   "production": {
@@ -10250,7 +10250,7 @@
  "Damiere Byrd": {
   "name": "Damiere Byrd",
   "position": "WR",
-  "team": "HOU",
+  "team": "FA",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -10310,8 +10310,8 @@
    }
   }
  },
- "Johnny Johnson III": {
-  "name": "Johnny Johnson III",
+ "Johnny Johnson": {
+  "name": "Johnny Johnson",
   "position": "WR",
   "team": "HOU",
   "production": {
@@ -10331,8 +10331,8 @@
    }
   }
  },
- "James Proche II": {
-  "name": "James Proche II",
+ "James Proche": {
+  "name": "James Proche",
   "position": "WR",
   "team": "CLE",
   "production": {
@@ -10940,8 +10940,8 @@
    }
   }
  },
- "Donald Parham Jr.": {
-  "name": "Donald Parham Jr.",
+ "Donald Parham": {
+  "name": "Donald Parham",
   "position": "TE",
   "team": "LAC",
   "production": {
@@ -11654,8 +11654,8 @@
    }
   }
  },
- "Irv Smith Jr.": {
-  "name": "Irv Smith Jr.",
+ "Irv Smith": {
+  "name": "Irv Smith",
   "position": "TE",
   "team": "CIN",
   "production": {
@@ -12746,8 +12746,8 @@
    }
   }
  },
- "Leroy Watson IV": {
-  "name": "Leroy Watson IV",
+ "Leroy Watson": {
+  "name": "Leroy Watson",
   "position": "TE",
   "team": "CLE",
   "production": {
@@ -13334,8 +13334,8 @@
    }
   }
  },
- "Chris Pierce Jr.": {
-  "name": "Chris Pierce Jr.",
+ "Chris Pierce": {
+  "name": "Chris Pierce",
   "position": "TE",
   "team": "CAR",
   "production": {

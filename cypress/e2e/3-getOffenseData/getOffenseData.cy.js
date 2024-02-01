@@ -63,7 +63,6 @@ describe("get each team's offensive data for the 2023 season and write to json f
   it("write data to JSON file", () => {
     let results = Object.fromEntries(resultsMap);
     let jsonString = JSON.stringify(results, null, " ");
-    console.log(jsonString);
 
     cy.writeFile("./data/offense/offenseData.json", jsonString);
   });

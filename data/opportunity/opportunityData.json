@@ -2,7 +2,7 @@
  "Sam Howell": {
   "name": "Sam Howell",
   "opportunity": {
-   "snapPercentage": 100,
+   "snapPercentage": 96,
    "completions": 388,
    "attempts": 612,
    "attemptsRank": 1,
@@ -17,7 +17,7 @@
  "Jared Goff": {
   "name": "Jared Goff",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 100,
    "completions": 407,
    "attempts": 605,
    "attemptsRank": 2,
@@ -29,8 +29,8 @@
    "rushingAttempts": 12
   }
  },
- "Patrick Mahomes II": {
-  "name": "Patrick Mahomes II",
+ "Patrick Mahomes": {
+  "name": "Patrick Mahomes",
   "opportunity": {
    "snapPercentage": 98,
    "completions": 401,
@@ -47,7 +47,7 @@
  "Dak Prescott": {
   "name": "Dak Prescott",
   "opportunity": {
-   "snapPercentage": 100,
+   "snapPercentage": 94,
    "completions": 410,
    "attempts": 590,
    "attemptsRank": 4,
@@ -62,7 +62,7 @@
  "Josh Allen": {
   "name": "Josh Allen",
   "opportunity": {
-   "snapPercentage": 104,
+   "snapPercentage": 97,
    "completions": 385,
    "attempts": 579,
    "attemptsRank": 5,
@@ -77,7 +77,7 @@
  "Jordan Love": {
   "name": "Jordan Love",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 99,
    "completions": 372,
    "attempts": 579,
    "attemptsRank": 6,
@@ -92,7 +92,7 @@
  "Baker Mayfield": {
   "name": "Baker Mayfield",
   "opportunity": {
-   "snapPercentage": 106,
+   "snapPercentage": 100,
    "completions": 364,
    "attempts": 566,
    "attemptsRank": 7,
@@ -107,7 +107,7 @@
  "Trevor Lawrence": {
   "name": "Trevor Lawrence",
   "opportunity": {
-   "snapPercentage": 101,
+   "snapPercentage": 95,
    "completions": 370,
    "attempts": 564,
    "attemptsRank": 8,
@@ -122,7 +122,7 @@
  "Tua Tagovailoa": {
   "name": "Tua Tagovailoa",
   "opportunity": {
-   "snapPercentage": 100,
+   "snapPercentage": 95,
    "completions": 388,
    "attempts": 560,
    "attemptsRank": 9,
@@ -137,7 +137,7 @@
  "Derek Carr": {
   "name": "Derek Carr",
   "opportunity": {
-   "snapPercentage": 90,
+   "snapPercentage": 84,
    "completions": 375,
    "attempts": 548,
    "attemptsRank": 10,
@@ -152,7 +152,7 @@
  "Jalen Hurts": {
   "name": "Jalen Hurts",
   "opportunity": {
-   "snapPercentage": 102,
+   "snapPercentage": 96,
    "completions": 352,
    "attempts": 538,
    "attemptsRank": 11,
@@ -167,7 +167,7 @@
  "Bryce Young": {
   "name": "Bryce Young",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 100,
    "completions": 315,
    "attempts": 527,
    "attemptsRank": 12,
@@ -197,7 +197,7 @@
  "C.J. Stroud": {
   "name": "C.J. Stroud",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 99,
    "completions": 319,
    "attempts": 499,
    "attemptsRank": 14,
@@ -212,7 +212,7 @@
  "Geno Smith": {
   "name": "Geno Smith",
   "opportunity": {
-   "snapPercentage": 103,
+   "snapPercentage": 97,
    "completions": 323,
    "attempts": 499,
    "attemptsRank": 15,
@@ -224,10 +224,10 @@
    "rushingAttempts": 9
   }
  },
- "Gardner Minshew II": {
-  "name": "Gardner Minshew II",
+ "Gardner Minshew": {
+  "name": "Gardner Minshew",
   "opportunity": {
-   "snapPercentage": 95,
+   "snapPercentage": 90,
    "completions": 305,
    "attempts": 490,
    "attemptsRank": 16,
@@ -317,7 +317,7 @@
  "Desmond Ridder": {
   "name": "Desmond Ridder",
   "opportunity": {
-   "snapPercentage": 91,
+   "snapPercentage": 85,
    "completions": 249,
    "attempts": 388,
    "attemptsRank": 22,
@@ -332,7 +332,7 @@
  "Justin Fields": {
   "name": "Justin Fields",
   "opportunity": {
-   "snapPercentage": 102,
+   "snapPercentage": 96,
    "completions": 227,
    "attempts": 370,
    "attemptsRank": 23,
@@ -392,7 +392,7 @@
  "Aidan O'Connell": {
   "name": "Aidan O'Connell",
   "opportunity": {
-   "snapPercentage": 102,
+   "snapPercentage": 92,
    "completions": 213,
    "attempts": 343,
    "attemptsRank": 27,
@@ -437,7 +437,7 @@
  "Kyler Murray": {
   "name": "Kyler Murray",
   "opportunity": {
-   "snapPercentage": 113,
+   "snapPercentage": 99,
    "completions": 176,
    "attempts": 268,
    "attemptsRank": 30,
@@ -467,7 +467,7 @@
  "Jake Browning": {
   "name": "Jake Browning",
   "opportunity": {
-   "snapPercentage": 94,
+   "snapPercentage": 83,
    "completions": 171,
    "attempts": 243,
    "attemptsRank": 32,
@@ -482,7 +482,7 @@
  "Ryan Tannehill": {
   "name": "Ryan Tannehill",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 94,
    "completions": 149,
    "attempts": 230,
    "attemptsRank": 33,
@@ -497,7 +497,7 @@
  "Bailey Zappe": {
   "name": "Bailey Zappe",
   "opportunity": {
-   "snapPercentage": 78,
+   "snapPercentage": 70,
    "completions": 127,
    "attempts": 212,
    "attemptsRank": 34,
@@ -527,7 +527,7 @@
  "Tyrod Taylor": {
   "name": "Tyrod Taylor",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 50,
    "completions": 116,
    "attempts": 180,
    "attemptsRank": 36,
@@ -542,7 +542,7 @@
  "Tommy DeVito": {
   "name": "Tommy DeVito",
   "opportunity": {
-   "snapPercentage": 84,
+   "snapPercentage": 74,
    "completions": 114,
    "attempts": 178,
    "attemptsRank": 37,
@@ -557,7 +557,7 @@
  "Easton Stick": {
   "name": "Easton Stick",
   "opportunity": {
-   "snapPercentage": 119,
+   "snapPercentage": 91,
    "completions": 111,
    "attempts": 174,
    "attemptsRank": 38,
@@ -587,7 +587,7 @@
  "Jimmy Garoppolo": {
   "name": "Jimmy Garoppolo",
   "opportunity": {
-   "snapPercentage": 93,
+   "snapPercentage": 78,
    "completions": 110,
    "attempts": 169,
    "attemptsRank": 40,
@@ -617,7 +617,7 @@
  "Trevor Siemian": {
   "name": "Trevor Siemian",
   "opportunity": {
-   "snapPercentage": 99,
+   "snapPercentage": 81,
    "completions": 86,
    "attempts": 153,
    "attemptsRank": 42,
@@ -632,7 +632,7 @@
  "Nick Mullens": {
   "name": "Nick Mullens",
   "opportunity": {
-   "snapPercentage": 98,
+   "snapPercentage": 76,
    "completions": 100,
    "attempts": 148,
    "attemptsRank": 43,
@@ -767,7 +767,7 @@
  "Mason Rudolph": {
   "name": "Mason Rudolph",
   "opportunity": {
-   "snapPercentage": 105,
+   "snapPercentage": 79,
    "completions": 55,
    "attempts": 74,
    "attemptsRank": 52,
@@ -782,7 +782,7 @@
  "Jarrett Stidham": {
   "name": "Jarrett Stidham",
   "opportunity": {
-   "snapPercentage": 101,
+   "snapPercentage": 69,
    "completions": 40,
    "attempts": 66,
    "attemptsRank": 53,
@@ -842,7 +842,7 @@
  "Jameis Winston": {
   "name": "Jameis Winston",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 17,
    "completions": 25,
    "attempts": 47,
    "attemptsRank": 57,
@@ -857,7 +857,7 @@
  "Sam Darnold": {
   "name": "Sam Darnold",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 20,
    "completions": 28,
    "attempts": 46,
    "attemptsRank": 58,
@@ -917,7 +917,7 @@
  "Tyler Huntley": {
   "name": "Tyler Huntley",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 28,
    "completions": 21,
    "attempts": 37,
    "attemptsRank": 62,
@@ -932,7 +932,7 @@
  "Blaine Gabbert": {
   "name": "Blaine Gabbert",
   "opportunity": {
-   "snapPercentage": 103,
+   "snapPercentage": 59,
    "completions": 18,
    "attempts": 35,
    "attemptsRank": 63,
@@ -947,7 +947,7 @@
  "Jeff Driskel": {
   "name": "Jeff Driskel",
   "opportunity": {
-   "snapPercentage": null,
+   "snapPercentage": 100,
    "completions": 13,
    "attempts": 26,
    "attemptsRank": 64,
@@ -962,7 +962,7 @@
  "Carson Wentz": {
   "name": "Carson Wentz",
   "opportunity": {
-   "snapPercentage": 104,
+   "snapPercentage": 52,
    "completions": 17,
    "attempts": 24,
    "attemptsRank": 65,
@@ -977,7 +977,7 @@
  "Cooper Rush": {
   "name": "Cooper Rush",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 15,
    "completions": 18,
    "attempts": 24,
    "attemptsRank": 66,
@@ -1007,7 +1007,7 @@
  "Marcus Mariota": {
   "name": "Marcus Mariota",
   "opportunity": {
-   "snapPercentage": 35,
+   "snapPercentage": 23,
    "completions": 15,
    "attempts": 23,
    "attemptsRank": 68,
@@ -1022,7 +1022,7 @@
  "Clayton Tune": {
   "name": "Clayton Tune",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 15,
    "completions": 12,
    "attempts": 21,
    "attemptsRank": 69,
@@ -1082,7 +1082,7 @@
  "AJ McCarron": {
   "name": "AJ McCarron",
   "opportunity": {
-   "snapPercentage": 28,
+   "snapPercentage": 14,
    "completions": 4,
    "attempts": 5,
    "attemptsRank": 73,
@@ -1097,7 +1097,7 @@
  "Logan Woodside": {
   "name": "Logan Woodside",
   "opportunity": {
-   "snapPercentage": null,
+   "snapPercentage": 16,
    "completions": 3,
    "attempts": 4,
    "attemptsRank": 74,
@@ -1157,7 +1157,7 @@
  "Derrick Henry": {
   "name": "Derrick Henry",
   "opportunity": {
-   "snapPercentage": 56,
+   "snapPercentage": 53,
    "attempts": 280,
    "attemptsRank": 1,
    "attemptsPercentile": 99,
@@ -1199,7 +1199,7 @@
  "Rachaad White": {
   "name": "Rachaad White",
   "opportunity": {
-   "snapPercentage": 83,
+   "snapPercentage": 78,
    "attempts": 272,
    "attemptsRank": 3,
    "attemptsPercentile": 98,
@@ -1217,10 +1217,10 @@
    }
   }
  },
- "Travis Etienne Jr.": {
-  "name": "Travis Etienne Jr.",
+ "Travis Etienne": {
+  "name": "Travis Etienne",
   "opportunity": {
-   "snapPercentage": 78,
+   "snapPercentage": 73,
    "attempts": 267,
    "attemptsRank": 4,
    "attemptsPercentile": 97,
@@ -1241,7 +1241,7 @@
  "Joe Mixon": {
   "name": "Joe Mixon",
   "opportunity": {
-   "snapPercentage": 73,
+   "snapPercentage": 69,
    "attempts": 257,
    "attemptsRank": 5,
    "attemptsPercentile": 96,
@@ -1262,7 +1262,7 @@
  "Najee Harris": {
   "name": "Najee Harris",
   "opportunity": {
-   "snapPercentage": 56,
+   "snapPercentage": 53,
    "attempts": 255,
    "attemptsRank": 6,
    "attemptsPercentile": 96,
@@ -1283,7 +1283,7 @@
  "Tony Pollard": {
   "name": "Tony Pollard",
   "opportunity": {
-   "snapPercentage": 75,
+   "snapPercentage": 71,
    "attempts": 252,
    "attemptsRank": 7,
    "attemptsPercentile": 95,
@@ -1304,7 +1304,7 @@
  "Saquon Barkley": {
   "name": "Saquon Barkley",
   "opportunity": {
-   "snapPercentage": 85,
+   "snapPercentage": 79,
    "attempts": 247,
    "attemptsRank": 8,
    "attemptsPercentile": 94,
@@ -1325,7 +1325,7 @@
  "Chuba Hubbard": {
   "name": "Chuba Hubbard",
   "opportunity": {
-   "snapPercentage": 62,
+   "snapPercentage": 59,
    "attempts": 238,
    "attemptsRank": 9,
    "attemptsPercentile": 94,
@@ -1346,7 +1346,7 @@
  "James Cook": {
   "name": "James Cook",
   "opportunity": {
-   "snapPercentage": 58,
+   "snapPercentage": 54,
    "attempts": 237,
    "attemptsRank": 10,
    "attemptsPercentile": 93,
@@ -1430,7 +1430,7 @@
  "Breece Hall": {
   "name": "Breece Hall",
   "opportunity": {
-   "snapPercentage": 64,
+   "snapPercentage": 61,
    "attempts": 223,
    "attemptsRank": 14,
    "attemptsPercentile": 90,
@@ -1451,7 +1451,7 @@
  "David Montgomery": {
   "name": "David Montgomery",
   "opportunity": {
-   "snapPercentage": 51,
+   "snapPercentage": 48,
    "attempts": 219,
    "attemptsRank": 15,
    "attemptsPercentile": 89,
@@ -1469,10 +1469,10 @@
    }
   }
  },
- "Kenneth Walker III": {
-  "name": "Kenneth Walker III",
+ "Kenneth Walker": {
+  "name": "Kenneth Walker",
   "opportunity": {
-   "snapPercentage": 58,
+   "snapPercentage": 54,
    "attempts": 219,
    "attemptsRank": 16,
    "attemptsPercentile": 88,
@@ -1493,7 +1493,7 @@
  "Javonte Williams": {
   "name": "Javonte Williams",
   "opportunity": {
-   "snapPercentage": 52,
+   "snapPercentage": 49,
    "attempts": 217,
    "attemptsRank": 17,
    "attemptsPercentile": 88,
@@ -1514,7 +1514,7 @@
  "Devin Singletary": {
   "name": "Devin Singletary",
   "opportunity": {
-   "snapPercentage": 58,
+   "snapPercentage": 55,
    "attempts": 216,
    "attemptsRank": 18,
    "attemptsPercentile": 87,
@@ -1535,7 +1535,7 @@
  "Bijan Robinson": {
   "name": "Bijan Robinson",
   "opportunity": {
-   "snapPercentage": 72,
+   "snapPercentage": 68,
    "attempts": 214,
    "attemptsRank": 19,
    "attemptsPercentile": 86,
@@ -1577,7 +1577,7 @@
  "James Conner": {
   "name": "James Conner",
   "opportunity": {
-   "snapPercentage": 67,
+   "snapPercentage": 62,
    "attempts": 208,
    "attemptsRank": 21,
    "attemptsPercentile": 85,
@@ -1619,7 +1619,7 @@
  "Jerome Ford": {
   "name": "Jerome Ford",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 51,
    "attempts": 204,
    "attemptsRank": 23,
    "attemptsPercentile": 83,
@@ -1640,7 +1640,7 @@
  "Gus Edwards": {
   "name": "Gus Edwards",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 42,
    "attempts": 198,
    "attemptsRank": 24,
    "attemptsPercentile": 83,
@@ -1661,7 +1661,7 @@
  "Tyler Allgeier": {
   "name": "Tyler Allgeier",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 32,
    "attempts": 186,
    "attemptsRank": 25,
    "attemptsPercentile": 82,
@@ -1682,7 +1682,7 @@
  "Ezekiel Elliott": {
   "name": "Ezekiel Elliott",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 51,
    "attempts": 184,
    "attemptsRank": 26,
    "attemptsPercentile": 81,
@@ -1703,7 +1703,7 @@
  "Zack Moss": {
   "name": "Zack Moss",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 56,
    "attempts": 183,
    "attemptsRank": 27,
    "attemptsPercentile": 81,
@@ -1724,7 +1724,7 @@
  "Jahmyr Gibbs": {
   "name": "Jahmyr Gibbs",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 57,
    "attempts": 182,
    "attemptsRank": 28,
    "attemptsPercentile": 80,
@@ -1766,7 +1766,7 @@
  "Alexander Mattison": {
   "name": "Alexander Mattison",
   "opportunity": {
-   "snapPercentage": 59,
+   "snapPercentage": 55,
    "attempts": 180,
    "attemptsRank": 30,
    "attemptsPercentile": 78,
@@ -1787,7 +1787,7 @@
  "Austin Ekeler": {
   "name": "Austin Ekeler",
   "opportunity": {
-   "snapPercentage": 72,
+   "snapPercentage": 66,
    "attempts": 179,
    "attemptsRank": 31,
    "attemptsPercentile": 78,
@@ -1805,10 +1805,10 @@
    }
   }
  },
- "Brian Robinson Jr.": {
-  "name": "Brian Robinson Jr.",
+ "Brian Robinson": {
+  "name": "Brian Robinson",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 50,
    "attempts": 178,
    "attemptsRank": 32,
    "attemptsPercentile": 77,
@@ -1850,7 +1850,7 @@
  "Jonathan Taylor": {
   "name": "Jonathan Taylor",
   "opportunity": {
-   "snapPercentage": 64,
+   "snapPercentage": 58,
    "attempts": 169,
    "attemptsRank": 34,
    "attemptsPercentile": 76,
@@ -1892,7 +1892,7 @@
  "Jaylen Warren": {
   "name": "Jaylen Warren",
   "opportunity": {
-   "snapPercentage": 51,
+   "snapPercentage": 48,
    "attempts": 149,
    "attemptsRank": 36,
    "attemptsPercentile": 74,
@@ -1934,7 +1934,7 @@
  "Aaron Jones": {
   "name": "Aaron Jones",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 49,
    "attempts": 142,
    "attemptsRank": 38,
    "attemptsPercentile": 73,
@@ -1955,7 +1955,7 @@
  "Kareem Hunt": {
   "name": "Kareem Hunt",
   "opportunity": {
-   "snapPercentage": 33,
+   "snapPercentage": 31,
    "attempts": 135,
    "attemptsRank": 39,
    "attemptsPercentile": 72,
@@ -1976,7 +1976,7 @@
  "Khalil Herbert": {
   "name": "Khalil Herbert",
   "opportunity": {
-   "snapPercentage": 48,
+   "snapPercentage": 45,
    "attempts": 132,
    "attemptsRank": 40,
    "attemptsPercentile": 71,
@@ -1997,7 +1997,7 @@
  "Miles Sanders": {
   "name": "Miles Sanders",
   "opportunity": {
-   "snapPercentage": 39,
+   "snapPercentage": 38,
    "attempts": 129,
    "attemptsRank": 41,
    "attemptsPercentile": 71,
@@ -2039,7 +2039,7 @@
  "Zach Charbonnet": {
   "name": "Zach Charbonnet",
   "opportunity": {
-   "snapPercentage": 51,
+   "snapPercentage": 48,
    "attempts": 108,
    "attemptsRank": 43,
    "attemptsPercentile": 69,
@@ -2060,7 +2060,7 @@
  "Joshua Kelley": {
   "name": "Joshua Kelley",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 34,
    "attempts": 107,
    "attemptsRank": 44,
    "attemptsPercentile": 68,
@@ -2081,7 +2081,7 @@
  "Jamaal Williams": {
   "name": "Jamaal Williams",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 37,
    "attempts": 106,
    "attemptsRank": 45,
    "attemptsPercentile": 68,
@@ -2102,7 +2102,7 @@
  "Zamir White": {
   "name": "Zamir White",
   "opportunity": {
-   "snapPercentage": 27,
+   "snapPercentage": 25,
    "attempts": 104,
    "attemptsRank": 46,
    "attemptsPercentile": 67,
@@ -2123,7 +2123,7 @@
  "De'Von Achane": {
   "name": "De'Von Achane",
   "opportunity": {
-   "snapPercentage": 46,
+   "snapPercentage": 43,
    "attempts": 103,
    "attemptsRank": 47,
    "attemptsPercentile": 66,
@@ -2144,7 +2144,7 @@
  "Ty Chandler": {
   "name": "Ty Chandler",
   "opportunity": {
-   "snapPercentage": 39,
+   "snapPercentage": 35,
    "attempts": 102,
    "attemptsRank": 48,
    "attemptsPercentile": 65,
@@ -2165,7 +2165,7 @@
  "Tyjae Spears": {
   "name": "Tyjae Spears",
   "opportunity": {
-   "snapPercentage": 56,
+   "snapPercentage": 53,
    "attempts": 100,
    "attemptsRank": 49,
    "attemptsPercentile": 65,
@@ -2186,7 +2186,7 @@
  "Rico Dowdle": {
   "name": "Rico Dowdle",
   "opportunity": {
-   "snapPercentage": 24,
+   "snapPercentage": 22,
    "attempts": 89,
    "attemptsRank": 50,
    "attemptsPercentile": 64,
@@ -2207,7 +2207,7 @@
  "Justice Hill": {
   "name": "Justice Hill",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 41,
    "attempts": 84,
    "attemptsRank": 51,
    "attemptsPercentile": 63,
@@ -2228,7 +2228,7 @@
  "Kenneth Gainwell": {
   "name": "Kenneth Gainwell",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 41,
    "attempts": 84,
    "attemptsRank": 52,
    "attemptsPercentile": 63,
@@ -2249,7 +2249,7 @@
  "Roschon Johnson": {
   "name": "Roschon Johnson",
   "opportunity": {
-   "snapPercentage": 41,
+   "snapPercentage": 39,
    "attempts": 81,
    "attemptsRank": 53,
    "attemptsPercentile": 62,
@@ -2291,7 +2291,7 @@
  "Royce Freeman": {
   "name": "Royce Freeman",
   "opportunity": {
-   "snapPercentage": 38,
+   "snapPercentage": 34,
    "attempts": 77,
    "attemptsRank": 55,
    "attemptsPercentile": 60,
@@ -2312,7 +2312,7 @@
  "Jaleel McLaughlin": {
   "name": "Jaleel McLaughlin",
   "opportunity": {
-   "snapPercentage": 19,
+   "snapPercentage": 18,
    "attempts": 76,
    "attemptsRank": 56,
    "attemptsPercentile": 60,
@@ -2333,7 +2333,7 @@
  "Elijah Mitchell": {
   "name": "Elijah Mitchell",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 23,
    "attempts": 75,
    "attemptsRank": 57,
    "attemptsPercentile": 59,
@@ -2354,7 +2354,7 @@
  "Clyde Edwards-Helaire": {
   "name": "Clyde Edwards-Helaire",
   "opportunity": {
-   "snapPercentage": 24,
+   "snapPercentage": 22,
    "attempts": 70,
    "attemptsRank": 58,
    "attemptsPercentile": 58,
@@ -2396,7 +2396,7 @@
  "Antonio Gibson": {
   "name": "Antonio Gibson",
   "opportunity": {
-   "snapPercentage": 48,
+   "snapPercentage": 46,
    "attempts": 65,
    "attemptsRank": 60,
    "attemptsPercentile": 57,
@@ -2414,8 +2414,8 @@
    }
   }
  },
- "Pierre Strong Jr.": {
-  "name": "Pierre Strong Jr.",
+ "Pierre Strong": {
+  "name": "Pierre Strong",
   "opportunity": {
    "snapPercentage": 16,
    "attempts": 63,
@@ -2459,7 +2459,7 @@
  "Emari Demercado": {
   "name": "Emari Demercado",
   "opportunity": {
-   "snapPercentage": 33,
+   "snapPercentage": 31,
    "attempts": 58,
    "attemptsRank": 63,
    "attemptsPercentile": 55,
@@ -2480,7 +2480,7 @@
  "Matt Breida": {
   "name": "Matt Breida",
   "opportunity": {
-   "snapPercentage": 28,
+   "snapPercentage": 26,
    "attempts": 55,
    "attemptsRank": 64,
    "attemptsPercentile": 54,
@@ -2501,7 +2501,7 @@
  "Samaje Perine": {
   "name": "Samaje Perine",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 34,
    "attempts": 53,
    "attemptsRank": 65,
    "attemptsPercentile": 53,
@@ -2519,8 +2519,8 @@
    }
   }
  },
- "Chris Rodriguez Jr.": {
-  "name": "Chris Rodriguez Jr.",
+ "Chris Rodriguez": {
+  "name": "Chris Rodriguez",
   "opportunity": {
    "snapPercentage": 15,
    "attempts": 51,
@@ -2543,7 +2543,7 @@
  "Cordarrelle Patterson": {
   "name": "Cordarrelle Patterson",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 19,
    "attempts": 50,
    "attemptsRank": 67,
    "attemptsPercentile": 52,
@@ -2564,7 +2564,7 @@
  "Tank Bigsby": {
   "name": "Tank Bigsby",
   "opportunity": {
-   "snapPercentage": 14,
+   "snapPercentage": 13,
    "attempts": 50,
    "attemptsRank": 68,
    "attemptsPercentile": 51,
@@ -2585,7 +2585,7 @@
  "Chase Edmonds": {
   "name": "Chase Edmonds",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 18,
    "attempts": 49,
    "attemptsRank": 69,
    "attemptsPercentile": 50,
@@ -2624,8 +2624,8 @@
    }
   }
  },
- "Darrell Henderson Jr.": {
-  "name": "Darrell Henderson Jr.",
+ "Darrell Henderson": {
+  "name": "Darrell Henderson",
   "opportunity": {
    "snapPercentage": 49,
    "attempts": 46,
@@ -2648,7 +2648,7 @@
  "Chase Brown": {
   "name": "Chase Brown",
   "opportunity": {
-   "snapPercentage": 14,
+   "snapPercentage": 13,
    "attempts": 44,
    "attemptsRank": 72,
    "attemptsPercentile": 48,
@@ -2669,7 +2669,7 @@
  "Kendre Miller": {
   "name": "Kendre Miller",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 20,
    "attempts": 41,
    "attemptsRank": 73,
    "attemptsPercentile": 47,
@@ -2687,10 +2687,10 @@
    }
   }
  },
- "Jeff Wilson Jr.": {
-  "name": "Jeff Wilson Jr.",
+ "Jeff Wilson": {
+  "name": "Jeff Wilson",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 23,
    "attempts": 41,
    "attemptsRank": 74,
    "attemptsPercentile": 47,
@@ -2711,7 +2711,7 @@
  "D'Ernest Johnson": {
   "name": "D'Ernest Johnson",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 17,
    "attempts": 41,
    "attemptsRank": 75,
    "attemptsPercentile": 46,
@@ -2753,7 +2753,7 @@
  "Jordan Mason": {
   "name": "Jordan Mason",
   "opportunity": {
-   "snapPercentage": 16,
+   "snapPercentage": 14,
    "attempts": 40,
    "attemptsRank": 77,
    "attemptsPercentile": 45,
@@ -2834,34 +2834,13 @@
    }
   }
  },
- "Patrick Taylor Jr.": {
-  "name": "Patrick Taylor Jr.",
-  "opportunity": {
-   "snapPercentage": 36,
-   "attempts": 32,
-   "attemptsRank": 81,
-   "attemptsPercentile": 42,
-   "attemptsGrade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   },
-   "receptions": 11,
-   "targets": 17,
-   "targetsRank": 66,
-   "targetsPercentile": 53,
-   "targetsGrade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  }
- },
  "Darrynton Evans": {
   "name": "Darrynton Evans",
   "opportunity": {
    "snapPercentage": 23,
    "attempts": 32,
-   "attemptsRank": 82,
-   "attemptsPercentile": 41,
+   "attemptsRank": 81,
+   "attemptsPercentile": 42,
    "attemptsGrade": {
     "letter": "F",
     "description": "Not Good Enough"
@@ -2876,10 +2855,31 @@
    }
   }
  },
+ "Patrick Taylor": {
+  "name": "Patrick Taylor",
+  "opportunity": {
+   "snapPercentage": 33,
+   "attempts": 32,
+   "attemptsRank": 82,
+   "attemptsPercentile": 41,
+   "attemptsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   },
+   "receptions": 11,
+   "targets": 17,
+   "targetsRank": 66,
+   "targetsPercentile": 53,
+   "targetsGrade": {
+    "letter": "F",
+    "description": "Not Good Enough"
+   }
+  }
+ },
  "Ronnie Rivers": {
   "name": "Ronnie Rivers",
   "opportunity": {
-   "snapPercentage": 23,
+   "snapPercentage": 20,
    "attempts": 32,
    "attemptsRank": 83,
    "attemptsPercentile": 40,
@@ -2900,7 +2900,7 @@
  "Michael Carter": {
   "name": "Michael Carter",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 23,
    "attempts": 30,
    "attemptsRank": 84,
    "attemptsPercentile": 40,
@@ -2921,7 +2921,7 @@
  "Ty Johnson": {
   "name": "Ty Johnson",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 15,
    "attempts": 30,
    "attemptsRank": 85,
    "attemptsPercentile": 39,
@@ -2960,8 +2960,8 @@
    }
   }
  },
- "Tony Jones Jr.": {
-  "name": "Tony Jones Jr.",
+ "Tony Jones": {
+  "name": "Tony Jones",
   "opportunity": {
    "snapPercentage": 30,
    "attempts": 26,
@@ -2981,10 +2981,10 @@
    }
   }
  },
- "Melvin Gordon III": {
-  "name": "Melvin Gordon III",
+ "Melvin Gordon": {
+  "name": "Melvin Gordon",
   "opportunity": {
-   "snapPercentage": 30,
+   "snapPercentage": 23,
    "attempts": 26,
    "attemptsRank": 88,
    "attemptsPercentile": 37,
@@ -3089,7 +3089,7 @@
  "Israel Abanikanda": {
   "name": "Israel Abanikanda",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 19,
    "attempts": 22,
    "attemptsRank": 93,
    "attemptsPercentile": 33,
@@ -3110,7 +3110,7 @@
  "La'Mical Perine": {
   "name": "La'Mical Perine",
   "opportunity": {
-   "snapPercentage": 24,
+   "snapPercentage": 19,
    "attempts": 22,
    "attemptsRank": 94,
    "attemptsPercentile": 32,
@@ -3152,7 +3152,7 @@
  "Boston Scott": {
   "name": "Boston Scott",
   "opportunity": {
-   "snapPercentage": 10,
+   "snapPercentage": 9,
    "attempts": 20,
    "attemptsRank": 96,
    "attemptsPercentile": 31,
@@ -3194,7 +3194,7 @@
  "Eric Gray": {
   "name": "Eric Gray",
   "opportunity": {
-   "snapPercentage": 17,
+   "snapPercentage": 14,
    "attempts": 17,
    "attemptsRank": 98,
    "attemptsPercentile": 29,
@@ -3215,7 +3215,7 @@
  "Kevin Harris": {
   "name": "Kevin Harris",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 15,
    "attempts": 16,
    "attemptsRank": 99,
    "attemptsPercentile": 29,
@@ -3236,7 +3236,7 @@
  "Ameer Abdullah": {
   "name": "Ameer Abdullah",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 21,
    "attempts": 15,
    "attemptsRank": 100,
    "attemptsPercentile": 28,
@@ -3257,7 +3257,7 @@
  "Trayveon Williams": {
   "name": "Trayveon Williams",
   "opportunity": {
-   "snapPercentage": 15,
+   "snapPercentage": 14,
    "attempts": 15,
    "attemptsRank": 101,
    "attemptsPercentile": 27,
@@ -3299,7 +3299,7 @@
  "Raheem Blackshear": {
   "name": "Raheem Blackshear",
   "opportunity": {
-   "snapPercentage": 8,
+   "snapPercentage": 7,
    "attempts": 14,
    "attemptsRank": 103,
    "attemptsPercentile": 26,
@@ -3362,7 +3362,7 @@
  "Tyler Goodson": {
   "name": "Tyler Goodson",
   "opportunity": {
-   "snapPercentage": 15,
+   "snapPercentage": 13,
    "attempts": 13,
    "attemptsRank": 106,
    "attemptsPercentile": 24,
@@ -3383,7 +3383,7 @@
  "Leonard Fournette": {
   "name": "Leonard Fournette",
   "opportunity": {
-   "snapPercentage": 47,
+   "snapPercentage": 20,
    "attempts": 12,
    "attemptsRank": 107,
    "attemptsPercentile": 23,
@@ -3425,7 +3425,7 @@
  "Rashaad Penny": {
   "name": "Rashaad Penny",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 15,
    "attempts": 11,
    "attemptsRank": 109,
    "attemptsPercentile": 22,
@@ -3488,7 +3488,7 @@
  "Zach Evans": {
   "name": "Zach Evans",
   "opportunity": {
-   "snapPercentage": 8,
+   "snapPercentage": 6,
    "attempts": 9,
    "attemptsRank": 112,
    "attemptsPercentile": 19,
@@ -3530,7 +3530,7 @@
  "Dare Ogunbowale": {
   "name": "Dare Ogunbowale",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 20,
    "attempts": 8,
    "attemptsRank": 114,
    "attemptsPercentile": 18,
@@ -3551,7 +3551,7 @@
  "Khari Blasingame": {
   "name": "Khari Blasingame",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 17,
    "attempts": 8,
    "attemptsRank": 115,
    "attemptsPercentile": 17,
@@ -3572,7 +3572,7 @@
  "Michael Burton": {
   "name": "Michael Burton",
   "opportunity": {
-   "snapPercentage": 19,
+   "snapPercentage": 18,
    "attempts": 7,
    "attemptsRank": 116,
    "attemptsPercentile": 17,
@@ -3593,7 +3593,7 @@
  "Hunter Luepke": {
   "name": "Hunter Luepke",
   "opportunity": {
-   "snapPercentage": 14,
+   "snapPercentage": 13,
    "attempts": 6,
    "attemptsRank": 117,
    "attemptsPercentile": 16,
@@ -3635,7 +3635,7 @@
  "Kyle Juszczyk": {
   "name": "Kyle Juszczyk",
   "opportunity": {
-   "snapPercentage": 49,
+   "snapPercentage": 46,
    "attempts": 5,
    "attemptsRank": 119,
    "attemptsPercentile": 14,
@@ -3698,7 +3698,7 @@
  "Andrew Beck": {
   "name": "Andrew Beck",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 32,
    "receptions": 11,
    "targets": 13,
    "targetsRank": 72,
@@ -3751,8 +3751,8 @@
    }
   }
  },
- "Ty Montgomery II": {
-  "name": "Ty Montgomery II",
+ "Ty Montgomery": {
+  "name": "Ty Montgomery",
   "opportunity": {
    "snapPercentage": 6,
    "receptions": 5,
@@ -3789,7 +3789,7 @@
  "Derrick Gore": {
   "name": "Derrick Gore",
   "opportunity": {
-   "snapPercentage": 8,
+   "snapPercentage": 7,
    "attempts": 3,
    "attemptsRank": 127,
    "attemptsPercentile": 9,
@@ -3831,7 +3831,7 @@
  "Jonathan Ward": {
   "name": "Jonathan Ward",
   "opportunity": {
-   "snapPercentage": 5,
+   "snapPercentage": 4,
    "attempts": 3,
    "attemptsRank": 129,
    "attemptsPercentile": 7,
@@ -3852,7 +3852,7 @@
  "Alec Ingold": {
   "name": "Alec Ingold",
   "opportunity": {
-   "snapPercentage": 39,
+   "snapPercentage": 38,
    "attempts": 2,
    "attemptsRank": 130,
    "attemptsPercentile": 6,
@@ -3936,7 +3936,7 @@
  "Adam Prentice": {
   "name": "Adam Prentice",
   "opportunity": {
-   "snapPercentage": 16,
+   "snapPercentage": 15,
    "attempts": 2,
    "attemptsRank": 134,
    "attemptsPercentile": 4,
@@ -3978,7 +3978,7 @@
  "C.J. Ham": {
   "name": "C.J. Ham",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 19,
    "attempts": 1,
    "attemptsRank": 136,
    "attemptsPercentile": 2,
@@ -4009,8 +4009,8 @@
    },
    "receptions": 3,
    "targets": 3,
-   "targetsRank": 119,
-   "targetsPercentile": 14,
+   "targetsRank": 118,
+   "targetsPercentile": 15,
    "targetsGrade": {
     "letter": "F",
     "description": "Not Good Enough"
@@ -4062,7 +4062,7 @@
  "CeeDee Lamb": {
   "name": "CeeDee Lamb",
   "opportunity": {
-   "snapPercentage": 89,
+   "snapPercentage": 84,
    "receptions": 135,
    "targets": 181,
    "targetsRank": 1,
@@ -4076,7 +4076,7 @@
  "Davante Adams": {
   "name": "Davante Adams",
   "opportunity": {
-   "snapPercentage": 98,
+   "snapPercentage": 92,
    "receptions": 103,
    "targets": 175,
    "targetsRank": 2,
@@ -4090,7 +4090,7 @@
  "Tyreek Hill": {
   "name": "Tyreek Hill",
   "opportunity": {
-   "snapPercentage": 71,
+   "snapPercentage": 67,
    "receptions": 119,
    "targets": 171,
    "targetsRank": 3,
@@ -4104,7 +4104,7 @@
  "Garrett Wilson": {
   "name": "Garrett Wilson",
   "opportunity": {
-   "snapPercentage": 97,
+   "snapPercentage": 92,
    "receptions": 95,
    "targets": 168,
    "targetsRank": 4,
@@ -4115,10 +4115,10 @@
    }
   }
  },
- "Amon-Ra St. Brown": {
-  "name": "Amon-Ra St. Brown",
+ "Amon-Ra St.": {
+  "name": "Amon-Ra St.",
   "opportunity": {
-   "snapPercentage": 95,
+   "snapPercentage": 90,
    "receptions": 119,
    "targets": 164,
    "targetsRank": 5,
@@ -4132,7 +4132,7 @@
  "Puka Nacua": {
   "name": "Puka Nacua",
   "opportunity": {
-   "snapPercentage": 93,
+   "snapPercentage": 87,
    "receptions": 105,
    "targets": 160,
    "targetsRank": 6,
@@ -4146,7 +4146,7 @@
  "Stefon Diggs": {
   "name": "Stefon Diggs",
   "opportunity": {
-   "snapPercentage": 87,
+   "snapPercentage": 82,
    "receptions": 107,
    "targets": 160,
    "targetsRank": 7,
@@ -4160,7 +4160,7 @@
  "A.J. Brown": {
   "name": "A.J. Brown",
   "opportunity": {
-   "snapPercentage": 94,
+   "snapPercentage": 89,
    "receptions": 106,
    "targets": 158,
    "targetsRank": 8,
@@ -4171,10 +4171,10 @@
    }
   }
  },
- "Michael Pittman Jr.": {
-  "name": "Michael Pittman Jr.",
+ "Michael Pittman": {
+  "name": "Michael Pittman",
   "opportunity": {
-   "snapPercentage": 98,
+   "snapPercentage": 92,
    "receptions": 109,
    "targets": 156,
    "targetsRank": 9,
@@ -4202,7 +4202,7 @@
  "Ja'Marr Chase": {
   "name": "Ja'Marr Chase",
   "opportunity": {
-   "snapPercentage": 93,
+   "snapPercentage": 87,
    "receptions": 100,
    "targets": 145,
    "targetsRank": 11,
@@ -4216,7 +4216,7 @@
  "Chris Olave": {
   "name": "Chris Olave",
   "opportunity": {
-   "snapPercentage": 79,
+   "snapPercentage": 74,
    "receptions": 87,
    "targets": 138,
    "targetsRank": 12,
@@ -4230,7 +4230,7 @@
  "Adam Thielen": {
   "name": "Adam Thielen",
   "opportunity": {
-   "snapPercentage": 95,
+   "snapPercentage": 91,
    "receptions": 103,
    "targets": 137,
    "targetsRank": 13,
@@ -4244,7 +4244,7 @@
  "DeAndre Hopkins": {
   "name": "DeAndre Hopkins",
   "opportunity": {
-   "snapPercentage": 76,
+   "snapPercentage": 72,
    "receptions": 75,
    "targets": 137,
    "targetsRank": 14,
@@ -4258,7 +4258,7 @@
  "DJ Moore": {
   "name": "DJ Moore",
   "opportunity": {
-   "snapPercentage": 94,
+   "snapPercentage": 90,
    "receptions": 96,
    "targets": 136,
    "targetsRank": 15,
@@ -4272,7 +4272,7 @@
  "Mike Evans": {
   "name": "Mike Evans",
   "opportunity": {
-   "snapPercentage": 83,
+   "snapPercentage": 78,
    "receptions": 79,
    "targets": 136,
    "targetsRank": 16,
@@ -4286,7 +4286,7 @@
  "Calvin Ridley": {
   "name": "Calvin Ridley",
   "opportunity": {
-   "snapPercentage": 91,
+   "snapPercentage": 85,
    "receptions": 76,
    "targets": 136,
    "targetsRank": 17,
@@ -4300,7 +4300,7 @@
  "Terry McLaurin": {
   "name": "Terry McLaurin",
   "opportunity": {
-   "snapPercentage": 89,
+   "snapPercentage": 85,
    "receptions": 79,
    "targets": 132,
    "targetsRank": 18,
@@ -4314,7 +4314,7 @@
  "Chris Godwin": {
   "name": "Chris Godwin",
   "opportunity": {
-   "snapPercentage": 86,
+   "snapPercentage": 81,
    "receptions": 83,
    "targets": 130,
    "targetsRank": 19,
@@ -4342,7 +4342,7 @@
  "Tyler Lockett": {
   "name": "Tyler Lockett",
   "opportunity": {
-   "snapPercentage": 84,
+   "snapPercentage": 80,
    "receptions": 79,
    "targets": 122,
    "targetsRank": 21,
@@ -4356,7 +4356,7 @@
  "DK Metcalf": {
   "name": "DK Metcalf",
   "opportunity": {
-   "snapPercentage": 89,
+   "snapPercentage": 84,
    "receptions": 66,
    "targets": 119,
    "targetsRank": 22,
@@ -4384,7 +4384,7 @@
  "Drake London": {
   "name": "Drake London",
   "opportunity": {
-   "snapPercentage": 86,
+   "snapPercentage": 81,
    "receptions": 69,
    "targets": 110,
    "targetsRank": 24,
@@ -4398,7 +4398,7 @@
  "Nico Collins": {
   "name": "Nico Collins",
   "opportunity": {
-   "snapPercentage": 72,
+   "snapPercentage": 68,
    "receptions": 80,
    "targets": 109,
    "targetsRank": 25,
@@ -4412,7 +4412,7 @@
  "Jordan Addison": {
   "name": "Jordan Addison",
   "opportunity": {
-   "snapPercentage": 88,
+   "snapPercentage": 82,
    "receptions": 70,
    "targets": 108,
    "targetsRank": 26,
@@ -4440,7 +4440,7 @@
  "Jakobi Meyers": {
   "name": "Jakobi Meyers",
   "opportunity": {
-   "snapPercentage": 96,
+   "snapPercentage": 90,
    "receptions": 71,
    "targets": 106,
    "targetsRank": 28,
@@ -4454,7 +4454,7 @@
  "George Pickens": {
   "name": "George Pickens",
   "opportunity": {
-   "snapPercentage": 92,
+   "snapPercentage": 87,
    "receptions": 63,
    "targets": 106,
    "targetsRank": 29,
@@ -4468,7 +4468,7 @@
  "Brandon Aiyuk": {
   "name": "Brandon Aiyuk",
   "opportunity": {
-   "snapPercentage": 87,
+   "snapPercentage": 82,
    "receptions": 75,
    "targets": 105,
    "targetsRank": 30,
@@ -4496,7 +4496,7 @@
  "Elijah Moore": {
   "name": "Elijah Moore",
   "opportunity": {
-   "snapPercentage": 76,
+   "snapPercentage": 73,
    "receptions": 59,
    "targets": 104,
    "targetsRank": 32,
@@ -4538,7 +4538,7 @@
  "Justin Jefferson": {
   "name": "Justin Jefferson",
   "opportunity": {
-   "snapPercentage": 96,
+   "snapPercentage": 85,
    "receptions": 68,
    "targets": 100,
    "targetsRank": 35,
@@ -4552,7 +4552,7 @@
  "Josh Downs": {
   "name": "Josh Downs",
   "opportunity": {
-   "snapPercentage": 73,
+   "snapPercentage": 69,
    "receptions": 68,
    "targets": 98,
    "targetsRank": 36,
@@ -4566,7 +4566,7 @@
  "Tyler Boyd": {
   "name": "Tyler Boyd",
   "opportunity": {
-   "snapPercentage": 80,
+   "snapPercentage": 76,
    "receptions": 67,
    "targets": 98,
    "targetsRank": 37,
@@ -4580,7 +4580,7 @@
  "Romeo Doubs": {
   "name": "Romeo Doubs",
   "opportunity": {
-   "snapPercentage": 82,
+   "snapPercentage": 77,
    "receptions": 59,
    "targets": 96,
    "targetsRank": 38,
@@ -4608,7 +4608,7 @@
  "Jayden Reed": {
   "name": "Jayden Reed",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 56,
    "receptions": 64,
    "targets": 94,
    "targetsRank": 40,
@@ -4622,7 +4622,7 @@
  "Jaxon Smith-Njigba": {
   "name": "Jaxon Smith-Njigba",
   "opportunity": {
-   "snapPercentage": 68,
+   "snapPercentage": 64,
    "receptions": 63,
    "targets": 93,
    "targetsRank": 41,
@@ -4636,7 +4636,7 @@
  "Curtis Samuel": {
   "name": "Curtis Samuel",
   "opportunity": {
-   "snapPercentage": 58,
+   "snapPercentage": 55,
    "receptions": 62,
    "targets": 91,
    "targetsRank": 42,
@@ -4650,7 +4650,7 @@
  "Courtland Sutton": {
   "name": "Courtland Sutton",
   "opportunity": {
-   "snapPercentage": 83,
+   "snapPercentage": 78,
    "receptions": 59,
    "targets": 90,
    "targetsRank": 43,
@@ -4664,7 +4664,7 @@
  "Deebo Samuel": {
   "name": "Deebo Samuel",
   "opportunity": {
-   "snapPercentage": 79,
+   "snapPercentage": 74,
    "receptions": 60,
    "targets": 89,
    "targetsRank": 44,
@@ -4678,7 +4678,7 @@
  "Diontae Johnson": {
   "name": "Diontae Johnson",
   "opportunity": {
-   "snapPercentage": 77,
+   "snapPercentage": 71,
    "receptions": 51,
    "targets": 87,
    "targetsRank": 45,
@@ -4692,7 +4692,7 @@
  "Jerry Jeudy": {
   "name": "Jerry Jeudy",
   "opportunity": {
-   "snapPercentage": 70,
+   "snapPercentage": 66,
    "receptions": 54,
    "targets": 87,
    "targetsRank": 46,
@@ -4734,7 +4734,7 @@
  "Jahan Dotson": {
   "name": "Jahan Dotson",
   "opportunity": {
-   "snapPercentage": 86,
+   "snapPercentage": 82,
    "receptions": 49,
    "targets": 83,
    "targetsRank": 49,
@@ -4748,7 +4748,7 @@
  "Brandin Cooks": {
   "name": "Brandin Cooks",
   "opportunity": {
-   "snapPercentage": 79,
+   "snapPercentage": 74,
    "receptions": 54,
    "targets": 81,
    "targetsRank": 50,
@@ -4762,7 +4762,7 @@
  "Gabe Davis": {
   "name": "Gabe Davis",
   "opportunity": {
-   "snapPercentage": 89,
+   "snapPercentage": 83,
    "receptions": 45,
    "targets": 81,
    "targetsRank": 51,
@@ -4776,7 +4776,7 @@
  "Darius Slayton": {
   "name": "Darius Slayton",
   "opportunity": {
-   "snapPercentage": 86,
+   "snapPercentage": 81,
    "receptions": 50,
    "targets": 79,
    "targetsRank": 52,
@@ -4790,7 +4790,7 @@
  "Demario Douglas": {
   "name": "Demario Douglas",
   "opportunity": {
-   "snapPercentage": 59,
+   "snapPercentage": 55,
    "receptions": 49,
    "targets": 79,
    "targetsRank": 53,
@@ -4804,7 +4804,7 @@
  "Wan'Dale Robinson": {
   "name": "Wan'Dale Robinson",
   "opportunity": {
-   "snapPercentage": 71,
+   "snapPercentage": 66,
    "receptions": 60,
    "targets": 78,
    "targetsRank": 54,
@@ -4846,7 +4846,7 @@
  "Rashid Shaheed": {
   "name": "Rashid Shaheed",
   "opportunity": {
-   "snapPercentage": 62,
+   "snapPercentage": 58,
    "receptions": 46,
    "targets": 75,
    "targetsRank": 57,
@@ -4860,7 +4860,7 @@
  "K.J. Osborn": {
   "name": "K.J. Osborn",
   "opportunity": {
-   "snapPercentage": 84,
+   "snapPercentage": 78,
    "receptions": 48,
    "targets": 75,
    "targetsRank": 58,
@@ -4888,7 +4888,7 @@
  "Trey Palmer": {
   "name": "Trey Palmer",
   "opportunity": {
-   "snapPercentage": 69,
+   "snapPercentage": 65,
    "receptions": 39,
    "targets": 68,
    "targetsRank": 60,
@@ -4902,7 +4902,7 @@
  "Tutu Atwell": {
   "name": "Tutu Atwell",
   "opportunity": {
-   "snapPercentage": 68,
+   "snapPercentage": 64,
    "receptions": 39,
    "targets": 67,
    "targetsRank": 61,
@@ -4916,7 +4916,7 @@
  "Quentin Johnston": {
   "name": "Quentin Johnston",
   "opportunity": {
-   "snapPercentage": 70,
+   "snapPercentage": 65,
    "receptions": 38,
    "targets": 67,
    "targetsRank": 62,
@@ -4927,10 +4927,10 @@
    }
   }
  },
- "DJ Chark Jr.": {
-  "name": "DJ Chark Jr.",
+ "DJ Chark": {
+  "name": "DJ Chark",
   "opportunity": {
-   "snapPercentage": 80,
+   "snapPercentage": 76,
    "receptions": 35,
    "targets": 66,
    "targetsRank": 63,
@@ -4944,7 +4944,7 @@
  "Alec Pierce": {
   "name": "Alec Pierce",
   "opportunity": {
-   "snapPercentage": 101,
+   "snapPercentage": 95,
    "receptions": 32,
    "targets": 65,
    "targetsRank": 64,
@@ -4958,7 +4958,7 @@
  "Josh Reynolds": {
   "name": "Josh Reynolds",
   "opportunity": {
-   "snapPercentage": 74,
+   "snapPercentage": 71,
    "receptions": 40,
    "targets": 64,
    "targetsRank": 65,
@@ -4969,8 +4969,8 @@
    }
   }
  },
- "Odell Beckham Jr.": {
-  "name": "Odell Beckham Jr.",
+ "Odell Beckham": {
+  "name": "Odell Beckham",
   "opportunity": {
    "snapPercentage": 50,
    "receptions": 35,
@@ -5000,7 +5000,7 @@
  "Zay Jones": {
   "name": "Zay Jones",
   "opportunity": {
-   "snapPercentage": 82,
+   "snapPercentage": 73,
    "receptions": 34,
    "targets": 64,
    "targetsRank": 68,
@@ -5014,7 +5014,7 @@
  "Rondale Moore": {
   "name": "Rondale Moore",
   "opportunity": {
-   "snapPercentage": 71,
+   "snapPercentage": 67,
    "receptions": 40,
    "targets": 62,
    "targetsRank": 69,
@@ -5028,7 +5028,7 @@
  "Joshua Palmer": {
   "name": "Joshua Palmer",
   "opportunity": {
-   "snapPercentage": 85,
+   "snapPercentage": 75,
    "receptions": 38,
    "targets": 61,
    "targetsRank": 70,
@@ -5056,7 +5056,7 @@
  "Dontayvion Wicks": {
   "name": "Dontayvion Wicks",
   "opportunity": {
-   "snapPercentage": 51,
+   "snapPercentage": 47,
    "receptions": 39,
    "targets": 58,
    "targetsRank": 72,
@@ -5070,7 +5070,7 @@
  "Michael Wilson": {
   "name": "Michael Wilson",
   "opportunity": {
-   "snapPercentage": 87,
+   "snapPercentage": 80,
    "receptions": 38,
    "targets": 58,
    "targetsRank": 73,
@@ -5084,7 +5084,7 @@
  "Michael Gallup": {
   "name": "Michael Gallup",
   "opportunity": {
-   "snapPercentage": 55,
+   "snapPercentage": 52,
    "receptions": 34,
    "targets": 57,
    "targetsRank": 74,
@@ -5098,7 +5098,7 @@
  "Rashod Bateman": {
   "name": "Rashod Bateman",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 57,
    "receptions": 32,
    "targets": 56,
    "targetsRank": 75,
@@ -5140,7 +5140,7 @@
  "DeVante Parker": {
   "name": "DeVante Parker",
   "opportunity": {
-   "snapPercentage": 80,
+   "snapPercentage": 74,
    "receptions": 33,
    "targets": 55,
    "targetsRank": 78,
@@ -5168,7 +5168,7 @@
  "Justin Watson": {
   "name": "Justin Watson",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 50,
    "receptions": 27,
    "targets": 53,
    "targetsRank": 80,
@@ -5179,10 +5179,10 @@
    }
   }
  },
- "Allen Robinson II": {
-  "name": "Allen Robinson II",
+ "Allen Robinson": {
+  "name": "Allen Robinson",
   "opportunity": {
-   "snapPercentage": 76,
+   "snapPercentage": 72,
    "receptions": 34,
    "targets": 49,
    "targetsRank": 81,
@@ -5224,7 +5224,7 @@
  "Khalil Shakir": {
   "name": "Khalil Shakir",
   "opportunity": {
-   "snapPercentage": 56,
+   "snapPercentage": 52,
    "receptions": 39,
    "targets": 45,
    "targetsRank": 84,
@@ -5238,7 +5238,7 @@
  "Nelson Agholor": {
   "name": "Nelson Agholor",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 52,
    "receptions": 35,
    "targets": 45,
    "targetsRank": 85,
@@ -5266,7 +5266,7 @@
  "Kalif Raymond": {
   "name": "Kalif Raymond",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 30,
    "receptions": 35,
    "targets": 44,
    "targetsRank": 87,
@@ -5280,7 +5280,7 @@
  "Brandon Powell": {
   "name": "Brandon Powell",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 41,
    "receptions": 29,
    "targets": 44,
    "targetsRank": 88,
@@ -5294,7 +5294,7 @@
  "Cedric Tillman": {
   "name": "Cedric Tillman",
   "opportunity": {
-   "snapPercentage": 64,
+   "snapPercentage": 60,
    "receptions": 21,
    "targets": 44,
    "targetsRank": 89,
@@ -5308,7 +5308,7 @@
  "Van Jefferson": {
   "name": "Van Jefferson",
   "opportunity": {
-   "snapPercentage": 57,
+   "snapPercentage": 54,
    "receptions": 20,
    "targets": 43,
    "targetsRank": 90,
@@ -5350,7 +5350,7 @@
  "Greg Dortch": {
   "name": "Greg Dortch",
   "opportunity": {
-   "snapPercentage": 50,
+   "snapPercentage": 46,
    "receptions": 24,
    "targets": 41,
    "targetsRank": 93,
@@ -5364,7 +5364,7 @@
  "Jalin Hyatt": {
   "name": "Jalin Hyatt",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 50,
    "receptions": 23,
    "targets": 40,
    "targetsRank": 94,
@@ -5378,7 +5378,7 @@
  "Demarcus Robinson": {
   "name": "Demarcus Robinson",
   "opportunity": {
-   "snapPercentage": 47,
+   "snapPercentage": 44,
    "receptions": 26,
    "targets": 39,
    "targetsRank": 95,
@@ -5389,10 +5389,10 @@
    }
   }
  },
- "Cedrick Wilson Jr.": {
-  "name": "Cedrick Wilson Jr.",
+ "Cedrick Wilson": {
+  "name": "Cedrick Wilson",
   "opportunity": {
-   "snapPercentage": 59,
+   "snapPercentage": 56,
    "receptions": 22,
    "targets": 38,
    "targetsRank": 96,
@@ -5406,7 +5406,7 @@
  "Xavier Gipson": {
   "name": "Xavier Gipson",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 50,
    "receptions": 21,
    "targets": 38,
    "targetsRank": 97,
@@ -5448,7 +5448,7 @@
  "Hunter Renfrow": {
   "name": "Hunter Renfrow",
   "opportunity": {
-   "snapPercentage": 37,
+   "snapPercentage": 35,
    "receptions": 25,
    "targets": 37,
    "targetsRank": 100,
@@ -5462,7 +5462,7 @@
  "Jalen Tolbert": {
   "name": "Jalen Tolbert",
   "opportunity": {
-   "snapPercentage": 43,
+   "snapPercentage": 40,
    "receptions": 22,
    "targets": 36,
    "targetsRank": 101,
@@ -5476,7 +5476,7 @@
  "Chris Moore": {
   "name": "Chris Moore",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 57,
    "receptions": 22,
    "targets": 35,
    "targetsRank": 102,
@@ -5490,7 +5490,7 @@
  "Tre Tucker": {
   "name": "Tre Tucker",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 34,
    "receptions": 19,
    "targets": 34,
    "targetsRank": 103,
@@ -5501,10 +5501,10 @@
    }
   }
  },
- "Marvin Mims Jr.": {
-  "name": "Marvin Mims Jr.",
+ "Marvin Mims": {
+  "name": "Marvin Mims",
   "opportunity": {
-   "snapPercentage": 41,
+   "snapPercentage": 38,
    "receptions": 22,
    "targets": 33,
    "targetsRank": 104,
@@ -5518,7 +5518,7 @@
  "Isaiah Hodgins": {
   "name": "Isaiah Hodgins",
   "opportunity": {
-   "snapPercentage": 49,
+   "snapPercentage": 46,
    "receptions": 21,
    "targets": 33,
    "targetsRank": 105,
@@ -5532,7 +5532,7 @@
  "Braxton Berrios": {
   "name": "Braxton Berrios",
   "opportunity": {
-   "snapPercentage": 47,
+   "snapPercentage": 44,
    "receptions": 27,
    "targets": 33,
    "targetsRank": 106,
@@ -5557,10 +5557,10 @@
    }
   }
  },
- "Terrace Marshall Jr.": {
-  "name": "Terrace Marshall Jr.",
+ "Terrace Marshall": {
+  "name": "Terrace Marshall",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 55,
    "receptions": 19,
    "targets": 33,
    "targetsRank": 108,
@@ -5574,7 +5574,7 @@
  "Trenton Irwin": {
   "name": "Trenton Irwin",
   "opportunity": {
-   "snapPercentage": 45,
+   "snapPercentage": 42,
    "receptions": 25,
    "targets": 32,
    "targetsRank": 109,
@@ -5588,7 +5588,7 @@
  "Tyler Scott": {
   "name": "Tyler Scott",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 39,
    "receptions": 17,
    "targets": 32,
    "targetsRank": 110,
@@ -5602,7 +5602,7 @@
  "Brandon Johnson": {
   "name": "Brandon Johnson",
   "opportunity": {
-   "snapPercentage": 46,
+   "snapPercentage": 43,
    "receptions": 19,
    "targets": 30,
    "targetsRank": 111,
@@ -5613,10 +5613,10 @@
    }
   }
  },
- "Calvin Austin III": {
-  "name": "Calvin Austin III",
+ "Calvin Austin": {
+  "name": "Calvin Austin",
   "opportunity": {
-   "snapPercentage": 37,
+   "snapPercentage": 35,
    "receptions": 17,
    "targets": 30,
    "targetsRank": 112,
@@ -5630,7 +5630,7 @@
  "Mack Hollins": {
   "name": "Mack Hollins",
   "opportunity": {
-   "snapPercentage": 42,
+   "snapPercentage": 39,
    "receptions": 18,
    "targets": 30,
    "targetsRank": 113,
@@ -5644,7 +5644,7 @@
  "Treylon Burks": {
   "name": "Treylon Burks",
   "opportunity": {
-   "snapPercentage": 67,
+   "snapPercentage": 62,
    "receptions": 16,
    "targets": 30,
    "targetsRank": 114,
@@ -5655,10 +5655,10 @@
    }
   }
  },
- "John Metchie III": {
-  "name": "John Metchie III",
+ "John Metchie": {
+  "name": "John Metchie",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 29,
    "receptions": 16,
    "targets": 30,
    "targetsRank": 115,
@@ -5672,7 +5672,7 @@
  "Alex Erickson": {
   "name": "Alex Erickson",
   "opportunity": {
-   "snapPercentage": 72,
+   "snapPercentage": 61,
    "receptions": 16,
    "targets": 29,
    "targetsRank": 116,
@@ -5714,7 +5714,7 @@
  "Jake Bobo": {
   "name": "Jake Bobo",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 29,
    "receptions": 19,
    "targets": 25,
    "targetsRank": 119,
@@ -5728,7 +5728,7 @@
  "Andrei Iosivas": {
   "name": "Andrei Iosivas",
   "opportunity": {
-   "snapPercentage": 28,
+   "snapPercentage": 26,
    "receptions": 15,
    "targets": 25,
    "targetsRank": 120,
@@ -5742,7 +5742,7 @@
  "Deven Thompkins": {
   "name": "Deven Thompkins",
   "opportunity": {
-   "snapPercentage": 24,
+   "snapPercentage": 23,
    "receptions": 17,
    "targets": 25,
    "targetsRank": 121,
@@ -5756,7 +5756,7 @@
  "Donovan Peoples-Jones": {
   "name": "Donovan Peoples-Jones",
   "opportunity": {
-   "snapPercentage": 50,
+   "snapPercentage": 48,
    "receptions": 13,
    "targets": 25,
    "targetsRank": 122,
@@ -5770,7 +5770,7 @@
  "Bo Melton": {
   "name": "Bo Melton",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 44,
    "receptions": 16,
    "targets": 24,
    "targetsRank": 123,
@@ -5784,7 +5784,7 @@
  "Malik Heath": {
   "name": "Malik Heath",
   "opportunity": {
-   "snapPercentage": 33,
+   "snapPercentage": 31,
    "receptions": 15,
    "targets": 24,
    "targetsRank": 124,
@@ -5795,10 +5795,10 @@
    }
   }
  },
- "Mecole Hardman Jr.": {
-  "name": "Mecole Hardman Jr.",
+ "Mecole Hardman": {
+  "name": "Mecole Hardman",
   "opportunity": {
-   "snapPercentage": 28,
+   "snapPercentage": 25,
    "receptions": 15,
    "targets": 24,
    "targetsRank": 125,
@@ -5812,7 +5812,7 @@
  "David Bell": {
   "name": "David Bell",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 20,
    "receptions": 14,
    "targets": 23,
    "targetsRank": 126,
@@ -5826,7 +5826,7 @@
  "KhaDarel Hodge": {
   "name": "KhaDarel Hodge",
   "opportunity": {
-   "snapPercentage": 35,
+   "snapPercentage": 33,
    "receptions": 14,
    "targets": 23,
    "targetsRank": 127,
@@ -5840,7 +5840,7 @@
  "Dyami Brown": {
   "name": "Dyami Brown",
   "opportunity": {
-   "snapPercentage": 24,
+   "snapPercentage": 23,
    "receptions": 12,
    "targets": 23,
    "targetsRank": 128,
@@ -5854,7 +5854,7 @@
  "Jalen Reagor": {
   "name": "Jalen Reagor",
   "opportunity": {
-   "snapPercentage": 52,
+   "snapPercentage": 48,
    "receptions": 7,
    "targets": 23,
    "targetsRank": 129,
@@ -5882,7 +5882,7 @@
  "Kyle Philips": {
   "name": "Kyle Philips",
   "opportunity": {
-   "snapPercentage": 27,
+   "snapPercentage": 24,
    "receptions": 15,
    "targets": 22,
    "targetsRank": 131,
@@ -5896,7 +5896,7 @@
  "Byron Pringle": {
   "name": "Byron Pringle",
   "opportunity": {
-   "snapPercentage": 19,
+   "snapPercentage": 18,
    "receptions": 14,
    "targets": 22,
    "targetsRank": 132,
@@ -5910,7 +5910,7 @@
  "Trent Sherfield": {
   "name": "Trent Sherfield",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 34,
    "receptions": 11,
    "targets": 22,
    "targetsRank": 133,
@@ -5924,7 +5924,7 @@
  "Sterling Shepard": {
   "name": "Sterling Shepard",
   "opportunity": {
-   "snapPercentage": 16,
+   "snapPercentage": 15,
    "receptions": 10,
    "targets": 22,
    "targetsRank": 134,
@@ -5952,7 +5952,7 @@
  "Deonte Harty": {
   "name": "Deonte Harty",
   "opportunity": {
-   "snapPercentage": 16,
+   "snapPercentage": 14,
    "receptions": 15,
    "targets": 21,
    "targetsRank": 136,
@@ -5966,7 +5966,7 @@
  "Parker Washington": {
   "name": "Parker Washington",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 39,
    "receptions": 16,
    "targets": 21,
    "targetsRank": 137,
@@ -5980,7 +5980,7 @@
  "Quez Watkins": {
   "name": "Quez Watkins",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 49,
    "receptions": 15,
    "targets": 21,
    "targetsRank": 138,
@@ -6008,7 +6008,7 @@
  "Chase Claypool": {
   "name": "Chase Claypool",
   "opportunity": {
-   "snapPercentage": 35,
+   "snapPercentage": 32,
    "receptions": 8,
    "targets": 21,
    "targetsRank": 140,
@@ -6022,7 +6022,7 @@
  "Olamide Zaccheaus": {
   "name": "Olamide Zaccheaus",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 41,
    "receptions": 10,
    "targets": 20,
    "targetsRank": 141,
@@ -6036,7 +6036,7 @@
  "Jamison Crowder": {
   "name": "Jamison Crowder",
   "opportunity": {
-   "snapPercentage": 19,
+   "snapPercentage": 18,
    "receptions": 16,
    "targets": 20,
    "targetsRank": 142,
@@ -6050,7 +6050,7 @@
  "Lil'Jordan Humphrey": {
   "name": "Lil'Jordan Humphrey",
   "opportunity": {
-   "snapPercentage": 42,
+   "snapPercentage": 40,
    "receptions": 13,
    "targets": 19,
    "targetsRank": 143,
@@ -6064,7 +6064,7 @@
  "Julio Jones": {
   "name": "Julio Jones",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 33,
    "receptions": 11,
    "targets": 19,
    "targetsRank": 144,
@@ -6078,7 +6078,7 @@
  "Xavier Hutchinson": {
   "name": "Xavier Hutchinson",
   "opportunity": {
-   "snapPercentage": 32,
+   "snapPercentage": 30,
    "receptions": 8,
    "targets": 19,
    "targetsRank": 145,
@@ -6092,7 +6092,7 @@
  "A.T. Perry": {
   "name": "A.T. Perry",
   "opportunity": {
-   "snapPercentage": 59,
+   "snapPercentage": 53,
    "receptions": 12,
    "targets": 18,
    "targetsRank": 146,
@@ -6106,7 +6106,7 @@
  "KaVontae Turpin": {
   "name": "KaVontae Turpin",
   "opportunity": {
-   "snapPercentage": 14,
+   "snapPercentage": 13,
    "receptions": 12,
    "targets": 18,
    "targetsRank": 147,
@@ -6120,7 +6120,7 @@
  "Tim Jones": {
   "name": "Tim Jones",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 29,
    "receptions": 11,
    "targets": 18,
    "targetsRank": 148,
@@ -6148,7 +6148,7 @@
  "Derius Davis": {
   "name": "Derius Davis",
   "opportunity": {
-   "snapPercentage": 15,
+   "snapPercentage": 14,
    "receptions": 15,
    "targets": 17,
    "targetsRank": 150,
@@ -6162,7 +6162,7 @@
  "Randall Cobb": {
   "name": "Randall Cobb",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 31,
    "receptions": 5,
    "targets": 17,
    "targetsRank": 151,
@@ -6176,7 +6176,7 @@
  "Scott Miller": {
   "name": "Scott Miller",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 24,
    "receptions": 11,
    "targets": 16,
    "targetsRank": 152,
@@ -6187,10 +6187,10 @@
    }
   }
  },
- "Lynn Bowden Jr.": {
-  "name": "Lynn Bowden Jr.",
+ "Lynn Bowden": {
+  "name": "Lynn Bowden",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 32,
    "receptions": 11,
    "targets": 16,
    "targetsRank": 153,
@@ -6201,10 +6201,10 @@
    }
   }
  },
- "Ray-Ray McCloud III": {
-  "name": "Ray-Ray McCloud III",
+ "Ray-Ray McCloud": {
+  "name": "Ray-Ray McCloud",
   "opportunity": {
-   "snapPercentage": 33,
+   "snapPercentage": 30,
    "receptions": 12,
    "targets": 15,
    "targetsRank": 154,
@@ -6218,7 +6218,7 @@
  "Zach Pascal": {
   "name": "Zach Pascal",
   "opportunity": {
-   "snapPercentage": 23,
+   "snapPercentage": 22,
    "receptions": 4,
    "targets": 15,
    "targetsRank": 155,
@@ -6229,10 +6229,10 @@
    }
   }
  },
- "Richie James Jr.": {
-  "name": "Richie James Jr.",
+ "Richie James": {
+  "name": "Richie James",
   "opportunity": {
-   "snapPercentage": 26,
+   "snapPercentage": 24,
    "receptions": 10,
    "targets": 14,
    "targetsRank": 156,
@@ -6260,7 +6260,7 @@
  "Ronnie Bell": {
   "name": "Ronnie Bell",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 19,
    "receptions": 6,
    "targets": 13,
    "targetsRank": 158,
@@ -6288,7 +6288,7 @@
  "Keelan Doss": {
   "name": "Keelan Doss",
   "opportunity": {
-   "snapPercentage": 37,
+   "snapPercentage": 28,
    "receptions": 6,
    "targets": 13,
    "targetsRank": 160,
@@ -6302,7 +6302,7 @@
  "River Cracraft": {
   "name": "River Cracraft",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 28,
    "receptions": 9,
    "targets": 12,
    "targetsRank": 161,
@@ -6316,7 +6316,7 @@
  "Ben Skowronek": {
   "name": "Ben Skowronek",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 19,
    "receptions": 8,
    "targets": 12,
    "targetsRank": 162,
@@ -6330,7 +6330,7 @@
  "Justyn Ross": {
   "name": "Justyn Ross",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 20,
    "receptions": 6,
    "targets": 11,
    "targetsRank": 164,
@@ -6344,7 +6344,7 @@
  "Ihmir Smith-Marsette": {
   "name": "Ihmir Smith-Marsette",
   "opportunity": {
-   "snapPercentage": 15,
+   "snapPercentage": 14,
    "receptions": 8,
    "targets": 10,
    "targetsRank": 165,
@@ -6355,8 +6355,8 @@
    }
   }
  },
- "Laviska Shenault Jr.": {
-  "name": "Laviska Shenault Jr.",
+ "Laviska Shenault": {
+  "name": "Laviska Shenault",
   "opportunity": {
    "snapPercentage": 16,
    "receptions": 10,
@@ -6369,8 +6369,8 @@
    }
   }
  },
- "Marvin Jones Jr.": {
-  "name": "Marvin Jones Jr.",
+ "Marvin Jones": {
+  "name": "Marvin Jones",
   "opportunity": {
    "snapPercentage": 43,
    "receptions": 5,
@@ -6386,7 +6386,7 @@
  "Charlie Jones": {
   "name": "Charlie Jones",
   "opportunity": {
-   "snapPercentage": 10,
+   "snapPercentage": 9,
    "receptions": 7,
    "targets": 9,
    "targetsRank": 168,
@@ -6442,7 +6442,7 @@
  "Jason Brownlee": {
   "name": "Jason Brownlee",
   "opportunity": {
-   "snapPercentage": 76,
+   "snapPercentage": 65,
    "receptions": 5,
    "targets": 8,
    "targetsRank": 172,
@@ -6456,7 +6456,7 @@
  "D.J. Montgomery": {
   "name": "D.J. Montgomery",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 26,
    "receptions": 3,
    "targets": 8,
    "targetsRank": 173,
@@ -6470,7 +6470,7 @@
  "David Moore": {
   "name": "David Moore",
   "opportunity": {
-   "snapPercentage": 27,
+   "snapPercentage": 23,
    "receptions": 5,
    "targets": 7,
    "targetsRank": 174,
@@ -6481,8 +6481,8 @@
    }
   }
  },
- "Velus Jones Jr.": {
-  "name": "Velus Jones Jr.",
+ "Velus Jones": {
+  "name": "Velus Jones",
   "opportunity": {
    "snapPercentage": 12,
    "receptions": 4,
@@ -6498,7 +6498,7 @@
  "DeAndre Carter": {
   "name": "DeAndre Carter",
   "opportunity": {
-   "snapPercentage": 11,
+   "snapPercentage": 10,
    "receptions": 4,
    "targets": 7,
    "targetsRank": 176,
@@ -6512,7 +6512,7 @@
  "Austin Trammell": {
   "name": "Austin Trammell",
   "opportunity": {
-   "snapPercentage": 9,
+   "snapPercentage": 8,
    "receptions": 4,
    "targets": 7,
    "targetsRank": 177,
@@ -6526,7 +6526,7 @@
  "Kayshon Boutte": {
   "name": "Kayshon Boutte",
   "opportunity": {
-   "snapPercentage": 42,
+   "snapPercentage": 35,
    "receptions": 2,
    "targets": 7,
    "targetsRank": 178,
@@ -6540,7 +6540,7 @@
  "Robbie Chosen": {
   "name": "Robbie Chosen",
   "opportunity": {
-   "snapPercentage": 26,
+   "snapPercentage": 23,
    "receptions": 4,
    "targets": 6,
    "targetsRank": 179,
@@ -6554,7 +6554,7 @@
  "Jalen Brooks": {
   "name": "Jalen Brooks",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 16,
    "receptions": 6,
    "targets": 6,
    "targetsRank": 180,
@@ -6565,10 +6565,10 @@
    }
   }
  },
- "Equanimeous St. Brown": {
-  "name": "Equanimeous St. Brown",
+ "Equanimeous St.": {
+  "name": "Equanimeous St.",
   "opportunity": {
-   "snapPercentage": 50,
+   "snapPercentage": 45,
    "receptions": 5,
    "targets": 6,
    "targetsRank": 181,
@@ -6582,7 +6582,7 @@
  "Chris Conley": {
   "name": "Chris Conley",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 22,
    "receptions": 3,
    "targets": 6,
    "targetsRank": 182,
@@ -6596,7 +6596,7 @@
  "Britain Covey": {
   "name": "Britain Covey",
   "opportunity": {
-   "snapPercentage": 12,
+   "snapPercentage": 11,
    "receptions": 4,
    "targets": 6,
    "targetsRank": 183,
@@ -6635,10 +6635,10 @@
    }
   }
  },
- "James Proche II": {
-  "name": "James Proche II",
+ "James Proche": {
+  "name": "James Proche",
   "opportunity": {
-   "snapPercentage": 39,
+   "snapPercentage": 29,
    "receptions": 0,
    "targets": 5,
    "targetsRank": 186,
@@ -6652,7 +6652,7 @@
  "Elijah Cooks": {
   "name": "Elijah Cooks",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 18,
    "receptions": 3,
    "targets": 4,
    "targetsRank": 187,
@@ -6680,7 +6680,7 @@
  "Miles Boykin": {
   "name": "Miles Boykin",
   "opportunity": {
-   "snapPercentage": 13,
+   "snapPercentage": 12,
    "receptions": 3,
    "targets": 4,
    "targetsRank": 189,
@@ -6708,7 +6708,7 @@
  "Tyler Johnson": {
   "name": "Tyler Johnson",
   "opportunity": {
-   "snapPercentage": null,
+   "snapPercentage": 54,
    "receptions": 2,
    "targets": 3,
    "targetsRank": 191,
@@ -6719,8 +6719,8 @@
    }
   }
  },
- "Steven Sims Jr.": {
-  "name": "Steven Sims Jr.",
+ "Steven Sims": {
+  "name": "Steven Sims",
   "opportunity": {
    "snapPercentage": 5,
    "receptions": 3,
@@ -6747,8 +6747,8 @@
    }
   }
  },
- "Willie Snead IV": {
-  "name": "Willie Snead IV",
+ "Willie Snead": {
+  "name": "Willie Snead",
   "opportunity": {
    "snapPercentage": 19,
    "receptions": 2,
@@ -6764,7 +6764,7 @@
  "Laquon Treadwell": {
   "name": "Laquon Treadwell",
   "opportunity": {
-   "snapPercentage": 57,
+   "snapPercentage": 38,
    "receptions": 1,
    "targets": 3,
    "targetsRank": 195,
@@ -6775,8 +6775,8 @@
    }
   }
  },
- "Phillip Dorsett II": {
-  "name": "Phillip Dorsett II",
+ "Phillip Dorsett": {
+  "name": "Phillip Dorsett",
   "opportunity": {
    "snapPercentage": 26,
    "receptions": 0,
@@ -6792,7 +6792,7 @@
  "Tylan Wallace": {
   "name": "Tylan Wallace",
   "opportunity": {
-   "snapPercentage": 12,
+   "snapPercentage": 11,
    "receptions": 1,
    "targets": 2,
    "targetsRank": 197,
@@ -6834,7 +6834,7 @@
  "Antoine Green": {
   "name": "Antoine Green",
   "opportunity": {
-   "snapPercentage": 19,
+   "snapPercentage": 17,
    "receptions": 1,
    "targets": 2,
    "targetsRank": 200,
@@ -6862,7 +6862,7 @@
  "Rodney Williams": {
   "name": "Rodney Williams",
   "opportunity": {
-   "snapPercentage": 8,
+   "snapPercentage": 7,
    "receptions": 0,
    "targets": 2,
    "targetsRank": 109,
@@ -6890,7 +6890,7 @@
  "Evan Engram": {
   "name": "Evan Engram",
   "opportunity": {
-   "snapPercentage": 84,
+   "snapPercentage": 79,
    "receptions": 114,
    "targets": 143,
    "targetsRank": 1,
@@ -6946,7 +6946,7 @@
  "Sam LaPorta": {
   "name": "Sam LaPorta",
   "opportunity": {
-   "snapPercentage": 88,
+   "snapPercentage": 83,
    "receptions": 86,
    "targets": 120,
    "targetsRank": 5,
@@ -6960,7 +6960,7 @@
  "Trey McBride": {
   "name": "Trey McBride",
   "opportunity": {
-   "snapPercentage": 74,
+   "snapPercentage": 69,
    "receptions": 81,
    "targets": 106,
    "targetsRank": 6,
@@ -6974,7 +6974,7 @@
  "Jake Ferguson": {
   "name": "Jake Ferguson",
   "opportunity": {
-   "snapPercentage": 79,
+   "snapPercentage": 74,
    "receptions": 71,
    "targets": 102,
    "targetsRank": 7,
@@ -6988,7 +6988,7 @@
  "Dalton Kincaid": {
   "name": "Dalton Kincaid",
   "opportunity": {
-   "snapPercentage": 68,
+   "snapPercentage": 63,
    "receptions": 73,
    "targets": 91,
    "targetsRank": 8,
@@ -7016,7 +7016,7 @@
  "Cole Kmet": {
   "name": "Cole Kmet",
   "opportunity": {
-   "snapPercentage": 81,
+   "snapPercentage": 77,
    "receptions": 73,
    "targets": 90,
    "targetsRank": 10,
@@ -7030,7 +7030,7 @@
  "Kyle Pitts": {
   "name": "Kyle Pitts",
   "opportunity": {
-   "snapPercentage": 68,
+   "snapPercentage": 64,
    "receptions": 53,
    "targets": 90,
    "targetsRank": 11,
@@ -7044,7 +7044,7 @@
  "Dalton Schultz": {
   "name": "Dalton Schultz",
   "opportunity": {
-   "snapPercentage": 77,
+   "snapPercentage": 73,
    "receptions": 59,
    "targets": 88,
    "targetsRank": 12,
@@ -7058,7 +7058,7 @@
  "Tyler Conklin": {
   "name": "Tyler Conklin",
   "opportunity": {
-   "snapPercentage": 75,
+   "snapPercentage": 70,
    "receptions": 61,
    "targets": 87,
    "targetsRank": 13,
@@ -7072,7 +7072,7 @@
  "Dallas Goedert": {
   "name": "Dallas Goedert",
   "opportunity": {
-   "snapPercentage": 91,
+   "snapPercentage": 85,
    "receptions": 59,
    "targets": 83,
    "targetsRank": 14,
@@ -7086,7 +7086,7 @@
  "Logan Thomas": {
   "name": "Logan Thomas",
   "opportunity": {
-   "snapPercentage": 73,
+   "snapPercentage": 70,
    "receptions": 55,
    "targets": 78,
    "targetsRank": 15,
@@ -7100,7 +7100,7 @@
  "Chigoziem Okonkwo": {
   "name": "Chigoziem Okonkwo",
   "opportunity": {
-   "snapPercentage": 70,
+   "snapPercentage": 66,
    "receptions": 54,
    "targets": 77,
    "targetsRank": 16,
@@ -7114,7 +7114,7 @@
  "Darren Waller": {
   "name": "Darren Waller",
   "opportunity": {
-   "snapPercentage": 75,
+   "snapPercentage": 69,
    "receptions": 52,
    "targets": 74,
    "targetsRank": 17,
@@ -7128,7 +7128,7 @@
  "Jonnu Smith": {
   "name": "Jonnu Smith",
   "opportunity": {
-   "snapPercentage": 61,
+   "snapPercentage": 58,
    "receptions": 50,
    "targets": 70,
    "targetsRank": 18,
@@ -7142,7 +7142,7 @@
  "Gerald Everett": {
   "name": "Gerald Everett",
   "opportunity": {
-   "snapPercentage": 61,
+   "snapPercentage": 56,
    "receptions": 51,
    "targets": 70,
    "targetsRank": 19,
@@ -7170,7 +7170,7 @@
  "Cade Otton": {
   "name": "Cade Otton",
   "opportunity": {
-   "snapPercentage": 103,
+   "snapPercentage": 96,
    "receptions": 47,
    "targets": 67,
    "targetsRank": 21,
@@ -7212,7 +7212,7 @@
  "Juwan Johnson": {
   "name": "Juwan Johnson",
   "opportunity": {
-   "snapPercentage": 71,
+   "snapPercentage": 65,
    "receptions": 37,
    "targets": 59,
    "targetsRank": 24,
@@ -7226,7 +7226,7 @@
  "Tanner Hudson": {
   "name": "Tanner Hudson",
   "opportunity": {
-   "snapPercentage": 39,
+   "snapPercentage": 36,
    "receptions": 39,
    "targets": 50,
    "targetsRank": 25,
@@ -7240,7 +7240,7 @@
  "Kylen Granson": {
   "name": "Kylen Granson",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 49,
    "receptions": 30,
    "targets": 50,
    "targetsRank": 26,
@@ -7254,7 +7254,7 @@
  "Pat Freiermuth": {
   "name": "Pat Freiermuth",
   "opportunity": {
-   "snapPercentage": 69,
+   "snapPercentage": 63,
    "receptions": 32,
    "targets": 47,
    "targetsRank": 27,
@@ -7268,7 +7268,7 @@
  "Luke Musgrave": {
   "name": "Luke Musgrave",
   "opportunity": {
-   "snapPercentage": 72,
+   "snapPercentage": 66,
    "receptions": 34,
    "targets": 46,
    "targetsRank": 28,
@@ -7282,7 +7282,7 @@
  "Mike Gesicki": {
   "name": "Mike Gesicki",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 50,
    "receptions": 29,
    "targets": 45,
    "targetsRank": 29,
@@ -7296,7 +7296,7 @@
  "Noah Fant": {
   "name": "Noah Fant",
   "opportunity": {
-   "snapPercentage": 58,
+   "snapPercentage": 55,
    "receptions": 32,
    "targets": 43,
    "targetsRank": 30,
@@ -7310,7 +7310,7 @@
  "Durham Smythe": {
   "name": "Durham Smythe",
   "opportunity": {
-   "snapPercentage": 80,
+   "snapPercentage": 76,
    "receptions": 35,
    "targets": 43,
    "targetsRank": 31,
@@ -7335,10 +7335,10 @@
    }
   }
  },
- "Donald Parham Jr.": {
-  "name": "Donald Parham Jr.",
+ "Donald Parham": {
+  "name": "Donald Parham",
   "opportunity": {
-   "snapPercentage": 53,
+   "snapPercentage": 48,
    "receptions": 27,
    "targets": 41,
    "targetsRank": 33,
@@ -7352,7 +7352,7 @@
  "Noah Gray": {
   "name": "Noah Gray",
   "opportunity": {
-   "snapPercentage": 55,
+   "snapPercentage": 52,
    "receptions": 28,
    "targets": 41,
    "targetsRank": 34,
@@ -7366,7 +7366,7 @@
  "Taysom Hill": {
   "name": "Taysom Hill",
   "opportunity": {
-   "snapPercentage": 41,
+   "snapPercentage": 38,
    "receptions": 33,
    "targets": 40,
    "targetsRank": 35,
@@ -7380,7 +7380,7 @@
  "Isaiah Likely": {
   "name": "Isaiah Likely",
   "opportunity": {
-   "snapPercentage": 46,
+   "snapPercentage": 44,
    "receptions": 30,
    "targets": 40,
    "targetsRank": 36,
@@ -7394,7 +7394,7 @@
  "Tucker Kraft": {
   "name": "Tucker Kraft",
   "opportunity": {
-   "snapPercentage": 60,
+   "snapPercentage": 57,
    "receptions": 31,
    "targets": 40,
    "targetsRank": 37,
@@ -7422,7 +7422,7 @@
  "Dawson Knox": {
   "name": "Dawson Knox",
   "opportunity": {
-   "snapPercentage": 66,
+   "snapPercentage": 60,
    "receptions": 22,
    "targets": 36,
    "targetsRank": 39,
@@ -7436,7 +7436,7 @@
  "Adam Trautman": {
   "name": "Adam Trautman",
   "opportunity": {
-   "snapPercentage": 75,
+   "snapPercentage": 70,
    "receptions": 22,
    "targets": 35,
    "targetsRank": 40,
@@ -7450,7 +7450,7 @@
  "Colby Parkinson": {
   "name": "Colby Parkinson",
   "opportunity": {
-   "snapPercentage": 50,
+   "snapPercentage": 47,
    "receptions": 25,
    "targets": 34,
    "targetsRank": 41,
@@ -7464,7 +7464,7 @@
  "Connor Heyward": {
   "name": "Connor Heyward",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 38,
    "receptions": 23,
    "targets": 34,
    "targetsRank": 42,
@@ -7478,7 +7478,7 @@
  "Tommy Tremble": {
   "name": "Tommy Tremble",
   "opportunity": {
-   "snapPercentage": 54,
+   "snapPercentage": 51,
    "receptions": 23,
    "targets": 32,
    "targetsRank": 43,
@@ -7506,7 +7506,7 @@
  "Austin Hooper": {
   "name": "Austin Hooper",
   "opportunity": {
-   "snapPercentage": 57,
+   "snapPercentage": 53,
    "receptions": 25,
    "targets": 31,
    "targetsRank": 45,
@@ -7520,7 +7520,7 @@
  "Josh Oliver": {
   "name": "Josh Oliver",
   "opportunity": {
-   "snapPercentage": 44,
+   "snapPercentage": 42,
    "receptions": 22,
    "targets": 28,
    "targetsRank": 46,
@@ -7534,7 +7534,7 @@
  "Daniel Bellinger": {
   "name": "Daniel Bellinger",
   "opportunity": {
-   "snapPercentage": 66,
+   "snapPercentage": 62,
    "receptions": 25,
    "targets": 28,
    "targetsRank": 47,
@@ -7548,7 +7548,7 @@
  "John Bates": {
   "name": "John Bates",
   "opportunity": {
-   "snapPercentage": 47,
+   "snapPercentage": 45,
    "receptions": 19,
    "targets": 28,
    "targetsRank": 48,
@@ -7562,7 +7562,7 @@
  "Drew Sample": {
   "name": "Drew Sample",
   "opportunity": {
-   "snapPercentage": 49,
+   "snapPercentage": 46,
    "receptions": 22,
    "targets": 27,
    "targetsRank": 49,
@@ -7576,7 +7576,7 @@
  "Will Mallory": {
   "name": "Will Mallory",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 20,
    "receptions": 18,
    "targets": 26,
    "targetsRank": 50,
@@ -7587,8 +7587,8 @@
    }
   }
  },
- "Irv Smith Jr.": {
-  "name": "Irv Smith Jr.",
+ "Irv Smith": {
+  "name": "Irv Smith",
   "opportunity": {
    "snapPercentage": 44,
    "receptions": 18,
@@ -7604,7 +7604,7 @@
  "Foster Moreau": {
   "name": "Foster Moreau",
   "opportunity": {
-   "snapPercentage": 57,
+   "snapPercentage": 53,
    "receptions": 21,
    "targets": 25,
    "targetsRank": 52,
@@ -7618,7 +7618,7 @@
  "Stephen Sullivan": {
   "name": "Stephen Sullivan",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 23,
    "receptions": 12,
    "targets": 24,
    "targetsRank": 53,
@@ -7632,7 +7632,7 @@
  "Johnny Mundt": {
   "name": "Johnny Mundt",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 20,
    "receptions": 17,
    "targets": 23,
    "targetsRank": 54,
@@ -7660,7 +7660,7 @@
  "Mo Alie-Cox": {
   "name": "Mo Alie-Cox",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 38,
    "receptions": 13,
    "targets": 22,
    "targetsRank": 56,
@@ -7674,7 +7674,7 @@
  "Will Dissly": {
   "name": "Will Dissly",
   "opportunity": {
-   "snapPercentage": 41,
+   "snapPercentage": 39,
    "receptions": 17,
    "targets": 22,
    "targetsRank": 57,
@@ -7702,7 +7702,7 @@
  "Brevin Jordan": {
   "name": "Brevin Jordan",
   "opportunity": {
-   "snapPercentage": 36,
+   "snapPercentage": 33,
    "receptions": 17,
    "targets": 21,
    "targetsRank": 59,
@@ -7730,7 +7730,7 @@
  "Stone Smartt": {
   "name": "Stone Smartt",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 28,
    "receptions": 11,
    "targets": 21,
    "targetsRank": 61,
@@ -7744,7 +7744,7 @@
  "Harrison Bryant": {
   "name": "Harrison Bryant",
   "opportunity": {
-   "snapPercentage": 34,
+   "snapPercentage": 33,
    "receptions": 13,
    "targets": 20,
    "targetsRank": 62,
@@ -7758,7 +7758,7 @@
  "Elijah Higgins": {
   "name": "Elijah Higgins",
   "opportunity": {
-   "snapPercentage": 29,
+   "snapPercentage": 26,
    "receptions": 14,
    "targets": 19,
    "targetsRank": 63,
@@ -7772,7 +7772,7 @@
  "Robert Tonyan": {
   "name": "Robert Tonyan",
   "opportunity": {
-   "snapPercentage": 30,
+   "snapPercentage": 28,
    "receptions": 11,
    "targets": 17,
    "targetsRank": 64,
@@ -7786,7 +7786,7 @@
  "Pharaoh Brown": {
   "name": "Pharaoh Brown",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 38,
    "receptions": 13,
    "targets": 15,
    "targetsRank": 65,
@@ -7800,7 +7800,7 @@
  "Luke Farrell": {
   "name": "Luke Farrell",
   "opportunity": {
-   "snapPercentage": 38,
+   "snapPercentage": 35,
    "receptions": 13,
    "targets": 15,
    "targetsRank": 66,
@@ -7814,7 +7814,7 @@
  "Luke Schoonmaker": {
   "name": "Luke Schoonmaker",
   "opportunity": {
-   "snapPercentage": 33,
+   "snapPercentage": 31,
    "receptions": 8,
    "targets": 15,
    "targetsRank": 67,
@@ -7870,7 +7870,7 @@
  "Lucas Krull": {
   "name": "Lucas Krull",
   "opportunity": {
-   "snapPercentage": 41,
+   "snapPercentage": 36,
    "receptions": 8,
    "targets": 14,
    "targetsRank": 71,
@@ -7884,7 +7884,7 @@
  "MyCole Pruitt": {
   "name": "MyCole Pruitt",
   "opportunity": {
-   "snapPercentage": 38,
+   "snapPercentage": 36,
    "receptions": 9,
    "targets": 12,
    "targetsRank": 73,
@@ -7912,7 +7912,7 @@
  "Mitchell Wilcox": {
   "name": "Mitchell Wilcox",
   "opportunity": {
-   "snapPercentage": 22,
+   "snapPercentage": 21,
    "receptions": 9,
    "targets": 12,
    "targetsRank": 75,
@@ -7926,7 +7926,7 @@
  "Davis Allen": {
   "name": "Davis Allen",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 19,
    "receptions": 10,
    "targets": 11,
    "targetsRank": 76,
@@ -7954,7 +7954,7 @@
  "Darnell Washington": {
   "name": "Darnell Washington",
   "opportunity": {
-   "snapPercentage": 51,
+   "snapPercentage": 48,
    "receptions": 7,
    "targets": 10,
    "targetsRank": 78,
@@ -7968,7 +7968,7 @@
  "Charlie Kolar": {
   "name": "Charlie Kolar",
   "opportunity": {
-   "snapPercentage": 27,
+   "snapPercentage": 25,
    "receptions": 7,
    "targets": 9,
    "targetsRank": 79,
@@ -7982,7 +7982,7 @@
  "Brenton Strange": {
   "name": "Brenton Strange",
   "opportunity": {
-   "snapPercentage": 35,
+   "snapPercentage": 32,
    "receptions": 5,
    "targets": 9,
    "targetsRank": 80,
@@ -7996,7 +7996,7 @@
  "Blake Bell": {
   "name": "Blake Bell",
   "opportunity": {
-   "snapPercentage": 23,
+   "snapPercentage": 22,
    "receptions": 5,
    "targets": 9,
    "targetsRank": 81,
@@ -8010,7 +8010,7 @@
  "Ian Thomas": {
   "name": "Ian Thomas",
   "opportunity": {
-   "snapPercentage": 28,
+   "snapPercentage": 26,
    "receptions": 5,
    "targets": 9,
    "targetsRank": 82,
@@ -8024,7 +8024,7 @@
  "Julian Hill": {
   "name": "Julian Hill",
   "opportunity": {
-   "snapPercentage": 37,
+   "snapPercentage": 35,
    "receptions": 6,
    "targets": 9,
    "targetsRank": 83,
@@ -8038,7 +8038,7 @@
  "Josiah Deguara": {
   "name": "Josiah Deguara",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 20,
    "receptions": 8,
    "targets": 8,
    "targetsRank": 84,
@@ -8052,7 +8052,7 @@
  "Jack Stoll": {
   "name": "Jack Stoll",
   "opportunity": {
-   "snapPercentage": 40,
+   "snapPercentage": 38,
    "receptions": 5,
    "targets": 8,
    "targetsRank": 85,
@@ -8066,7 +8066,7 @@
  "Jimmy Graham": {
   "name": "Jimmy Graham",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 19,
    "receptions": 6,
    "targets": 7,
    "targetsRank": 86,
@@ -8080,7 +8080,7 @@
  "Brycen Hopkins": {
   "name": "Brycen Hopkins",
   "opportunity": {
-   "snapPercentage": 10,
+   "snapPercentage": 9,
    "receptions": 5,
    "targets": 7,
    "targetsRank": 87,
@@ -8094,7 +8094,7 @@
  "Payne Durham": {
   "name": "Payne Durham",
   "opportunity": {
-   "snapPercentage": 16,
+   "snapPercentage": 15,
    "receptions": 5,
    "targets": 7,
    "targetsRank": 88,
@@ -8108,7 +8108,7 @@
  "Peyton Hendershot": {
   "name": "Peyton Hendershot",
   "opportunity": {
-   "snapPercentage": 32,
+   "snapPercentage": 28,
    "receptions": 4,
    "targets": 7,
    "targetsRank": 89,
@@ -8122,7 +8122,7 @@
  "Ben Sims": {
   "name": "Ben Sims",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 18,
    "receptions": 4,
    "targets": 6,
    "targetsRank": 90,
@@ -8136,7 +8136,7 @@
  "Marcedes Lewis": {
   "name": "Marcedes Lewis",
   "opportunity": {
-   "snapPercentage": 30,
+   "snapPercentage": 29,
    "receptions": 4,
    "targets": 5,
    "targetsRank": 91,
@@ -8150,7 +8150,7 @@
  "Ko Kieft": {
   "name": "Ko Kieft",
   "opportunity": {
-   "snapPercentage": 21,
+   "snapPercentage": 20,
    "receptions": 1,
    "targets": 5,
    "targetsRank": 92,
@@ -8164,7 +8164,7 @@
  "Nate Adkins": {
   "name": "Nate Adkins",
   "opportunity": {
-   "snapPercentage": 11,
+   "snapPercentage": 10,
    "receptions": 4,
    "targets": 5,
    "targetsRank": 93,
@@ -8178,7 +8178,7 @@
  "Grant Calcaterra": {
   "name": "Grant Calcaterra",
   "opportunity": {
-   "snapPercentage": 14,
+   "snapPercentage": 13,
    "receptions": 4,
    "targets": 4,
    "targetsRank": 95,
@@ -8206,7 +8206,7 @@
  "Kenny Yeboah": {
   "name": "Kenny Yeboah",
   "opportunity": {
-   "snapPercentage": 43,
+   "snapPercentage": 35,
    "receptions": 2,
    "targets": 4,
    "targetsRank": 97,
@@ -8234,7 +8234,7 @@
  "Quintin Morris": {
   "name": "Quintin Morris",
   "opportunity": {
-   "snapPercentage": 20,
+   "snapPercentage": 18,
    "receptions": 2,
    "targets": 3,
    "targetsRank": 99,
@@ -8248,7 +8248,7 @@
  "Charlie Woerner": {
   "name": "Charlie Woerner",
   "opportunity": {
-   "snapPercentage": 31,
+   "snapPercentage": 29,
    "receptions": 3,
    "targets": 3,
    "targetsRank": 100,
@@ -8276,7 +8276,7 @@
  "Eric Saubert": {
   "name": "Eric Saubert",
   "opportunity": {
-   "snapPercentage": 25,
+   "snapPercentage": 22,
    "receptions": 3,
    "targets": 3,
    "targetsRank": 102,
@@ -8290,7 +8290,7 @@
  "Trevon Wesco": {
   "name": "Trevon Wesco",
   "opportunity": {
-   "snapPercentage": 49,
+   "snapPercentage": 46,
    "receptions": 1,
    "targets": 3,
    "targetsRank": 103,
@@ -8304,7 +8304,7 @@
  "Kevin Rader": {
   "name": "Kevin Rader",
   "opportunity": {
-   "snapPercentage": 18,
+   "snapPercentage": 17,
    "receptions": 1,
    "targets": 3,
    "targetsRank": 104,
@@ -8318,7 +8318,7 @@
  "James Mitchell": {
   "name": "James Mitchell",
   "opportunity": {
-   "snapPercentage": 17,
+   "snapPercentage": 16,
    "receptions": 2,
    "targets": 2,
    "targetsRank": 105,
@@ -8374,7 +8374,7 @@
  "Nick Muse": {
   "name": "Nick Muse",
   "opportunity": {
-   "snapPercentage": null,
+   "snapPercentage": 3,
    "receptions": 1,
    "targets": 1,
    "targetsRank": 110,
@@ -8388,7 +8388,7 @@
  "John FitzPatrick": {
   "name": "John FitzPatrick",
   "opportunity": {
-   "snapPercentage": 6,
+   "snapPercentage": 5,
    "receptions": 1,
    "targets": 1,
    "targetsRank": 111,
@@ -8402,7 +8402,7 @@
  "Tucker Fisk": {
   "name": "Tucker Fisk",
   "opportunity": {
-   "snapPercentage": 23,
+   "snapPercentage": 19,
    "receptions": 1,
    "targets": 1,
    "targetsRank": 112,
