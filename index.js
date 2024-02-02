@@ -4,6 +4,7 @@ import sleeperAPI from "./utils/API/sleeperAPI.js";
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
+import { getDatabase, ref } from "firebase/database";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -22,17 +23,19 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+const db = getDatabase();
 const analytics = getAnalytics(app);
+const reference = ref();
 
 // Code for Sleeper data
-const BASE_URI = "https://api.sleeper.app/v1/league/";
-const houseOfLambdaId = process.env.API_HOL;
-const glaDynastyId = process.env.API_GLA;
-const dirtyDroAndTheBoysId = process.env.API_DDB;
-const holURL = `${BASE_URI}${houseOfLambdaId}`;
-const glaURL = `${BASE_URI}${glaDynastyId}`;
-const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
-const allPlayersURL = "https://api.sleeper.app/v1/players/nfl";
+// const BASE_URI = "https://api.sleeper.app/v1/league/";
+// const houseOfLambdaId = process.env.API_HOL;
+// const glaDynastyId = process.env.API_GLA;
+// const dirtyDroAndTheBoysId = process.env.API_DDB;
+// const holURL = `${BASE_URI}${houseOfLambdaId}`;
+// const glaURL = `${BASE_URI}${glaDynastyId}`;
+// const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
+// const allPlayersURL = "https://api.sleeper.app/v1/players/nfl";
 
 /* ****** Get owners from all leagues ****** */
 
@@ -63,6 +66,7 @@ const allPlayersURL = "https://api.sleeper.app/v1/players/nfl";
 // });
 
 /* ****** Get All Players from Sleeper ****** */
+
 // sleeperAPI.getAllPlayers(allPlayersURL).then((data) => {
 //   writeToFile("./data/sleeper/players/allPlayers.json", data);
 // });
