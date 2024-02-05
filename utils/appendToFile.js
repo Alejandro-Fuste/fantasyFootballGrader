@@ -1,9 +1,9 @@
 import fs from "fs";
 
-function writeToFile(fileName, data) {
+function appendToFile(fileName, data) {
   let jsonString = JSON.stringify(data, null, " ");
 
-  fs.writeFile(fileName, jsonString, (err) => {
+  fs.appendFile(fileName, jsonString, (err) => {
     if (err) {
       throw err;
     } else {
@@ -12,4 +12,4 @@ function writeToFile(fileName, data) {
   });
 }
 
-export default writeToFile;
+export default appendToFile;

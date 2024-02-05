@@ -1,41 +1,40 @@
 import "dotenv/config";
 import writeToFile from "./utils/writeToFile.js";
+import appendToFile from "./utils/appendToFile.js";
 import sleeperAPI from "./utils/API/sleeperAPI.js";
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-import { getDatabase, ref } from "firebase/database";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+import sportsDataAPI from "./utils/API/sportsDataAPI.js";
+import teams from "./data/offense/offenseData.json" assert { type: "json" };
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyBb2v0vJwVyatiq_SHeKn8fjpmjKQjQ7RE",
-  authDomain: "fantasy-football-app-cc2a9.firebaseapp.com",
-  databaseURL: "https://fantasy-football-app-cc2a9-default-rtdb.firebaseio.com",
-  projectId: "fantasy-football-app-cc2a9",
-  storageBucket: "fantasy-football-app-cc2a9.appspot.com",
-  messagingSenderId: "192666505782",
-  appId: "1:192666505782:web:70b36c1afc1d9ba506fe97",
-  measurementId: "G-T5BWJ1M20P",
+const api_key = process.env.SPORTS_DATA_KEY;
+const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/PlayersBasic/";
+
+const teamsArray = Object.keys(teams);
+
+const getTeamRoster = (team) => {
+  let object = new Map();
+  let url;
+  let jsonData = teams[team];
+
+  if (team === "JAC") {
+    url = `${BASE_URL}JAX?key=${api_key}`;
+  } else {
+    url = `${BASE_URL}${team}?key=${api_key}`;
+  }
+
+  sportsDataAPI.getTeamRoster(url).then(function (data) {
+    let newData = {
+      ...jsonData,
+      players: data,
+    };
+    object.set(team, newData);
+    let obj = Object.fromEntries(object);
+    appendToFile("./data/sportsData/teamsWithPlayers.json", obj);
+  });
 };
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const db = getDatabase();
-const analytics = getAnalytics(app);
-const reference = ref();
-
-// Code for Sleeper data
-// const BASE_URI = "https://api.sleeper.app/v1/league/";
-// const houseOfLambdaId = process.env.API_HOL;
-// const glaDynastyId = process.env.API_GLA;
-// const dirtyDroAndTheBoysId = process.env.API_DDB;
-// const holURL = `${BASE_URI}${houseOfLambdaId}`;
-// const glaURL = `${BASE_URI}${glaDynastyId}`;
-// const ddbURL = `${BASE_URI}${dirtyDroAndTheBoysId}`;
-// const allPlayersURL = "https://api.sleeper.app/v1/players/nfl";
+teamsArray.forEach((team) => {
+  getTeamRoster(team);
+});
 
 /* ****** Get owners from all leagues ****** */
 
