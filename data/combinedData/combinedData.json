@@ -9,7 +9,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19801.png",
   "production": {
    "totalPoints": 410.6,
    "pointsPerGame": 24.2,
@@ -62,7 +64,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21831.png",
   "production": {
    "totalPoints": 371.8,
    "pointsPerGame": 21.9,
@@ -115,7 +119,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18055.png",
   "production": {
    "totalPoints": 351.8,
    "pointsPerGame": 20.7,
@@ -168,7 +174,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19781.png",
   "production": {
    "totalPoints": 338.2,
    "pointsPerGame": 21.1,
@@ -221,7 +229,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21841.png",
   "production": {
    "totalPoints": 330.1,
    "pointsPerGame": 19.4,
@@ -274,7 +284,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23241.png",
   "production": {
    "totalPoints": 306.6,
    "pointsPerGame": 19.2,
@@ -327,7 +339,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17922.png",
   "production": {
    "totalPoints": 303.1,
    "pointsPerGame": 17.8,
@@ -380,7 +394,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18890.png",
   "production": {
    "totalPoints": 294.2,
    "pointsPerGame": 18.4,
@@ -433,7 +449,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21677.png",
   "production": {
    "totalPoints": 284.4,
    "pointsPerGame": 16.7,
@@ -486,7 +504,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19790.png",
   "production": {
    "totalPoints": 284.1,
    "pointsPerGame": 16.7,
@@ -539,7 +559,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23239.png",
   "production": {
    "totalPoints": 280,
    "pointsPerGame": 18.7,
@@ -592,7 +614,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23185.png",
   "production": {
    "totalPoints": 277.5,
    "pointsPerGame": 16.3,
@@ -645,7 +669,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22490.png",
   "production": {
    "totalPoints": 276.5,
    "pointsPerGame": 17.3,
@@ -698,7 +724,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14536.png",
   "production": {
    "totalPoints": 264.9,
    "pointsPerGame": 17.7,
@@ -751,7 +779,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/9038.png",
   "production": {
    "totalPoints": 254.1,
    "pointsPerGame": 16.9,
@@ -804,7 +834,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16311.png",
   "production": {
    "totalPoints": 249.1,
    "pointsPerGame": 14.7,
@@ -857,7 +889,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21681.png",
   "production": {
    "totalPoints": 240.2,
    "pointsPerGame": 18.5,
@@ -910,7 +944,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22492.png",
   "production": {
    "totalPoints": 239.2,
    "pointsPerGame": 18.4,
@@ -963,7 +999,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14895.png",
   "production": {
    "totalPoints": 235.3,
    "pointsPerGame": 15.7,
@@ -1016,7 +1054,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19025.png",
   "production": {
    "totalPoints": 210.7,
    "pointsPerGame": 16.2,
@@ -1069,7 +1109,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20880.png",
   "production": {
    "totalPoints": 205.2,
    "pointsPerGame": 12.8,
@@ -1122,7 +1164,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22502.png",
   "production": {
    "totalPoints": 188.1,
    "pointsPerGame": 12.5,
@@ -1175,7 +1219,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23132.png",
   "production": {
    "totalPoints": 166.4,
    "pointsPerGame": 10.4,
@@ -1228,7 +1274,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14252.png",
   "production": {
    "totalPoints": 154.7,
    "pointsPerGame": 19.3,
@@ -1281,7 +1329,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21693.png",
   "production": {
    "totalPoints": 153.2,
    "pointsPerGame": 15.3,
@@ -1334,7 +1384,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20889.png",
   "production": {
    "totalPoints": 151.4,
    "pointsPerGame": 18.9,
@@ -1387,7 +1439,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21046.png",
   "production": {
    "totalPoints": 150.4,
    "pointsPerGame": 16.7,
@@ -1440,7 +1494,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24350.png",
   "production": {
    "totalPoints": 132.8,
    "pointsPerGame": 12.1,
@@ -1493,7 +1549,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22495.png",
   "production": {
    "totalPoints": 126.9,
    "pointsPerGame": 10.6,
@@ -1546,7 +1604,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22496.png",
   "production": {
    "totalPoints": 118.4,
    "pointsPerGame": 10.8,
@@ -1599,7 +1659,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22501.png",
   "production": {
    "totalPoints": 114.2,
    "pointsPerGame": 9.5,
@@ -1652,7 +1714,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/611.png",
   "production": {
    "totalPoints": 108.8,
    "pointsPerGame": 21.8,
@@ -1705,7 +1769,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23270.png",
   "production": {
    "totalPoints": 106,
    "pointsPerGame": 11.8,
@@ -1758,7 +1824,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 96.5,
    "pointsPerGame": 9.7,
@@ -1811,7 +1879,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18857.png",
   "production": {
    "totalPoints": 90.8,
    "pointsPerGame": 15.1,
@@ -1864,7 +1934,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/12831.png",
   "production": {
    "totalPoints": 90.3,
    "pointsPerGame": 9,
@@ -1917,7 +1989,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13799.png",
   "production": {
    "totalPoints": 87,
    "pointsPerGame": 9.7,
@@ -1970,7 +2044,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23267.png",
   "production": {
    "totalPoints": 78.2,
    "pointsPerGame": 7.8,
@@ -2023,7 +2099,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19330.png",
   "production": {
    "totalPoints": 74.7,
    "pointsPerGame": 14.9,
@@ -2076,7 +2154,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24117.png",
   "production": {
    "totalPoints": 73.7,
    "pointsPerGame": 18.4,
@@ -2129,7 +2209,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16041.png",
   "production": {
    "totalPoints": 73.1,
    "pointsPerGame": 10.4,
@@ -2182,7 +2264,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17179.png",
   "production": {
    "totalPoints": 70,
    "pointsPerGame": 14,
@@ -2235,7 +2319,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20953.png",
   "production": {
    "totalPoints": 68.1,
    "pointsPerGame": 13.6,
@@ -2288,7 +2374,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20841.png",
   "production": {
    "totalPoints": 63,
    "pointsPerGame": 10.5,
@@ -2341,7 +2429,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24168.png",
   "production": {
    "totalPoints": 59.3,
    "pointsPerGame": 11.9,
@@ -2394,7 +2484,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18811.png",
   "production": {
    "totalPoints": 53.7,
    "pointsPerGame": 10.7,
@@ -2447,7 +2539,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19850.png",
   "production": {
    "totalPoints": 39.6,
    "pointsPerGame": 9.9,
@@ -2500,7 +2594,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20859.png",
   "production": {
    "totalPoints": 32.1,
    "pointsPerGame": 8,
@@ -2553,7 +2649,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17009.png",
   "production": {
    "totalPoints": 31,
    "pointsPerGame": 6.2,
@@ -2606,7 +2704,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20954.png",
   "production": {
    "totalPoints": 27.6,
    "pointsPerGame": 9.2,
@@ -2659,7 +2759,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17920.png",
   "production": {
    "totalPoints": 27.1,
    "pointsPerGame": 13.6,
@@ -2712,7 +2814,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23230.png",
   "production": {
    "totalPoints": 26.1,
    "pointsPerGame": 3.7,
@@ -2765,7 +2869,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21810.png",
   "production": {
    "totalPoints": 25.6,
    "pointsPerGame": 5.1,
@@ -2818,7 +2924,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19191.png",
   "production": {
    "totalPoints": 25,
    "pointsPerGame": 4.2,
@@ -2871,7 +2979,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19812.png",
   "production": {
    "totalPoints": 24.4,
    "pointsPerGame": 2.4,
@@ -2924,7 +3034,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/12841.png",
   "production": {
    "totalPoints": 23.6,
    "pointsPerGame": 11.8,
@@ -2977,7 +3089,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18018.png",
   "production": {
    "totalPoints": 22.9,
    "pointsPerGame": 7.6,
@@ -3030,7 +3144,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18973.png",
   "production": {
    "totalPoints": 21.5,
    "pointsPerGame": 2.7,
@@ -3083,7 +3199,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22505.png",
   "production": {
    "totalPoints": 17.8,
    "pointsPerGame": 3,
@@ -3136,7 +3254,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18123.png",
   "production": {
    "totalPoints": 15.9,
    "pointsPerGame": 15.9,
@@ -3189,7 +3309,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16762.png",
   "production": {
    "totalPoints": 15,
    "pointsPerGame": 2.1,
@@ -3242,7 +3364,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20283.png",
   "production": {
    "totalPoints": 14.9,
    "pointsPerGame": 5,
@@ -3295,7 +3419,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16763.png",
   "production": {
    "totalPoints": 12.8,
    "pointsPerGame": 4.3,
@@ -3348,7 +3474,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15694.png",
   "production": {
    "totalPoints": 12.7,
    "pointsPerGame": 6.4,
@@ -3401,7 +3529,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24170.png",
   "production": {
    "totalPoints": 9.5,
    "pointsPerGame": 1.2,
@@ -3454,7 +3584,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/12982.png",
   "production": {
    "totalPoints": 8.9,
    "pointsPerGame": 4.5,
@@ -3507,7 +3639,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/8358.png",
   "production": {
    "totalPoints": 6.9,
    "pointsPerGame": 3.5,
@@ -3560,7 +3694,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20929.png",
   "production": {
    "totalPoints": 5.8,
    "pointsPerGame": 2.9,
@@ -3613,7 +3749,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19461.png",
   "production": {
    "totalPoints": 4.3,
    "pointsPerGame": 0.5,
@@ -3666,7 +3804,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24171.png",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1,
@@ -3719,7 +3859,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23118.png",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1.5,
@@ -3772,7 +3914,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19972.png",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 0.5,
@@ -3825,7 +3969,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24476.png",
   "production": {
    "totalPoints": 1.3,
    "pointsPerGame": 0.6,
@@ -3878,7 +4024,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16116.png",
   "production": {
    "totalPoints": 0.8,
    "pointsPerGame": 0.4,
@@ -3931,7 +4079,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20055.png",
   "production": {
    "totalPoints": 0.7,
    "pointsPerGame": 0.7,
@@ -3984,7 +4134,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23477.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4026,7 +4178,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24175.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4068,7 +4222,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21815.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4110,7 +4266,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/2593.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4163,7 +4321,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21820.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4205,7 +4365,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24279.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4247,7 +4409,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23629.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -4289,7 +4453,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22494.png",
   "production": {
    "totalPoints": -0.1,
    "pointsPerGame": -0.1,
@@ -4342,7 +4508,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": -0.2,
    "pointsPerGame": -0.2,
@@ -4384,7 +4552,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14855.png",
   "production": {
    "totalPoints": -0.3,
    "pointsPerGame": -0.3,
@@ -4426,7 +4596,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19029.png",
   "production": {
    "totalPoints": -0.4,
    "pointsPerGame": -0.2,
@@ -4468,7 +4640,9 @@
    }
   },
   "position": "QB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20053.png",
   "production": {
    "totalPoints": -1.3,
    "pointsPerGame": -0.2,
@@ -4510,7 +4684,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18877.png",
   "production": {
    "totalPoints": 391.3,
    "pointsPerGame": 24.5,
@@ -4569,7 +4745,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22526.png",
   "production": {
    "totalPoints": 290.5,
    "pointsPerGame": 17.1,
@@ -4628,7 +4806,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 282.4,
    "pointsPerGame": 16.6,
@@ -4687,7 +4867,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23217.png",
   "production": {
    "totalPoints": 267.9,
    "pointsPerGame": 15.8,
@@ -4746,7 +4928,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17217.png",
   "production": {
    "totalPoints": 267.7,
    "pointsPerGame": 17.8,
@@ -4805,7 +4989,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18858.png",
   "production": {
    "totalPoints": 267,
    "pointsPerGame": 15.7,
@@ -4864,7 +5050,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23212.png",
   "production": {
    "totalPoints": 255,
    "pointsPerGame": 21.3,
@@ -4923,7 +5111,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17959.png",
   "production": {
    "totalPoints": 246.7,
    "pointsPerGame": 14.5,
@@ -4982,7 +5172,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23189.png",
   "production": {
    "totalPoints": 246.3,
    "pointsPerGame": 14.5,
@@ -5041,7 +5233,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23200.png",
   "production": {
    "totalPoints": 242.1,
    "pointsPerGame": 16.1,
@@ -5100,7 +5294,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18878.png",
   "production": {
    "totalPoints": 233,
    "pointsPerGame": 17.9,
@@ -5159,7 +5355,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23247.png",
   "production": {
    "totalPoints": 232.7,
    "pointsPerGame": 13.7,
@@ -5218,7 +5416,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19766.png",
   "production": {
    "totalPoints": 223.2,
    "pointsPerGame": 15.9,
@@ -5277,7 +5477,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20912.png",
   "production": {
    "totalPoints": 222.6,
    "pointsPerGame": 13.1,
@@ -5336,7 +5538,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23371.png",
   "production": {
    "totalPoints": 213.9,
    "pointsPerGame": 15.3,
@@ -5395,7 +5599,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23205.png",
   "production": {
    "totalPoints": 211.2,
    "pointsPerGame": 12.4,
@@ -5454,7 +5660,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20882.png",
   "production": {
    "totalPoints": 207.2,
    "pointsPerGame": 14.8,
@@ -5513,7 +5721,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18983.png",
   "production": {
    "totalPoints": 201.5,
    "pointsPerGame": 15.5,
@@ -5572,7 +5782,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 199.4,
    "pointsPerGame": 13.3,
@@ -5631,7 +5843,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21684.png",
   "production": {
    "totalPoints": 199.3,
    "pointsPerGame": 12.5,
@@ -5690,7 +5904,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 198.1,
    "pointsPerGame": 13.2,
@@ -5749,7 +5965,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23479.png",
   "production": {
    "totalPoints": 196.4,
    "pointsPerGame": 11.6,
@@ -5808,7 +6026,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21768.png",
   "production": {
    "totalPoints": 195.5,
    "pointsPerGame": 11.5,
@@ -5867,7 +6087,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24179.png",
   "production": {
    "totalPoints": 190.7,
    "pointsPerGame": 17.3,
@@ -5926,7 +6148,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20239.png",
   "production": {
    "totalPoints": 187,
    "pointsPerGame": 11,
@@ -5985,7 +6209,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19562.png",
   "production": {
    "totalPoints": 185.4,
    "pointsPerGame": 13.2,
@@ -6044,7 +6270,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21691.png",
   "production": {
    "totalPoints": 182.5,
    "pointsPerGame": 10.7,
@@ -6103,7 +6331,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20824.png",
   "production": {
    "totalPoints": 181.1,
    "pointsPerGame": 13.9,
@@ -6162,7 +6392,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22558.png",
   "production": {
    "totalPoints": 179.2,
    "pointsPerGame": 11.2,
@@ -6221,7 +6453,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17923.png",
   "production": {
    "totalPoints": 174.5,
    "pointsPerGame": 10.3,
@@ -6280,7 +6514,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21784.png",
   "production": {
    "totalPoints": 169.6,
    "pointsPerGame": 12.1,
@@ -6339,7 +6575,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20941.png",
   "production": {
    "totalPoints": 167.3,
    "pointsPerGame": 9.8,
@@ -6398,7 +6636,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21682.png",
   "production": {
    "totalPoints": 156.4,
    "pointsPerGame": 15.6,
@@ -6457,7 +6697,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24123.png",
   "production": {
    "totalPoints": 153.8,
    "pointsPerGame": 9,
@@ -6516,7 +6758,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22546.png",
   "production": {
    "totalPoints": 145.7,
    "pointsPerGame": 12.1,
@@ -6575,7 +6819,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23250.png",
   "production": {
    "totalPoints": 137.6,
    "pointsPerGame": 8.1,
@@ -6634,7 +6880,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19045.png",
   "production": {
    "totalPoints": 134.9,
    "pointsPerGame": 12.3,
@@ -6693,7 +6941,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20868.png",
   "production": {
    "totalPoints": 133.2,
    "pointsPerGame": 8.3,
@@ -6752,7 +7002,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21861.png",
   "production": {
    "totalPoints": 127.4,
    "pointsPerGame": 8,
@@ -6811,7 +7063,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18993.png",
   "production": {
    "totalPoints": 121.3,
    "pointsPerGame": 7.1,
@@ -6870,7 +7124,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18944.png",
   "production": {
    "totalPoints": 118.5,
    "pointsPerGame": 7.9,
@@ -6929,7 +7185,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21802.png",
   "production": {
    "totalPoints": 117.6,
    "pointsPerGame": 7.8,
@@ -6988,7 +7246,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22563.png",
   "production": {
    "totalPoints": 112.5,
    "pointsPerGame": 9.4,
@@ -7047,7 +7307,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20802.png",
   "production": {
    "totalPoints": 109.3,
    "pointsPerGame": 6.8,
@@ -7106,7 +7368,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23173.png",
   "production": {
    "totalPoints": 106.1,
    "pointsPerGame": 6.6,
@@ -7165,7 +7429,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24311.png",
   "production": {
    "totalPoints": 106,
    "pointsPerGame": 6.2,
@@ -7224,7 +7490,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24372.png",
   "production": {
    "totalPoints": 102.1,
    "pointsPerGame": 6.8,
@@ -7283,7 +7551,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21852.png",
   "production": {
    "totalPoints": 101,
    "pointsPerGame": 6.3,
@@ -7342,7 +7612,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22562.png",
   "production": {
    "totalPoints": 97.4,
    "pointsPerGame": 6.1,
@@ -7401,7 +7673,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21952.png",
   "production": {
    "totalPoints": 91.5,
    "pointsPerGame": 5.7,
@@ -7460,7 +7734,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18957.png",
   "production": {
    "totalPoints": 91.2,
    "pointsPerGame": 10.1,
@@ -7519,7 +7795,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20933.png",
   "production": {
    "totalPoints": 87.6,
    "pointsPerGame": 5.5,
@@ -7578,7 +7856,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16510.png",
   "production": {
    "totalPoints": 84.4,
    "pointsPerGame": 7,
@@ -7637,7 +7917,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15071.png",
   "production": {
    "totalPoints": 82.9,
    "pointsPerGame": 5.2,
@@ -7696,7 +7978,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23223.png",
   "production": {
    "totalPoints": 82.7,
    "pointsPerGame": 5.9,
@@ -7755,7 +8039,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22539.png",
   "production": {
    "totalPoints": 73.9,
    "pointsPerGame": 5.3,
@@ -7814,7 +8100,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24609.png",
   "production": {
    "totalPoints": 73.3,
    "pointsPerGame": 5.6,
@@ -7873,7 +8161,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21769.png",
   "production": {
    "totalPoints": 70.1,
    "pointsPerGame": 4.7,
@@ -7932,7 +8222,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24214.png",
   "production": {
    "totalPoints": 69.9,
    "pointsPerGame": 10,
@@ -7991,7 +8283,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21776.png",
   "production": {
    "totalPoints": 61.7,
    "pointsPerGame": 3.6,
@@ -8050,7 +8344,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18995.png",
   "production": {
    "totalPoints": 60.8,
    "pointsPerGame": 4.7,
@@ -8109,7 +8405,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22553.png",
   "production": {
    "totalPoints": 58.8,
    "pointsPerGame": 3.9,
@@ -8168,7 +8466,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24374.png",
   "production": {
    "totalPoints": 53.5,
    "pointsPerGame": 4.5,
@@ -8227,7 +8527,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22535.png",
   "production": {
    "totalPoints": 47.5,
    "pointsPerGame": 4.3,
@@ -8286,7 +8588,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19319.png",
   "production": {
    "totalPoints": 46.9,
    "pointsPerGame": 2.8,
@@ -8345,7 +8649,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21688.png",
   "production": {
    "totalPoints": 46.7,
    "pointsPerGame": 6.7,
@@ -8404,7 +8710,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19823.png",
   "production": {
    "totalPoints": 46.2,
    "pointsPerGame": 4.2,
@@ -8463,7 +8771,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23364.png",
   "production": {
    "totalPoints": 44.7,
    "pointsPerGame": 2.8,
@@ -8522,7 +8832,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 43.5,
    "pointsPerGame": 10.9,
@@ -8569,7 +8881,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24238.png",
   "production": {
    "totalPoints": 43.3,
    "pointsPerGame": 5.4,
@@ -8628,7 +8942,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21843.png",
   "production": {
    "totalPoints": 42.9,
    "pointsPerGame": 5.4,
@@ -8687,7 +9003,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 42.8,
    "pointsPerGame": 2.5,
@@ -8746,7 +9064,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 41.3,
    "pointsPerGame": 4.1,
@@ -8805,7 +9125,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16815.png",
   "production": {
    "totalPoints": 41,
    "pointsPerGame": 2.4,
@@ -8864,7 +9186,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18872.png",
   "production": {
    "totalPoints": 40.2,
    "pointsPerGame": 2.7,
@@ -8923,7 +9247,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19919.png",
   "production": {
    "totalPoints": 39.7,
    "pointsPerGame": 3.1,
@@ -8982,7 +9308,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14901.png",
   "production": {
    "totalPoints": 38.5,
    "pointsPerGame": 2.4,
@@ -9041,7 +9369,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 37.9,
    "pointsPerGame": 3.8,
@@ -9100,7 +9430,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15150.png",
   "production": {
    "totalPoints": 36.9,
    "pointsPerGame": 2.8,
@@ -9159,7 +9491,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21593.png",
   "production": {
    "totalPoints": 34.8,
    "pointsPerGame": 2,
@@ -9218,7 +9552,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20837.png",
   "production": {
    "totalPoints": 32.4,
    "pointsPerGame": 3.6,
@@ -9277,7 +9613,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 32.2,
    "pointsPerGame": 5.4,
@@ -9336,7 +9674,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21823.png",
   "production": {
    "totalPoints": 30,
    "pointsPerGame": 2.7,
@@ -9395,7 +9735,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21845.png",
   "production": {
    "totalPoints": 30,
    "pointsPerGame": 5,
@@ -9454,7 +9796,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21564.png",
   "production": {
    "totalPoints": 29.6,
    "pointsPerGame": 2,
@@ -9513,7 +9857,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20819.png",
   "production": {
    "totalPoints": 24.9,
    "pointsPerGame": 1.6,
@@ -9572,7 +9918,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19798.png",
   "production": {
    "totalPoints": 23.1,
    "pointsPerGame": 11.6,
@@ -9631,7 +9979,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23193.png",
   "production": {
    "totalPoints": 22.8,
    "pointsPerGame": 1.5,
@@ -9690,7 +10040,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23345.png",
   "production": {
    "totalPoints": 21.3,
    "pointsPerGame": 5.3,
@@ -9749,7 +10101,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21801.png",
   "production": {
    "totalPoints": 20.3,
    "pointsPerGame": 1.7,
@@ -9808,7 +10162,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22547.png",
   "production": {
    "totalPoints": 20.1,
    "pointsPerGame": 2.2,
@@ -9867,7 +10223,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 19.7,
    "pointsPerGame": 4.9,
@@ -9926,7 +10284,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20790.png",
   "production": {
    "totalPoints": 19,
    "pointsPerGame": 2.7,
@@ -9985,7 +10345,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23198.png",
   "production": {
    "totalPoints": 19,
    "pointsPerGame": 2.1,
@@ -10044,7 +10406,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23341.png",
   "production": {
    "totalPoints": 18.1,
    "pointsPerGame": 3,
@@ -10103,7 +10467,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23298.png",
   "production": {
    "totalPoints": 17.1,
    "pointsPerGame": 1.6,
@@ -10162,7 +10528,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24178.png",
   "production": {
    "totalPoints": 16.3,
    "pointsPerGame": 2.3,
@@ -10221,7 +10589,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19209.png",
   "production": {
    "totalPoints": 16.2,
    "pointsPerGame": 1.1,
@@ -10263,7 +10633,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20039.png",
   "production": {
    "totalPoints": 15.8,
    "pointsPerGame": 1.3,
@@ -10322,7 +10694,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24188.png",
   "production": {
    "totalPoints": 15,
    "pointsPerGame": 2.1,
@@ -10381,7 +10755,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20990.png",
   "production": {
    "totalPoints": 14.9,
    "pointsPerGame": 0.9,
@@ -10440,7 +10816,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24309.png",
   "production": {
    "totalPoints": 14.8,
    "pointsPerGame": 2.1,
@@ -10499,7 +10877,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21797.png",
   "production": {
    "totalPoints": 14,
    "pointsPerGame": 2.8,
@@ -10558,7 +10938,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22560.png",
   "production": {
    "totalPoints": 14,
    "pointsPerGame": 2,
@@ -10617,7 +10999,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20159.png",
   "production": {
    "totalPoints": 13.3,
    "pointsPerGame": 1.5,
@@ -10676,7 +11060,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23195.png",
   "production": {
    "totalPoints": 13,
    "pointsPerGame": 0.9,
@@ -10735,7 +11121,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24278.png",
   "production": {
    "totalPoints": 12.7,
    "pointsPerGame": 0.8,
@@ -10794,7 +11182,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21674.png",
   "production": {
    "totalPoints": 11.7,
    "pointsPerGame": 11.7,
@@ -10853,7 +11243,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22672.png",
   "production": {
    "totalPoints": 11.6,
    "pointsPerGame": 2.9,
@@ -10912,7 +11304,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20018.png",
   "production": {
    "totalPoints": 11.5,
    "pointsPerGame": 0.9,
@@ -10971,7 +11365,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13741.png",
   "production": {
    "totalPoints": 11.1,
    "pointsPerGame": 2.2,
@@ -11030,7 +11426,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23192.png",
   "production": {
    "totalPoints": 10.6,
    "pointsPerGame": 2.7,
@@ -11089,7 +11487,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19626.png",
   "production": {
    "totalPoints": 10.3,
    "pointsPerGame": 1,
@@ -11148,7 +11548,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18652.png",
   "production": {
    "totalPoints": 10.2,
    "pointsPerGame": 0.6,
@@ -11207,7 +11609,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 9.9,
    "pointsPerGame": 0.8,
@@ -11247,7 +11651,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21804.png",
   "production": {
    "totalPoints": 8.2,
    "pointsPerGame": 0.5,
@@ -11306,7 +11712,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 7.5,
    "pointsPerGame": 2.5,
@@ -11353,7 +11761,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16928.png",
   "production": {
    "totalPoints": 6.7,
    "pointsPerGame": 0.4,
@@ -11412,7 +11822,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21788.png",
   "production": {
    "totalPoints": 6.4,
    "pointsPerGame": 1.3,
@@ -11471,7 +11883,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 6.3,
    "pointsPerGame": 0.5,
@@ -11513,7 +11927,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21310.png",
   "production": {
    "totalPoints": 5.8,
    "pointsPerGame": 0.4,
@@ -11572,7 +11988,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24194.png",
   "production": {
    "totalPoints": 5.2,
    "pointsPerGame": 1,
@@ -11631,7 +12049,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19799.png",
   "production": {
    "totalPoints": 4.8,
    "pointsPerGame": 1.6,
@@ -11690,7 +12110,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23301.png",
   "production": {
    "totalPoints": 4.3,
    "pointsPerGame": 1.4,
@@ -11749,7 +12171,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19072.png",
   "production": {
    "totalPoints": 4.3,
    "pointsPerGame": 0.6,
@@ -11791,7 +12215,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22674.png",
   "production": {
    "totalPoints": 4,
    "pointsPerGame": 2,
@@ -11850,7 +12276,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 4,
    "pointsPerGame": 2,
@@ -11897,7 +12325,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24626.png",
   "production": {
    "totalPoints": 3.9,
    "pointsPerGame": 3.9,
@@ -11956,7 +12386,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22678.png",
   "production": {
    "totalPoints": 3.2,
    "pointsPerGame": 3.2,
@@ -12015,7 +12447,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1,
@@ -12057,7 +12491,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23847.png",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1.6,
@@ -12116,7 +12552,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1,
@@ -12163,7 +12601,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21634.png",
   "production": {
    "totalPoints": 2.6,
    "pointsPerGame": 0.5,
@@ -12222,7 +12662,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23004.png",
   "production": {
    "totalPoints": 2.4,
    "pointsPerGame": 0.2,
@@ -12281,7 +12723,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 2.3,
    "pointsPerGame": 1.2,
@@ -12328,7 +12772,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21100.png",
   "production": {
    "totalPoints": 2.2,
    "pointsPerGame": 0.2,
@@ -12370,7 +12816,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22647.png",
   "production": {
    "totalPoints": 2.1,
    "pointsPerGame": 0.3,
@@ -12429,7 +12877,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23172.png",
   "production": {
    "totalPoints": 2.1,
    "pointsPerGame": 2.1,
@@ -12488,7 +12938,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23174.png",
   "production": {
    "totalPoints": 1.9,
    "pointsPerGame": 0.5,
@@ -12547,7 +12999,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24204.png",
   "production": {
    "totalPoints": 1.7,
    "pointsPerGame": 1.7,
@@ -12606,7 +13060,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22206.png",
   "production": {
    "totalPoints": 1.3,
    "pointsPerGame": 0.1,
@@ -12648,7 +13104,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22676.png",
   "production": {
    "totalPoints": 1.3,
    "pointsPerGame": 0.2,
@@ -12707,7 +13165,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21782.png",
   "production": {
    "totalPoints": 1.1,
    "pointsPerGame": 0.2,
@@ -12766,7 +13226,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21970.png",
   "production": {
    "totalPoints": 1,
    "pointsPerGame": 1,
@@ -12825,7 +13287,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24732.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -12867,7 +13331,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21514.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -12909,7 +13375,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -12939,7 +13407,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23632.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -12981,7 +13451,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13011,7 +13483,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18998.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13053,7 +13527,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13095,7 +13571,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23209.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13137,7 +13615,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20191.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13179,7 +13659,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20810.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13221,7 +13703,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21765.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13263,7 +13747,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18152.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13305,7 +13791,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23880.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13347,7 +13835,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23586.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13389,7 +13879,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23666.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13431,7 +13923,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21211.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13473,7 +13967,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24310.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13515,7 +14011,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13557,7 +14055,9 @@
    }
   },
   "position": "RB",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": -0.2,
    "pointsPerGame": -0.2,
@@ -13599,7 +14099,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21679.png",
   "production": {
    "totalPoints": 403.2,
    "pointsPerGame": 23.7,
@@ -13651,7 +14153,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18082.png",
   "production": {
    "totalPoints": 376.4,
    "pointsPerGame": 23.5,
@@ -13703,7 +14207,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 330.9,
    "pointsPerGame": 20.7,
@@ -13755,7 +14261,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24172.png",
   "production": {
    "totalPoints": 298.5,
    "pointsPerGame": 17.6,
@@ -13807,7 +14315,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21042.png",
   "production": {
    "totalPoints": 289.6,
    "pointsPerGame": 17,
@@ -13859,7 +14369,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19844.png",
   "production": {
    "totalPoints": 286.5,
    "pointsPerGame": 16.9,
@@ -13911,7 +14423,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16597.png",
   "production": {
    "totalPoints": 282.5,
    "pointsPerGame": 16.6,
@@ -13963,7 +14477,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15076.png",
   "production": {
    "totalPoints": 278.9,
    "pointsPerGame": 21.5,
@@ -14015,7 +14531,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16906.png",
   "production": {
    "totalPoints": 273.8,
    "pointsPerGame": 16.1,
@@ -14067,7 +14585,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16470.png",
   "production": {
    "totalPoints": 265.4,
    "pointsPerGame": 15.6,
@@ -14119,7 +14639,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22564.png",
   "production": {
    "totalPoints": 262.7,
    "pointsPerGame": 16.4,
@@ -14171,7 +14693,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21756.png",
   "production": {
    "totalPoints": 260.4,
    "pointsPerGame": 17.4,
@@ -14223,7 +14747,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 250.2,
    "pointsPerGame": 15.6,
@@ -14275,7 +14801,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21747.png",
   "production": {
    "totalPoints": 249.2,
    "pointsPerGame": 15.6,
@@ -14327,7 +14855,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20932.png",
   "production": {
    "totalPoints": 243.7,
    "pointsPerGame": 16.2,
@@ -14379,7 +14909,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22565.png",
   "production": {
    "totalPoints": 231.3,
    "pointsPerGame": 14.5,
@@ -14431,7 +14963,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15534.png",
   "production": {
    "totalPoints": 231,
    "pointsPerGame": 13.6,
@@ -14483,7 +15017,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19802.png",
   "production": {
    "totalPoints": 229.9,
    "pointsPerGame": 13.5,
@@ -14535,7 +15071,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21687.png",
   "production": {
    "totalPoints": 227.6,
    "pointsPerGame": 14.2,
@@ -14587,7 +15125,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16765.png",
   "production": {
    "totalPoints": 227,
    "pointsPerGame": 15.1,
@@ -14639,7 +15179,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20875.png",
   "production": {
    "totalPoints": 225.4,
    "pointsPerGame": 14.1,
@@ -14691,7 +15233,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14986.png",
   "production": {
    "totalPoints": 223.6,
    "pointsPerGame": 13.2,
@@ -14743,7 +15287,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23162.png",
   "production": {
    "totalPoints": 221.3,
    "pointsPerGame": 13,
@@ -14795,7 +15341,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20876.png",
   "production": {
    "totalPoints": 218.6,
    "pointsPerGame": 13.7,
@@ -14847,7 +15395,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23233.png",
   "production": {
    "totalPoints": 217.2,
    "pointsPerGame": 13.6,
@@ -14899,7 +15449,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23122.png",
   "production": {
    "totalPoints": 213.2,
    "pointsPerGame": 12.5,
@@ -14951,7 +15503,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24120.png",
   "production": {
    "totalPoints": 212.5,
    "pointsPerGame": 13.3,
@@ -15003,7 +15557,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18880.png",
   "production": {
    "totalPoints": 209.2,
    "pointsPerGame": 12.3,
@@ -15055,7 +15611,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23153.png",
   "production": {
    "totalPoints": 208.8,
    "pointsPerGame": 12.3,
@@ -15107,7 +15665,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23120.png",
   "production": {
    "totalPoints": 206.4,
    "pointsPerGame": 12.9,
@@ -15159,7 +15719,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20873.png",
   "production": {
    "totalPoints": 203.2,
    "pointsPerGame": 12,
@@ -15211,7 +15773,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16830.png",
   "production": {
    "totalPoints": 202.4,
    "pointsPerGame": 11.9,
@@ -15263,7 +15827,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21685.png",
   "production": {
    "totalPoints": 202.2,
    "pointsPerGame": 20.2,
@@ -15315,7 +15881,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22598.png",
   "production": {
    "totalPoints": 198.6,
    "pointsPerGame": 14.2,
@@ -15367,7 +15935,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19800.png",
   "production": {
    "totalPoints": 190.2,
    "pointsPerGame": 11.9,
@@ -15419,7 +15989,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23167.png",
   "production": {
    "totalPoints": 174.4,
    "pointsPerGame": 10.3,
@@ -15471,7 +16043,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23151.png",
   "production": {
    "totalPoints": 174.4,
    "pointsPerGame": 10.9,
@@ -15523,7 +16097,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16568.png",
   "production": {
    "totalPoints": 173.2,
    "pointsPerGame": 10.8,
@@ -15575,7 +16151,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24176.png",
   "production": {
    "totalPoints": 165,
    "pointsPerGame": 15,
@@ -15627,7 +16205,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18882.png",
   "production": {
    "totalPoints": 164.4,
    "pointsPerGame": 13.7,
@@ -15679,7 +16259,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21735.png",
   "production": {
    "totalPoints": 161.4,
    "pointsPerGame": 9.5,
@@ -15731,7 +16313,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18928.png",
   "production": {
    "totalPoints": 157.2,
    "pointsPerGame": 9.8,
@@ -15783,7 +16367,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24145.png",
   "production": {
    "totalPoints": 157.1,
    "pointsPerGame": 9.2,
@@ -15835,7 +16421,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23729.png",
   "production": {
    "totalPoints": 155.6,
    "pointsPerGame": 9.7,
@@ -15887,7 +16475,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21077.png",
   "production": {
    "totalPoints": 152.7,
    "pointsPerGame": 11.7,
@@ -15939,7 +16529,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20943.png",
   "production": {
    "totalPoints": 151,
    "pointsPerGame": 8.9,
@@ -15991,7 +16583,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19815.png",
   "production": {
    "totalPoints": 150.3,
    "pointsPerGame": 12.5,
@@ -16043,7 +16637,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23157.png",
   "production": {
    "totalPoints": 149.8,
    "pointsPerGame": 8.8,
@@ -16095,7 +16691,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17986.png",
   "production": {
    "totalPoints": 145.8,
    "pointsPerGame": 8.6,
@@ -16147,7 +16745,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21692.png",
   "production": {
    "totalPoints": 141.8,
    "pointsPerGame": 8.9,
@@ -16199,7 +16799,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21690.png",
   "production": {
    "totalPoints": 137.6,
    "pointsPerGame": 11.5,
@@ -16251,7 +16853,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21045.png",
   "production": {
    "totalPoints": 134.7,
    "pointsPerGame": 9.6,
@@ -16303,7 +16907,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23170.png",
   "production": {
    "totalPoints": 133.2,
    "pointsPerGame": 8.9,
@@ -16355,7 +16961,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22592.png",
   "production": {
    "totalPoints": 132.1,
    "pointsPerGame": 7.8,
@@ -16407,7 +17015,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19017.png",
   "production": {
    "totalPoints": 128.8,
    "pointsPerGame": 8.1,
@@ -16459,7 +17069,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23155.png",
   "production": {
    "totalPoints": 124.8,
    "pointsPerGame": 7.3,
@@ -16511,7 +17123,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21714.png",
   "production": {
    "totalPoints": 120,
    "pointsPerGame": 7.5,
@@ -16563,7 +17177,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23253.png",
   "production": {
    "totalPoints": 119.8,
    "pointsPerGame": 8,
@@ -16615,7 +17231,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 115.5,
    "pointsPerGame": 7.7,
@@ -16667,7 +17285,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24173.png",
   "production": {
    "totalPoints": 114.5,
    "pointsPerGame": 8.8,
@@ -16719,7 +17339,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23227.png",
   "production": {
    "totalPoints": 113.1,
    "pointsPerGame": 7.1,
@@ -16771,7 +17393,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22602.png",
   "production": {
    "totalPoints": 112.4,
    "pointsPerGame": 7,
@@ -16823,7 +17447,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 107.5,
    "pointsPerGame": 7.7,
@@ -16875,7 +17501,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24180.png",
   "production": {
    "totalPoints": 107.2,
    "pointsPerGame": 7.7,
@@ -16927,7 +17555,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22613.png",
   "production": {
    "totalPoints": 106.7,
    "pointsPerGame": 9.7,
@@ -16979,7 +17609,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22626.png",
   "production": {
    "totalPoints": 105,
    "pointsPerGame": 6.2,
@@ -17031,7 +17663,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19080.png",
   "production": {
    "totalPoints": 101.6,
    "pointsPerGame": 10.2,
@@ -17083,7 +17717,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23395.png",
   "production": {
    "totalPoints": 101.3,
    "pointsPerGame": 11.3,
@@ -17135,7 +17771,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19318.png",
   "production": {
    "totalPoints": 100,
    "pointsPerGame": 12.5,
@@ -17187,7 +17825,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18422.png",
   "production": {
    "totalPoints": 97.4,
    "pointsPerGame": 5.7,
@@ -17239,7 +17879,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16781.png",
   "production": {
    "totalPoints": 97.1,
    "pointsPerGame": 5.7,
@@ -17291,7 +17933,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24217.png",
   "production": {
    "totalPoints": 95.7,
    "pointsPerGame": 5.6,
@@ -17343,7 +17987,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23232.png",
   "production": {
    "totalPoints": 95.4,
    "pointsPerGame": 5.6,
@@ -17395,7 +18041,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24226.png",
   "production": {
    "totalPoints": 94,
    "pointsPerGame": 5.5,
@@ -17447,7 +18095,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17960.png",
   "production": {
    "totalPoints": 89.8,
    "pointsPerGame": 9,
@@ -17499,7 +18149,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14871.png",
   "production": {
    "totalPoints": 89.3,
    "pointsPerGame": 6.4,
@@ -17551,7 +18203,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19922.png",
   "production": {
    "totalPoints": 89,
    "pointsPerGame": 5.6,
@@ -17603,7 +18257,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19867.png",
   "production": {
    "totalPoints": 87.8,
    "pointsPerGame": 5.2,
@@ -17655,7 +18311,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18047.png",
   "production": {
    "totalPoints": 87.4,
    "pointsPerGame": 9.7,
@@ -17707,7 +18365,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21734.png",
   "production": {
    "totalPoints": 85,
    "pointsPerGame": 6.5,
@@ -17759,7 +18419,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23161.png",
   "production": {
    "totalPoints": 84.8,
    "pointsPerGame": 5.7,
@@ -17811,7 +18473,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23234.png",
   "production": {
    "totalPoints": 80.3,
    "pointsPerGame": 6.7,
@@ -17863,7 +18527,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21961.png",
   "production": {
    "totalPoints": 78.9,
    "pointsPerGame": 5.6,
@@ -17915,7 +18581,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18926.png",
   "production": {
    "totalPoints": 78.1,
    "pointsPerGame": 8.7,
@@ -17967,7 +18635,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22623.png",
   "production": {
    "totalPoints": 76.5,
    "pointsPerGame": 4.8,
@@ -18019,7 +18689,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23763.png",
   "production": {
    "totalPoints": 73.4,
    "pointsPerGame": 5.6,
@@ -18071,7 +18743,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16775.png",
   "production": {
    "totalPoints": 72.4,
    "pointsPerGame": 5.6,
@@ -18123,7 +18797,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24177.png",
   "production": {
    "totalPoints": 71.8,
    "pointsPerGame": 5.1,
@@ -18175,7 +18851,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 70.7,
    "pointsPerGame": 4.4,
@@ -18227,7 +18905,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 69.6,
    "pointsPerGame": 5,
@@ -18279,7 +18959,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18030.png",
   "production": {
    "totalPoints": 68.3,
    "pointsPerGame": 4,
@@ -18331,7 +19013,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20487.png",
   "production": {
    "totalPoints": 67.1,
    "pointsPerGame": 3.9,
@@ -18383,7 +19067,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21071.png",
   "production": {
    "totalPoints": 64.5,
    "pointsPerGame": 4,
@@ -18435,7 +19121,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21263.png",
   "production": {
    "totalPoints": 62.6,
    "pointsPerGame": 4.2,
@@ -18487,7 +19175,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 62,
    "pointsPerGame": 3.6,
@@ -18539,7 +19229,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18883.png",
   "production": {
    "totalPoints": 61,
    "pointsPerGame": 5.5,
@@ -18591,7 +19283,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24349.png",
   "production": {
    "totalPoints": 60.6,
    "pointsPerGame": 6.1,
@@ -18643,7 +19337,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24125.png",
   "production": {
    "totalPoints": 60.3,
    "pointsPerGame": 3.8,
@@ -18695,7 +19391,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20145.png",
   "production": {
    "totalPoints": 60.1,
    "pointsPerGame": 4.3,
@@ -18747,7 +19445,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21760.png",
   "production": {
    "totalPoints": 60,
    "pointsPerGame": 3.5,
@@ -18799,7 +19499,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24068.png",
   "production": {
    "totalPoints": 59.7,
    "pointsPerGame": 3.7,
@@ -18851,7 +19553,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22597.png",
   "production": {
    "totalPoints": 58.8,
    "pointsPerGame": 3.7,
@@ -18903,7 +19607,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24472.png",
   "production": {
    "totalPoints": 58.7,
    "pointsPerGame": 3.5,
@@ -18955,7 +19661,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20038.png",
   "production": {
    "totalPoints": 57.9,
    "pointsPerGame": 3.6,
@@ -19007,7 +19715,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24339.png",
   "production": {
    "totalPoints": 56.9,
    "pointsPerGame": 3.6,
@@ -19059,7 +19769,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19976.png",
   "production": {
    "totalPoints": 56.5,
    "pointsPerGame": 3.5,
@@ -19111,7 +19823,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23168.png",
   "production": {
    "totalPoints": 53.7,
    "pointsPerGame": 3.8,
@@ -19163,7 +19877,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22614.png",
   "production": {
    "totalPoints": 53,
    "pointsPerGame": 4.1,
@@ -19215,7 +19931,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 52.7,
    "pointsPerGame": 3.1,
@@ -19267,7 +19985,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21717.png",
   "production": {
    "totalPoints": 51.5,
    "pointsPerGame": 4,
@@ -19319,7 +20039,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24119.png",
   "production": {
    "totalPoints": 50.6,
    "pointsPerGame": 3.6,
@@ -19371,7 +20093,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18914.png",
   "production": {
    "totalPoints": 50.2,
    "pointsPerGame": 16.7,
@@ -19423,7 +20147,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23148.png",
   "production": {
    "totalPoints": 48.7,
    "pointsPerGame": 3.7,
@@ -19475,7 +20201,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20924.png",
   "production": {
    "totalPoints": 48.5,
    "pointsPerGame": 3,
@@ -19527,7 +20255,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20816.png",
   "production": {
    "totalPoints": 47.2,
    "pointsPerGame": 3,
@@ -19579,7 +20309,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23482.png",
   "production": {
    "totalPoints": 45.9,
    "pointsPerGame": 9.2,
@@ -19631,7 +20363,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18197.png",
   "production": {
    "totalPoints": 45.2,
    "pointsPerGame": 5.7,
@@ -19683,7 +20417,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24348.png",
   "production": {
    "totalPoints": 44.2,
    "pointsPerGame": 3.7,
@@ -19735,7 +20471,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19023.png",
   "production": {
    "totalPoints": 43.1,
    "pointsPerGame": 3.3,
@@ -19787,7 +20525,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21739.png",
   "production": {
    "totalPoints": 41.3,
    "pointsPerGame": 2.4,
@@ -19839,7 +20579,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19044.png",
   "production": {
    "totalPoints": 40.3,
    "pointsPerGame": 3.7,
@@ -19891,7 +20633,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21163.png",
   "production": {
    "totalPoints": 40,
    "pointsPerGame": 2.5,
@@ -19943,7 +20687,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23119.png",
   "production": {
    "totalPoints": 39.9,
    "pointsPerGame": 3.6,
@@ -19995,7 +20741,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24143.png",
   "production": {
    "totalPoints": 39.2,
    "pointsPerGame": 4.4,
@@ -20047,7 +20795,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 39.1,
    "pointsPerGame": 2.6,
@@ -20099,7 +20849,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21142.png",
   "production": {
    "totalPoints": 38.4,
    "pointsPerGame": 2.6,
@@ -20151,7 +20903,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20679.png",
   "production": {
    "totalPoints": 37.2,
    "pointsPerGame": 2.3,
@@ -20203,7 +20957,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13291.png",
   "production": {
    "totalPoints": 36.4,
    "pointsPerGame": 3.3,
@@ -20255,7 +21011,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24220.png",
   "production": {
    "totalPoints": 35.9,
    "pointsPerGame": 2.2,
@@ -20307,7 +21065,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16866.png",
   "production": {
    "totalPoints": 35.9,
    "pointsPerGame": 2.2,
@@ -20359,7 +21119,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24121.png",
   "production": {
    "totalPoints": 35.7,
    "pointsPerGame": 2.1,
@@ -20411,7 +21173,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21957.png",
   "production": {
    "totalPoints": 35.2,
    "pointsPerGame": 4.4,
@@ -20463,7 +21227,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22686.png",
   "production": {
    "totalPoints": 35,
    "pointsPerGame": 2.1,
@@ -20515,7 +21281,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23746.png",
   "production": {
    "totalPoints": 34.9,
    "pointsPerGame": 2.1,
@@ -20567,7 +21335,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24362.png",
   "production": {
    "totalPoints": 33.5,
    "pointsPerGame": 2.6,
@@ -20619,7 +21389,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 32.9,
    "pointsPerGame": 4.1,
@@ -20671,7 +21443,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22595.png",
   "production": {
    "totalPoints": 32.5,
    "pointsPerGame": 1.9,
@@ -20723,7 +21497,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 32.2,
    "pointsPerGame": 2,
@@ -20775,7 +21551,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23463.png",
   "production": {
    "totalPoints": 31.1,
    "pointsPerGame": 3.5,
@@ -20827,7 +21605,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22627.png",
   "production": {
    "totalPoints": 30.8,
    "pointsPerGame": 1.9,
@@ -20879,7 +21659,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21005.png",
   "production": {
    "totalPoints": 30.4,
    "pointsPerGame": 2.5,
@@ -20931,7 +21713,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21686.png",
   "production": {
    "totalPoints": 28.5,
    "pointsPerGame": 2.6,
@@ -20983,7 +21767,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21754.png",
   "production": {
    "totalPoints": 28.5,
    "pointsPerGame": 1.9,
@@ -21035,7 +21821,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 28.5,
    "pointsPerGame": 2.4,
@@ -21087,7 +21875,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20150.png",
   "production": {
    "totalPoints": 28.1,
    "pointsPerGame": 1.9,
@@ -21139,7 +21929,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23469.png",
   "production": {
    "totalPoints": 27.2,
    "pointsPerGame": 3,
@@ -21191,7 +21983,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19755.png",
   "production": {
    "totalPoints": 27.1,
    "pointsPerGame": 2.7,
@@ -21243,7 +22037,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 25.7,
    "pointsPerGame": 3.2,
@@ -21295,7 +22091,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20081.png",
   "production": {
    "totalPoints": 25.6,
    "pointsPerGame": 1.7,
@@ -21347,7 +22145,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21448.png",
   "production": {
    "totalPoints": 24.9,
    "pointsPerGame": 3.1,
@@ -21399,7 +22199,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18187.png",
   "production": {
    "totalPoints": 22.6,
    "pointsPerGame": 2.5,
@@ -21451,7 +22253,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 22.5,
    "pointsPerGame": 1.6,
@@ -21503,7 +22307,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24347.png",
   "production": {
    "totalPoints": 21.9,
    "pointsPerGame": 1.5,
@@ -21555,7 +22361,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21752.png",
   "production": {
    "totalPoints": 21.7,
    "pointsPerGame": 2,
@@ -21607,7 +22415,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 21.5,
    "pointsPerGame": 2.7,
@@ -21659,7 +22469,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22590.png",
   "production": {
    "totalPoints": 21.5,
    "pointsPerGame": 1.3,
@@ -21711,7 +22523,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24122.png",
   "production": {
    "totalPoints": 20.7,
    "pointsPerGame": 1.9,
@@ -21763,7 +22577,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19120.png",
   "production": {
    "totalPoints": 20.4,
    "pointsPerGame": 2.9,
@@ -21815,7 +22631,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17961.png",
   "production": {
    "totalPoints": 20.3,
    "pointsPerGame": 1.5,
@@ -21867,7 +22685,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20077.png",
   "production": {
    "totalPoints": 19.4,
    "pointsPerGame": 2.2,
@@ -21919,7 +22739,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22892.png",
   "production": {
    "totalPoints": 19.3,
    "pointsPerGame": 1.2,
@@ -21971,7 +22793,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13227.png",
   "production": {
    "totalPoints": 16.9,
    "pointsPerGame": 1.5,
@@ -22023,7 +22847,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24345.png",
   "production": {
    "totalPoints": 16.6,
    "pointsPerGame": 2.4,
@@ -22075,7 +22901,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19043.png",
   "production": {
    "totalPoints": 16.6,
    "pointsPerGame": 1.3,
@@ -22127,7 +22955,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23634.png",
   "production": {
    "totalPoints": 15.8,
    "pointsPerGame": 1.4,
@@ -22179,7 +23009,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20071.png",
   "production": {
    "totalPoints": 14.7,
    "pointsPerGame": 1.2,
@@ -22231,7 +23063,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21473.png",
   "production": {
    "totalPoints": 14.6,
    "pointsPerGame": 2.1,
@@ -22283,7 +23117,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14865.png",
   "production": {
    "totalPoints": 14,
    "pointsPerGame": 1.2,
@@ -22335,7 +23171,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21728.png",
   "production": {
    "totalPoints": 13.6,
    "pointsPerGame": 1.7,
@@ -22387,7 +23225,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24397.png",
   "production": {
    "totalPoints": 12.4,
    "pointsPerGame": 2.1,
@@ -22439,7 +23279,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23163.png",
   "production": {
    "totalPoints": 11.3,
    "pointsPerGame": 1.4,
@@ -22491,7 +23333,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 11.2,
    "pointsPerGame": 1.6,
@@ -22543,7 +23387,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 11.1,
    "pointsPerGame": 0.8,
@@ -22595,7 +23441,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23166.png",
   "production": {
    "totalPoints": 10,
    "pointsPerGame": 1.1,
@@ -22647,7 +23495,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16837.png",
   "production": {
    "totalPoints": 9.9,
    "pointsPerGame": 1.4,
@@ -22699,7 +23549,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17218.png",
   "production": {
    "totalPoints": 9.7,
    "pointsPerGame": 0.6,
@@ -22751,7 +23603,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21072.png",
   "production": {
    "totalPoints": 9.3,
    "pointsPerGame": 2.3,
@@ -22803,7 +23657,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21675.png",
   "production": {
    "totalPoints": 8.8,
    "pointsPerGame": 8.8,
@@ -22855,7 +23711,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23302.png",
   "production": {
    "totalPoints": 8.2,
    "pointsPerGame": 0.5,
@@ -22907,7 +23765,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22604.png",
   "production": {
    "totalPoints": 8.1,
    "pointsPerGame": 1,
@@ -22959,7 +23819,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22645.png",
   "production": {
    "totalPoints": 7.9,
    "pointsPerGame": 1.6,
@@ -23011,7 +23873,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21721.png",
   "production": {
    "totalPoints": 7.3,
    "pointsPerGame": 0.6,
@@ -23063,7 +23927,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24755.png",
   "production": {
    "totalPoints": 6.8,
    "pointsPerGame": 0.8,
@@ -23115,7 +23981,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 6.5,
    "pointsPerGame": 1.3,
@@ -23155,7 +24023,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23368.png",
   "production": {
    "totalPoints": 5.9,
    "pointsPerGame": 1.2,
@@ -23207,7 +24077,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19172.png",
   "production": {
    "totalPoints": 5.9,
    "pointsPerGame": 0.4,
@@ -23259,7 +24131,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21400.png",
   "production": {
    "totalPoints": 5.6,
    "pointsPerGame": 1.9,
@@ -23311,7 +24185,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22620.png",
   "production": {
    "totalPoints": 5.5,
    "pointsPerGame": 1.4,
@@ -23363,7 +24239,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21725.png",
   "production": {
    "totalPoints": 4.9,
    "pointsPerGame": 1,
@@ -23415,7 +24293,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22973.png",
   "production": {
    "totalPoints": 4.9,
    "pointsPerGame": 0.3,
@@ -23467,7 +24347,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21037.png",
   "production": {
    "totalPoints": 4.7,
    "pointsPerGame": 0.3,
@@ -23519,7 +24401,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23121.png",
   "production": {
    "totalPoints": 3.9,
    "pointsPerGame": 0.8,
@@ -23571,7 +24455,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 3.4,
    "pointsPerGame": 0.9,
@@ -23623,7 +24509,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21169.png",
   "production": {
    "totalPoints": 3.3,
    "pointsPerGame": 1.1,
@@ -23675,7 +24563,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21601.png",
   "production": {
    "totalPoints": 3,
    "pointsPerGame": 0.3,
@@ -23717,7 +24607,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 2.6,
    "pointsPerGame": 0.7,
@@ -23769,7 +24661,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23325.png",
   "production": {
    "totalPoints": 2.2,
    "pointsPerGame": 1.1,
@@ -23811,7 +24705,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21730.png",
   "production": {
    "totalPoints": 2.1,
    "pointsPerGame": 0.7,
@@ -23853,7 +24749,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 2,
    "pointsPerGame": 0.7,
@@ -23895,7 +24793,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22415.png",
   "production": {
    "totalPoints": 1.6,
    "pointsPerGame": 0.3,
@@ -23937,7 +24837,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24494.png",
   "production": {
    "totalPoints": 1.3,
    "pointsPerGame": 0.1,
@@ -23989,7 +24891,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 1.2,
    "pointsPerGame": 1.2,
@@ -24031,7 +24935,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24293.png",
   "production": {
    "totalPoints": 1.2,
    "pointsPerGame": 0.2,
@@ -24083,7 +24989,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22569.png",
   "production": {
    "totalPoints": 0.5,
    "pointsPerGame": 0.1,
@@ -24125,7 +25033,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16790.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24177,7 +25087,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24629.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24219,7 +25131,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20792.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24261,7 +25175,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24303,7 +25219,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20820.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24345,7 +25263,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24749.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24387,7 +25307,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19501.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24429,7 +25351,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24471.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24471,7 +25395,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22488.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24513,7 +25439,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24571.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24555,7 +25483,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21750.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24597,7 +25527,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24639,7 +25571,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23998.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24681,7 +25615,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24894.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24723,7 +25659,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24577.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24765,7 +25703,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23099.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24807,7 +25747,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23659.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24849,7 +25791,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23624.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24891,7 +25835,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24933,7 +25879,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20939.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -24975,7 +25923,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21115.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25017,7 +25967,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25047,7 +25999,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23962.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25089,7 +26043,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25131,7 +26087,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23164.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25173,7 +26131,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22596.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25215,7 +26175,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25245,7 +26207,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25287,7 +26251,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25329,7 +26295,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22234.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25371,7 +26339,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22644.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25413,7 +26383,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23642.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25455,7 +26427,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/7651.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25497,7 +26471,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23604.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25539,7 +26515,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25579,7 +26557,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25621,7 +26601,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25661,7 +26643,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25703,7 +26687,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": -2,
    "pointsPerGame": -0.2,
@@ -25755,7 +26741,9 @@
    }
   },
   "position": "WR",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19064.png",
   "production": {
    "totalPoints": -2.2,
    "pointsPerGame": -0.1,
@@ -25797,7 +26785,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23141.png",
   "production": {
    "totalPoints": 239.3,
    "pointsPerGame": 14.1,
@@ -25849,7 +26839,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18912.png",
   "production": {
    "totalPoints": 230.3,
    "pointsPerGame": 13.5,
@@ -25901,7 +26893,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15048.png",
   "production": {
    "totalPoints": 219.4,
    "pointsPerGame": 14.6,
@@ -25953,7 +26947,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20805.png",
   "production": {
    "totalPoints": 219,
    "pointsPerGame": 14.6,
@@ -26005,7 +27001,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19063.png",
   "production": {
    "totalPoints": 203.2,
    "pointsPerGame": 12.7,
@@ -26057,7 +27055,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18876.png",
   "production": {
    "totalPoints": 201.2,
    "pointsPerGame": 12.6,
@@ -26109,7 +27109,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23251.png",
   "production": {
    "totalPoints": 181.5,
    "pointsPerGame": 10.7,
@@ -26161,7 +27163,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21772.png",
   "production": {
    "totalPoints": 181.1,
    "pointsPerGame": 10.7,
@@ -26213,7 +27217,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23138.png",
   "production": {
    "totalPoints": 177.1,
    "pointsPerGame": 10.4,
@@ -26265,7 +27271,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19920.png",
   "production": {
    "totalPoints": 150.5,
    "pointsPerGame": 10,
@@ -26317,7 +27325,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24102.png",
   "production": {
    "totalPoints": 150.3,
    "pointsPerGame": 9.4,
@@ -26369,7 +27379,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19238.png",
   "production": {
    "totalPoints": 143.5,
    "pointsPerGame": 9,
@@ -26421,7 +27433,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22508.png",
   "production": {
    "totalPoints": 137.3,
    "pointsPerGame": 8.1,
@@ -26473,7 +27487,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19863.png",
   "production": {
    "totalPoints": 136.3,
    "pointsPerGame": 9.7,
@@ -26525,7 +27541,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19803.png",
   "production": {
    "totalPoints": 135.4,
    "pointsPerGame": 13.5,
@@ -26577,7 +27595,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16656.png",
   "production": {
    "totalPoints": 126.8,
    "pointsPerGame": 7.9,
@@ -26629,7 +27649,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18990.png",
   "production": {
    "totalPoints": 124.2,
    "pointsPerGame": 7.3,
@@ -26681,7 +27703,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19988.png",
   "production": {
    "totalPoints": 123.1,
    "pointsPerGame": 7.2,
@@ -26733,7 +27757,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17975.png",
   "production": {
    "totalPoints": 119.9,
    "pointsPerGame": 8.6,
@@ -26785,7 +27811,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23134.png",
   "production": {
    "totalPoints": 116.5,
    "pointsPerGame": 6.9,
@@ -26837,7 +27865,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23489.png",
   "production": {
    "totalPoints": 113.4,
    "pointsPerGame": 6.7,
@@ -26889,7 +27919,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16964.png",
   "production": {
    "totalPoints": 113.2,
    "pointsPerGame": 9.4,
@@ -26941,7 +27973,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18935.png",
   "production": {
    "totalPoints": 111.1,
    "pointsPerGame": 7.4,
@@ -26993,7 +28027,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18032.png",
   "production": {
    "totalPoints": 108.5,
    "pointsPerGame": 7.2,
@@ -27045,7 +28081,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23256.png",
   "production": {
    "totalPoints": 101.1,
    "pointsPerGame": 5.9,
@@ -27097,7 +28135,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21738.png",
   "production": {
    "totalPoints": 97.8,
    "pointsPerGame": 7.5,
@@ -27149,7 +28189,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20506.png",
   "production": {
    "totalPoints": 80.2,
    "pointsPerGame": 6.7,
@@ -27201,7 +28243,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 79.5,
    "pointsPerGame": 5.7,
@@ -27253,7 +28297,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24118.png",
   "production": {
    "totalPoints": 78.5,
    "pointsPerGame": 5.6,
@@ -27305,7 +28351,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22507.png",
   "production": {
    "totalPoints": 76.8,
    "pointsPerGame": 6.4,
@@ -27357,7 +28405,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24150.png",
   "production": {
    "totalPoints": 75.2,
    "pointsPerGame": 6.8,
@@ -27409,7 +28459,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20753.png",
   "production": {
    "totalPoints": 73.4,
    "pointsPerGame": 4.6,
@@ -27461,7 +28513,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22823.png",
   "production": {
    "totalPoints": 73,
    "pointsPerGame": 4.9,
@@ -27513,7 +28567,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19943.png",
   "production": {
    "totalPoints": 71.6,
    "pointsPerGame": 4.5,
@@ -27565,7 +28621,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23140.png",
   "production": {
    "totalPoints": 71.4,
    "pointsPerGame": 5.5,
@@ -27617,7 +28675,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21785.png",
   "production": {
    "totalPoints": 70.6,
    "pointsPerGame": 4.2,
@@ -27669,7 +28729,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19853.png",
   "production": {
    "totalPoints": 65.4,
    "pointsPerGame": 3.8,
@@ -27721,7 +28783,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21807.png",
   "production": {
    "totalPoints": 61.7,
    "pointsPerGame": 3.6,
@@ -27773,7 +28837,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22662.png",
   "production": {
    "totalPoints": 60.4,
    "pointsPerGame": 4,
@@ -27825,7 +28891,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21786.png",
   "production": {
    "totalPoints": 60.4,
    "pointsPerGame": 3.6,
@@ -27877,7 +28945,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20850.png",
   "production": {
    "totalPoints": 54.6,
    "pointsPerGame": 4.6,
@@ -27929,7 +28999,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20899.png",
   "production": {
    "totalPoints": 53.3,
    "pointsPerGame": 3.1,
@@ -27981,7 +29053,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 51.7,
    "pointsPerGame": 7.4,
@@ -28033,7 +29107,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22506.png",
   "production": {
    "totalPoints": 50.9,
    "pointsPerGame": 3.9,
@@ -28085,7 +29161,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23485.png",
   "production": {
    "totalPoints": 50.5,
    "pointsPerGame": 3,
@@ -28137,7 +29215,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20931.png",
   "production": {
    "totalPoints": 50.3,
    "pointsPerGame": 3,
@@ -28189,7 +29269,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18900.png",
   "production": {
    "totalPoints": 49.1,
    "pointsPerGame": 3.1,
@@ -28241,7 +29323,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17963.png",
   "production": {
    "totalPoints": 48.4,
    "pointsPerGame": 3,
@@ -28293,7 +29377,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20884.png",
   "production": {
    "totalPoints": 46.3,
    "pointsPerGame": 3.3,
@@ -28345,7 +29431,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19843.png",
   "production": {
    "totalPoints": 42.4,
    "pointsPerGame": 4.2,
@@ -28397,7 +29485,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19950.png",
   "production": {
    "totalPoints": 40.2,
    "pointsPerGame": 2.7,
@@ -28449,7 +29539,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19165.png",
   "production": {
    "totalPoints": 40.2,
    "pointsPerGame": 2.9,
@@ -28501,7 +29593,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23487.png",
   "production": {
    "totalPoints": 39.7,
    "pointsPerGame": 2.3,
@@ -28553,7 +29647,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21227.png",
   "production": {
    "totalPoints": 38.8,
    "pointsPerGame": 2.6,
@@ -28605,7 +29701,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23143.png",
   "production": {
    "totalPoints": 38.7,
    "pointsPerGame": 3.2,
@@ -28657,7 +29755,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21783.png",
   "production": {
    "totalPoints": 37.9,
    "pointsPerGame": 2.2,
@@ -28709,7 +29809,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19304.png",
   "production": {
    "totalPoints": 37.8,
    "pointsPerGame": 2.7,
@@ -28761,7 +29863,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24449.png",
   "production": {
    "totalPoints": 36.3,
    "pointsPerGame": 3.3,
@@ -28813,7 +29917,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "IND",
   "team": "Indianapolis",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 35.7,
    "pointsPerGame": 3,
@@ -28865,7 +29971,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22657.png",
   "production": {
    "totalPoints": 34.1,
    "pointsPerGame": 2,
@@ -28917,7 +30025,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NO",
   "team": "New Orleans",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/11488.png",
   "production": {
    "totalPoints": 33.9,
    "pointsPerGame": 3.1,
@@ -28969,7 +30079,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 33.5,
    "pointsPerGame": 2.8,
@@ -29021,7 +30133,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23644.png",
   "production": {
    "totalPoints": 32.5,
    "pointsPerGame": 2.3,
@@ -29073,7 +30187,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22521.png",
   "production": {
    "totalPoints": 31.1,
    "pointsPerGame": 2.6,
@@ -29125,7 +30241,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21795.png",
   "production": {
    "totalPoints": 28.5,
    "pointsPerGame": 1.9,
@@ -29177,7 +30295,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19903.png",
   "production": {
    "totalPoints": 28.2,
    "pointsPerGame": 1.8,
@@ -29229,7 +30349,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23010.png",
   "production": {
    "totalPoints": 28.1,
    "pointsPerGame": 2.6,
@@ -29281,7 +30403,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24288.png",
   "production": {
    "totalPoints": 26.5,
    "pointsPerGame": 1.7,
@@ -29333,7 +30457,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16903.png",
   "production": {
    "totalPoints": 26,
    "pointsPerGame": 1.5,
@@ -29385,7 +30511,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24148.png",
   "production": {
    "totalPoints": 25.5,
    "pointsPerGame": 2,
@@ -29437,7 +30565,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21865.png",
   "production": {
    "totalPoints": 24.5,
    "pointsPerGame": 2.2,
@@ -29489,7 +30619,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24375.png",
   "production": {
    "totalPoints": 24.4,
    "pointsPerGame": 2.7,
@@ -29541,7 +30673,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23650.png",
   "production": {
    "totalPoints": 23.5,
    "pointsPerGame": 3.4,
@@ -29593,7 +30727,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "WAS",
   "team": "Washington",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22515.png",
   "production": {
    "totalPoints": 23,
    "pointsPerGame": 1.9,
@@ -29645,7 +30781,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19491.png",
   "production": {
    "totalPoints": 22.2,
    "pointsPerGame": 1.4,
@@ -29697,7 +30835,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BAL",
   "team": "Baltimore",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23135.png",
   "production": {
    "totalPoints": 21.7,
    "pointsPerGame": 1.7,
@@ -29749,7 +30889,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16917.png",
   "production": {
    "totalPoints": 19.8,
    "pointsPerGame": 2,
@@ -29801,7 +30943,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17005.png",
   "production": {
    "totalPoints": 19.4,
    "pointsPerGame": 1.6,
@@ -29853,7 +30997,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CIN",
   "team": "Cincinnati",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21800.png",
   "production": {
    "totalPoints": 14.6,
    "pointsPerGame": 0.9,
@@ -29905,7 +31051,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21798.png",
   "production": {
    "totalPoints": 14.5,
    "pointsPerGame": 1,
@@ -29957,7 +31105,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24223.png",
   "production": {
    "totalPoints": 14.5,
    "pointsPerGame": 1.2,
@@ -30009,7 +31159,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23136.png",
   "production": {
    "totalPoints": 13.1,
    "pointsPerGame": 0.9,
@@ -30061,7 +31213,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CHI",
   "team": "Chicago",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/3061.png",
   "production": {
    "totalPoints": 12.9,
    "pointsPerGame": 0.9,
@@ -30113,7 +31267,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21678.png",
   "production": {
    "totalPoints": 12.8,
    "pointsPerGame": 0.9,
@@ -30165,7 +31321,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "GB",
   "team": "Green Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24533.png",
   "production": {
    "totalPoints": 12.1,
    "pointsPerGame": 0.9,
@@ -30217,7 +31375,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16878.png",
   "production": {
    "totalPoints": 11.6,
    "pointsPerGame": 0.8,
@@ -30269,7 +31429,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24151.png",
   "production": {
    "totalPoints": 10.8,
    "pointsPerGame": 0.8,
@@ -30321,7 +31483,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19910.png",
   "production": {
    "totalPoints": 10.6,
    "pointsPerGame": 1,
@@ -30373,7 +31537,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22511.png",
   "production": {
    "totalPoints": 10.6,
    "pointsPerGame": 1,
@@ -30425,7 +31591,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22661.png",
   "production": {
    "totalPoints": 8.8,
    "pointsPerGame": 0.6,
@@ -30477,7 +31645,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24463.png",
   "production": {
    "totalPoints": 8.8,
    "pointsPerGame": 0.6,
@@ -30529,7 +31699,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23486.png",
   "production": {
    "totalPoints": 7.9,
    "pointsPerGame": 0.8,
@@ -30581,7 +31753,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22517.png",
   "production": {
    "totalPoints": 7.8,
    "pointsPerGame": 1,
@@ -30633,7 +31807,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23618.png",
   "production": {
    "totalPoints": 7.2,
    "pointsPerGame": 0.5,
@@ -30685,7 +31861,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24686.png",
   "production": {
    "totalPoints": 6.2,
    "pointsPerGame": 0.7,
@@ -30737,7 +31915,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22119.png",
   "production": {
    "totalPoints": 6.2,
    "pointsPerGame": 0.4,
@@ -30789,7 +31969,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23310.png",
   "production": {
    "totalPoints": 5.5,
    "pointsPerGame": 2.8,
@@ -30841,7 +32023,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23355.png",
   "production": {
    "totalPoints": 5.3,
    "pointsPerGame": 1.1,
@@ -30893,7 +32077,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22524.png",
   "production": {
    "totalPoints": 4.8,
    "pointsPerGame": 0.4,
@@ -30945,7 +32131,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22514.png",
   "production": {
    "totalPoints": 4.8,
    "pointsPerGame": 1,
@@ -30997,7 +32185,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19035.png",
   "production": {
    "totalPoints": 4.2,
    "pointsPerGame": 0.5,
@@ -31049,7 +32239,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DEN",
   "team": "Denver",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17762.png",
   "production": {
    "totalPoints": 3.6,
    "pointsPerGame": 0.2,
@@ -31101,7 +32293,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIN",
   "team": "Minnesota",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23621.png",
   "production": {
    "totalPoints": 3.2,
    "pointsPerGame": 3.2,
@@ -31153,7 +32347,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20977.png",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 0.2,
@@ -31205,7 +32401,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23614.png",
   "production": {
    "totalPoints": 2.2,
    "pointsPerGame": 0.4,
@@ -31257,7 +32455,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20361.png",
   "production": {
    "totalPoints": 2.2,
    "pointsPerGame": 0.2,
@@ -31309,7 +32509,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24021.png",
   "production": {
    "totalPoints": 1.9,
    "pointsPerGame": 0.3,
@@ -31361,7 +32563,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23335.png",
   "production": {
    "totalPoints": 1.6,
    "pointsPerGame": 0.8,
@@ -31413,7 +32617,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TEN",
   "team": "Tennessee",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20134.png",
   "production": {
    "totalPoints": 1.6,
    "pointsPerGame": 0.1,
@@ -31465,7 +32671,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20812.png",
   "production": {
    "totalPoints": 1.4,
    "pointsPerGame": 0.3,
@@ -31507,7 +32715,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18019.png",
   "production": {
    "totalPoints": 1.3,
    "pointsPerGame": 0.2,
@@ -31549,7 +32759,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21732.png",
   "production": {
    "totalPoints": 1.2,
    "pointsPerGame": 0.2,
@@ -31591,7 +32803,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "TB",
   "team": "Tampa Bay",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20199.png",
   "production": {
    "totalPoints": 1,
    "pointsPerGame": 0.5,
@@ -31643,7 +32857,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CLE",
   "team": "Cleveland",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23863.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31685,7 +32901,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21796.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31727,7 +32945,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYG",
   "team": "N.Y. Giants",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20823.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31769,7 +32989,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAR",
   "team": "L.A. Rams",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22509.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31811,7 +33033,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31853,7 +33077,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24354.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31895,7 +33121,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LV",
   "team": "Las Vegas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20770.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31937,7 +33165,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ARI",
   "team": "Arizona",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24444.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -31979,7 +33209,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "JAC",
   "team": "Jacksonville",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22954.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32021,7 +33253,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DET",
   "team": "Detroit",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19296.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32063,7 +33297,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "LAC",
   "team": "L.A. Chargers",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32105,7 +33341,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "ATL",
   "team": "Atlanta",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32147,7 +33385,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32177,7 +33417,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SF",
   "team": "San Francisco",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24149.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32219,7 +33461,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "HOU",
   "team": "Houston",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21808.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32261,7 +33505,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "BUF",
   "team": "Buffalo",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22512.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32303,7 +33549,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "SEA",
   "team": "Seattle",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24718.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32345,7 +33593,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15917.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32387,7 +33637,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "DAL",
   "team": "Dallas",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21781.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32439,7 +33691,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "KC",
   "team": "Kansas City",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22518.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32481,7 +33735,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32511,7 +33767,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PHI",
   "team": "Philadelphia",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21794.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32553,7 +33811,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "PIT",
   "team": "Pittsburgh",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23711.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32605,7 +33865,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "FA",
   "team": "N/A",
+  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32635,7 +33897,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23737.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32677,7 +33941,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NE",
   "team": "New England",
+  "headShot": "Missing photo url",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32719,7 +33985,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "MIA",
   "team": "Miami",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16846.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32761,7 +34029,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "NYJ",
   "team": "N.Y. Jets",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/24211.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -32803,7 +34073,9 @@
    }
   },
   "position": "TE",
+  "teamShortName": "CAR",
   "team": "Carolina",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23876.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
