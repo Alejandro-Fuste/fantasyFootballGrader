@@ -6,14 +6,12 @@ import sportsDataAPI from "./utils/API/sportsDataAPI.js";
 import teams from "./data/offense/offenseData.json" assert { type: "json" };
 
 const api_key = process.env.SPORTS_DATA_KEY;
-const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/PlayersBasic/";
+const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/Players/";
 
 const teamsArray = Object.keys(teams);
 
-const getTeamRoster = (team) => {
-  let object = new Map();
+const getRostersWithImages = (team) => {
   let url;
-  let jsonData = teams[team];
 
   if (team === "JAC") {
     url = `${BASE_URL}JAX?key=${api_key}`;
@@ -21,20 +19,31 @@ const getTeamRoster = (team) => {
     url = `${BASE_URL}${team}?key=${api_key}`;
   }
 
-  sportsDataAPI.getTeamRoster(url).then(function (data) {
-    let newData = {
-      ...jsonData,
-      players: data,
-    };
-    object.set(team, newData);
-    let obj = Object.fromEntries(object);
-    appendToFile("./data/sportsData/teamsWithPlayers.json", obj);
+  return new Promise((resolve, reject) => {
+    fetch(url)
+      .then((resp) => resp.json())
+      .then((data) => {
+        resolve(data);
+      });
   });
 };
 
-teamsArray.forEach((team) => {
-  getTeamRoster(team);
-});
+const getImages = async () => {
+  let imageRequest = null;
+  let object = new Map();
+
+  teamsArray.forEach(async (team) => {
+    imageRequest = getRostersWithImages(team);
+
+    await imageRequest.then((data) => {
+      object.set(team, data);
+      let info = { [team]: data };
+      appendToFile("./data/sportsData/rostersWithPhotos.json", info);
+    });
+  });
+};
+
+getImages();
 
 /* ****** Get owners from all leagues ****** */
 
