@@ -5,6 +5,8 @@ import sleeperAPI from "./utils/API/sleeperAPI.js";
 import sportsDataAPI from "./utils/API/sportsDataAPI.js";
 import teams from "./data/offense/offenseData.json" assert { type: "json" };
 
+/* ****** Get player images from sports data api ****** */
+
 const api_key = process.env.SPORTS_DATA_KEY;
 const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/Players/";
 
@@ -12,35 +14,34 @@ const teamsArray = Object.keys(teams);
 
 const getRostersWithImages = (team) => {
   let url;
+  let result;
 
   if (team === "JAC") {
     url = `${BASE_URL}JAX?key=${api_key}`;
   } else {
     url = `${BASE_URL}${team}?key=${api_key}`;
   }
+  result = sportsDataAPI.getTeamRosterWithImages(url);
 
-  return new Promise((resolve, reject) => {
-    fetch(url)
-      .then((resp) => resp.json())
-      .then((data) => {
-        resolve(data);
-      });
-  });
+  return result;
 };
 
 const getImages = async () => {
-  let imageRequest = null;
   let object = new Map();
 
   teamsArray.forEach(async (team) => {
-    imageRequest = getRostersWithImages(team);
+    let data = await fetch("https://randomuser.me/api/0.8/?results=1");
+    let results = await data.json();
+    object.set(team, results);
 
-    await imageRequest.then((data) => {
-      object.set(team, data);
-      let info = { [team]: data };
-      appendToFile("./data/sportsData/rostersWithPhotos.json", info);
-    });
+    // let info = { [team]: data };
+    // appendToFile("./data/sportsData/rostersWithPhotos2.json", info);
   });
+
+  setTimeout(() => {
+    let obj = Object.fromEntries(object);
+    writeToFile("./data/sportsData/rostersWithPhotos2.json", obj);
+  }, 3000);
 };
 
 getImages();

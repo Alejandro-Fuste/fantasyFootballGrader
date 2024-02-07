@@ -1,5 +1,5 @@
 const sportsDataAPI = {
-  getTeamRoster: async (baseUrl) => {
+  getTeamRosterWithImages: async (baseUrl) => {
     const url = baseUrl;
     const response = await fetch(url);
     const results = await response.json();
