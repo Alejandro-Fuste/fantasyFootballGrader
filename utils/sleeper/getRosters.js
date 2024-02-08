@@ -25,7 +25,6 @@ function getPlayerNames(rosterArray) {
       array.push(sleeperPlayers[player].full_name);
     }
   });
-  console.log(array);
   return array;
 }
 

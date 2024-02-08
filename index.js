@@ -30,9 +30,9 @@ const getImages = async () => {
   let object = new Map();
 
   teamsArray.forEach(async (team) => {
-    let data = await fetch("https://randomuser.me/api/0.8/?results=1");
-    let results = await data.json();
-    object.set(team, results);
+    let data = await getRostersWithImages(team);
+    // let results = await data.json();
+    object.set(team, data);
 
     // let info = { [team]: data };
     // appendToFile("./data/sportsData/rostersWithPhotos2.json", info);
