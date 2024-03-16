@@ -1,6 +1,7 @@
 {
  "Josh Allen": {
   "name": "Josh Allen",
+  "age": 27,
   "overallGrade": {
    "value": 93.25,
    "grade": {
@@ -56,6 +57,7 @@
  },
  "Jalen Hurts": {
   "name": "Jalen Hurts",
+  "age": 25,
   "overallGrade": {
    "value": 90.25,
    "grade": {
@@ -111,6 +113,7 @@
  },
  "Dak Prescott": {
   "name": "Dak Prescott",
+  "age": 30,
   "overallGrade": {
    "value": 97,
    "grade": {
@@ -166,6 +169,7 @@
  },
  "Lamar Jackson": {
   "name": "Lamar Jackson",
+  "age": 27,
   "overallGrade": {
    "value": 90,
    "grade": {
@@ -221,6 +225,7 @@
  },
  "Jordan Love": {
   "name": "Jordan Love",
+  "age": 25,
   "overallGrade": {
    "value": 87,
    "grade": {
@@ -276,6 +281,7 @@
  },
  "Brock Purdy": {
   "name": "Brock Purdy",
+  "age": 24,
   "overallGrade": {
    "value": 89.25,
    "grade": {
@@ -331,6 +337,7 @@
  },
  "Jared Goff": {
   "name": "Jared Goff",
+  "age": 29,
   "overallGrade": {
    "value": 92.75,
    "grade": {
@@ -386,6 +393,7 @@
  },
  "Patrick Mahomes": {
   "name": "Patrick Mahomes",
+  "age": 28,
   "overallGrade": {
    "value": 84.5,
    "grade": {
@@ -441,6 +449,7 @@
  },
  "Tua Tagovailoa": {
   "name": "Tua Tagovailoa",
+  "age": 25,
   "overallGrade": {
    "value": 92.5,
    "grade": {
@@ -496,6 +505,7 @@
  },
  "Baker Mayfield": {
   "name": "Baker Mayfield",
+  "age": 28,
   "overallGrade": {
    "value": 78.75,
    "grade": {
@@ -551,6 +561,7 @@
  },
  "C.J. Stroud": {
   "name": "C.J. Stroud",
+  "age": 22,
   "overallGrade": {
    "value": 81.25,
    "grade": {
@@ -606,6 +617,7 @@
  },
  "Sam Howell": {
   "name": "Sam Howell",
+  "age": 23,
   "overallGrade": {
    "value": 76,
    "grade": {
@@ -661,6 +673,7 @@
  },
  "Trevor Lawrence": {
   "name": "Trevor Lawrence",
+  "age": 24,
   "overallGrade": {
    "value": 81.75,
    "grade": {
@@ -716,6 +729,7 @@
  },
  "Russell Wilson": {
   "name": "Russell Wilson",
+  "age": 35,
   "overallGrade": {
    "value": 74,
    "grade": {
@@ -771,6 +785,7 @@
  },
  "Matthew Stafford": {
   "name": "Matthew Stafford",
+  "age": 36,
   "overallGrade": {
    "value": 84,
    "grade": {
@@ -826,6 +841,7 @@
  },
  "Derek Carr": {
   "name": "Derek Carr",
+  "age": 32,
   "overallGrade": {
    "value": 84,
    "grade": {
@@ -881,6 +897,7 @@
  },
  "Justin Herbert": {
   "name": "Justin Herbert",
+  "age": 25,
   "overallGrade": {
    "value": 71,
    "grade": {
@@ -936,6 +953,7 @@
  },
  "Justin Fields": {
   "name": "Justin Fields",
+  "age": 24,
   "overallGrade": {
    "value": 71.75,
    "grade": {
@@ -991,6 +1009,7 @@
  },
  "Geno Smith": {
   "name": "Geno Smith",
+  "age": 33,
   "overallGrade": {
    "value": 74.75,
    "grade": {
@@ -1046,6 +1065,7 @@
  },
  "Joshua Dobbs": {
   "name": "Joshua Dobbs",
+  "age": 29,
   "overallGrade": {
    "value": 67.75,
    "grade": {
@@ -1101,6 +1121,7 @@
  },
  "Gardner Minshew": {
   "name": "Gardner Minshew",
+  "age": 27,
   "overallGrade": {
    "value": 78.5,
    "grade": {
@@ -1156,6 +1177,7 @@
  },
  "Desmond Ridder": {
   "name": "Desmond Ridder",
+  "age": 24,
   "overallGrade": {
    "value": 63.25,
    "grade": {
@@ -1211,6 +1233,7 @@
  },
  "Bryce Young": {
   "name": "Bryce Young",
+  "age": 22,
   "overallGrade": {
    "value": 60.75,
    "grade": {
@@ -1266,6 +1289,7 @@
  },
  "Kirk Cousins": {
   "name": "Kirk Cousins",
+  "age": 35,
   "overallGrade": {
    "value": 62,
    "grade": {
@@ -1321,6 +1345,7 @@
  },
  "Joe Burrow": {
   "name": "Joe Burrow",
+  "age": 27,
   "overallGrade": {
    "value": 67.75,
    "grade": {
@@ -1376,6 +1401,7 @@
  },
  "Kyler Murray": {
   "name": "Kyler Murray",
+  "age": 26,
   "overallGrade": {
    "value": 59.5,
    "grade": {
@@ -1431,6 +1457,7 @@
  },
  "Jake Browning": {
   "name": "Jake Browning",
+  "age": 27,
   "overallGrade": {
    "value": 64.75,
    "grade": {
@@ -1486,6 +1513,7 @@
  },
  "Aidan O'Connell": {
   "name": "Aidan O'Connell",
+  "age": 25,
   "overallGrade": {
    "value": 59.25,
    "grade": {
@@ -1541,6 +1569,7 @@
  },
  "Zach Wilson": {
   "name": "Zach Wilson",
+  "age": 24,
   "overallGrade": {
    "value": 54.75,
    "grade": {
@@ -1596,6 +1625,7 @@
  },
  "Mac Jones": {
   "name": "Mac Jones",
+  "age": 25,
   "overallGrade": {
    "value": 52,
    "grade": {
@@ -1651,6 +1681,7 @@
  },
  "Kenny Pickett": {
   "name": "Kenny Pickett",
+  "age": 25,
   "overallGrade": {
    "value": 53.75,
    "grade": {
@@ -1706,6 +1737,7 @@
  },
  "Joe Flacco": {
   "name": "Joe Flacco",
+  "age": 39,
   "overallGrade": {
    "value": 63.25,
    "grade": {
@@ -1761,6 +1793,7 @@
  },
  "Will Levis": {
   "name": "Will Levis",
+  "age": 24,
   "overallGrade": {
    "value": 50.75,
    "grade": {
@@ -1816,6 +1849,7 @@
  },
  "Tommy DeVito": {
   "name": "Tommy DeVito",
+  "age": "N/A",
   "overallGrade": {
    "value": 46.25,
    "grade": {
@@ -1871,6 +1905,7 @@
  },
  "Deshaun Watson": {
   "name": "Deshaun Watson",
+  "age": 28,
   "overallGrade": {
    "value": 60.25,
    "grade": {
@@ -1926,6 +1961,7 @@
  },
  "Tyrod Taylor": {
   "name": "Tyrod Taylor",
+  "age": 34,
   "overallGrade": {
    "value": 45.75,
    "grade": {
@@ -1981,6 +2017,7 @@
  },
  "Ryan Tannehill": {
   "name": "Ryan Tannehill",
+  "age": 35,
   "overallGrade": {
    "value": 47.75,
    "grade": {
@@ -2036,6 +2073,7 @@
  },
  "Bailey Zappe": {
   "name": "Bailey Zappe",
+  "age": 24,
   "overallGrade": {
    "value": 44.25,
    "grade": {
@@ -2091,6 +2129,7 @@
  },
  "Nick Mullens": {
   "name": "Nick Mullens",
+  "age": 28,
   "overallGrade": {
    "value": 47.75,
    "grade": {
@@ -2146,6 +2185,7 @@
  },
  "Anthony Richardson": {
   "name": "Anthony Richardson",
+  "age": 22,
   "overallGrade": {
    "value": 55.25,
    "grade": {
@@ -2201,6 +2241,7 @@
  },
  "Jimmy Garoppolo": {
   "name": "Jimmy Garoppolo",
+  "age": 32,
   "overallGrade": {
    "value": 47.25,
    "grade": {
@@ -2256,6 +2297,7 @@
  },
  "Taylor Heinicke": {
   "name": "Taylor Heinicke",
+  "age": 30,
   "overallGrade": {
    "value": 43,
    "grade": {
@@ -2311,6 +2353,7 @@
  },
  "Easton Stick": {
   "name": "Easton Stick",
+  "age": 28,
   "overallGrade": {
    "value": 48.5,
    "grade": {
@@ -2366,6 +2409,7 @@
  },
  "Daniel Jones": {
   "name": "Daniel Jones",
+  "age": 26,
   "overallGrade": {
    "value": 39.75,
    "grade": {
@@ -2421,6 +2465,7 @@
  },
  "Tyson Bagent": {
   "name": "Tyson Bagent",
+  "age": 23,
   "overallGrade": {
    "value": 47.5,
    "grade": {
@@ -2476,6 +2521,7 @@
  },
  "Mitch Trubisky": {
   "name": "Mitch Trubisky",
+  "age": 29,
   "overallGrade": {
    "value": 38.75,
    "grade": {
@@ -2531,6 +2577,7 @@
  },
  "Mason Rudolph": {
   "name": "Mason Rudolph",
+  "age": 28,
   "overallGrade": {
    "value": 35.75,
    "grade": {
@@ -2586,6 +2633,7 @@
  },
  "Drew Lock": {
   "name": "Drew Lock",
+  "age": 27,
   "overallGrade": {
    "value": 42.25,
    "grade": {
@@ -2641,6 +2689,7 @@
  },
  "Trevor Siemian": {
   "name": "Trevor Siemian",
+  "age": 32,
   "overallGrade": {
    "value": 35.5,
    "grade": {
@@ -2696,6 +2745,7 @@
  },
  "Jarrett Stidham": {
   "name": "Jarrett Stidham",
+  "age": 27,
   "overallGrade": {
    "value": 38.75,
    "grade": {
@@ -2751,6 +2801,7 @@
  },
  "Carson Wentz": {
   "name": "Carson Wentz",
+  "age": 31,
   "overallGrade": {
    "value": 42.75,
    "grade": {
@@ -2806,6 +2857,7 @@
  },
  "Dorian Thompson-Robinson": {
   "name": "Dorian Thompson-Robinson",
+  "age": 24,
   "overallGrade": {
    "value": 46.5,
    "grade": {
@@ -2861,6 +2913,7 @@
  },
  "Tyler Huntley": {
   "name": "Tyler Huntley",
+  "age": 26,
   "overallGrade": {
    "value": 46.25,
    "grade": {
@@ -2916,6 +2969,7 @@
  },
  "P.J. Walker": {
   "name": "P.J. Walker",
+  "age": 28,
   "overallGrade": {
    "value": 45.5,
    "grade": {
@@ -2971,6 +3025,7 @@
  },
  "Sam Darnold": {
   "name": "Sam Darnold",
+  "age": 26,
   "overallGrade": {
    "value": 47.75,
    "grade": {
@@ -3026,6 +3081,7 @@
  },
  "Andy Dalton": {
   "name": "Andy Dalton",
+  "age": 36,
   "overallGrade": {
    "value": 26,
    "grade": {
@@ -3081,6 +3137,7 @@
  },
  "Jacoby Brissett": {
   "name": "Jacoby Brissett",
+  "age": 31,
   "overallGrade": {
    "value": 26.5,
    "grade": {
@@ -3136,6 +3193,7 @@
  },
  "C.J. Beathard": {
   "name": "C.J. Beathard",
+  "age": 30,
   "overallGrade": {
    "value": 38.5,
    "grade": {
@@ -3191,6 +3249,7 @@
  },
  "Davis Mills": {
   "name": "Davis Mills",
+  "age": 25,
   "overallGrade": {
    "value": 36.75,
    "grade": {
@@ -3246,6 +3305,7 @@
  },
  "Jeff Driskel": {
   "name": "Jeff Driskel",
+  "age": 30,
   "overallGrade": {
    "value": 36.75,
    "grade": {
@@ -3301,6 +3361,7 @@
  },
  "Jameis Winston": {
   "name": "Jameis Winston",
+  "age": 30,
   "overallGrade": {
    "value": 40,
    "grade": {
@@ -3356,6 +3417,7 @@
  },
  "Tim Boyle": {
   "name": "Tim Boyle",
+  "age": 29,
   "overallGrade": {
    "value": 38.75,
    "grade": {
@@ -3411,6 +3473,7 @@
  },
  "Marcus Mariota": {
   "name": "Marcus Mariota",
+  "age": 30,
   "overallGrade": {
    "value": 37,
    "grade": {
@@ -3466,6 +3529,7 @@
  },
  "Case Keenum": {
   "name": "Case Keenum",
+  "age": 35,
   "overallGrade": {
    "value": 35.25,
    "grade": {
@@ -3521,6 +3585,7 @@
  },
  "Clayton Tune": {
   "name": "Clayton Tune",
+  "age": 24,
   "overallGrade": {
    "value": 21.5,
    "grade": {
@@ -3576,6 +3641,7 @@
  },
  "Blaine Gabbert": {
   "name": "Blaine Gabbert",
+  "age": 34,
   "overallGrade": {
    "value": 30.25,
    "grade": {
@@ -3631,6 +3697,7 @@
  },
  "Brian Hoyer": {
   "name": "Brian Hoyer",
+  "age": 38,
   "overallGrade": {
    "value": 24.5,
    "grade": {
@@ -3686,6 +3753,7 @@
  },
  "Brett Rypien": {
   "name": "Brett Rypien",
+  "age": 27,
   "overallGrade": {
    "value": 18.75,
    "grade": {
@@ -3741,6 +3809,7 @@
  },
  "Cooper Rush": {
   "name": "Cooper Rush",
+  "age": 30,
   "overallGrade": {
    "value": 38.25,
    "grade": {
@@ -3796,6 +3865,7 @@
  },
  "Jaren Hall": {
   "name": "Jaren Hall",
+  "age": 25,
   "overallGrade": {
    "value": 19.75,
    "grade": {
@@ -3851,6 +3921,7 @@
  },
  "Malik Willis": {
   "name": "Malik Willis",
+  "age": 24,
   "overallGrade": {
    "value": 13.75,
    "grade": {
@@ -3906,6 +3977,7 @@
  },
  "Mike White": {
   "name": "Mike White",
+  "age": 28,
   "overallGrade": {
    "value": 34.25,
    "grade": {
@@ -3961,6 +4033,7 @@
  },
  "Sean Clifford": {
   "name": "Sean Clifford",
+  "age": 25,
   "overallGrade": {
    "value": 24,
    "grade": {
@@ -4016,6 +4089,7 @@
  },
  "AJ McCarron": {
   "name": "AJ McCarron",
+  "age": 33,
   "overallGrade": {
    "value": 21,
    "grade": {
@@ -4071,6 +4145,7 @@
  },
  "Logan Woodside": {
   "name": "Logan Woodside",
+  "age": 29,
   "overallGrade": {
    "value": 12.5,
    "grade": {
@@ -4126,6 +4201,7 @@
  },
  "Skylar Thompson": {
   "name": "Skylar Thompson",
+  "age": 26,
   "overallGrade": {
    "value": 30.25,
    "grade": {
@@ -4170,6 +4246,7 @@
  },
  "Max Duggan": {
   "name": "Max Duggan",
+  "age": 22,
   "overallGrade": {
    "value": 15.25,
    "grade": {
@@ -4214,6 +4291,7 @@
  },
  "Sam Ehlinger": {
   "name": "Sam Ehlinger",
+  "age": 25,
   "overallGrade": {
    "value": 24,
    "grade": {
@@ -4258,6 +4336,7 @@
  },
  "Aaron Rodgers": {
   "name": "Aaron Rodgers",
+  "age": 40,
   "overallGrade": {
    "value": 9,
    "grade": {
@@ -4313,6 +4392,7 @@
  },
  "Jacob Eason": {
   "name": "Jacob Eason",
+  "age": 26,
   "overallGrade": {
    "value": 8.25,
    "grade": {
@@ -4357,6 +4437,7 @@
  },
  "Malik Cunningham": {
   "name": "Malik Cunningham",
+  "age": 25,
   "overallGrade": {
    "value": 28.75,
    "grade": {
@@ -4401,6 +4482,7 @@
  },
  "Chris Oladokun": {
   "name": "Chris Oladokun",
+  "age": 26,
   "overallGrade": {
    "value": 20,
    "grade": {
@@ -4445,6 +4527,7 @@
  },
  "Kyle Trask": {
   "name": "Kyle Trask",
+  "age": 25,
   "overallGrade": {
    "value": 10.75,
    "grade": {
@@ -4500,6 +4583,7 @@
  },
  "Teddy Bridgewater": {
   "name": "Teddy Bridgewater",
+  "age": "N/A",
   "overallGrade": {
    "value": 22,
    "grade": {
@@ -4544,6 +4628,7 @@
  },
  "Matt Barkley": {
   "name": "Matt Barkley",
+  "age": 33,
   "overallGrade": {
    "value": 14.75,
    "grade": {
@@ -4588,6 +4673,7 @@
  },
  "Nathan Peterman": {
   "name": "Nathan Peterman",
+  "age": 29,
   "overallGrade": {
    "value": 11.25,
    "grade": {
@@ -4632,6 +4718,7 @@
  },
  "Kyle Allen": {
   "name": "Kyle Allen",
+  "age": 27,
   "overallGrade": {
    "value": 20.25,
    "grade": {
@@ -4676,6 +4763,7 @@
  },
  "Christian McCaffrey": {
   "name": "Christian McCaffrey",
+  "age": 27,
   "overallGrade": {
    "value": 97.25,
    "grade": {
@@ -4737,6 +4825,7 @@
  },
  "Breece Hall": {
   "name": "Breece Hall",
+  "age": 22,
   "overallGrade": {
    "value": 74,
    "grade": {
@@ -4798,6 +4887,7 @@
  },
  "Travis Etienne": {
   "name": "Travis Etienne",
+  "age": 25,
   "overallGrade": {
    "value": 87,
    "grade": {
@@ -4808,7 +4898,7 @@
   "position": "RB",
   "teamShortName": "JAC",
   "team": "Jacksonville",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21696.png",
   "production": {
    "totalPoints": 282.4,
    "pointsPerGame": 16.6,
@@ -4859,6 +4949,7 @@
  },
  "Rachaad White": {
   "name": "Rachaad White",
+  "age": 25,
   "overallGrade": {
    "value": 82.5,
    "grade": {
@@ -4920,6 +5011,7 @@
  },
  "Raheem Mostert": {
   "name": "Raheem Mostert",
+  "age": 31,
   "overallGrade": {
    "value": 93.25,
    "grade": {
@@ -4981,6 +5073,7 @@
  },
  "Joe Mixon": {
   "name": "Joe Mixon",
+  "age": 27,
   "overallGrade": {
    "value": 84.5,
    "grade": {
@@ -5042,6 +5135,7 @@
  },
  "Kyren Williams": {
   "name": "Kyren Williams",
+  "age": 23,
   "overallGrade": {
    "value": 89.25,
    "grade": {
@@ -5103,6 +5197,7 @@
  },
  "Derrick Henry": {
   "name": "Derrick Henry",
+  "age": 30,
   "overallGrade": {
    "value": 75.5,
    "grade": {
@@ -5164,6 +5259,7 @@
  },
  "Bijan Robinson": {
   "name": "Bijan Robinson",
+  "age": 22,
   "overallGrade": {
    "value": 73.25,
    "grade": {
@@ -5225,6 +5321,7 @@
  },
  "Jahmyr Gibbs": {
   "name": "Jahmyr Gibbs",
+  "age": 21,
   "overallGrade": {
    "value": 88,
    "grade": {
@@ -5286,6 +5383,7 @@
  },
  "Alvin Kamara": {
   "name": "Alvin Kamara",
+  "age": 28,
   "overallGrade": {
    "value": 84.25,
    "grade": {
@@ -5347,6 +5445,7 @@
  },
  "James Cook": {
   "name": "James Cook",
+  "age": 24,
   "overallGrade": {
    "value": 90,
    "grade": {
@@ -5408,6 +5507,7 @@
  },
  "Saquon Barkley": {
   "name": "Saquon Barkley",
+  "age": 27,
   "overallGrade": {
    "value": 71,
    "grade": {
@@ -5469,6 +5569,7 @@
  },
  "Tony Pollard": {
   "name": "Tony Pollard",
+  "age": 26,
   "overallGrade": {
    "value": 93.75,
    "grade": {
@@ -5530,6 +5631,7 @@
  },
  "Isiah Pacheco": {
   "name": "Isiah Pacheco",
+  "age": 24,
   "overallGrade": {
    "value": 79.75,
    "grade": {
@@ -5591,6 +5693,7 @@
  },
  "Jerome Ford": {
   "name": "Jerome Ford",
+  "age": 24,
   "overallGrade": {
    "value": 82.5,
    "grade": {
@@ -5652,6 +5755,7 @@
  },
  "David Montgomery": {
   "name": "David Montgomery",
+  "age": 26,
   "overallGrade": {
    "value": 88.25,
    "grade": {
@@ -5713,6 +5817,7 @@
  },
  "James Conner": {
   "name": "James Conner",
+  "age": 28,
   "overallGrade": {
    "value": 72,
    "grade": {
@@ -5774,6 +5879,7 @@
  },
  "Kenneth Walker": {
   "name": "Kenneth Walker",
+  "age": 23,
   "overallGrade": {
    "value": 78,
    "grade": {
@@ -5784,7 +5890,7 @@
   "position": "RB",
   "teamShortName": "SEA",
   "team": "Seattle",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23214.png",
   "production": {
    "totalPoints": 199.4,
    "pointsPerGame": 13.3,
@@ -5835,6 +5941,7 @@
  },
  "D'Andre Swift": {
   "name": "D'Andre Swift",
+  "age": 25,
   "overallGrade": {
    "value": 86.5,
    "grade": {
@@ -5896,6 +6003,7 @@
  },
  "Brian Robinson": {
   "name": "Brian Robinson",
+  "age": 24,
   "overallGrade": {
    "value": 68.5,
    "grade": {
@@ -5906,7 +6014,7 @@
   "position": "RB",
   "teamShortName": "WAS",
   "team": "Washington",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23190.png",
   "production": {
    "totalPoints": 198.1,
    "pointsPerGame": 13.2,
@@ -5957,6 +6065,7 @@
  },
  "Jaylen Warren": {
   "name": "Jaylen Warren",
+  "age": 25,
   "overallGrade": {
    "value": 66.25,
    "grade": {
@@ -6018,6 +6127,7 @@
  },
  "Najee Harris": {
   "name": "Najee Harris",
+  "age": 25,
   "overallGrade": {
    "value": 71.5,
    "grade": {
@@ -6079,6 +6189,7 @@
  },
  "De'Von Achane": {
   "name": "De'Von Achane",
+  "age": 22,
   "overallGrade": {
    "value": 83.25,
    "grade": {
@@ -6140,6 +6251,7 @@
  },
  "Gus Edwards": {
   "name": "Gus Edwards",
+  "age": 28,
   "overallGrade": {
    "value": 86,
    "grade": {
@@ -6201,6 +6313,7 @@
  },
  "Austin Ekeler": {
   "name": "Austin Ekeler",
+  "age": 28,
   "overallGrade": {
    "value": 70.75,
    "grade": {
@@ -6262,6 +6375,7 @@
  },
  "Chuba Hubbard": {
   "name": "Chuba Hubbard",
+  "age": 24,
   "overallGrade": {
    "value": 66,
    "grade": {
@@ -6323,6 +6437,7 @@
  },
  "Josh Jacobs": {
   "name": "Josh Jacobs",
+  "age": 26,
   "overallGrade": {
    "value": 72.5,
    "grade": {
@@ -6384,6 +6499,7 @@
  },
  "Javonte Williams": {
   "name": "Javonte Williams",
+  "age": 23,
   "overallGrade": {
    "value": 74.5,
    "grade": {
@@ -6445,6 +6561,7 @@
  },
  "Ezekiel Elliott": {
   "name": "Ezekiel Elliott",
+  "age": 28,
   "overallGrade": {
    "value": 63,
    "grade": {
@@ -6506,6 +6623,7 @@
  },
  "Zack Moss": {
   "name": "Zack Moss",
+  "age": 26,
   "overallGrade": {
    "value": 79,
    "grade": {
@@ -6567,6 +6685,7 @@
  },
  "Devin Singletary": {
   "name": "Devin Singletary",
+  "age": 26,
   "overallGrade": {
    "value": 77.75,
    "grade": {
@@ -6628,6 +6747,7 @@
  },
  "Jonathan Taylor": {
   "name": "Jonathan Taylor",
+  "age": 25,
   "overallGrade": {
    "value": 77.25,
    "grade": {
@@ -6689,6 +6809,7 @@
  },
  "Tyjae Spears": {
   "name": "Tyjae Spears",
+  "age": 23,
   "overallGrade": {
    "value": 60,
    "grade": {
@@ -6750,6 +6871,7 @@
  },
  "Rhamondre Stevenson": {
   "name": "Rhamondre Stevenson",
+  "age": 25,
   "overallGrade": {
    "value": 59.25,
    "grade": {
@@ -6811,6 +6933,7 @@
  },
  "Tyler Allgeier": {
   "name": "Tyler Allgeier",
+  "age": 23,
   "overallGrade": {
    "value": 64.5,
    "grade": {
@@ -6872,6 +6995,7 @@
  },
  "Aaron Jones": {
   "name": "Aaron Jones",
+  "age": 29,
   "overallGrade": {
    "value": 72.75,
    "grade": {
@@ -6933,6 +7057,7 @@
  },
  "Alexander Mattison": {
   "name": "Alexander Mattison",
+  "age": 25,
   "overallGrade": {
    "value": 65.75,
    "grade": {
@@ -6994,6 +7119,7 @@
  },
  "Antonio Gibson": {
   "name": "Antonio Gibson",
+  "age": 25,
   "overallGrade": {
    "value": 57.5,
    "grade": {
@@ -7055,6 +7181,7 @@
  },
  "Samaje Perine": {
   "name": "Samaje Perine",
+  "age": 28,
   "overallGrade": {
    "value": 60.75,
    "grade": {
@@ -7116,6 +7243,7 @@
  },
  "Kareem Hunt": {
   "name": "Kareem Hunt",
+  "age": 28,
   "overallGrade": {
    "value": 71.5,
    "grade": {
@@ -7177,6 +7305,7 @@
  },
  "AJ Dillon": {
   "name": "AJ Dillon",
+  "age": 25,
   "overallGrade": {
    "value": 71.5,
    "grade": {
@@ -7238,6 +7367,7 @@
  },
  "Khalil Herbert": {
   "name": "Khalil Herbert",
+  "age": 25,
   "overallGrade": {
    "value": 65,
    "grade": {
@@ -7299,6 +7429,7 @@
  },
  "Justice Hill": {
   "name": "Justice Hill",
+  "age": 26,
   "overallGrade": {
    "value": 73.75,
    "grade": {
@@ -7360,6 +7491,7 @@
  },
  "Zach Charbonnet": {
   "name": "Zach Charbonnet",
+  "age": 23,
   "overallGrade": {
    "value": 64.25,
    "grade": {
@@ -7421,6 +7553,7 @@
  },
  "Jaleel McLaughlin": {
   "name": "Jaleel McLaughlin",
+  "age": 23,
   "overallGrade": {
    "value": 60.5,
    "grade": {
@@ -7482,6 +7615,7 @@
  },
  "Roschon Johnson": {
   "name": "Roschon Johnson",
+  "age": 23,
   "overallGrade": {
    "value": 61.5,
    "grade": {
@@ -7543,6 +7677,7 @@
  },
  "Ty Chandler": {
   "name": "Ty Chandler",
+  "age": 25,
   "overallGrade": {
    "value": 58.75,
    "grade": {
@@ -7604,6 +7739,7 @@
  },
  "Kenneth Gainwell": {
   "name": "Kenneth Gainwell",
+  "age": 24,
   "overallGrade": {
    "value": 69.5,
    "grade": {
@@ -7665,6 +7801,7 @@
  },
  "Rico Dowdle": {
   "name": "Rico Dowdle",
+  "age": 26,
   "overallGrade": {
    "value": 74,
    "grade": {
@@ -7726,6 +7863,7 @@
  },
  "D'Onta Foreman": {
   "name": "D'Onta Foreman",
+  "age": 27,
   "overallGrade": {
    "value": 62.25,
    "grade": {
@@ -7787,6 +7925,7 @@
  },
  "Miles Sanders": {
   "name": "Miles Sanders",
+  "age": 26,
   "overallGrade": {
    "value": 51,
    "grade": {
@@ -7848,6 +7987,7 @@
  },
  "Jerick McKinnon": {
   "name": "Jerick McKinnon",
+  "age": 31,
   "overallGrade": {
    "value": 54,
    "grade": {
@@ -7909,6 +8049,7 @@
  },
  "Latavius Murray": {
   "name": "Latavius Murray",
+  "age": 34,
   "overallGrade": {
    "value": 68.25,
    "grade": {
@@ -7970,6 +8111,7 @@
  },
  "Dameon Pierce": {
   "name": "Dameon Pierce",
+  "age": 23,
   "overallGrade": {
    "value": 65.5,
    "grade": {
@@ -8031,6 +8173,7 @@
  },
  "Zamir White": {
   "name": "Zamir White",
+  "age": 24,
   "overallGrade": {
    "value": 55.75,
    "grade": {
@@ -8092,6 +8235,7 @@
  },
  "Emari Demercado": {
   "name": "Emari Demercado",
+  "age": 25,
   "overallGrade": {
    "value": 51.5,
    "grade": {
@@ -8153,6 +8297,7 @@
  },
  "Clyde Edwards-Helaire": {
   "name": "Clyde Edwards-Helaire",
+  "age": 24,
   "overallGrade": {
    "value": 58.75,
    "grade": {
@@ -8214,6 +8359,7 @@
  },
  "Keaton Mitchell": {
   "name": "Keaton Mitchell",
+  "age": 22,
   "overallGrade": {
    "value": 65.25,
    "grade": {
@@ -8275,6 +8421,7 @@
  },
  "Joshua Kelley": {
   "name": "Joshua Kelley",
+  "age": 26,
   "overallGrade": {
    "value": 55.5,
    "grade": {
@@ -8336,6 +8483,7 @@
  },
  "Jamaal Williams": {
   "name": "Jamaal Williams",
+  "age": 28,
   "overallGrade": {
    "value": 65,
    "grade": {
@@ -8397,6 +8545,7 @@
  },
  "Michael Carter": {
   "name": "Michael Carter",
+  "age": 24,
   "overallGrade": {
    "value": 45.75,
    "grade": {
@@ -8458,6 +8607,7 @@
  },
  "Chase Brown": {
   "name": "Chase Brown",
+  "age": 23,
   "overallGrade": {
    "value": 53.5,
    "grade": {
@@ -8519,6 +8669,7 @@
  },
  "Elijah Mitchell": {
   "name": "Elijah Mitchell",
+  "age": 25,
   "overallGrade": {
    "value": 65.75,
    "grade": {
@@ -8580,6 +8731,7 @@
  },
  "Matt Breida": {
   "name": "Matt Breida",
+  "age": 28,
   "overallGrade": {
    "value": 43,
    "grade": {
@@ -8641,6 +8793,7 @@
  },
  "Cam Akers": {
   "name": "Cam Akers",
+  "age": 24,
   "overallGrade": {
    "value": 49.5,
    "grade": {
@@ -8702,6 +8855,7 @@
  },
  "Royce Freeman": {
   "name": "Royce Freeman",
+  "age": 27,
   "overallGrade": {
    "value": 61.5,
    "grade": {
@@ -8763,6 +8917,7 @@
  },
  "Jordan Mason": {
   "name": "Jordan Mason",
+  "age": 24,
   "overallGrade": {
    "value": 61.25,
    "grade": {
@@ -8834,7 +8989,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 43.5,
    "pointsPerGame": 10.9,
@@ -8873,6 +9027,7 @@
  },
  "Kendre Miller": {
   "name": "Kendre Miller",
+  "age": 21,
   "overallGrade": {
    "value": 56.75,
    "grade": {
@@ -8934,6 +9089,7 @@
  },
  "Salvon Ahmed": {
   "name": "Salvon Ahmed",
+  "age": 25,
   "overallGrade": {
    "value": 58.5,
    "grade": {
@@ -8995,6 +9151,7 @@
  },
  "Pierre Strong": {
   "name": "Pierre Strong",
+  "age": 25,
   "overallGrade": {
    "value": 57,
    "grade": {
@@ -9005,7 +9162,7 @@
   "position": "RB",
   "teamShortName": "CLE",
   "team": "Cleveland",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23218.png",
   "production": {
    "totalPoints": 42.8,
    "pointsPerGame": 2.5,
@@ -9056,6 +9213,7 @@
  },
  "Jeff Wilson": {
   "name": "Jeff Wilson",
+  "age": 28,
   "overallGrade": {
    "value": 61.5,
    "grade": {
@@ -9066,7 +9224,7 @@
   "position": "RB",
   "teamShortName": "MIA",
   "team": "Miami",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20360.png",
   "production": {
    "totalPoints": 41.3,
    "pointsPerGame": 4.1,
@@ -9117,6 +9275,7 @@
  },
  "Ameer Abdullah": {
   "name": "Ameer Abdullah",
+  "age": 30,
   "overallGrade": {
    "value": 40.25,
    "grade": {
@@ -9178,6 +9337,7 @@
  },
  "Dalvin Cook": {
   "name": "Dalvin Cook",
+  "age": 28,
   "overallGrade": {
    "value": 62.5,
    "grade": {
@@ -9239,6 +9399,7 @@
  },
  "Chase Edmonds": {
   "name": "Chase Edmonds",
+  "age": 27,
   "overallGrade": {
    "value": 47.5,
    "grade": {
@@ -9300,6 +9461,7 @@
  },
  "Kyle Juszczyk": {
   "name": "Kyle Juszczyk",
+  "age": 32,
   "overallGrade": {
    "value": 51.5,
    "grade": {
@@ -9361,6 +9523,7 @@
  },
  "Chris Rodriguez": {
   "name": "Chris Rodriguez",
+  "age": "N/A",
   "overallGrade": {
    "value": 43.75,
    "grade": {
@@ -9422,6 +9585,7 @@
  },
  "Cordarrelle Patterson": {
   "name": "Cordarrelle Patterson",
+  "age": 32,
   "overallGrade": {
    "value": 42.5,
    "grade": {
@@ -9483,6 +9647,7 @@
  },
  "D'Ernest Johnson": {
   "name": "D'Ernest Johnson",
+  "age": 27,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -9544,6 +9709,7 @@
  },
  "Ty Johnson": {
   "name": "Ty Johnson",
+  "age": 26,
   "overallGrade": {
    "value": 53.5,
    "grade": {
@@ -9605,6 +9771,7 @@
  },
  "Tony Jones": {
   "name": "Tony Jones",
+  "age": 26,
   "overallGrade": {
    "value": 39,
    "grade": {
@@ -9615,7 +9782,7 @@
   "position": "RB",
   "teamShortName": "ARI",
   "team": "Arizona",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21774.png",
   "production": {
    "totalPoints": 32.2,
    "pointsPerGame": 5.4,
@@ -9666,6 +9833,7 @@
  },
  "Patrick Taylor": {
   "name": "Patrick Taylor",
+  "age": 25,
   "overallGrade": {
    "value": 49,
    "grade": {
@@ -9727,6 +9895,7 @@
  },
  "Darrynton Evans": {
   "name": "Darrynton Evans",
+  "age": 25,
   "overallGrade": {
    "value": 53.75,
    "grade": {
@@ -9788,6 +9957,7 @@
  },
  "Craig Reynolds": {
   "name": "Craig Reynolds",
+  "age": 27,
   "overallGrade": {
    "value": 55,
    "grade": {
@@ -9849,6 +10019,7 @@
  },
  "Alec Ingold": {
   "name": "Alec Ingold",
+  "age": 27,
   "overallGrade": {
    "value": 46.75,
    "grade": {
@@ -9910,6 +10081,7 @@
  },
  "Nick Chubb": {
   "name": "Nick Chubb",
+  "age": 28,
   "overallGrade": {
    "value": 47.5,
    "grade": {
@@ -9971,6 +10143,7 @@
  },
  "Tank Bigsby": {
   "name": "Tank Bigsby",
+  "age": 22,
   "overallGrade": {
    "value": 47.75,
    "grade": {
@@ -10032,6 +10205,7 @@
  },
  "Kevin Harris": {
   "name": "Kevin Harris",
+  "age": 23,
   "overallGrade": {
    "value": 28.5,
    "grade": {
@@ -10093,6 +10267,7 @@
  },
  "Trey Sermon": {
   "name": "Trey Sermon",
+  "age": 25,
   "overallGrade": {
    "value": 48.25,
    "grade": {
@@ -10154,6 +10329,7 @@
  },
  "Ronnie Rivers": {
   "name": "Ronnie Rivers",
+  "age": 25,
   "overallGrade": {
    "value": 48.75,
    "grade": {
@@ -10215,6 +10391,7 @@
  },
  "Melvin Gordon": {
   "name": "Melvin Gordon",
+  "age": "N/A",
   "overallGrade": {
    "value": 51.25,
    "grade": {
@@ -10276,6 +10453,7 @@
  },
  "Damien Harris": {
   "name": "Damien Harris",
+  "age": 27,
   "overallGrade": {
    "value": 48.5,
    "grade": {
@@ -10337,6 +10515,7 @@
  },
  "Isaiah Spiller": {
   "name": "Isaiah Spiller",
+  "age": 22,
   "overallGrade": {
    "value": 39,
    "grade": {
@@ -10398,6 +10577,7 @@
  },
  "Tyler Goodson": {
   "name": "Tyler Goodson",
+  "age": 23,
   "overallGrade": {
    "value": 42.5,
    "grade": {
@@ -10459,6 +10639,7 @@
  },
  "Raheem Blackshear": {
   "name": "Raheem Blackshear",
+  "age": 25,
   "overallGrade": {
    "value": 25.5,
    "grade": {
@@ -10520,6 +10701,7 @@
  },
  "Israel Abanikanda": {
   "name": "Israel Abanikanda",
+  "age": 21,
   "overallGrade": {
    "value": 29,
    "grade": {
@@ -10581,6 +10763,7 @@
  },
  "Patrick Ricard": {
   "name": "Patrick Ricard",
+  "age": 29,
   "overallGrade": {
    "value": 40.5,
    "grade": {
@@ -10625,6 +10808,7 @@
  },
  "Boston Scott": {
   "name": "Boston Scott",
+  "age": 28,
   "overallGrade": {
    "value": 45.5,
    "grade": {
@@ -10686,6 +10870,7 @@
  },
  "Deuce Vaughn": {
   "name": "Deuce Vaughn",
+  "age": 22,
   "overallGrade": {
    "value": 51,
    "grade": {
@@ -10747,6 +10932,7 @@
  },
  "Trayveon Williams": {
   "name": "Trayveon Williams",
+  "age": 26,
   "overallGrade": {
    "value": 37,
    "grade": {
@@ -10808,6 +10994,7 @@
  },
  "Emanuel Wilson": {
   "name": "Emanuel Wilson",
+  "age": 24,
   "overallGrade": {
    "value": 39.5,
    "grade": {
@@ -10869,6 +11056,7 @@
  },
  "La'Mical Perine": {
   "name": "La'Mical Perine",
+  "age": 26,
   "overallGrade": {
    "value": 38.5,
    "grade": {
@@ -10930,6 +11118,7 @@
  },
  "Keaontay Ingram": {
   "name": "Keaontay Ingram",
+  "age": 24,
   "overallGrade": {
    "value": 40.75,
    "grade": {
@@ -10991,6 +11180,7 @@
  },
  "Mike Boone": {
   "name": "Mike Boone",
+  "age": 28,
   "overallGrade": {
    "value": 20.25,
    "grade": {
@@ -11052,6 +11242,7 @@
  },
  "Eric Gray": {
   "name": "Eric Gray",
+  "age": 24,
   "overallGrade": {
    "value": 25.25,
    "grade": {
@@ -11113,6 +11304,7 @@
  },
  "Hunter Luepke": {
   "name": "Hunter Luepke",
+  "age": 23,
   "overallGrade": {
    "value": 44.25,
    "grade": {
@@ -11174,6 +11366,7 @@
  },
  "J.K. Dobbins": {
   "name": "J.K. Dobbins",
+  "age": 25,
   "overallGrade": {
    "value": 42.75,
    "grade": {
@@ -11235,6 +11428,7 @@
  },
  "Gary Brightwell": {
   "name": "Gary Brightwell",
+  "age": 24,
   "overallGrade": {
    "value": 22.25,
    "grade": {
@@ -11296,6 +11490,7 @@
  },
  "Nick Bawden": {
   "name": "Nick Bawden",
+  "age": 27,
   "overallGrade": {
    "value": 19.25,
    "grade": {
@@ -11357,6 +11552,7 @@
  },
  "Brandon Bolden": {
   "name": "Brandon Bolden",
+  "age": 34,
   "overallGrade": {
    "value": 25.25,
    "grade": {
@@ -11418,6 +11614,7 @@
  },
  "Chris Brooks": {
   "name": "Chris Brooks",
+  "age": 24,
   "overallGrade": {
    "value": 45.75,
    "grade": {
@@ -11479,6 +11676,7 @@
  },
  "Dare Ogunbowale": {
   "name": "Dare Ogunbowale",
+  "age": 29,
   "overallGrade": {
    "value": 34,
    "grade": {
@@ -11540,6 +11738,7 @@
  },
  "C.J. Ham": {
   "name": "C.J. Ham",
+  "age": 30,
   "overallGrade": {
    "value": 22.75,
    "grade": {
@@ -11611,7 +11810,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 9.9,
    "pointsPerGame": 0.8,
@@ -11643,6 +11841,7 @@
  },
  "DeeJay Dallas": {
   "name": "DeeJay Dallas",
+  "age": 25,
   "overallGrade": {
    "value": 30.75,
    "grade": {
@@ -11714,7 +11913,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 7.5,
    "pointsPerGame": 2.5,
@@ -11753,6 +11951,7 @@
  },
  "Michael Burton": {
   "name": "Michael Burton",
+  "age": 32,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -11814,6 +12013,7 @@
  },
  "Ke'Shawn Vaughn": {
   "name": "Ke'Shawn Vaughn",
+  "age": 26,
   "overallGrade": {
    "value": 22.75,
    "grade": {
@@ -11875,6 +12075,7 @@
  },
  "Keith Smith": {
   "name": "Keith Smith",
+  "age": "N/A",
   "overallGrade": {
    "value": 17.25,
    "grade": {
@@ -11919,6 +12120,7 @@
  },
  "Khari Blasingame": {
   "name": "Khari Blasingame",
+  "age": 27,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -11980,6 +12182,7 @@
  },
  "Sean Tucker": {
   "name": "Sean Tucker",
+  "age": 22,
   "overallGrade": {
    "value": 28.25,
    "grade": {
@@ -12041,6 +12244,7 @@
  },
  "Rashaad Penny": {
   "name": "Rashaad Penny",
+  "age": 28,
   "overallGrade": {
    "value": 36.75,
    "grade": {
@@ -12102,6 +12306,7 @@
  },
  "Jashaun Corbin": {
   "name": "Jashaun Corbin",
+  "age": 23,
   "overallGrade": {
    "value": 13.25,
    "grade": {
@@ -12163,6 +12368,7 @@
  },
  "Alex Armah": {
   "name": "Alex Armah",
+  "age": 29,
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -12207,6 +12413,7 @@
  },
  "Deon Jackson": {
   "name": "Deon Jackson",
+  "age": 24,
   "overallGrade": {
    "value": 18.5,
    "grade": {
@@ -12278,7 +12485,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 4,
    "pointsPerGame": 2,
@@ -12317,6 +12523,7 @@
  },
  "Elijah Dotson": {
   "name": "Elijah Dotson",
+  "age": 25,
   "overallGrade": {
    "value": 21.75,
    "grade": {
@@ -12378,6 +12585,7 @@
  },
  "Jake Funk": {
   "name": "Jake Funk",
+  "age": 26,
   "overallGrade": {
    "value": 32.5,
    "grade": {
@@ -12439,6 +12647,7 @@
  },
  "Anthony McFarland": {
   "name": "Anthony McFarland",
+  "age": "N/A",
   "overallGrade": {
    "value": 14,
    "grade": {
@@ -12483,6 +12692,7 @@
  },
  "Zonovan Knight": {
   "name": "Zonovan Knight",
+  "age": 22,
   "overallGrade": {
    "value": 33.25,
    "grade": {
@@ -12554,7 +12764,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 3.1,
    "pointsPerGame": 1,
@@ -12593,6 +12802,7 @@
  },
  "Derrick Gore": {
   "name": "Derrick Gore",
+  "age": 29,
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -12654,6 +12864,7 @@
  },
  "Adam Prentice": {
   "name": "Adam Prentice",
+  "age": 27,
   "overallGrade": {
    "value": 28.25,
    "grade": {
@@ -12725,7 +12936,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 2.3,
    "pointsPerGame": 1.2,
@@ -12764,6 +12974,7 @@
  },
  "Jakob Johnson": {
   "name": "Jakob Johnson",
+  "age": 29,
   "overallGrade": {
    "value": 15.75,
    "grade": {
@@ -12808,6 +13019,7 @@
  },
  "Chris Evans": {
   "name": "Chris Evans",
+  "age": 26,
   "overallGrade": {
    "value": 21.75,
    "grade": {
@@ -12869,6 +13081,7 @@
  },
  "Tyrion Davis-Price": {
   "name": "Tyrion Davis-Price",
+  "age": 23,
   "overallGrade": {
    "value": 35,
    "grade": {
@@ -12930,6 +13143,7 @@
  },
  "Zach Evans": {
   "name": "Zach Evans",
+  "age": 22,
   "overallGrade": {
    "value": 31.5,
    "grade": {
@@ -12991,6 +13205,7 @@
  },
  "Evan Hull": {
   "name": "Evan Hull",
+  "age": 23,
   "overallGrade": {
    "value": 25.25,
    "grade": {
@@ -13052,6 +13267,7 @@
  },
  "Reggie Gilliam": {
   "name": "Reggie Gilliam",
+  "age": 26,
   "overallGrade": {
    "value": 27.5,
    "grade": {
@@ -13096,6 +13312,7 @@
  },
  "Kene Nwangwu": {
   "name": "Kene Nwangwu",
+  "age": 26,
   "overallGrade": {
    "value": 18.25,
    "grade": {
@@ -13157,6 +13374,7 @@
  },
  "Jonathan Ward": {
   "name": "Jonathan Ward",
+  "age": 26,
   "overallGrade": {
    "value": 11.75,
    "grade": {
@@ -13218,6 +13436,7 @@
  },
  "James Robinson": {
   "name": "James Robinson",
+  "age": 25,
   "overallGrade": {
    "value": 24.75,
    "grade": {
@@ -13279,6 +13498,7 @@
  },
  "Henry Pearson": {
   "name": "Henry Pearson",
+  "age": 24,
   "overallGrade": {
    "value": 22,
    "grade": {
@@ -13323,6 +13543,7 @@
  },
  "Austin Walter": {
   "name": "Austin Walter",
+  "age": 27,
   "overallGrade": {
    "value": 13.25,
    "grade": {
@@ -13377,7 +13598,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13399,6 +13619,7 @@
  },
  "Brittain Brown": {
   "name": "Brittain Brown",
+  "age": 26,
   "overallGrade": {
    "value": 13.25,
    "grade": {
@@ -13453,7 +13674,6 @@
   "position": "RB",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -13475,6 +13695,7 @@
  },
  "Marlon Mack": {
   "name": "Marlon Mack",
+  "age": 27,
   "overallGrade": {
    "value": 12.5,
    "grade": {
@@ -13519,6 +13740,7 @@
  },
  "SaRodorick Thompson": {
   "name": "SaRodorick Thompson",
+  "age": "N/A",
   "overallGrade": {
    "value": 30.5,
    "grade": {
@@ -13563,6 +13785,7 @@
  },
  "Mohamed Ibrahim": {
   "name": "Mohamed Ibrahim",
+  "age": 25,
   "overallGrade": {
    "value": 27.25,
    "grade": {
@@ -13607,6 +13830,7 @@
  },
  "Godwin Igwebuike": {
   "name": "Godwin Igwebuike",
+  "age": 29,
   "overallGrade": {
    "value": 10.25,
    "grade": {
@@ -13651,6 +13875,7 @@
  },
  "Travis Homer": {
   "name": "Travis Homer",
+  "age": 25,
   "overallGrade": {
    "value": 17.25,
    "grade": {
@@ -13695,6 +13920,7 @@
  },
  "JaMycal Hasty": {
   "name": "JaMycal Hasty",
+  "age": 27,
   "overallGrade": {
    "value": 7,
    "grade": {
@@ -13739,6 +13965,7 @@
  },
  "Dwayne Washington": {
   "name": "Dwayne Washington",
+  "age": 29,
   "overallGrade": {
    "value": 16.5,
    "grade": {
@@ -13783,6 +14010,7 @@
  },
  "Malik Davis": {
   "name": "Malik Davis",
+  "age": 25,
   "overallGrade": {
    "value": 30.5,
    "grade": {
@@ -13827,6 +14055,7 @@
  },
  "Julius Chestnut": {
   "name": "Julius Chestnut",
+  "age": 23,
   "overallGrade": {
    "value": 9.5,
    "grade": {
@@ -13871,6 +14100,7 @@
  },
  "Bryant Koback": {
   "name": "Bryant Koback",
+  "age": 25,
   "overallGrade": {
    "value": 18,
    "grade": {
@@ -13915,6 +14145,7 @@
  },
  "Patrick Laird": {
   "name": "Patrick Laird",
+  "age": 28,
   "overallGrade": {
    "value": 15.75,
    "grade": {
@@ -13959,6 +14190,7 @@
  },
  "Jordan Mims": {
   "name": "Jordan Mims",
+  "age": 24,
   "overallGrade": {
    "value": 24.25,
    "grade": {
@@ -14003,6 +14235,7 @@
  },
  "Ben Mason": {
   "name": "Ben Mason",
+  "age": "N/A",
   "overallGrade": {
    "value": 28.25,
    "grade": {
@@ -14047,6 +14280,7 @@
  },
  "Jonathan Williams": {
   "name": "Jonathan Williams",
+  "age": "N/A",
   "overallGrade": {
    "value": 5.75,
    "grade": {
@@ -14091,6 +14325,7 @@
  },
  "CeeDee Lamb": {
   "name": "CeeDee Lamb",
+  "age": 24,
   "overallGrade": {
    "value": 99.25,
    "grade": {
@@ -14145,6 +14380,7 @@
  },
  "Tyreek Hill": {
   "name": "Tyreek Hill",
+  "age": 29,
   "overallGrade": {
    "value": 97.75,
    "grade": {
@@ -14197,19 +14433,14 @@
    }
   }
  },
- "Amon-Ra St.": {
-  "name": "Amon-Ra St.",
-  "overallGrade": {
-   "value": 95,
-   "grade": {
-    "letter": "A",
-    "description": "Great"
-   }
-  },
+ "Amon-Ra St. Brown": {
+  "name": "Amon-Ra St. Brown",
+  "age": 24,
+  "overallGrade": "N/A",
   "position": "WR",
   "teamShortName": "DET",
   "team": "Detroit",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22587.png",
   "production": {
    "totalPoints": 330.9,
    "pointsPerGame": 20.7,
@@ -14226,17 +14457,7 @@
     "description": "Elite"
    }
   },
-  "opportunity": {
-   "snapPercentage": 90,
-   "receptions": 119,
-   "targets": 164,
-   "targetsRank": 5,
-   "targetsPercentile": 98,
-   "targetsGrade": {
-    "letter": "A+",
-    "description": "Elite"
-   }
-  },
+  "opportunity": "N/A",
   "offense": {
    "pointsPerGame": 27.1,
    "QBR": 98.1,
@@ -14253,6 +14474,7 @@
  },
  "Puka Nacua": {
   "name": "Puka Nacua",
+  "age": 22,
   "overallGrade": {
    "value": 92,
    "grade": {
@@ -14307,6 +14529,7 @@
  },
  "A.J. Brown": {
   "name": "A.J. Brown",
+  "age": 26,
   "overallGrade": {
    "value": 92.5,
    "grade": {
@@ -14361,6 +14584,7 @@
  },
  "DJ Moore": {
   "name": "DJ Moore",
+  "age": 26,
   "overallGrade": {
    "value": 83.25,
    "grade": {
@@ -14415,6 +14639,7 @@
  },
  "Mike Evans": {
   "name": "Mike Evans",
+  "age": 30,
   "overallGrade": {
    "value": 81,
    "grade": {
@@ -14469,6 +14694,7 @@
  },
  "Keenan Allen": {
   "name": "Keenan Allen",
+  "age": 31,
   "overallGrade": {
    "value": 80.75,
    "grade": {
@@ -14523,6 +14749,7 @@
  },
  "Stefon Diggs": {
   "name": "Stefon Diggs",
+  "age": 30,
   "overallGrade": {
    "value": 92.5,
    "grade": {
@@ -14577,6 +14804,7 @@
  },
  "Davante Adams": {
   "name": "Davante Adams",
+  "age": 31,
   "overallGrade": {
    "value": 79.75,
    "grade": {
@@ -14631,6 +14859,7 @@
  },
  "Ja'Marr Chase": {
   "name": "Ja'Marr Chase",
+  "age": 23,
   "overallGrade": {
    "value": 84,
    "grade": {
@@ -14685,6 +14914,7 @@
  },
  "Nico Collins": {
   "name": "Nico Collins",
+  "age": 24,
   "overallGrade": {
    "value": 84.25,
    "grade": {
@@ -14739,6 +14969,7 @@
  },
  "Michael Pittman": {
   "name": "Michael Pittman",
+  "age": 26,
   "overallGrade": {
    "value": 88.75,
    "grade": {
@@ -14749,7 +14980,7 @@
   "position": "WR",
   "teamShortName": "IND",
   "team": "Indianapolis",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21744.png",
   "production": {
    "totalPoints": 250.2,
    "pointsPerGame": 15.6,
@@ -14793,6 +15024,7 @@
  },
  "Brandon Aiyuk": {
   "name": "Brandon Aiyuk",
+  "age": 25,
   "overallGrade": {
    "value": 91.25,
    "grade": {
@@ -14847,6 +15079,7 @@
  },
  "Deebo Samuel": {
   "name": "Deebo Samuel",
+  "age": 28,
   "overallGrade": {
    "value": 89.25,
    "grade": {
@@ -14901,6 +15134,7 @@
  },
  "Chris Olave": {
   "name": "Chris Olave",
+  "age": 23,
   "overallGrade": {
    "value": 88,
    "grade": {
@@ -14955,6 +15189,7 @@
  },
  "Adam Thielen": {
   "name": "Adam Thielen",
+  "age": 33,
   "overallGrade": {
    "value": 70,
    "grade": {
@@ -15009,6 +15244,7 @@
  },
  "Calvin Ridley": {
   "name": "Calvin Ridley",
+  "age": 29,
   "overallGrade": {
    "value": 83.5,
    "grade": {
@@ -15063,6 +15299,7 @@
  },
  "DeVonta Smith": {
   "name": "DeVonta Smith",
+  "age": 25,
   "overallGrade": {
    "value": 88,
    "grade": {
@@ -15117,6 +15354,7 @@
  },
  "Amari Cooper": {
   "name": "Amari Cooper",
+  "age": 29,
   "overallGrade": {
    "value": 85.25,
    "grade": {
@@ -15171,6 +15409,7 @@
  },
  "DK Metcalf": {
   "name": "DK Metcalf",
+  "age": 26,
   "overallGrade": {
    "value": 79.75,
    "grade": {
@@ -15225,6 +15464,7 @@
  },
  "DeAndre Hopkins": {
   "name": "DeAndre Hopkins",
+  "age": 31,
   "overallGrade": {
    "value": 72.25,
    "grade": {
@@ -15279,6 +15519,7 @@
  },
  "Jordan Addison": {
   "name": "Jordan Addison",
+  "age": 22,
   "overallGrade": {
    "value": 75.25,
    "grade": {
@@ -15333,6 +15574,7 @@
  },
  "Jakobi Meyers": {
   "name": "Jakobi Meyers",
+  "age": 27,
   "overallGrade": {
    "value": 73.75,
    "grade": {
@@ -15387,6 +15629,7 @@
  },
  "Jayden Reed": {
   "name": "Jayden Reed",
+  "age": 23,
   "overallGrade": {
    "value": 81,
    "grade": {
@@ -15441,6 +15684,7 @@
  },
  "Garrett Wilson": {
   "name": "Garrett Wilson",
+  "age": 23,
   "overallGrade": {
    "value": 71.75,
    "grade": {
@@ -15495,6 +15739,7 @@
  },
  "Rashee Rice": {
   "name": "Rashee Rice",
+  "age": 23,
   "overallGrade": {
    "value": 79.25,
    "grade": {
@@ -15549,6 +15794,7 @@
  },
  "Chris Godwin": {
   "name": "Chris Godwin",
+  "age": 27,
   "overallGrade": {
    "value": 77,
    "grade": {
@@ -15603,6 +15849,7 @@
  },
  "George Pickens": {
   "name": "George Pickens",
+  "age": 22,
   "overallGrade": {
    "value": 70,
    "grade": {
@@ -15657,6 +15904,7 @@
  },
  "Zay Flowers": {
   "name": "Zay Flowers",
+  "age": 23,
   "overallGrade": {
    "value": 88.25,
    "grade": {
@@ -15711,6 +15959,7 @@
  },
  "Terry McLaurin": {
   "name": "Terry McLaurin",
+  "age": 28,
   "overallGrade": {
    "value": 72.5,
    "grade": {
@@ -15765,6 +16014,7 @@
  },
  "Tyler Lockett": {
   "name": "Tyler Lockett",
+  "age": 31,
   "overallGrade": {
    "value": 78.25,
    "grade": {
@@ -15819,6 +16069,7 @@
  },
  "Justin Jefferson": {
   "name": "Justin Jefferson",
+  "age": 24,
   "overallGrade": {
    "value": 72.25,
    "grade": {
@@ -15873,6 +16124,7 @@
  },
  "Jaylen Waddle": {
   "name": "Jaylen Waddle",
+  "age": 25,
   "overallGrade": {
    "value": 88.5,
    "grade": {
@@ -15927,6 +16179,7 @@
  },
  "Courtland Sutton": {
   "name": "Courtland Sutton",
+  "age": 28,
   "overallGrade": {
    "value": 73.5,
    "grade": {
@@ -15981,6 +16234,7 @@
  },
  "Romeo Doubs": {
   "name": "Romeo Doubs",
+  "age": 23,
   "overallGrade": {
    "value": 78.75,
    "grade": {
@@ -16035,6 +16289,7 @@
  },
  "Drake London": {
   "name": "Drake London",
+  "age": 22,
   "overallGrade": {
    "value": 69.5,
    "grade": {
@@ -16089,6 +16344,7 @@
  },
  "Brandin Cooks": {
   "name": "Brandin Cooks",
+  "age": 30,
   "overallGrade": {
    "value": 85.5,
    "grade": {
@@ -16143,6 +16399,7 @@
  },
  "Tank Dell": {
   "name": "Tank Dell",
+  "age": 24,
   "overallGrade": {
    "value": 75,
    "grade": {
@@ -16197,6 +16454,7 @@
  },
  "Cooper Kupp": {
   "name": "Cooper Kupp",
+  "age": 30,
   "overallGrade": {
    "value": 81.25,
    "grade": {
@@ -16251,6 +16509,7 @@
  },
  "Gabe Davis": {
   "name": "Gabe Davis",
+  "age": 24,
   "overallGrade": {
    "value": 81,
    "grade": {
@@ -16305,6 +16564,7 @@
  },
  "Curtis Samuel": {
   "name": "Curtis Samuel",
+  "age": 27,
   "overallGrade": {
    "value": 67,
    "grade": {
@@ -16359,6 +16619,7 @@
  },
  "Josh Downs": {
   "name": "Josh Downs",
+  "age": 22,
   "overallGrade": {
    "value": 79.25,
    "grade": {
@@ -16413,6 +16674,7 @@
  },
  "Rashid Shaheed": {
   "name": "Rashid Shaheed",
+  "age": 25,
   "overallGrade": {
    "value": 77.25,
    "grade": {
@@ -16467,6 +16729,7 @@
  },
  "Diontae Johnson": {
   "name": "Diontae Johnson",
+  "age": 27,
   "overallGrade": {
    "value": 64.5,
    "grade": {
@@ -16521,6 +16784,7 @@
  },
  "Darius Slayton": {
   "name": "Darius Slayton",
+  "age": 27,
   "overallGrade": {
    "value": 60.75,
    "grade": {
@@ -16575,6 +16839,7 @@
  },
  "Christian Kirk": {
   "name": "Christian Kirk",
+  "age": 27,
   "overallGrade": {
    "value": 73.75,
    "grade": {
@@ -16629,6 +16894,7 @@
  },
  "Jaxon Smith-Njigba": {
   "name": "Jaxon Smith-Njigba",
+  "age": 21,
   "overallGrade": {
    "value": 72,
    "grade": {
@@ -16683,6 +16949,7 @@
  },
  "Tyler Boyd": {
   "name": "Tyler Boyd",
+  "age": 29,
   "overallGrade": {
    "value": 73,
    "grade": {
@@ -16737,6 +17004,7 @@
  },
  "Jerry Jeudy": {
   "name": "Jerry Jeudy",
+  "age": 24,
   "overallGrade": {
    "value": 69.25,
    "grade": {
@@ -16791,6 +17059,7 @@
  },
  "Tee Higgins": {
   "name": "Tee Higgins",
+  "age": 25,
   "overallGrade": {
    "value": 70.25,
    "grade": {
@@ -16845,6 +17114,7 @@
  },
  "Marquise Brown": {
   "name": "Marquise Brown",
+  "age": 26,
   "overallGrade": {
    "value": 66.25,
    "grade": {
@@ -16899,6 +17169,7 @@
  },
  "Wan'Dale Robinson": {
   "name": "Wan'Dale Robinson",
+  "age": 23,
   "overallGrade": {
    "value": 58.5,
    "grade": {
@@ -16953,6 +17224,7 @@
  },
  "Elijah Moore": {
   "name": "Elijah Moore",
+  "age": 23,
   "overallGrade": {
    "value": 76.25,
    "grade": {
@@ -17007,6 +17279,7 @@
  },
  "Josh Reynolds": {
   "name": "Josh Reynolds",
+  "age": 28,
   "overallGrade": {
    "value": 76.25,
    "grade": {
@@ -17061,6 +17334,7 @@
  },
  "Jahan Dotson": {
   "name": "Jahan Dotson",
+  "age": 23,
   "overallGrade": {
    "value": 62.5,
    "grade": {
@@ -17115,6 +17389,7 @@
  },
  "K.J. Osborn": {
   "name": "K.J. Osborn",
+  "age": 26,
   "overallGrade": {
    "value": 63.25,
    "grade": {
@@ -17169,6 +17444,7 @@
  },
  "Dontayvion Wicks": {
   "name": "Dontayvion Wicks",
+  "age": 22,
   "overallGrade": {
    "value": 69.25,
    "grade": {
@@ -17223,6 +17499,7 @@
  },
  "DJ Chark": {
   "name": "DJ Chark",
+  "age": 27,
   "overallGrade": {
    "value": 54.25,
    "grade": {
@@ -17233,7 +17510,7 @@
   "position": "WR",
   "teamShortName": "CAR",
   "team": "Carolina",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19816.png",
   "production": {
    "totalPoints": 115.5,
    "pointsPerGame": 7.7,
@@ -17277,6 +17554,7 @@
  },
  "Michael Wilson": {
   "name": "Michael Wilson",
+  "age": 23,
   "overallGrade": {
    "value": 59,
    "grade": {
@@ -17331,6 +17609,7 @@
  },
  "Khalil Shakir": {
   "name": "Khalil Shakir",
+  "age": 24,
   "overallGrade": {
    "value": 71.5,
    "grade": {
@@ -17385,6 +17664,7 @@
  },
  "Tutu Atwell": {
   "name": "Tutu Atwell",
+  "age": 24,
   "overallGrade": {
    "value": 72.75,
    "grade": {
@@ -17439,6 +17719,7 @@
  },
  "Odell Beckham": {
   "name": "Odell Beckham",
+  "age": 31,
   "overallGrade": {
    "value": 74.75,
    "grade": {
@@ -17449,7 +17730,7 @@
   "position": "WR",
   "teamShortName": "BAL",
   "team": "Baltimore",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16389.png",
   "production": {
    "totalPoints": 107.5,
    "pointsPerGame": 7.7,
@@ -17493,6 +17774,7 @@
  },
  "Demario Douglas": {
   "name": "Demario Douglas",
+  "age": 23,
   "overallGrade": {
    "value": 55.25,
    "grade": {
@@ -17547,6 +17829,7 @@
  },
  "Joshua Palmer": {
   "name": "Joshua Palmer",
+  "age": 24,
   "overallGrade": {
    "value": 60.5,
    "grade": {
@@ -17601,6 +17884,7 @@
  },
  "Rondale Moore": {
   "name": "Rondale Moore",
+  "age": 23,
   "overallGrade": {
    "value": 58.25,
    "grade": {
@@ -17655,6 +17939,7 @@
  },
  "Noah Brown": {
   "name": "Noah Brown",
+  "age": 28,
   "overallGrade": {
    "value": 65.75,
    "grade": {
@@ -17709,6 +17994,7 @@
  },
  "Christian Watson": {
   "name": "Christian Watson",
+  "age": 24,
   "overallGrade": {
    "value": 66,
    "grade": {
@@ -17763,6 +18049,7 @@
  },
  "Kendrick Bourne": {
   "name": "Kendrick Bourne",
+  "age": 28,
   "overallGrade": {
    "value": 51,
    "grade": {
@@ -17817,6 +18104,7 @@
  },
  "Kalif Raymond": {
   "name": "Kalif Raymond",
+  "age": 29,
   "overallGrade": {
    "value": 69.75,
    "grade": {
@@ -17871,6 +18159,7 @@
  },
  "Nelson Agholor": {
   "name": "Nelson Agholor",
+  "age": 30,
   "overallGrade": {
    "value": 71,
    "grade": {
@@ -17925,6 +18214,7 @@
  },
  "Trey Palmer": {
   "name": "Trey Palmer",
+  "age": 22,
   "overallGrade": {
    "value": 61.25,
    "grade": {
@@ -17979,6 +18269,7 @@
  },
  "Alec Pierce": {
   "name": "Alec Pierce",
+  "age": 23,
   "overallGrade": {
    "value": 68.25,
    "grade": {
@@ -18033,6 +18324,7 @@
  },
  "Quentin Johnston": {
   "name": "Quentin Johnston",
+  "age": 22,
   "overallGrade": {
    "value": 59.75,
    "grade": {
@@ -18087,6 +18379,7 @@
  },
  "Michael Thomas": {
   "name": "Michael Thomas",
+  "age": 30,
   "overallGrade": {
    "value": 68.25,
    "grade": {
@@ -18141,6 +18434,7 @@
  },
  "Robert Woods": {
   "name": "Robert Woods",
+  "age": 31,
   "overallGrade": {
    "value": 66,
    "grade": {
@@ -18195,6 +18489,7 @@
  },
  "Justin Watson": {
   "name": "Justin Watson",
+  "age": 28,
   "overallGrade": {
    "value": 61.75,
    "grade": {
@@ -18249,6 +18544,7 @@
  },
  "Michael Gallup": {
   "name": "Michael Gallup",
+  "age": 27,
   "overallGrade": {
    "value": 73.5,
    "grade": {
@@ -18303,6 +18599,7 @@
  },
  "Demarcus Robinson": {
   "name": "Demarcus Robinson",
+  "age": 29,
   "overallGrade": {
    "value": 65.25,
    "grade": {
@@ -18357,6 +18654,7 @@
  },
  "Nick Westbrook-Ikhine": {
   "name": "Nick Westbrook-Ikhine",
+  "age": 26,
   "overallGrade": {
    "value": 50.5,
    "grade": {
@@ -18411,6 +18709,7 @@
  },
  "Jonathan Mingo": {
   "name": "Jonathan Mingo",
+  "age": 22,
   "overallGrade": {
    "value": 51.75,
    "grade": {
@@ -18465,6 +18764,7 @@
  },
  "Jameson Williams": {
   "name": "Jameson Williams",
+  "age": 22,
   "overallGrade": {
    "value": 67,
    "grade": {
@@ -18519,6 +18819,7 @@
  },
  "Darnell Mooney": {
   "name": "Darnell Mooney",
+  "age": 26,
   "overallGrade": {
    "value": 59.5,
    "grade": {
@@ -18573,6 +18874,7 @@
  },
  "Zay Jones": {
   "name": "Zay Jones",
+  "age": 28,
   "overallGrade": {
    "value": 63,
    "grade": {
@@ -18627,6 +18929,7 @@
  },
  "Rashod Bateman": {
   "name": "Rashod Bateman",
+  "age": 24,
   "overallGrade": {
    "value": 69.5,
    "grade": {
@@ -18681,6 +18984,7 @@
  },
  "Brandon Johnson": {
   "name": "Brandon Johnson",
+  "age": 25,
   "overallGrade": {
    "value": 53,
    "grade": {
@@ -18735,6 +19039,7 @@
  },
  "DeVante Parker": {
   "name": "DeVante Parker",
+  "age": 31,
   "overallGrade": {
    "value": 47.5,
    "grade": {
@@ -18789,6 +19094,7 @@
  },
  "Tre Tucker": {
   "name": "Tre Tucker",
+  "age": 22,
   "overallGrade": {
    "value": 50.5,
    "grade": {
@@ -18843,6 +19149,7 @@
  },
  "Marvin Mims": {
   "name": "Marvin Mims",
+  "age": 21,
   "overallGrade": {
    "value": 53.5,
    "grade": {
@@ -18853,7 +19160,7 @@
   "position": "WR",
   "teamShortName": "DEN",
   "team": "Denver",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23165.png",
   "production": {
    "totalPoints": 70.7,
    "pointsPerGame": 4.4,
@@ -18897,6 +19204,7 @@
  },
  "Cedrick Wilson": {
   "name": "Cedrick Wilson",
+  "age": 28,
   "overallGrade": {
    "value": 67.25,
    "grade": {
@@ -18907,7 +19215,7 @@
   "position": "WR",
   "teamShortName": "MIA",
   "team": "Miami",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20013.png",
   "production": {
    "totalPoints": 69.6,
    "pointsPerGame": 5,
@@ -18951,6 +19259,7 @@
  },
  "Chris Moore": {
   "name": "Chris Moore",
+  "age": 30,
   "overallGrade": {
    "value": 46.25,
    "grade": {
@@ -19005,6 +19314,7 @@
  },
  "Brandon Powell": {
   "name": "Brandon Powell",
+  "age": 28,
   "overallGrade": {
    "value": 52.25,
    "grade": {
@@ -19059,6 +19369,7 @@
  },
  "Greg Dortch": {
   "name": "Greg Dortch",
+  "age": 25,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -19113,6 +19424,7 @@
  },
  "Trenton Irwin": {
   "name": "Trenton Irwin",
+  "age": 28,
   "overallGrade": {
    "value": 53.75,
    "grade": {
@@ -19167,6 +19479,7 @@
  },
  "Allen Robinson": {
   "name": "Allen Robinson",
+  "age": 30,
   "overallGrade": {
    "value": 48.75,
    "grade": {
@@ -19177,7 +19490,7 @@
   "position": "WR",
   "teamShortName": "PIT",
   "team": "Pittsburgh",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16263.png",
   "production": {
    "totalPoints": 62,
    "pointsPerGame": 3.6,
@@ -19221,6 +19534,7 @@
  },
  "JuJu Smith-Schuster": {
   "name": "JuJu Smith-Schuster",
+  "age": 27,
   "overallGrade": {
    "value": 45,
    "grade": {
@@ -19275,6 +19589,7 @@
  },
  "A.T. Perry": {
   "name": "A.T. Perry",
+  "age": 24,
   "overallGrade": {
    "value": 54.25,
    "grade": {
@@ -19329,6 +19644,7 @@
  },
  "Jalin Hyatt": {
   "name": "Jalin Hyatt",
+  "age": 22,
   "overallGrade": {
    "value": 44.25,
    "grade": {
@@ -19383,6 +19699,7 @@
  },
  "Allen Lazard": {
   "name": "Allen Lazard",
+  "age": 28,
   "overallGrade": {
    "value": 46,
    "grade": {
@@ -19437,6 +19754,7 @@
  },
  "Isaiah Hodgins": {
   "name": "Isaiah Hodgins",
+  "age": 25,
   "overallGrade": {
    "value": 42.25,
    "grade": {
@@ -19491,6 +19809,7 @@
  },
  "KaVontae Turpin": {
   "name": "KaVontae Turpin",
+  "age": 27,
   "overallGrade": {
    "value": 60,
    "grade": {
@@ -19545,6 +19864,7 @@
  },
  "Jalen Tolbert": {
   "name": "Jalen Tolbert",
+  "age": 24,
   "overallGrade": {
    "value": 65.25,
    "grade": {
@@ -19599,6 +19919,7 @@
  },
  "Xavier Gipson": {
   "name": "Xavier Gipson",
+  "age": 22,
   "overallGrade": {
    "value": 43.75,
    "grade": {
@@ -19653,6 +19974,7 @@
  },
  "Braxton Berrios": {
   "name": "Braxton Berrios",
+  "age": 28,
   "overallGrade": {
    "value": 63.5,
    "grade": {
@@ -19707,6 +20029,7 @@
  },
  "Jake Bobo": {
   "name": "Jake Bobo",
+  "age": 25,
   "overallGrade": {
    "value": 50,
    "grade": {
@@ -19761,6 +20084,7 @@
  },
  "Marquez Valdes-Scantling": {
   "name": "Marquez Valdes-Scantling",
+  "age": 29,
   "overallGrade": {
    "value": 55,
    "grade": {
@@ -19815,6 +20139,7 @@
  },
  "Skyy Moore": {
   "name": "Skyy Moore",
+  "age": 23,
   "overallGrade": {
    "value": 54,
    "grade": {
@@ -19869,6 +20194,7 @@
  },
  "Kadarius Toney": {
   "name": "Kadarius Toney",
+  "age": 25,
   "overallGrade": {
    "value": 53.5,
    "grade": {
@@ -19923,6 +20249,7 @@
  },
  "Calvin Austin": {
   "name": "Calvin Austin",
+  "age": 24,
   "overallGrade": {
    "value": 42.5,
    "grade": {
@@ -19933,7 +20260,7 @@
   "position": "WR",
   "teamShortName": "PIT",
   "team": "Pittsburgh",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22566.png",
   "production": {
    "totalPoints": 52.7,
    "pointsPerGame": 3.1,
@@ -19977,6 +20304,7 @@
  },
  "Jauan Jennings": {
   "name": "Jauan Jennings",
+  "age": 26,
   "overallGrade": {
    "value": 61.75,
    "grade": {
@@ -20031,6 +20359,7 @@
  },
  "Andrei Iosivas": {
   "name": "Andrei Iosivas",
+  "age": 24,
   "overallGrade": {
    "value": 50,
    "grade": {
@@ -20085,6 +20414,7 @@
  },
  "Mike Williams": {
   "name": "Mike Williams",
+  "age": 29,
   "overallGrade": {
    "value": 45.75,
    "grade": {
@@ -20139,6 +20469,7 @@
  },
  "David Bell": {
   "name": "David Bell",
+  "age": 23,
   "overallGrade": {
    "value": 52.75,
    "grade": {
@@ -20193,6 +20524,7 @@
  },
  "Hunter Renfrow": {
   "name": "Hunter Renfrow",
+  "age": 28,
   "overallGrade": {
    "value": 46.25,
    "grade": {
@@ -20247,6 +20579,7 @@
  },
  "Lil'Jordan Humphrey": {
   "name": "Lil'Jordan Humphrey",
+  "age": 25,
   "overallGrade": {
    "value": 44,
    "grade": {
@@ -20301,6 +20634,7 @@
  },
  "Bo Melton": {
   "name": "Bo Melton",
+  "age": 24,
   "overallGrade": {
    "value": 51.25,
    "grade": {
@@ -20355,6 +20689,7 @@
  },
  "Alex Erickson": {
   "name": "Alex Erickson",
+  "age": 31,
   "overallGrade": {
    "value": 45,
    "grade": {
@@ -20409,6 +20744,7 @@
  },
  "Cedric Tillman": {
   "name": "Cedric Tillman",
+  "age": 23,
   "overallGrade": {
    "value": 56.25,
    "grade": {
@@ -20463,6 +20799,7 @@
  },
  "Mack Hollins": {
   "name": "Mack Hollins",
+  "age": 30,
   "overallGrade": {
    "value": 41.25,
    "grade": {
@@ -20517,6 +20854,7 @@
  },
  "Van Jefferson": {
   "name": "Van Jefferson",
+  "age": 27,
   "overallGrade": {
    "value": 44,
    "grade": {
@@ -20571,6 +20909,7 @@
  },
  "Jamal Agnew": {
   "name": "Jamal Agnew",
+  "age": 28,
   "overallGrade": {
    "value": 47.25,
    "grade": {
@@ -20625,6 +20964,7 @@
  },
  "Deonte Harty": {
   "name": "Deonte Harty",
+  "age": 26,
   "overallGrade": {
    "value": 53.25,
    "grade": {
@@ -20679,6 +21019,7 @@
  },
  "Treylon Burks": {
   "name": "Treylon Burks",
+  "age": 23,
   "overallGrade": {
    "value": 39,
    "grade": {
@@ -20733,6 +21074,7 @@
  },
  "Parker Washington": {
   "name": "Parker Washington",
+  "age": 21,
   "overallGrade": {
    "value": 46.5,
    "grade": {
@@ -20787,6 +21129,7 @@
  },
  "Scott Miller": {
   "name": "Scott Miller",
+  "age": "N/A",
   "overallGrade": {
    "value": 35.25,
    "grade": {
@@ -20841,6 +21184,7 @@
  },
  "Olamide Zaccheaus": {
   "name": "Olamide Zaccheaus",
+  "age": 26,
   "overallGrade": {
    "value": 51.25,
    "grade": {
@@ -20895,6 +21239,7 @@
  },
  "KhaDarel Hodge": {
   "name": "KhaDarel Hodge",
+  "age": 29,
   "overallGrade": {
    "value": 37.75,
    "grade": {
@@ -20949,6 +21294,7 @@
  },
  "Julio Jones": {
   "name": "Julio Jones",
+  "age": 35,
   "overallGrade": {
    "value": 50.5,
    "grade": {
@@ -21003,6 +21349,7 @@
  },
  "Tyler Scott": {
   "name": "Tyler Scott",
+  "age": 22,
   "overallGrade": {
    "value": 46,
    "grade": {
@@ -21057,6 +21404,7 @@
  },
  "Jamison Crowder": {
   "name": "Jamison Crowder",
+  "age": 30,
   "overallGrade": {
    "value": 36.5,
    "grade": {
@@ -21111,6 +21459,7 @@
  },
  "Derius Davis": {
   "name": "Derius Davis",
+  "age": 23,
   "overallGrade": {
    "value": 38,
    "grade": {
@@ -21165,6 +21514,7 @@
  },
  "Quez Watkins": {
   "name": "Quez Watkins",
+  "age": 25,
   "overallGrade": {
    "value": 50.5,
    "grade": {
@@ -21219,6 +21569,7 @@
  },
  "Dyami Brown": {
   "name": "Dyami Brown",
+  "age": 24,
   "overallGrade": {
    "value": 37.5,
    "grade": {
@@ -21273,6 +21624,7 @@
  },
  "Deven Thompkins": {
   "name": "Deven Thompkins",
+  "age": 24,
   "overallGrade": {
    "value": 42.25,
    "grade": {
@@ -21327,6 +21679,7 @@
  },
  "Malik Heath": {
   "name": "Malik Heath",
+  "age": 23,
   "overallGrade": {
    "value": 48,
    "grade": {
@@ -21381,6 +21734,7 @@
  },
  "Terrace Marshall": {
   "name": "Terrace Marshall",
+  "age": 23,
   "overallGrade": {
    "value": 34,
    "grade": {
@@ -21391,7 +21745,7 @@
   "position": "WR",
   "teamShortName": "CAR",
   "team": "Carolina",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22685.png",
   "production": {
    "totalPoints": 32.9,
    "pointsPerGame": 4.1,
@@ -21435,6 +21789,7 @@
  },
  "Ihmir Smith-Marsette": {
   "name": "Ihmir Smith-Marsette",
+  "age": 24,
   "overallGrade": {
    "value": 27,
    "grade": {
@@ -21489,6 +21844,7 @@
  },
  "John Metchie": {
   "name": "John Metchie",
+  "age": 23,
   "overallGrade": {
    "value": 47.25,
    "grade": {
@@ -21499,7 +21855,7 @@
   "position": "WR",
   "teamShortName": "HOU",
   "team": "Houston",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23160.png",
   "production": {
    "totalPoints": 32.2,
    "pointsPerGame": 2,
@@ -21543,6 +21899,7 @@
  },
  "Kyle Philips": {
   "name": "Kyle Philips",
+  "age": 24,
   "overallGrade": {
    "value": 33.75,
    "grade": {
@@ -21597,6 +21954,7 @@
  },
  "Ronnie Bell": {
   "name": "Ronnie Bell",
+  "age": 24,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -21651,6 +22009,7 @@
  },
  "Parris Campbell": {
   "name": "Parris Campbell",
+  "age": 26,
   "overallGrade": {
    "value": 33.25,
    "grade": {
@@ -21705,6 +22064,7 @@
  },
  "Jalen Reagor": {
   "name": "Jalen Reagor",
+  "age": 25,
   "overallGrade": {
    "value": 30.75,
    "grade": {
@@ -21759,6 +22119,7 @@
  },
  "Donovan Peoples-Jones": {
   "name": "Donovan Peoples-Jones",
+  "age": 24,
   "overallGrade": {
    "value": 52,
    "grade": {
@@ -21813,6 +22174,7 @@
  },
  "Ray-Ray McCloud": {
   "name": "Ray-Ray McCloud",
+  "age": 27,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -21823,7 +22185,7 @@
   "position": "WR",
   "teamShortName": "SF",
   "team": "San Francisco",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19961.png",
   "production": {
    "totalPoints": 28.5,
    "pointsPerGame": 2.4,
@@ -21867,6 +22229,7 @@
  },
  "Byron Pringle": {
   "name": "Byron Pringle",
+  "age": 30,
   "overallGrade": {
    "value": 35,
    "grade": {
@@ -21921,6 +22284,7 @@
  },
  "Tyquan Thornton": {
   "name": "Tyquan Thornton",
+  "age": 23,
   "overallGrade": {
    "value": 30,
    "grade": {
@@ -21975,6 +22339,7 @@
  },
  "River Cracraft": {
   "name": "River Cracraft",
+  "age": 29,
   "overallGrade": {
    "value": 49,
    "grade": {
@@ -22029,6 +22394,7 @@
  },
  "Mecole Hardman": {
   "name": "Mecole Hardman",
+  "age": 25,
   "overallGrade": {
    "value": 42.5,
    "grade": {
@@ -22039,7 +22405,7 @@
   "position": "WR",
   "teamShortName": "KC",
   "team": "Kansas City",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20788.png",
   "production": {
    "totalPoints": 25.7,
    "pointsPerGame": 3.2,
@@ -22083,6 +22449,7 @@
  },
  "Trent Sherfield": {
   "name": "Trent Sherfield",
+  "age": 27,
   "overallGrade": {
    "value": 48.5,
    "grade": {
@@ -22137,6 +22504,7 @@
  },
  "Jalen Guyton": {
   "name": "Jalen Guyton",
+  "age": 26,
   "overallGrade": {
    "value": 36.25,
    "grade": {
@@ -22191,6 +22559,7 @@
  },
  "Robbie Chosen": {
   "name": "Robbie Chosen",
+  "age": 30,
   "overallGrade": {
    "value": 45.5,
    "grade": {
@@ -22245,6 +22614,7 @@
  },
  "Lynn Bowden": {
   "name": "Lynn Bowden",
+  "age": 26,
   "overallGrade": {
    "value": 43.25,
    "grade": {
@@ -22255,7 +22625,7 @@
   "position": "WR",
   "teamShortName": "NO",
   "team": "New Orleans",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21743.png",
   "production": {
    "totalPoints": 22.5,
    "pointsPerGame": 1.6,
@@ -22299,6 +22669,7 @@
  },
  "Xavier Hutchinson": {
   "name": "Xavier Hutchinson",
+  "age": 23,
   "overallGrade": {
    "value": 40.5,
    "grade": {
@@ -22353,6 +22724,7 @@
  },
  "Chase Claypool": {
   "name": "Chase Claypool",
+  "age": 25,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -22407,6 +22779,7 @@
  },
  "Laviska Shenault": {
   "name": "Laviska Shenault",
+  "age": 25,
   "overallGrade": {
    "value": 22.75,
    "grade": {
@@ -22417,7 +22790,7 @@
   "position": "WR",
   "teamShortName": "CAR",
   "team": "Carolina",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21697.png",
   "production": {
    "totalPoints": 21.5,
    "pointsPerGame": 2.7,
@@ -22461,6 +22834,7 @@
  },
  "Ben Skowronek": {
   "name": "Ben Skowronek",
+  "age": 26,
   "overallGrade": {
    "value": 42,
    "grade": {
@@ -22515,6 +22889,7 @@
  },
  "Charlie Jones": {
   "name": "Charlie Jones",
+  "age": 25,
   "overallGrade": {
    "value": 34.75,
    "grade": {
@@ -22569,6 +22944,7 @@
  },
  "David Moore": {
   "name": "David Moore",
+  "age": 29,
   "overallGrade": {
    "value": 30.75,
    "grade": {
@@ -22623,6 +22999,7 @@
  },
  "Sterling Shepard": {
   "name": "Sterling Shepard",
+  "age": 31,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -22677,6 +23054,7 @@
  },
  "Richie James": {
   "name": "Richie James",
+  "age": 28,
   "overallGrade": {
    "value": 36.5,
    "grade": {
@@ -22731,6 +23109,7 @@
  },
  "Tim Jones": {
   "name": "Tim Jones",
+  "age": 25,
   "overallGrade": {
    "value": 38,
    "grade": {
@@ -22785,6 +23164,7 @@
  },
  "Randall Cobb": {
   "name": "Randall Cobb",
+  "age": 33,
   "overallGrade": {
    "value": 25.75,
    "grade": {
@@ -22839,6 +23219,7 @@
  },
  "Jason Brownlee": {
   "name": "Jason Brownlee",
+  "age": 25,
   "overallGrade": {
    "value": 22.75,
    "grade": {
@@ -22893,6 +23274,7 @@
  },
  "Isaiah McKenzie": {
   "name": "Isaiah McKenzie",
+  "age": 28,
   "overallGrade": {
    "value": 39.75,
    "grade": {
@@ -22947,6 +23329,7 @@
  },
  "Samori Toure": {
   "name": "Samori Toure",
+  "age": 25,
   "overallGrade": {
    "value": 39,
    "grade": {
@@ -23001,6 +23384,7 @@
  },
  "Keith Kirkwood": {
   "name": "Keith Kirkwood",
+  "age": 29,
   "overallGrade": {
    "value": 38.5,
    "grade": {
@@ -23055,6 +23439,7 @@
  },
  "D.J. Montgomery": {
   "name": "D.J. Montgomery",
+  "age": 27,
   "overallGrade": {
    "value": 37,
    "grade": {
@@ -23109,6 +23494,7 @@
  },
  "Marquise Goodwin": {
   "name": "Marquise Goodwin",
+  "age": 33,
   "overallGrade": {
    "value": 37.75,
    "grade": {
@@ -23163,6 +23549,7 @@
  },
  "Lawrence Cager": {
   "name": "Lawrence Cager",
+  "age": 26,
   "overallGrade": {
    "value": 21.25,
    "grade": {
@@ -23217,6 +23604,7 @@
  },
  "Jalen Brooks": {
   "name": "Jalen Brooks",
+  "age": 23,
   "overallGrade": {
    "value": 42,
    "grade": {
@@ -23271,6 +23659,7 @@
  },
  "Justyn Ross": {
   "name": "Justyn Ross",
+  "age": 24,
   "overallGrade": {
    "value": 32.75,
    "grade": {
@@ -23323,19 +23712,14 @@
    }
   }
  },
- "Equanimeous St.": {
-  "name": "Equanimeous St.",
-  "overallGrade": {
-   "value": 28.5,
-   "grade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  },
+ "Equanimeous St. Brown": {
+  "name": "Equanimeous St. Brown",
+  "age": 27,
+  "overallGrade": "N/A",
   "position": "WR",
   "teamShortName": "CHI",
   "team": "Chicago",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20398.png",
   "production": {
    "totalPoints": 11.2,
    "pointsPerGame": 1.6,
@@ -23352,17 +23736,7 @@
     "description": "Not Good Enough"
    }
   },
-  "opportunity": {
-   "snapPercentage": 45,
-   "receptions": 5,
-   "targets": 6,
-   "targetsRank": 181,
-   "targetsPercentile": 11,
-   "targetsGrade": {
-    "letter": "F",
-    "description": "Not Good Enough"
-   }
-  },
+  "opportunity": "N/A",
   "offense": {
    "pointsPerGame": 21.2,
    "QBR": 82.2,
@@ -23379,6 +23753,7 @@
  },
  "Velus Jones": {
   "name": "Velus Jones",
+  "age": 26,
   "overallGrade": {
    "value": 29,
    "grade": {
@@ -23389,7 +23764,7 @@
   "position": "WR",
   "teamShortName": "CHI",
   "team": "Chicago",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23481.png",
   "production": {
    "totalPoints": 11.1,
    "pointsPerGame": 0.8,
@@ -23433,6 +23808,7 @@
  },
  "Rakim Jarrett": {
   "name": "Rakim Jarrett",
+  "age": 23,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -23487,6 +23863,7 @@
  },
  "Chris Conley": {
   "name": "Chris Conley",
+  "age": 31,
   "overallGrade": {
    "value": 39.25,
    "grade": {
@@ -23541,6 +23918,7 @@
  },
  "DeAndre Carter": {
   "name": "DeAndre Carter",
+  "age": 30,
   "overallGrade": {
    "value": 24,
    "grade": {
@@ -23595,6 +23973,7 @@
  },
  "Keelan Doss": {
   "name": "Keelan Doss",
+  "age": 27,
   "overallGrade": {
    "value": 27.25,
    "grade": {
@@ -23649,6 +24028,7 @@
  },
  "Tyler Johnson": {
   "name": "Tyler Johnson",
+  "age": 25,
   "overallGrade": {
    "value": 33.75,
    "grade": {
@@ -23703,6 +24083,7 @@
  },
  "Britain Covey": {
   "name": "Britain Covey",
+  "age": 26,
   "overallGrade": {
    "value": 35.25,
    "grade": {
@@ -23757,6 +24138,7 @@
  },
  "Tylan Wallace": {
   "name": "Tylan Wallace",
+  "age": 24,
   "overallGrade": {
    "value": 35.75,
    "grade": {
@@ -23811,6 +24193,7 @@
  },
  "Simi Fehoko": {
   "name": "Simi Fehoko",
+  "age": 26,
   "overallGrade": {
    "value": 22,
    "grade": {
@@ -23865,6 +24248,7 @@
  },
  "Devin Duvernay": {
   "name": "Devin Duvernay",
+  "age": 26,
   "overallGrade": {
    "value": 38.5,
    "grade": {
@@ -23919,6 +24303,7 @@
  },
  "Elijah Cooks": {
   "name": "Elijah Cooks",
+  "age": 25,
   "overallGrade": {
    "value": 28.5,
    "grade": {
@@ -23983,7 +24368,6 @@
   "position": "WR",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 6.5,
    "pointsPerGame": 1.3,
@@ -24015,6 +24399,7 @@
  },
  "Jalen Nailor": {
   "name": "Jalen Nailor",
+  "age": 24,
   "overallGrade": {
    "value": 22,
    "grade": {
@@ -24069,6 +24454,7 @@
  },
  "Zach Pascal": {
   "name": "Zach Pascal",
+  "age": 29,
   "overallGrade": {
    "value": 24.25,
    "grade": {
@@ -24123,6 +24509,7 @@
  },
  "Steven Sims": {
   "name": "Steven Sims",
+  "age": 26,
   "overallGrade": {
    "value": 27.5,
    "grade": {
@@ -24177,6 +24564,7 @@
  },
  "Mike Strachan": {
   "name": "Mike Strachan",
+  "age": 26,
   "overallGrade": {
    "value": 12.75,
    "grade": {
@@ -24231,6 +24619,7 @@
  },
  "Trishton Jackson": {
   "name": "Trishton Jackson",
+  "age": 25,
   "overallGrade": {
    "value": 21,
    "grade": {
@@ -24285,6 +24674,7 @@
  },
  "Austin Trammell": {
   "name": "Austin Trammell",
+  "age": 26,
   "overallGrade": {
    "value": 33.5,
    "grade": {
@@ -24339,6 +24729,7 @@
  },
  "Miles Boykin": {
   "name": "Miles Boykin",
+  "age": 27,
   "overallGrade": {
    "value": 16.75,
    "grade": {
@@ -24393,6 +24784,7 @@
  },
  "Kayshon Boutte": {
   "name": "Kayshon Boutte",
+  "age": 21,
   "overallGrade": {
    "value": 14.25,
    "grade": {
@@ -24447,6 +24839,7 @@
  },
  "Willie Snead": {
   "name": "Willie Snead",
+  "age": 31,
   "overallGrade": {
    "value": 34.25,
    "grade": {
@@ -24457,7 +24850,7 @@
   "position": "WR",
   "teamShortName": "SF",
   "team": "San Francisco",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16141.png",
   "production": {
    "totalPoints": 3.4,
    "pointsPerGame": 0.9,
@@ -24501,6 +24894,7 @@
  },
  "Malik Taylor": {
   "name": "Malik Taylor",
+  "age": 28,
   "overallGrade": {
    "value": 13.75,
    "grade": {
@@ -24555,6 +24949,7 @@
  },
  "Gunner Olszewski": {
   "name": "Gunner Olszewski",
+  "age": 27,
   "overallGrade": {
    "value": 11.25,
    "grade": {
@@ -24599,6 +24994,7 @@
  },
  "Laquon Treadwell": {
   "name": "Laquon Treadwell",
+  "age": "N/A",
   "overallGrade": {
    "value": 32.75,
    "grade": {
@@ -24653,6 +25049,7 @@
  },
  "Erik Ezukanma": {
   "name": "Erik Ezukanma",
+  "age": 24,
   "overallGrade": {
    "value": 32.75,
    "grade": {
@@ -24697,6 +25094,7 @@
  },
  "Collin Johnson": {
   "name": "Collin Johnson",
+  "age": 26,
   "overallGrade": {
    "value": 20.25,
    "grade": {
@@ -24741,6 +25139,7 @@
  },
  "Cody Thompson": {
   "name": "Cody Thompson",
+  "age": "N/A",
   "overallGrade": {
    "value": 20.5,
    "grade": {
@@ -24785,6 +25184,7 @@
  },
  "Mason Kinsey": {
   "name": "Mason Kinsey",
+  "age": 25,
   "overallGrade": {
    "value": 12,
    "grade": {
@@ -24829,6 +25229,7 @@
  },
  "Colton Dowell": {
   "name": "Colton Dowell",
+  "age": 24,
   "overallGrade": {
    "value": 12.25,
    "grade": {
@@ -24883,6 +25284,7 @@
  },
  "Kwamie Lassiter": {
   "name": "Kwamie Lassiter",
+  "age": 26,
   "overallGrade": {
    "value": 20.5,
    "grade": {
@@ -24893,7 +25295,7 @@
   "position": "WR",
   "teamShortName": "CIN",
   "team": "Cincinnati",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/23909.png",
   "production": {
    "totalPoints": 1.2,
    "pointsPerGame": 1.2,
@@ -24927,6 +25329,7 @@
  },
  "Antoine Green": {
   "name": "Antoine Green",
+  "age": 24,
   "overallGrade": {
    "value": 29.25,
    "grade": {
@@ -24981,6 +25384,7 @@
  },
  "Dee Eskridge": {
   "name": "Dee Eskridge",
+  "age": 26,
   "overallGrade": {
    "value": 19.25,
    "grade": {
@@ -25025,6 +25429,7 @@
  },
  "Phillip Dorsett": {
   "name": "Phillip Dorsett",
+  "age": 31,
   "overallGrade": {
    "value": 18.5,
    "grade": {
@@ -25079,6 +25484,7 @@
  },
  "Terrell Bynum": {
   "name": "Terrell Bynum",
+  "age": 25,
   "overallGrade": {
    "value": 24.75,
    "grade": {
@@ -25123,6 +25529,7 @@
  },
  "N'Keal Harry": {
   "name": "N'Keal Harry",
+  "age": 26,
   "overallGrade": {
    "value": 15.25,
    "grade": {
@@ -25167,6 +25574,7 @@
  },
  "Dax Milne": {
   "name": "Dax Milne",
+  "age": "N/A",
   "overallGrade": {
    "value": 13,
    "grade": {
@@ -25211,6 +25619,7 @@
  },
  "Andy Isabella": {
   "name": "Andy Isabella",
+  "age": 27,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -25255,6 +25664,7 @@
  },
  "Shedrick Jackson": {
   "name": "Shedrick Jackson",
+  "age": 24,
   "overallGrade": {
    "value": 20,
    "grade": {
@@ -25299,6 +25709,7 @@
  },
  "Justin Hardee": {
   "name": "Justin Hardee",
+  "age": 30,
   "overallGrade": {
    "value": 9.75,
    "grade": {
@@ -25343,6 +25754,7 @@
  },
  "Ryan Miller": {
   "name": "Ryan Miller",
+  "age": 23,
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -25387,6 +25799,7 @@
  },
  "Chris Blair": {
   "name": "Chris Blair",
+  "age": 26,
   "overallGrade": {
    "value": 12.25,
    "grade": {
@@ -25431,6 +25844,7 @@
  },
  "Cephus Johnson": {
   "name": "Cephus Johnson",
+  "age": 24,
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -25475,6 +25889,7 @@
  },
  "Marquez Callaway": {
   "name": "Marquez Callaway",
+  "age": 25,
   "overallGrade": {
    "value": 11.5,
    "grade": {
@@ -25519,6 +25934,7 @@
  },
  "Dan Chisena": {
   "name": "Dan Chisena",
+  "age": "N/A",
   "overallGrade": {
    "value": 29.5,
    "grade": {
@@ -25563,6 +25979,7 @@
  },
  "Ethan Fernea": {
   "name": "Ethan Fernea",
+  "age": 25,
   "overallGrade": {
    "value": 24.75,
    "grade": {
@@ -25607,6 +26024,7 @@
  },
  "Lucky Jackson": {
   "name": "Lucky Jackson",
+  "age": 26,
   "overallGrade": {
    "value": 15.25,
    "grade": {
@@ -25651,6 +26069,7 @@
  },
  "Chase Cota": {
   "name": "Chase Cota",
+  "age": 24,
   "overallGrade": {
    "value": 9,
    "grade": {
@@ -25695,6 +26114,7 @@
  },
  "Michael Bandy": {
   "name": "Michael Bandy",
+  "age": 26,
   "overallGrade": {
    "value": 17.75,
    "grade": {
@@ -25739,6 +26159,7 @@
  },
  "Tay Martin": {
   "name": "Tay Martin",
+  "age": 26,
   "overallGrade": {
    "value": 30.25,
    "grade": {
@@ -25783,6 +26204,7 @@
  },
  "Dareke Young": {
   "name": "Dareke Young",
+  "age": 24,
   "overallGrade": {
    "value": 19.25,
    "grade": {
@@ -25827,6 +26249,7 @@
  },
  "Stanley Morgan": {
   "name": "Stanley Morgan",
+  "age": "N/A",
   "overallGrade": {
    "value": 20,
    "grade": {
@@ -25871,6 +26294,7 @@
  },
  "David Sills": {
   "name": "David Sills",
+  "age": 27,
   "overallGrade": {
    "value": 17.75,
    "grade": {
@@ -25915,6 +26339,7 @@
  },
  "Juwann Winfree": {
   "name": "Juwann Winfree",
+  "age": 27,
   "overallGrade": {
    "value": 24.75,
    "grade": {
@@ -25969,7 +26394,6 @@
   "position": "WR",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -25991,6 +26415,7 @@
  },
  "Irvin Charles": {
   "name": "Irvin Charles",
+  "age": 26,
   "overallGrade": {
    "value": 9.75,
    "grade": {
@@ -26035,6 +26460,7 @@
  },
  "Dylan Drummond": {
   "name": "Dylan Drummond",
+  "age": "N/A",
   "overallGrade": {
    "value": 9,
    "grade": {
@@ -26079,6 +26505,7 @@
  },
  "Kearis Jackson": {
   "name": "Kearis Jackson",
+  "age": 24,
   "overallGrade": {
    "value": 10.75,
    "grade": {
@@ -26123,6 +26550,7 @@
  },
  "Jaelon Darden": {
   "name": "Jaelon Darden",
+  "age": 25,
   "overallGrade": {
    "value": 24,
    "grade": {
@@ -26177,7 +26605,6 @@
   "position": "WR",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -26199,6 +26626,7 @@
  },
  "Tre'Quan Smith": {
   "name": "Tre'Quan Smith",
+  "age": "N/A",
   "overallGrade": {
    "value": 17.75,
    "grade": {
@@ -26243,6 +26671,7 @@
  },
  "Easop Winston": {
   "name": "Easop Winston",
+  "age": 27,
   "overallGrade": {
    "value": 19.25,
    "grade": {
@@ -26253,7 +26682,7 @@
   "position": "WR",
   "teamShortName": "SEA",
   "team": "Seattle",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21724.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -26287,6 +26716,7 @@
  },
  "Andre Baccellia": {
   "name": "Andre Baccellia",
+  "age": 27,
   "overallGrade": {
    "value": 13.75,
    "grade": {
@@ -26331,6 +26761,7 @@
  },
  "DJ Turner": {
   "name": "DJ Turner",
+  "age": 27,
   "overallGrade": {
    "value": 14.5,
    "grade": {
@@ -26375,6 +26806,7 @@
  },
  "Jalen Virgil": {
   "name": "Jalen Virgil",
+  "age": 25,
   "overallGrade": {
    "value": 17.75,
    "grade": {
@@ -26419,6 +26851,7 @@
  },
  "Matthew Slater": {
   "name": "Matthew Slater",
+  "age": 38,
   "overallGrade": {
    "value": 8.25,
    "grade": {
@@ -26463,6 +26896,7 @@
  },
  "Montrell Washington": {
   "name": "Montrell Washington",
+  "age": 24,
   "overallGrade": {
    "value": 20.75,
    "grade": {
@@ -26517,7 +26951,6 @@
   "position": "WR",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -26549,6 +26982,7 @@
  },
  "Devon Allen": {
   "name": "Devon Allen",
+  "age": "N/A",
   "overallGrade": {
    "value": 27,
    "grade": {
@@ -26603,7 +27037,6 @@
   "position": "WR",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -26635,6 +27068,7 @@
  },
  "Johnny Johnson": {
   "name": "Johnny Johnson",
+  "age": 24,
   "overallGrade": {
    "value": 22.25,
    "grade": {
@@ -26645,7 +27079,7 @@
   "position": "WR",
   "teamShortName": "HOU",
   "team": "Houston",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22600.png",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -26679,6 +27113,7 @@
  },
  "James Proche": {
   "name": "James Proche",
+  "age": 27,
   "overallGrade": {
    "value": 18.5,
    "grade": {
@@ -26689,7 +27124,7 @@
   "position": "WR",
   "teamShortName": "CLE",
   "team": "Cleveland",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21723.png",
   "production": {
    "totalPoints": -2,
    "pointsPerGame": -0.2,
@@ -26733,6 +27168,7 @@
  },
  "Trent Taylor": {
   "name": "Trent Taylor",
+  "age": 29,
   "overallGrade": {
    "value": 11,
    "grade": {
@@ -26777,6 +27213,7 @@
  },
  "Sam LaPorta": {
   "name": "Sam LaPorta",
+  "age": 23,
   "overallGrade": {
    "value": 93.25,
    "grade": {
@@ -26831,6 +27268,7 @@
  },
  "Evan Engram": {
   "name": "Evan Engram",
+  "age": 29,
   "overallGrade": {
    "value": 86.75,
    "grade": {
@@ -26885,6 +27323,7 @@
  },
  "Travis Kelce": {
   "name": "Travis Kelce",
+  "age": 34,
   "overallGrade": {
    "value": 84.75,
    "grade": {
@@ -26939,6 +27378,7 @@
  },
  "T.J. Hockenson": {
   "name": "T.J. Hockenson",
+  "age": 26,
   "overallGrade": {
    "value": 79.5,
    "grade": {
@@ -26993,6 +27433,7 @@
  },
  "George Kittle": {
   "name": "George Kittle",
+  "age": 30,
   "overallGrade": {
    "value": 92.25,
    "grade": {
@@ -27047,6 +27488,7 @@
  },
  "David Njoku": {
   "name": "David Njoku",
+  "age": 27,
   "overallGrade": {
    "value": 87,
    "grade": {
@@ -27101,6 +27543,7 @@
  },
  "Trey McBride": {
   "name": "Trey McBride",
+  "age": 24,
   "overallGrade": {
    "value": 75.5,
    "grade": {
@@ -27155,6 +27598,7 @@
  },
  "Cole Kmet": {
   "name": "Cole Kmet",
+  "age": 24,
   "overallGrade": {
    "value": 79,
    "grade": {
@@ -27209,6 +27653,7 @@
  },
  "Jake Ferguson": {
   "name": "Jake Ferguson",
+  "age": 25,
   "overallGrade": {
    "value": 92.75,
    "grade": {
@@ -27263,6 +27708,7 @@
  },
  "Dalton Schultz": {
   "name": "Dalton Schultz",
+  "age": 27,
   "overallGrade": {
    "value": 80.5,
    "grade": {
@@ -27317,6 +27763,7 @@
  },
  "Dalton Kincaid": {
   "name": "Dalton Kincaid",
+  "age": 24,
   "overallGrade": {
    "value": 86.75,
    "grade": {
@@ -27371,6 +27818,7 @@
  },
  "Taysom Hill": {
   "name": "Taysom Hill",
+  "age": 33,
   "overallGrade": {
    "value": 78.25,
    "grade": {
@@ -27425,6 +27873,7 @@
  },
  "Kyle Pitts": {
   "name": "Kyle Pitts",
+  "age": 23,
   "overallGrade": {
    "value": 69.5,
    "grade": {
@@ -27479,6 +27928,7 @@
  },
  "Dallas Goedert": {
   "name": "Dallas Goedert",
+  "age": 29,
   "overallGrade": {
    "value": 83.5,
    "grade": {
@@ -27533,6 +27983,7 @@
  },
  "Mark Andrews": {
   "name": "Mark Andrews",
+  "age": 28,
   "overallGrade": {
    "value": 84,
    "grade": {
@@ -27587,6 +28038,7 @@
  },
  "Logan Thomas": {
   "name": "Logan Thomas",
+  "age": 32,
   "overallGrade": {
    "value": 68.25,
    "grade": {
@@ -27641,6 +28093,7 @@
  },
  "Jonnu Smith": {
   "name": "Jonnu Smith",
+  "age": 28,
   "overallGrade": {
    "value": 66.5,
    "grade": {
@@ -27695,6 +28148,7 @@
  },
  "Tyler Conklin": {
   "name": "Tyler Conklin",
+  "age": 28,
   "overallGrade": {
    "value": 64.5,
    "grade": {
@@ -27749,6 +28203,7 @@
  },
  "Hunter Henry": {
   "name": "Hunter Henry",
+  "age": 29,
   "overallGrade": {
    "value": 61,
    "grade": {
@@ -27803,6 +28258,7 @@
  },
  "Cade Otton": {
   "name": "Cade Otton",
+  "age": 24,
   "overallGrade": {
    "value": 69.25,
    "grade": {
@@ -27857,6 +28313,7 @@
  },
  "Chigoziem Okonkwo": {
   "name": "Chigoziem Okonkwo",
+  "age": 24,
   "overallGrade": {
    "value": 64,
    "grade": {
@@ -27911,6 +28368,7 @@
  },
  "Darren Waller": {
   "name": "Darren Waller",
+  "age": 31,
   "overallGrade": {
    "value": 61.75,
    "grade": {
@@ -27965,6 +28423,7 @@
  },
  "Gerald Everett": {
   "name": "Gerald Everett",
+  "age": 29,
   "overallGrade": {
    "value": 68,
    "grade": {
@@ -28019,6 +28478,7 @@
  },
  "Tyler Higbee": {
   "name": "Tyler Higbee",
+  "age": 31,
   "overallGrade": {
    "value": 77.5,
    "grade": {
@@ -28073,6 +28533,7 @@
  },
  "Isaiah Likely": {
   "name": "Isaiah Likely",
+  "age": 23,
   "overallGrade": {
    "value": 76.5,
    "grade": {
@@ -28127,6 +28588,7 @@
  },
  "Juwan Johnson": {
   "name": "Juwan Johnson",
+  "age": 27,
   "overallGrade": {
    "value": 75,
    "grade": {
@@ -28181,6 +28643,7 @@
  },
  "Tanner Hudson": {
   "name": "Tanner Hudson",
+  "age": 29,
   "overallGrade": {
    "value": 68,
    "grade": {
@@ -28235,6 +28698,7 @@
  },
  "Donald Parham": {
   "name": "Donald Parham",
+  "age": 26,
   "overallGrade": {
    "value": 62,
    "grade": {
@@ -28245,7 +28709,7 @@
   "position": "TE",
   "teamShortName": "LAC",
   "team": "L.A. Chargers",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20905.png",
   "production": {
    "totalPoints": 79.5,
    "pointsPerGame": 5.7,
@@ -28289,6 +28753,7 @@
  },
  "Tucker Kraft": {
   "name": "Tucker Kraft",
+  "age": 23,
   "overallGrade": {
    "value": 68.25,
    "grade": {
@@ -28343,6 +28808,7 @@
  },
  "Pat Freiermuth": {
   "name": "Pat Freiermuth",
+  "age": 25,
   "overallGrade": {
    "value": 58.25,
    "grade": {
@@ -28397,6 +28863,7 @@
  },
  "Luke Musgrave": {
   "name": "Luke Musgrave",
+  "age": 23,
   "overallGrade": {
    "value": 69.5,
    "grade": {
@@ -28451,6 +28918,7 @@
  },
  "Noah Fant": {
   "name": "Noah Fant",
+  "age": 26,
   "overallGrade": {
    "value": 64.5,
    "grade": {
@@ -28505,6 +28973,7 @@
  },
  "Kylen Granson": {
   "name": "Kylen Granson",
+  "age": 25,
   "overallGrade": {
    "value": 71,
    "grade": {
@@ -28559,6 +29028,7 @@
  },
  "Durham Smythe": {
   "name": "Durham Smythe",
+  "age": 28,
   "overallGrade": {
    "value": 75.75,
    "grade": {
@@ -28613,6 +29083,7 @@
  },
  "Michael Mayer": {
   "name": "Michael Mayer",
+  "age": 22,
   "overallGrade": {
    "value": 57.25,
    "grade": {
@@ -28667,6 +29138,7 @@
  },
  "Noah Gray": {
   "name": "Noah Gray",
+  "age": 24,
   "overallGrade": {
    "value": 64.5,
    "grade": {
@@ -28721,6 +29193,7 @@
  },
  "Mike Gesicki": {
   "name": "Mike Gesicki",
+  "age": 28,
   "overallGrade": {
    "value": 52.5,
    "grade": {
@@ -28775,6 +29248,7 @@
  },
  "Colby Parkinson": {
   "name": "Colby Parkinson",
+  "age": 25,
   "overallGrade": {
    "value": 60.5,
    "grade": {
@@ -28829,6 +29303,7 @@
  },
  "Tommy Tremble": {
   "name": "Tommy Tremble",
+  "age": 23,
   "overallGrade": {
    "value": 48,
    "grade": {
@@ -28883,6 +29358,7 @@
  },
  "Adam Trautman": {
   "name": "Adam Trautman",
+  "age": 27,
   "overallGrade": {
    "value": 58.75,
    "grade": {
@@ -28937,6 +29413,7 @@
  },
  "Dawson Knox": {
   "name": "Dawson Knox",
+  "age": 27,
   "overallGrade": {
    "value": 68,
    "grade": {
@@ -28991,6 +29468,7 @@
  },
  "Josh Oliver": {
   "name": "Josh Oliver",
+  "age": 26,
   "overallGrade": {
    "value": 53.5,
    "grade": {
@@ -29045,6 +29523,7 @@
  },
  "Zach Ertz": {
   "name": "Zach Ertz",
+  "age": "N/A",
   "overallGrade": {
    "value": 70,
    "grade": {
@@ -29099,6 +29578,7 @@
  },
  "Brevin Jordan": {
   "name": "Brevin Jordan",
+  "age": 23,
   "overallGrade": {
    "value": 57.5,
    "grade": {
@@ -29153,6 +29633,7 @@
  },
  "Daniel Bellinger": {
   "name": "Daniel Bellinger",
+  "age": 23,
   "overallGrade": {
    "value": 46.25,
    "grade": {
@@ -29207,6 +29688,7 @@
  },
  "Drew Sample": {
   "name": "Drew Sample",
+  "age": 27,
   "overallGrade": {
    "value": 57,
    "grade": {
@@ -29261,6 +29743,7 @@
  },
  "Mo Alie-Cox": {
   "name": "Mo Alie-Cox",
+  "age": 30,
   "overallGrade": {
    "value": 59.75,
    "grade": {
@@ -29315,6 +29798,7 @@
  },
  "Austin Hooper": {
   "name": "Austin Hooper",
+  "age": 29,
   "overallGrade": {
    "value": 51.5,
    "grade": {
@@ -29369,6 +29853,7 @@
  },
  "Foster Moreau": {
   "name": "Foster Moreau",
+  "age": 26,
   "overallGrade": {
    "value": 60.75,
    "grade": {
@@ -29423,6 +29908,7 @@
  },
  "Hayden Hurst": {
   "name": "Hayden Hurst",
+  "age": 30,
   "overallGrade": {
    "value": 44,
    "grade": {
@@ -29477,6 +29963,7 @@
  },
  "Will Dissly": {
   "name": "Will Dissly",
+  "age": 27,
   "overallGrade": {
    "value": 52.75,
    "grade": {
@@ -29531,6 +30018,7 @@
  },
  "Johnny Mundt": {
   "name": "Johnny Mundt",
+  "age": 29,
   "overallGrade": {
    "value": 49.25,
    "grade": {
@@ -29585,6 +30073,7 @@
  },
  "Connor Heyward": {
   "name": "Connor Heyward",
+  "age": 25,
   "overallGrade": {
    "value": 47.75,
    "grade": {
@@ -29639,6 +30128,7 @@
  },
  "Andrew Beck": {
   "name": "Andrew Beck",
+  "age": 27,
   "overallGrade": {
    "value": 51.25,
    "grade": {
@@ -29693,6 +30183,7 @@
  },
  "Will Mallory": {
   "name": "Will Mallory",
+  "age": 24,
   "overallGrade": {
    "value": 58.5,
    "grade": {
@@ -29747,6 +30238,7 @@
  },
  "Harrison Bryant": {
   "name": "Harrison Bryant",
+  "age": 25,
   "overallGrade": {
    "value": 55,
    "grade": {
@@ -29801,6 +30293,7 @@
  },
  "Pharaoh Brown": {
   "name": "Pharaoh Brown",
+  "age": 29,
   "overallGrade": {
    "value": 38,
    "grade": {
@@ -29855,6 +30348,7 @@
  },
  "Elijah Higgins": {
   "name": "Elijah Higgins",
+  "age": 23,
   "overallGrade": {
    "value": 43.75,
    "grade": {
@@ -29909,6 +30403,7 @@
  },
  "Andrew Ogletree": {
   "name": "Andrew Ogletree",
+  "age": "N/A",
   "overallGrade": {
    "value": 55,
    "grade": {
@@ -29963,6 +30458,7 @@
  },
  "John Bates": {
   "name": "John Bates",
+  "age": 26,
   "overallGrade": {
    "value": 45.75,
    "grade": {
@@ -30017,6 +30513,7 @@
  },
  "Jimmy Graham": {
   "name": "Jimmy Graham",
+  "age": 37,
   "overallGrade": {
    "value": 49.5,
    "grade": {
@@ -30071,6 +30568,7 @@
  },
  "Irv Smith": {
   "name": "Irv Smith",
+  "age": 25,
   "overallGrade": {
    "value": 51.5,
    "grade": {
@@ -30081,7 +30579,7 @@
   "position": "TE",
   "teamShortName": "CIN",
   "team": "Cincinnati",
-  "headShot": "Missing photo url",
+  "headShot": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20949.png",
   "production": {
    "totalPoints": 33.5,
    "pointsPerGame": 2.8,
@@ -30125,6 +30623,7 @@
  },
  "Stone Smartt": {
   "name": "Stone Smartt",
+  "age": 25,
   "overallGrade": {
    "value": 45.25,
    "grade": {
@@ -30179,6 +30678,7 @@
  },
  "Jeremy Ruckert": {
   "name": "Jeremy Ruckert",
+  "age": 23,
   "overallGrade": {
    "value": 39.25,
    "grade": {
@@ -30233,6 +30733,7 @@
  },
  "Luke Farrell": {
   "name": "Luke Farrell",
+  "age": 26,
   "overallGrade": {
    "value": 48.5,
    "grade": {
@@ -30287,6 +30788,7 @@
  },
  "Jordan Akins": {
   "name": "Jordan Akins",
+  "age": 31,
   "overallGrade": {
    "value": 53.25,
    "grade": {
@@ -30341,6 +30843,7 @@
  },
  "Brock Wright": {
   "name": "Brock Wright",
+  "age": 25,
   "overallGrade": {
    "value": 54.25,
    "grade": {
@@ -30395,6 +30898,7 @@
  },
  "Luke Schoonmaker": {
   "name": "Luke Schoonmaker",
+  "age": 25,
   "overallGrade": {
    "value": 57.75,
    "grade": {
@@ -30449,6 +30953,7 @@
  },
  "MyCole Pruitt": {
   "name": "MyCole Pruitt",
+  "age": 31,
   "overallGrade": {
    "value": 36.25,
    "grade": {
@@ -30503,6 +31008,7 @@
  },
  "Davis Allen": {
   "name": "Davis Allen",
+  "age": 23,
   "overallGrade": {
    "value": 49.75,
    "grade": {
@@ -30557,6 +31063,7 @@
  },
  "Stephen Sullivan": {
   "name": "Stephen Sullivan",
+  "age": 27,
   "overallGrade": {
    "value": 35.5,
    "grade": {
@@ -30611,6 +31118,7 @@
  },
  "Josh Whyle": {
   "name": "Josh Whyle",
+  "age": 24,
   "overallGrade": {
    "value": 35.25,
    "grade": {
@@ -30665,6 +31173,7 @@
  },
  "Lucas Krull": {
   "name": "Lucas Krull",
+  "age": 25,
   "overallGrade": {
    "value": 41.5,
    "grade": {
@@ -30719,6 +31228,7 @@
  },
  "Cole Turner": {
   "name": "Cole Turner",
+  "age": 23,
   "overallGrade": {
    "value": 36.75,
    "grade": {
@@ -30773,6 +31283,7 @@
  },
  "Robert Tonyan": {
   "name": "Robert Tonyan",
+  "age": 29,
   "overallGrade": {
    "value": 43,
    "grade": {
@@ -30827,6 +31338,7 @@
  },
  "Charlie Kolar": {
   "name": "Charlie Kolar",
+  "age": 25,
   "overallGrade": {
    "value": 50.25,
    "grade": {
@@ -30881,6 +31393,7 @@
  },
  "C.J. Uzomah": {
   "name": "C.J. Uzomah",
+  "age": 31,
   "overallGrade": {
    "value": 31.5,
    "grade": {
@@ -30935,6 +31448,7 @@
  },
  "Geoff Swaim": {
   "name": "Geoff Swaim",
+  "age": 30,
   "overallGrade": {
    "value": 34.5,
    "grade": {
@@ -30989,6 +31503,7 @@
  },
  "Mitchell Wilcox": {
   "name": "Mitchell Wilcox",
+  "age": 27,
   "overallGrade": {
    "value": 40,
    "grade": {
@@ -31043,6 +31558,7 @@
  },
  "Josiah Deguara": {
   "name": "Josiah Deguara",
+  "age": 26,
   "overallGrade": {
    "value": 41.25,
    "grade": {
@@ -31097,6 +31613,7 @@
  },
  "Brenton Strange": {
   "name": "Brenton Strange",
+  "age": 23,
   "overallGrade": {
    "value": 40,
    "grade": {
@@ -31151,6 +31668,7 @@
  },
  "Darnell Washington": {
   "name": "Darnell Washington",
+  "age": 22,
   "overallGrade": {
    "value": 30,
    "grade": {
@@ -31205,6 +31723,7 @@
  },
  "Marcedes Lewis": {
   "name": "Marcedes Lewis",
+  "age": 39,
   "overallGrade": {
    "value": 34,
    "grade": {
@@ -31259,6 +31778,7 @@
  },
  "Brycen Hopkins": {
   "name": "Brycen Hopkins",
+  "age": 26,
   "overallGrade": {
    "value": 42.5,
    "grade": {
@@ -31313,6 +31833,7 @@
  },
  "Ben Sims": {
   "name": "Ben Sims",
+  "age": 23,
   "overallGrade": {
    "value": 38.25,
    "grade": {
@@ -31367,6 +31888,7 @@
  },
  "Blake Bell": {
   "name": "Blake Bell",
+  "age": 32,
   "overallGrade": {
    "value": 37.5,
    "grade": {
@@ -31421,6 +31943,7 @@
  },
  "Payne Durham": {
   "name": "Payne Durham",
+  "age": 23,
   "overallGrade": {
    "value": 32,
    "grade": {
@@ -31475,6 +31998,7 @@
  },
  "Ian Thomas": {
   "name": "Ian Thomas",
+  "age": 27,
   "overallGrade": {
    "value": 23.5,
    "grade": {
@@ -31529,6 +32053,7 @@
  },
  "Quintin Morris": {
   "name": "Quintin Morris",
+  "age": 25,
   "overallGrade": {
    "value": 40,
    "grade": {
@@ -31583,6 +32108,7 @@
  },
  "Jack Stoll": {
   "name": "Jack Stoll",
+  "age": 26,
   "overallGrade": {
    "value": 41.75,
    "grade": {
@@ -31637,6 +32163,7 @@
  },
  "Julian Hill": {
   "name": "Julian Hill",
+  "age": 23,
   "overallGrade": {
    "value": 46,
    "grade": {
@@ -31691,6 +32218,7 @@
  },
  "Grant Calcaterra": {
   "name": "Grant Calcaterra",
+  "age": 25,
   "overallGrade": {
    "value": 38.75,
    "grade": {
@@ -31745,6 +32273,7 @@
  },
  "Peyton Hendershot": {
   "name": "Peyton Hendershot",
+  "age": 24,
   "overallGrade": {
    "value": 44.75,
    "grade": {
@@ -31799,6 +32328,7 @@
  },
  "Ko Kieft": {
   "name": "Ko Kieft",
+  "age": 26,
   "overallGrade": {
    "value": 29,
    "grade": {
@@ -31853,6 +32383,7 @@
  },
  "Nate Adkins": {
   "name": "Nate Adkins",
+  "age": 24,
   "overallGrade": {
    "value": 29,
    "grade": {
@@ -31907,6 +32438,7 @@
  },
  "Charlie Woerner": {
   "name": "Charlie Woerner",
+  "age": 26,
   "overallGrade": {
    "value": 40,
    "grade": {
@@ -31961,6 +32493,7 @@
  },
  "Greg Dulcich": {
   "name": "Greg Dulcich",
+  "age": 23,
   "overallGrade": {
    "value": 27.75,
    "grade": {
@@ -32015,6 +32548,7 @@
  },
  "Teagan Quitoriano": {
   "name": "Teagan Quitoriano",
+  "age": 23,
   "overallGrade": {
    "value": 31,
    "grade": {
@@ -32069,6 +32603,7 @@
  },
  "James Mitchell": {
   "name": "James Mitchell",
+  "age": 23,
   "overallGrade": {
    "value": 35.75,
    "grade": {
@@ -32123,6 +32658,7 @@
  },
  "Kenny Yeboah": {
   "name": "Kenny Yeboah",
+  "age": 25,
   "overallGrade": {
    "value": 18.75,
    "grade": {
@@ -32177,6 +32713,7 @@
  },
  "Eric Saubert": {
   "name": "Eric Saubert",
+  "age": 29,
   "overallGrade": {
    "value": 29.75,
    "grade": {
@@ -32231,6 +32768,7 @@
  },
  "Chris Manhertz": {
   "name": "Chris Manhertz",
+  "age": 31,
   "overallGrade": {
    "value": 25.75,
    "grade": {
@@ -32285,6 +32823,7 @@
  },
  "Nick Muse": {
   "name": "Nick Muse",
+  "age": 25,
   "overallGrade": {
    "value": 20.25,
    "grade": {
@@ -32339,6 +32878,7 @@
  },
  "Trevon Wesco": {
   "name": "Trevon Wesco",
+  "age": 28,
   "overallGrade": {
    "value": 17.25,
    "grade": {
@@ -32393,6 +32933,7 @@
  },
  "John FitzPatrick": {
   "name": "John FitzPatrick",
+  "age": 23,
   "overallGrade": {
    "value": 16.25,
    "grade": {
@@ -32447,6 +32988,7 @@
  },
  "Ross Dwelley": {
   "name": "Ross Dwelley",
+  "age": 29,
   "overallGrade": {
    "value": 35.25,
    "grade": {
@@ -32501,6 +33043,7 @@
  },
  "Tucker Fisk": {
   "name": "Tucker Fisk",
+  "age": 25,
   "overallGrade": {
    "value": 15.5,
    "grade": {
@@ -32555,6 +33098,7 @@
  },
  "Cole Fotheringham": {
   "name": "Cole Fotheringham",
+  "age": 26,
   "overallGrade": {
    "value": 17.25,
    "grade": {
@@ -32609,6 +33153,7 @@
  },
  "Kevin Rader": {
   "name": "Kevin Rader",
+  "age": 28,
   "overallGrade": {
    "value": 15.5,
    "grade": {
@@ -32663,6 +33208,7 @@
  },
  "Jesper Horsted": {
   "name": "Jesper Horsted",
+  "age": 26,
   "overallGrade": {
    "value": 16.75,
    "grade": {
@@ -32707,6 +33253,7 @@
  },
  "Nick Vannett": {
   "name": "Nick Vannett",
+  "age": 30,
   "overallGrade": {
    "value": 18,
    "grade": {
@@ -32751,6 +33298,7 @@
  },
  "Giovanni Ricci": {
   "name": "Giovanni Ricci",
+  "age": 27,
   "overallGrade": {
    "value": 9,
    "grade": {
@@ -32795,6 +33343,7 @@
  },
  "David Wells": {
   "name": "David Wells",
+  "age": 28,
   "overallGrade": {
    "value": 19.5,
    "grade": {
@@ -32849,6 +33398,7 @@
  },
  "Leroy Watson": {
   "name": "Leroy Watson",
+  "age": 25,
   "overallGrade": {
    "value": 25,
    "grade": {
@@ -32893,6 +33443,7 @@
  },
  "Noah Togiai": {
   "name": "Noah Togiai",
+  "age": 26,
   "overallGrade": {
    "value": 28,
    "grade": {
@@ -32937,6 +33488,7 @@
  },
  "Tyree Jackson": {
   "name": "Tyree Jackson",
+  "age": 26,
   "overallGrade": {
    "value": 10,
    "grade": {
@@ -32981,6 +33533,7 @@
  },
  "Hunter Long": {
   "name": "Hunter Long",
+  "age": 25,
   "overallGrade": {
    "value": 27.25,
    "grade": {
@@ -33025,6 +33578,7 @@
  },
  "Hunter Kampmoyer": {
   "name": "Hunter Kampmoyer",
+  "age": "N/A",
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -33069,6 +33623,7 @@
  },
  "Blake Whiteheart": {
   "name": "Blake Whiteheart",
+  "age": 23,
   "overallGrade": {
    "value": 14.75,
    "grade": {
@@ -33113,6 +33668,7 @@
  },
  "Zach Gentry": {
   "name": "Zach Gentry",
+  "age": 27,
   "overallGrade": {
    "value": 15.5,
    "grade": {
@@ -33157,6 +33713,7 @@
  },
  "Travis Vokolek": {
   "name": "Travis Vokolek",
+  "age": 25,
   "overallGrade": {
    "value": 14.75,
    "grade": {
@@ -33201,6 +33758,7 @@
  },
  "Josh Pederson": {
   "name": "Josh Pederson",
+  "age": 26,
   "overallGrade": {
    "value": 22.5,
    "grade": {
@@ -33245,6 +33803,7 @@
  },
  "Anthony Firkser": {
   "name": "Anthony Firkser",
+  "age": 28,
   "overallGrade": {
    "value": 29.5,
    "grade": {
@@ -33289,6 +33848,7 @@
  },
  "Stephen Anderson": {
   "name": "Stephen Anderson",
+  "age": "N/A",
   "overallGrade": {
    "value": 17,
    "grade": {
@@ -33333,6 +33893,7 @@
  },
  "Parker Hesse": {
   "name": "Parker Hesse",
+  "age": "N/A",
   "overallGrade": {
    "value": 13.25,
    "grade": {
@@ -33387,7 +33948,6 @@
   "position": "TE",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -33409,6 +33969,7 @@
  },
  "Brayden Willis": {
   "name": "Brayden Willis",
+  "age": 24,
   "overallGrade": {
    "value": 31.25,
    "grade": {
@@ -33453,6 +34014,7 @@
  },
  "Dalton Keene": {
   "name": "Dalton Keene",
+  "age": 24,
   "overallGrade": {
    "value": 23.25,
    "grade": {
@@ -33497,6 +34059,7 @@
  },
  "Tre' McKitty": {
   "name": "Tre' McKitty",
+  "age": 25,
   "overallGrade": {
    "value": 28.75,
    "grade": {
@@ -33541,6 +34104,7 @@
  },
  "Brady Russell": {
   "name": "Brady Russell",
+  "age": 25,
   "overallGrade": {
    "value": 20.25,
    "grade": {
@@ -33585,6 +34149,7 @@
  },
  "James Winchester": {
   "name": "James Winchester",
+  "age": 34,
   "overallGrade": {
    "value": 21.75,
    "grade": {
@@ -33629,6 +34194,7 @@
  },
  "Sean McKeon": {
   "name": "Sean McKeon",
+  "age": 26,
   "overallGrade": {
    "value": 33.75,
    "grade": {
@@ -33683,6 +34249,7 @@
  },
  "Matt Bushman": {
   "name": "Matt Bushman",
+  "age": 28,
   "overallGrade": {
    "value": 21.75,
    "grade": {
@@ -33737,7 +34304,6 @@
   "position": "TE",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -33759,6 +34325,7 @@
  },
  "Albert Okwuegbunam": {
   "name": "Albert Okwuegbunam",
+  "age": 25,
   "overallGrade": {
    "value": 28,
    "grade": {
@@ -33803,6 +34370,7 @@
  },
  "Rodney Williams": {
   "name": "Rodney Williams",
+  "age": 25,
   "overallGrade": {
    "value": 13.5,
    "grade": {
@@ -33867,7 +34435,6 @@
   "position": "TE",
   "teamShortName": "FA",
   "team": "N/A",
-  "headShot": "Can't find player",
   "production": {
    "totalPoints": 0,
    "pointsPerGame": 0,
@@ -33889,6 +34456,7 @@
  },
  "Tanner Conner": {
   "name": "Tanner Conner",
+  "age": 25,
   "overallGrade": {
    "value": 32,
    "grade": {
@@ -33933,6 +34501,7 @@
  },
  "Matt Sokol": {
   "name": "Matt Sokol",
+  "age": "N/A",
   "overallGrade": {
    "value": 9.25,
    "grade": {
@@ -33977,6 +34546,7 @@
  },
  "Tyler Kroft": {
   "name": "Tyler Kroft",
+  "age": 31,
   "overallGrade": {
    "value": 32,
    "grade": {
@@ -34021,6 +34591,7 @@
  },
  "Zack Kuntz": {
   "name": "Zack Kuntz",
+  "age": 24,
   "overallGrade": {
    "value": 10.75,
    "grade": {
@@ -34065,6 +34636,7 @@
  },
  "Chris Pierce": {
   "name": "Chris Pierce",
+  "age": 25,
   "overallGrade": {
    "value": 8.5,
    "grade": {

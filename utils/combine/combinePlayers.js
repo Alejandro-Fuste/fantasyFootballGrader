@@ -10,12 +10,14 @@ import photoData from "../../data/sportsData/rostersWithPhotos.json" assert { ty
 
 function filterPlayer(player) {
   let photoUrl;
+  let age;
   if (photoData[productionData[player].team]) {
     let data = photoData[productionData[player].team].filter(
       (p) => p.Name === player
     );
     photoUrl = !data[0]?.PhotoUrl ? "Missing photo url" : data[0].PhotoUrl;
-    return photoUrl;
+    age = !data[0]?.Age ? "N/A" : data[0].Age;
+    return { photoUrl, age };
   } else {
     return "Can't find player";
   }
@@ -29,13 +31,14 @@ let allData = (offense, opportunity, production) => {
   list.forEach((player) => {
     data = {
       name: player,
+      age: filterPlayer(player).age,
       overallGrade: overallGrade[player] ? overallGrade[player] : "N/A",
       position: production[player].position,
       teamShortName: production[player].team ? production[player].team : "N/A",
       team: offense[production[player].team]
         ? offense[production[player].team].name
         : "N/A",
-      headShot: filterPlayer(player),
+      headShot: filterPlayer(player).photoUrl,
       production: production[player].production || "N/A",
       opportunity: opportunity[player]
         ? opportunity[player].opportunity
