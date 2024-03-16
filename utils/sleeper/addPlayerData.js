@@ -41,11 +41,11 @@ function addPlayerDataToOwnerData(league) {
   return owners;
 }
 
-let data = addPlayerDataToOwnerData(holRosters);
-writeToFile("../../data/sleeper/completeData/holCompleteData.json", data);
+// let data = addPlayerDataToOwnerData(holRosters);
+// writeToFile("../../data/sleeper/completeData/holCompleteData.json", data);
 
 // let data = addPlayerDataToOwnerData(glaRosters);
 // writeToFile("../../data/sleeper/completeData/glaCompleteData.json", data);
 
-// let data = addPlayerDataToOwnerData(ddbRosters);
-// writeToFile("../../data/sleeper/completeData/ddbCompletedata.json", data);
+let data = addPlayerDataToOwnerData(ddbRosters);
+writeToFile("../../data/sleeper/completeData/ddbCompletedata.json", data);
