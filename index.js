@@ -7,44 +7,50 @@ import teams from "./data/offense/offenseData.json" assert { type: "json" };
 
 /* ****** Get player images from sports data api ****** */
 
-const api_key = process.env.SPORTS_DATA_KEY;
-const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/Players/";
+// const api_key = process.env.SPORTS_DATA_KEY;
+// const BASE_URL = "https://api.sportsdata.io/v3/nfl/scores/json/Players/";
 
-const teamsArray = Object.keys(teams);
+// const teamsArray = Object.keys(teams);
 
-const getRostersWithImages = (team) => {
-  let url;
-  let result;
+// const getRostersWithImages = (team) => {
+//   let url;
+//   let result;
 
-  if (team === "JAC") {
-    url = `${BASE_URL}JAX?key=${api_key}`;
-  } else {
-    url = `${BASE_URL}${team}?key=${api_key}`;
-  }
-  result = sportsDataAPI.getTeamRosterWithImages(url);
+//   if (team === "JAC") {
+//     url = `${BASE_URL}JAX?key=${api_key}`;
+//   } else {
+//     url = `${BASE_URL}${team}?key=${api_key}`;
+//   }
+//   result = sportsDataAPI.getTeamRosterWithImages(url);
 
-  return result;
-};
+//   return result;
+// };
 
-const getImages = async () => {
-  let object = new Map();
+// const getImages = async () => {
+//   let object = new Map();
 
-  teamsArray.forEach(async (team) => {
-    let data = await getRostersWithImages(team);
-    // let results = await data.json();
-    object.set(team, data);
+//   teamsArray.forEach(async (team) => {
+//     let data = await getRostersWithImages(team);
+//     // let results = await data.json();
+//     object.set(team, data);
 
-    // let info = { [team]: data };
-    // appendToFile("./data/sportsData/rostersWithPhotos2.json", info);
-  });
+//     // let info = { [team]: data };
+//     // appendToFile("./data/sportsData/rostersWithPhotos2.json", info);
+//   });
 
-  setTimeout(() => {
-    let obj = Object.fromEntries(object);
-    writeToFile("./data/sportsData/rostersWithPhotos2.json", obj);
-  }, 3000);
-};
+//   setTimeout(() => {
+//     let obj = Object.fromEntries(object);
+//     writeToFile("./data/sportsData/rostersWithPhotos2.json", obj);
+//   }, 3000);
+// };
 
-getImages();
+// getImages();
+
+/* ****** Get user leagues ****** */
+
+sleeperAPI.getLeagues(process.env.USER_ID).then((data) => {
+  writeToFile("./data/sleeper/leagues/leagues.json", data);
+});
 
 /* ****** Get owners from all leagues ****** */
 
