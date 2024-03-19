@@ -12,9 +12,9 @@
 6. [Add Player Data](#6-add-player-data)
 7. [Database](#7-database)
 
-### 1. API Data
+### 1. Get data from the APIs
 
-<p>Go to the index.js file and get the data from Sleeper and Sports Data APIs. </p>
+<p>Go to the index.js file and get the data from Sleeper and Sports Data APIs. Make sure urls are correct for each api call.</p>
 
 ### 2. Cypress
 
