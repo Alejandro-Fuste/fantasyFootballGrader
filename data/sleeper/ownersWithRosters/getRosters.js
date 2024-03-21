@@ -1,18 +1,18 @@
 // combine owners data with roster data
 
-import writeToFile from "../writeToFile.js";
+import writeToFile from "../../../utils/writeToFile.js";
 // owners
-import holOwners from "../../data/sleeper/transformedOwners/houseOfLambdaObject.json" assert { type: "json" };
-import glaOwners from "../../data/sleeper/transformedOwners/glaDynastyObject.json" assert { type: "json" };
-import ddBOwners from "../../data/sleeper/transformedOwners/dirtyDroAndBoysObject.json" assert { type: "json" };
+import holOwners from "../transformedOwners/houseOfLambdaObject.json" assert { type: "json" };
+import glaOwners from "../transformedOwners/glaDynastyObject.json" assert { type: "json" };
+import ddBOwners from "../transformedOwners/dirtyDroAndBoysObject.json" assert { type: "json" };
 
 // sleeper rosters
-import holRosters from "../../data/sleeper/rosters/houseOfLambdaRosters.json" assert { type: "json" };
-import glaRosters from "../../data/sleeper/rosters/glaDynastyRosters.json" assert { type: "json" };
-import ddBRosters from "../../data/sleeper/rosters/dirtyDroAndBoysRosters.json" assert { type: "json" };
+import holRosters from "../rosters/houseOfLambdaRosters.json" assert { type: "json" };
+import glaRosters from "../rosters/glaDynastyRosters.json" assert { type: "json" };
+import ddBRosters from "../rosters/dirtyDroAndBoysRosters.json" assert { type: "json" };
 
 // players
-import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert { type: "json" };
+import sleeperPlayers from "../players/allPlayers.json" assert { type: "json" };
 
 let dataArray = [];
 

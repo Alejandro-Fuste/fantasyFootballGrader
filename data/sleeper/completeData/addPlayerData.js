@@ -1,12 +1,12 @@
-import writeToFile from "../writeToFile.js";
+import writeToFile from "../../../utils/writeToFile.js";
 
 // sleeper rosters
-import holRosters from "../../data/sleeper/ownersWithRosters/holOwnersAndRosters.json" assert { type: "json" };
-import glaRosters from "../../data/sleeper/ownersWithRosters/glaOwnersAndRosters.json" assert { type: "json" };
-import ddbRosters from "../../data/sleeper/ownersWithRosters/ddbOwnersAndRosters.json" assert { type: "json" };
+import holRosters from "../ownersWithRosters/holOwnersAndRosters.json" assert { type: "json" };
+import glaRosters from "../ownersWithRosters/glaOwnersAndRosters.json" assert { type: "json" };
+import ddbRosters from "../ownersWithRosters/ddbOwnersAndRosters.json" assert { type: "json" };
 
 // players
-import sleeperPlayers from "../../data/sleeper/players/allPlayers.json" assert { type: "json" };
+import sleeperPlayers from "../players/allPlayers.json" assert { type: "json" };
 
 // combined data
 import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };

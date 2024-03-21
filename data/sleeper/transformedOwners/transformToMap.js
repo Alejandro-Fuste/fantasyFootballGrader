@@ -1,7 +1,7 @@
-import writeToFile from "../writeToFile.js";
-import holOwners from "../../data/sleeper/owners/houseOfLambda.json" assert { type: "json" };
-import glaOwners from "../../data/sleeper/owners/glaDynasty.json" assert { type: "json" };
-import ddBOwners from "../../data/sleeper/owners/dirtyDroAndBoys.json" assert { type: "json" };
+import writeToFile from "../../../utils/writeToFile.js";
+import holOwners from "../owners/houseOfLambda.json" assert { type: "json" };
+import glaOwners from "../owners/glaDynasty.json" assert { type: "json" };
+import ddBOwners from "../owners/dirtyDroAndBoys.json" assert { type: "json" };
 
 let dataArray = [];
 

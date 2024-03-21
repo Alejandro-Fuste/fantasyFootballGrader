@@ -1,12 +1,12 @@
 // Combine players from each position group into one file
 
 // import files
-import writeToFile from "../writeToFile.js";
-import offenseData from "../../data/offense/offenseData.json" assert { type: "json" };
-import opportunityData from "../../data/opportunity/opportunityData.json" assert { type: "json" };
-import productionData from "../../data/production/productionData.json" assert { type: "json" };
-import overallGrade from "../../data/grade/overallGrade.json" assert { type: "json" };
-import photoData from "../../data/sportsData/rostersWithPhotos.json" assert { type: "json" };
+import writeToFile from "../../utils/writeToFile.js";
+import offenseData from "../offense/offenseData.json" assert { type: "json" };
+import opportunityData from "../opportunity/opportunityData.json" assert { type: "json" };
+import productionData from "../production/productionData.json" assert { type: "json" };
+import overallGrade from "../grade/overallGrade.json" assert { type: "json" };
+import photoData from "../sportsData/rostersWithPhotos.json" assert { type: "json" };
 
 function filterPlayer(player) {
   let photoUrl;
