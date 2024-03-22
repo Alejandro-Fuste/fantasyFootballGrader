@@ -5,12 +5,13 @@
 ## Table of Contents
 
 1. [API Data](#1-api-data)
-2. [Cypress](#2-cypress)
-3. [Combine Players](#3-combine-players)
-4. [Transform to Map](#4-transform-to-map)
-5. [Get Rosters](#5-get-rosters)
-6. [Add Player Data](#6-add-player-data)
-7. [Database](#7-database)
+2. [Home Screen Data](#2-home-screen-data)
+3. [Cypress](#3-cypress)
+4. [Combine Players](#4-combine-players)
+5. [Transform to Map](#5-transform-to-map)
+6. [Get Rosters](#6-get-rosters)
+7. [Add Player Data](#7-add-player-data)
+8. [Database](#8-database)
 
 ### 1. API Data
 
