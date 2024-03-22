@@ -1763,11 +1763,11 @@
    "description": "Elite"
   }
  },
- "Amon-Ra St.": {
-  "value": 95,
+ "Amon-Ra St. Brown": {
+  "value": 70.5,
   "grade": {
-   "letter": "A",
-   "description": "Great"
+   "letter": "C",
+   "description": "Average"
   }
  },
  "Puka Nacua": {
@@ -2946,8 +2946,8 @@
    "description": "Not Good Enough"
   }
  },
- "Equanimeous St.": {
-  "value": 28.5,
+ "Equanimeous St. Brown": {
+  "value": 25.75,
   "grade": {
    "letter": "F",
    "description": "Not Good Enough"
