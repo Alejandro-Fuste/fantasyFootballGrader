@@ -56,4 +56,4 @@ let allData = (offense, opportunity, production) => {
 };
 
 let data = allData(offenseData, opportunityData, productionData);
-writeToFile("../../data/combinedData/combinedData.json", data);
+writeToFile("./combinedPlayerData.json", data);

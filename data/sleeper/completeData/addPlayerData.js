@@ -5,11 +5,8 @@ import holRosters from "../ownersWithRosters/holOwnersAndRosters.json" assert { 
 import glaRosters from "../ownersWithRosters/glaOwnersAndRosters.json" assert { type: "json" };
 import ddbRosters from "../ownersWithRosters/ddbOwnersAndRosters.json" assert { type: "json" };
 
-// players
-import sleeperPlayers from "../players/allPlayers.json" assert { type: "json" };
-
 // combined data
-import combinedData from "../../data/combinedData/combinedData.json" assert { type: "json" };
+import combinedData from "../../combinedData/combinedPlayerData.json" assert { type: "json" };
 
 function getPlayerData(rosterArray) {
   let array = [];
@@ -41,11 +38,11 @@ function addPlayerDataToOwnerData(league) {
   return owners;
 }
 
-// let data = addPlayerDataToOwnerData(holRosters);
-// writeToFile("../../data/sleeper/completeData/holCompleteData.json", data);
+let data1 = addPlayerDataToOwnerData(holRosters);
+writeToFile("./holCompleteData.json", data1);
 
-// let data = addPlayerDataToOwnerData(glaRosters);
-// writeToFile("../../data/sleeper/completeData/glaCompleteData.json", data);
+let data2 = addPlayerDataToOwnerData(glaRosters);
+writeToFile("./glaCompleteData.json", data2);
 
-let data = addPlayerDataToOwnerData(ddbRosters);
-writeToFile("../../data/sleeper/completeData/ddbCompletedata.json", data);
+let data3 = addPlayerDataToOwnerData(ddbRosters);
+writeToFile("./ddbCompletedata.json", data3);
