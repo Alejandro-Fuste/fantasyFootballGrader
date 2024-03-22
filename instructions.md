@@ -18,7 +18,7 @@
 
 ### 2. Home Screen Data
 
-<p>Run the homeScreenData.js file located data -> homeScreen folder. </p>
+<p>Run the homeScreenData.js file located data -> homeScreen folder. This will put the data gather from the index.js file into a json file.</p>
 
 ### 3. Cypress
 
@@ -38,8 +38,8 @@
 
 ### 7. Add Player Data
 
-<p>Run the addPlayerData.js file from the data -> sleeper -> completeData folder.</p>
+<p>Run the addPlayerData.js file from the data -> sleeper -> completeData folder. This is the data that has the rosters for league owners. Rosters will have the players and their data.</p>
 
 ### 8. Database
 
-<p>Inside the database folder, run the database.js file</p>
+<p>Inside the database folder, run the database.js file. This is the data that will be needed for the home screen, league screen, team screen, player modal, and players screen.</p>

@@ -27,11 +27,12 @@ function compileLeaguesData(array) {
 
   array.forEach((league) => {
     let object = {};
+    let draftOrderCopy = [...draftOrder[league.name]];
 
     object.leagueInfo = league;
     object.details = compileLeagueDetails(league);
     object.draftOrder = draftOrder[league.name];
-    object.rosters = [];
+    object.ranks = draftOrderCopy.reverse();
 
     data.push(object);
   });
