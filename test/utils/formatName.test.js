@@ -1,5 +1,6 @@
 // formatName.test.js
-const formatName = require("../../utils/formatName");
+// const formatName = require("../../utils/formatName");
+import formatName from "../../utils/formatName";
 
 describe("formatName file positive tests", () => {
   test("removes suffix from a name", () => {
