@@ -1,4 +1,4 @@
-const percentile = require("../../utils/calculations/percentile");
+import percentile from "../../utils/calculations/percentile";
 
 const testInputs = {
   qbTotal: 87,

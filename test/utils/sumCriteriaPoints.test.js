@@ -1,4 +1,4 @@
-const sumCriteriaPoints = require("../../utils/calculations/sumCriteriaPoints");
+import sumCriteriaPoints from "../../utils/calculations/sumCriteriaPoints";
 
 describe("sumCriteriaPoints file tests", () => {
   test("function returns sum of 550", () => {

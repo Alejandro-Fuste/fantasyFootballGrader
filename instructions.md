@@ -44,3 +44,14 @@
 ### 8. Database
 
 <p>Inside the database folder, run the database.js file. This is the data that will be needed for the home screen, league screen, team screen, player modal, and players screen.</p>
+
+## Unit Tests with Jest
+
+<p>Run units tests with jest as ECMAScript Modules, files are imported with "import" and exported with "export defaut", instead of common js files for that uses the "require" keyword.</p>
+
+```
+"type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+  }
+```

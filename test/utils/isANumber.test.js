@@ -1,4 +1,4 @@
-const isANumber = require("../../utils/calculations/isANumber");
+import isANumber from "../../utils/calculations/isANumber";
 
 describe("isANumber file negative and positive tests", () => {
   test("function returns false non number input", () => {

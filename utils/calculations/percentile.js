@@ -1,4 +1,4 @@
-const isANumber = require("./isANumber");
+import isANumber from "./isANumber";
 
 function percentile(total, rank) {
   let percentile;

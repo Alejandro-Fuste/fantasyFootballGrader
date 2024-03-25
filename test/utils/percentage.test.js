@@ -1,4 +1,4 @@
-const percentage = require("../../utils/calculations/percentage");
+import percentage from "../../utils/calculations/percentage";
 
 describe("percentage file tests", () => {
   // ***** negative tests *****

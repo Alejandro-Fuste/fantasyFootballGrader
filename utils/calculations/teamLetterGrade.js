@@ -21,4 +21,4 @@ function teamLetterGrade(rank) {
   }
 }
 
-module.exports = teamLetterGrade;
+export default teamLetterGrade;

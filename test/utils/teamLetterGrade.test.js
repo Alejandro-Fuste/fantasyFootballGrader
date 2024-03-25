@@ -1,4 +1,4 @@
-const letterGrade = require("../../utils/calculations/teamLetterGrade");
+import letterGrade from "../../utils/calculations/teamLetterGrade";
 
 const testInputs = {
   ranks: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 20, 21, 23, 26, 27, 32],
