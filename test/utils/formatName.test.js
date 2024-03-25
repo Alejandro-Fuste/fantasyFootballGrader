@@ -1,5 +1,3 @@
-// formatName.test.js
-// const formatName = require("../../utils/formatName");
 import formatName from "../../utils/formatName";
 
 describe("formatName file positive tests", () => {

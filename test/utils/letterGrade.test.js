@@ -1,4 +1,3 @@
-// const letterGrade = require("../../utils/calculations/letterGrade");
 import letterGrade from "../../utils/calculations/letterGrade";
 
 const testInputs = {
