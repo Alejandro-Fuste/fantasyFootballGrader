@@ -11,7 +11,7 @@ function formatName(name) {
   }
 
   // Return the modified name
-  // return parts.join(" ");
+  return parts.join(" ");
 }
 
 export default formatName;
